@@ -1,0 +1,125 @@
+{
+  "fetch_products": {
+    "selectors": [
+      {
+        "type": "delete_classname",
+        "value": "owl-item",
+        "delete_value": "global-nav, sticky-carousel, hide, cloned"
+      },
+      {
+        "type": "classname",
+        "value": "bv-recommended-product"
+      },
+      { "type": "classname", "value": "product-tile" }
+    ]
+  },
+  "fetch_product": [
+    {
+      "field": "product_id",
+      "field_name": "Product ID",
+      "selectors": [
+        { "type": "attribute", "value": "data-productid" },
+        {
+          "type": "classname_attribute_objectvalue",
+          "value": "product-tile",
+          "selector_attribute": "data-tcproduct",
+          "object_key": "product_pid"
+        },
+        {
+          "type": "attribute_objectvalue",
+          "value": "data-tcproduct",
+          "object_key": "product_pid"
+        }
+      ]
+    },
+    {
+      "field": "country",
+      "field_name": "Country",
+      "selectors": [{ "type": "config_value", "value": "country" }]
+    },
+    {
+      "field": "retailer",
+      "field_name": "Retailer",
+      "selectors": [{ "type": "config_value", "value": "retailer" }]
+    },
+    {
+      "field": "department",
+      "field_name": "Department",
+      "selectors": [{ "type": "config_value", "value": "department" }]
+    },
+    {
+      "field": "category",
+      "field_name": "Category",
+      "selectors": [{ "type": "config_value", "value": "category" }]
+    },
+    {
+      "field": "page",
+      "field_name": "Page",
+      "selectors": [{ "type": "config_value", "value": "page" }]
+    },
+    {
+      "field": "page_url",
+      "field_name": "Page URL",
+      "selectors": [{ "type": "config_value", "value": "page_url" }]
+    },
+    {
+      "field": "brand",
+      "field_name": "Brand",
+      "selectors": [{ "type": "classname", "value": "product-brand" }]
+    },
+    {
+      "field": "product_name",
+      "field_name": "Product Name",
+      "selectors": [
+        { "type": "classname", "value": "title-line-bold" },
+        { "type": "classname", "value": "bv-recommended-product-name" }
+      ]
+    },
+    {
+      "field": "sku",
+      "field_name": "SKU",
+      "selectors": []
+    },
+    {
+      "field": "position",
+      "field_name": "Position",
+      "selectors": []
+    },
+    {
+      "field": "product_page_url",
+      "field_name": "Product Page URL",
+      "selectors": [
+        {
+          "type": "classname_attribute",
+          "value": "product-tile-link",
+          "selector_attribute": "href"
+        },
+        {
+          "type": "classname_attribute",
+          "value": "bv-product-title-link",
+          "selector_attribute": "href"
+        }
+      ]
+    },
+    {
+      "field": "listing_label",
+      "field_name": "Label",
+      "selectors": [{ "type": "classname", "value": "producttile-flag" }]
+    },
+    {
+      "field": "reviews",
+      "field_name": "Reviews",
+      "selectors": [{ "type": "classname", "value": "bv-reviewCount" }]
+    },
+    {
+      "field": "ratings",
+      "field_name": "Ratings",
+      "selectors": [{ "type": "classname", "value": "bv-ratingValue" }]
+    },
+    {
+      "field": "date",
+      "field_name": "Date",
+      "selectors": []
+    }
+  ]
+}

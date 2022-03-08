@@ -1,0 +1,104 @@
+{
+  "fetch_products": {
+    "selectors": [{ "type": "classname", "value": "estore_product_container" }]
+  },
+  "fetch_product": [
+    {
+      "field": "product_id",
+      "field_name": "Product ID",
+      "selectors": [{ "type": "attribute", "value": "data-productid" }]
+    },
+    {
+      "field": "country",
+      "field_name": "Country",
+      "selectors": [{ "type": "config_value", "value": "country" }]
+    },
+    {
+      "field": "retailer",
+      "field_name": "Retailer",
+      "selectors": [{ "type": "config_value", "value": "retailer" }]
+    },
+    {
+      "field": "department",
+      "field_name": "Department",
+      "selectors": [{ "type": "config_value", "value": "department" }]
+    },
+    {
+      "field": "category",
+      "field_name": "Category",
+      "selectors": [{ "type": "config_value", "value": "category" }]
+    },
+    {
+      "field": "page",
+      "field_name": "Page",
+      "selectors": [{ "type": "config_value", "value": "page" }]
+    },
+    {
+      "field": "page_url",
+      "field_name": "Page URL",
+      "selectors": [{ "type": "config_value", "value": "page_url" }]
+    },
+    {
+      "field": "brand",
+      "field_name": "Brand",
+      "selectors": []
+    },
+    {
+      "field": "product_name",
+      "field_name": "Product Name",
+      "selectors": [{ "type": "classname", "value": "product_name" }]
+    },
+    {
+      "field": "sku",
+      "field_name": "SKU",
+      "selectors": []
+    },
+    {
+      "field": "position",
+      "field_name": "Position",
+      "selectors": []
+    },
+    {
+      "field": "product_page_url",
+      "field_name": "Product Page URL",
+      "selectors": [
+        {
+          "type": "classname_attribute",
+          "value": "product_img_link",
+          "selector_attribute": "href"
+        }
+      ]
+    },
+    {
+      "field": "listing_label",
+      "field_name": "Label",
+      "selectors": [
+        {
+          "type": "classname",
+          "value": "plp-promotion-redesign"
+        }
+      ]
+    },
+    {
+      "field": "reviews",
+      "field_name": "Reviews",
+      "selectors": [{ "type": "classname", "value": "product_review_count" }]
+    },
+    {
+      "field": "ratings",
+      "field_name": "Ratings",
+      "selectors": [
+        {
+          "type": "xpath_attribute",
+          "value": "//div/div[4]/div[2]/span",
+          "selector_attribute": "aria-label"
+        }
+      ]
+    },
+    {
+      "field": "date",
+      "field_name": "Date",
+      "selectors": []
+    }
+  ]
+}

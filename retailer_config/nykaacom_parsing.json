@@ -1,0 +1,108 @@
+{
+  "fetch_products": {
+    "selectors": [
+      { "type": "classname", "value": "css-d5z3ro" },
+      { "type": "classname", "value": "product-list-box" }
+    ]
+  },
+  "fetch_product": [
+    {
+      "field": "product_id",
+      "field_name": "Product ID",
+      "selectors": [{ "type": "attribute", "value": "id" }]
+    },
+    {
+      "field": "country",
+      "field_name": "Country",
+      "selectors": [{ "type": "config_value", "value": "country" }]
+    },
+    {
+      "field": "retailer",
+      "field_name": "Retailer",
+      "selectors": [{ "type": "config_value", "value": "retailer" }]
+    },
+    {
+      "field": "department",
+      "field_name": "Department",
+      "selectors": [{ "type": "config_value", "value": "department" }]
+    },
+    {
+      "field": "category",
+      "field_name": "Category",
+      "selectors": [{ "type": "config_value", "value": "category" }]
+    },
+    {
+      "field": "page",
+      "field_name": "Page",
+      "selectors": [{ "type": "config_value", "value": "page" }]
+    },
+    {
+      "field": "page_url",
+      "field_name": "Page URL",
+      "selectors": [{ "type": "config_value", "value": "page_url" }]
+    },
+    {
+      "field": "brand",
+      "field_name": "Brand",
+      "selectors": [{ "type": "classname", "value": "productBrand" }]
+    },
+    {
+      "field": "product_name",
+      "field_name": "Product Name",
+      "selectors": [
+        { "type": "classname", "value": "css-10zjw4o" },
+        { "type": "classname", "value": "m-content__product-list__title" }
+      ]
+    },
+    {
+      "field": "sku",
+      "field_name": "SKU",
+      "selectors": []
+    },
+    {
+      "field": "position",
+      "field_name": "Position",
+      "selectors": []
+    },
+    {
+      "field": "product_page_url",
+      "field_name": "Product Page URL",
+      "selectors": [
+        {
+          "type": "classname_attribute",
+          "value": "href",
+          "selector_attribute": "css-qlopj4"
+        },
+        {
+          "type": "tagname_attribute",
+          "value": "href",
+          "selector_attribute": "a"
+        }
+      ]
+    },
+    {
+      "field": "listing_label",
+      "field_name": "Label",
+      "selectors": [
+        { "type": "classname", "value": "css-rtqjpr" },
+        { "type": "classname", "value": "tags " },
+        { "type": "classname", "value": "tags" }
+      ]
+    },
+    {
+      "field": "reviews",
+      "field_name": "Reviews",
+      "selectors": []
+    },
+    {
+      "field": "ratings",
+      "field_name": "Ratings",
+      "selectors": []
+    },
+    {
+      "field": "date",
+      "field_name": "Date",
+      "selectors": []
+    }
+  ]
+}

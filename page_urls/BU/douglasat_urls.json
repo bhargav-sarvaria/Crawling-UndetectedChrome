@@ -1,0 +1,90 @@
+[
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "CHANEL",
+    "page_url": "https://www.douglas.at/de/b/chanel/b0007",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_CHANEL"
+  },
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "Mac",
+    "page_url": "https://www.douglas.at/de/b/mac/b0642",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Mac"
+  },
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "DIOR",
+    "page_url": "https://www.douglas.at/de/b/dior/b0690",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_DIOR"
+  },
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "Biotherm",
+    "page_url": "https://www.douglas.at/de/b/biotherm/b0053",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Biotherm"
+  },
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "Estee Lauder",
+    "page_url": "https://www.douglas.at/de/b/estee-lauder/b0115",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Estee|sp|Lauder"
+  },
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "Clarins",
+    "page_url": "https://www.douglas.at/de/b/clarins/b0140",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Clarins"
+  },
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "Chlo\u00e9",
+    "page_url": "https://www.douglas.at/de/b/chloe/b0519",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Chlo\u00e9"
+  },
+  {
+    "country": "Austria",
+    "retailer": "DOUGLAS_AT",
+    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
+    "gcloud_path": "crawl_data/Austria/BU/",
+    "department": "BRANDS",
+    "category": "TOP MARKETS",
+    "page": "Tiffany",
+    "page_url": "https://www.douglas.at/de/b/tiffany-co/b5436",
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Tiffany"
+  }
+]

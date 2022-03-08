@@ -1,0 +1,105 @@
+{
+  "fetch_products": {
+    "selectors": [
+      {
+        "type": "tagname_attribute",
+        "value": "section",
+        "attribute_key": "data-test",
+        "attribute_value": "product-card"
+      }
+    ]
+  },
+  "fetch_product": [
+    {
+      "field": "product_id",
+      "field_name": "Product ID",
+      "selectors": [{ "type": "attribute", "value": "data-product-id" }]
+    },
+    {
+      "field": "country",
+      "field_name": "Country",
+      "selectors": [{ "type": "config_value", "value": "country" }]
+    },
+    {
+      "field": "retailer",
+      "field_name": "Retailer",
+      "selectors": [{ "type": "config_value", "value": "retailer" }]
+    },
+    {
+      "field": "department",
+      "field_name": "Department",
+      "selectors": [{ "type": "config_value", "value": "department" }]
+    },
+    {
+      "field": "category",
+      "field_name": "Category",
+      "selectors": [{ "type": "config_value", "value": "category" }]
+    },
+    {
+      "field": "page",
+      "field_name": "Page",
+      "selectors": [{ "type": "config_value", "value": "page" }]
+    },
+    {
+      "field": "page_url",
+      "field_name": "Page URL",
+      "selectors": [{ "type": "config_value", "value": "page_url" }]
+    },
+    {
+      "field": "brand",
+      "field_name": "Brand",
+      "selectors": []
+    },
+    {
+      "field": "product_name",
+      "field_name": "Product Name",
+      "selectors": [
+        {
+          "type": "classname",
+          "value": "product-card_c-product-card__title__3Xbz8"
+        }
+      ]
+    },
+    {
+      "field": "sku",
+      "field_name": "SKU",
+      "selectors": []
+    },
+    {
+      "field": "position",
+      "field_name": "Position",
+      "selectors": []
+    },
+    {
+      "field": "product_page_url",
+      "field_name": "Product Page URL",
+      "selectors": [
+        {
+          "type": "tagname_attribute",
+          "value": "a",
+          "selector_attribute": "href"
+        }
+      ]
+    },
+    {
+      "field": "listing_label",
+      "field_name": "Label",
+      "selectors": [{ "type": "classname", "value": "tagg-txt" }]
+    },
+    {
+      "field": "reviews",
+      "field_name": "Reviews",
+      "selectors": [{ "type": "classname", "value": "rating_reviews__3cL5j" }]
+    },
+    {
+      "field": "ratings",
+      "field_name": "Ratings",
+      "selectors": [{ "type": "classname", "value": "rating_stars__2LwU9" }]
+    },
+    {
+      "field": "date",
+      "field_name": "Date",
+      "selectors": []
+    }
+  ]
+}

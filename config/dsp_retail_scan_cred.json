@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "central-rush-337307",
+  "private_key_id": "a44e7ae4160124b7991d6efdfa6d1275b44ad746",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHWJMaxd8iikec\ngbt3DSPBYqMIiFOa7nHkM9DZjrgXG9RtzRdkMpDi5k6QOpbN4irA57ulpSm+N2kA\nlgw9xl6fFfrQaQZMrNdlk7fZLxyB+eelG5lK3jXfVozrRs6q5JfqYsvFBN5I6TP6\niZkXiazfPxxkzJhBw838Iw6tWxfURcWZChDb7XW5YWXsKgBkjB3IdvTBwil2jq/V\ny4LBtOcgNDoBm7cUeZAyM7wMDHVSRAYH8WzG/vkfqgkZ3HO4Q0+Si5wGcvLtwbSY\nq93h1HZzOYrDowCBAra/wv6n+IKT7TWqa87NUlIJdTV7F2UKfrg0wuq0lg7MSsRk\n6IFL/T3rAgMBAAECggEAMEbfrVKxVLyXVixG+bB5ccqRAC5/zNwlQeZYlG+PXq1T\nN1o9aXsjgofTC/PcdLTqtLgKRjXnE5V4vPcZtNY3MSDSEqn0qBoNuiBZnGPf7AxZ\nEK/L4olJE7LywsHtqA5fShiuD6M7r/2mJG0xYbVqY9B1cGXqE7c3SfI1ij8u2K21\nKjzKKZTwa4AoGsTZn1wTEr6BXWlCJIK8qQ6+ACkKdu/IFcDkccAyEiZ2fHzhVMOh\n4EVYPAjCq0fiUVL+W7JvIQ7f5La68Sxwqfo6fQAxMtwdCKjHim4vUnCxv0RxHxes\n3rbSR1eNiV76gKeFBjJqtEPwNey5LXCobqoOWCnv6QKBgQD3hPwtSY6x7CO7FGov\nzhDgt+kk4cLEIY20Nx/ncojxGUF6yVJd0Qps/QbtTtlgGRRc1CGXctd4wzrJAoo/\n9+m2yk3Mo8THmNnj5yR0o9eYr4mRXSCcMoqr3b0hG99HpnyW9aNx/zllPg1nCTYX\n7SRSNkVV+WQJhBmr7ZMjuT6CmQKBgQDOLQ5HFcSRALFhBOFl87kczvpg0P7EEpen\ne75O1SatNfALfvNNbhpCOjDWd0Wmow2Ro4Fe/w4P1SnPpAGJDrPcSuHx8Qu1w9ad\nnM/yOgRY303gRjaD5qGg4rdaE3RhSHIxdFuyqwSxQvtJ9nTcBNZQsS3q5b8F/0PE\nf6X/OE1bIwKBgFiXl68Z8eIK9CsEvpEHv5C/IsqZp52NqOuFA31SyGMLOB2bq0h7\nBrFFy1Hq8/DqaRhksPVFHIxTzFmf+B23PUa4mCoTv930/qAM3kaFUiiLQ8DsxTxC\n9tFXF1efY0aA930MxIiL4l4zXJaxfFQKBAMM+7ou/jhNuOaJrS2PIymZAoGAHDm2\n1qx4OJGrtuiAIwD2uqbrSA3Ukusor9kU+J3dqaDUt/4tONB179MflHzHoER6OxHz\nSBoKxsgb7T06qJTGssXdoM2rGLsyymkJXtPqfHA1rRpvpCcSwX/IMiCvshHE8FhJ\npXAcOFg/JqUC4owW+v0GmD3TpPKJSIFhLEt865kCgYEAmyAa5LiLqWutX+ygFQsd\n/6N1LpP2rWJTrl7J4AxAjKc13Chl4q91E0T62YbrjdUQJCgotbid6pgTZDqo7bBS\nRtyIVFi+FVHcbdB9efujYVeLzSJmR88IqQQxp66D0fs5q7QPT8IAQmhPwhxlQWbB\nqZ6HyfgaZIT6Jlz/7gPq6Zc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dsp-retail-scan@central-rush-337307.iam.gserviceaccount.com",
+  "client_id": "115124706182809579259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dsp-retail-scan%40central-rush-337307.iam.gserviceaccount.com"
+}
