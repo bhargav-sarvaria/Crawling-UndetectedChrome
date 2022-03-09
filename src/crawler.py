@@ -106,11 +106,11 @@ class Crawler:
         use_proxy = False
         if 'Proxy' in self.crawl_folder:
             use_proxy = True
-        d = self.driver.get_driverWithoutHoxx(use_proxy=use_proxy)
+        d = self.driver.get_driver(use_proxy=use_proxy)
         for page_config in page_configs:
             try:
                 if d == None:
-                    d = self.driver.get_driverWithoutHoxx(use_proxy=use_proxy)
+                    d = self.driver.get_driver(use_proxy=use_proxy)
                 try:
                     d.get(page_config['page_url'])
                 except  TimeoutException as ex:
