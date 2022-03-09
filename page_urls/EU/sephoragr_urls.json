@@ -27,17 +27,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "MAKEUP",
-    "category": "BESTSELLERS",
-    "page": "BESTSELLERS",
-    "page_url": "https://www.sephora.gr/best-seller/?prefn1=productRayon&prefv1=%CE%9C%CE%91%CE%9A%CE%99%CE%93%CE%99%CE%91%CE%96&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Greece_Sephora_GR_MAKEUP_BESTSELLERS_BESTSELLERS"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "MAKEUP",
     "category": "BROWS BEAUTY GUIDE",
     "page": "BROWS BEAUTY GUIDE",
     "page_url": "https://www.sephora.gr/beauty-guide-brows-gr2.html",
@@ -753,17 +742,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "PERFUMES",
-    "category": "BESTSELLERS",
-    "page": "BESTSELLERS",
-    "page_url": "https://www.sephora.gr/best-seller/?prefn1=productRayon&prefv1=%CE%91%CE%A1%CE%A9%CE%9C%CE%91%CE%A4%CE%91&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Greece_Sephora_GR_PERFUMES_BESTSELLERS_BESTSELLERS"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "PERFUMES",
     "category": "PERFUME SET",
     "page": "PERFUME SET",
     "page_url": "https://www.sephora.gr/shop/aromata/set-aromaton-c7601/",
@@ -1087,17 +1065,6 @@
     "page": "NEW ARRIVALS",
     "page_url": "https://www.sephora.gr/noutati-ingrijire.html",
     "file_name": "Greece_Sephora_GR_FACE_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "FACE",
-    "category": "BESTSELLERS",
-    "page": "BESTSELLERS",
-    "page_url": "https://www.sephora.gr/best-seller/?prefn1=productRayon&prefv1=%CE%A0%CE%A1%CE%9F%CE%A3%CE%A9%CE%A0%CE%9F&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Greece_Sephora_GR_FACE_BESTSELLERS_BESTSELLERS"
   },
   {
     "country": "Greece",
@@ -1644,17 +1611,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "BODY",
-    "category": "BESTSELLERS",
-    "page": "BESTSELLERS",
-    "page_url": "https://www.sephora.gr/best-seller/?prefn1=productRayon&prefv1=%CE%9C%CE%91%CE%9B%CE%9B%CE%99%CE%91&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Greece_Sephora_GR_BODY_BESTSELLERS_BESTSELLERS"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "BODY",
     "category": "BODY & BATHROOM",
     "page": "BODY & BATHROOM",
     "page_url": "https://www.sephora.gr/shop/soma/soma-mpanio-c7654/",
@@ -2143,17 +2099,6 @@
     "page": "NEW ARRIVALS",
     "page_url": "https://www.sephora.gr/noutati-ingrijire-par.html",
     "file_name": "Greece_Sephora_GR_HAIR_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "HAIR",
-    "category": "BESTSELLERS",
-    "page": "BESTSELLERS",
-    "page_url": "https://www.sephora.gr/best-seller/?prefn1=productRayon&prefv1=%CE%A3%CE%A9%CE%9C%CE%91&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Greece_Sephora_GR_HAIR_BESTSELLERS_BESTSELLERS"
   },
   {
     "country": "Greece",
@@ -2821,32 +2766,10 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "NEW ARRIVALS",
-    "category": "New Arrivals of Body Products",
-    "page": "New Arrivals of Body Products",
-    "page_url": "https://www.sephora.gr/anazhthsh?cgid=nc304",
-    "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_New|sp|Arrivals|sp|of|sp|Body|sp|Products_New|sp|Arrivals|sp|of|sp|Body|sp|Products"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "NEW ARRIVALS",
     "category": "New Arrivals in hair products",
     "page": "New Arrivals in hair products",
     "page_url": "https://www.sephora.gr/noutati-ingrijire-par.html",
     "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_New|sp|Arrivals|sp|in|sp|hair|sp|products_New|sp|Arrivals|sp|in|sp|hair|sp|products"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.gr/brands/a---z-brands/",
-    "file_name": "Greece_Sephora_GR_BRANDS_BRANDS_BRANDS"
   },
   {
     "country": "Greece",
@@ -2990,17 +2913,6 @@
     "page": "PAT MCGRATH",
     "page_url": "https://www.sephora.gr/PATMC-HubPage.html",
     "file_name": "Greece_Sephora_GR_BRANDS_PAT|sp|MCGRATH_PAT|sp|MCGRATH"
-  },
-  {
-    "country": "Greece",
-    "retailer": "Sephora_GR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "OFFERS",
-    "category": "OFFERS",
-    "page": "OFFERS",
-    "page_url": "https://www.sephora.gr/cadouri-si-oferte-speciale.html",
-    "file_name": "Greece_Sephora_GR_OFFERS_OFFERS_OFFERS"
   },
   {
     "country": "Greece",

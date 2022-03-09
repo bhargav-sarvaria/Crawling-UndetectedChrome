@@ -644,17 +644,6 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "MAKEUP",
     "category": "BEAUTY IDEAS & INSPIRATIONS",
-    "page": "Sephora Shopping Party",
-    "page_url": "https://www.sephora.fr/sephora-shopping-party.html",
-    "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Sephora|sp|Shopping|sp|Party"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "MAKEUP",
-    "category": "BEAUTY IDEAS & INSPIRATIONS",
     "page": "Power at first sight",
     "page_url": "https://www.sephora.fr/beaute-regard.html",
     "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Power|sp|at|sp|first|sp|sight"
@@ -691,17 +680,6 @@
     "page": "Palettes stories",
     "page_url": "https://www.sephora.fr/palette-invasion/",
     "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Palettes|sp|stories"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "MAKEUP",
-    "category": "BEAUTY IDEAS & INSPIRATIONS",
-    "page": "Special complexion quiz",
-    "page_url": "https://www.sephora.fr/quiz-teint.html",
-    "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Special|sp|complexion|sp|quiz"
   },
   {
     "country": "France",
@@ -900,17 +878,6 @@
     "page": "Children's perfume box",
     "page_url": "https://www.sephora.fr/shop/parfum/coffret-parfum/coffret-parfum-enfant-c334/",
     "file_name": "France_Sephora_FR_PERFUME_PERFUME|sp|BOX_Children|sq|s|sp|perfume|sp|box"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "PERFUME",
-    "category": "SEPHORA PERFUME DIAGNOSIS",
-    "page": "SEPHORA PERFUME DIAGNOSIS",
-    "page_url": "https://diagnostic-parfum.sephora.fr/",
-    "file_name": "France_Sephora_FR_PERFUME_SEPHORA|sp|PERFUME|sp|DIAGNOSIS_SEPHORA|sp|PERFUME|sp|DIAGNOSIS"
   },
   {
     "country": "France",
@@ -3107,17 +3074,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.fr/marques-brand-page/",
-    "file_name": "France_Sephora_FR_BRANDS_BRANDS_BRANDS"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "BRANDS",
     "category": "SEPHORA COLLECTION",
     "page": "SEPHORA COLLECTION",
     "page_url": "https://www.sephora.fr/sephora-collection/SEPHO-HubPage.html",
@@ -3463,17 +3419,6 @@
     "page": "Hair gift box",
     "page_url": "https://www.sephora.fr/coffrets-cadeaux-cheveux/",
     "file_name": "France_Sephora_FR_GIFTS_Hair|sp|gift|sp|box_Hair|sp|gift|sp|box"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "GIFTS",
-    "category": "Sephora Perfume Diagnosis",
-    "page": "Sephora Perfume Diagnosis",
-    "page_url": "https://diagnostic-parfum.sephora.fr/",
-    "file_name": "France_Sephora_FR_GIFTS_Sephora|sp|Perfume|sp|Diagnosis_Sephora|sp|Perfume|sp|Diagnosis"
   },
   {
     "country": "France",

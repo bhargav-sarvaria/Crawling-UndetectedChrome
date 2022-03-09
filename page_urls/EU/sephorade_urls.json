@@ -3261,17 +3261,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.de/marken/alle-marken-von-a---z-brands/",
-    "file_name": "Germany_Sephora_DE_BRANDS_BRANDS_BRANDS"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Sephora_DE",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Sephora_DE/",
-    "department": "BRANDS",
     "category": "SEPHORA COLLECTION",
     "page": "SEPHORA COLLECTION",
     "page_url": "https://www.sephora.de/sephora-collection/SEPHO-HubPage.html",
@@ -3485,17 +3474,6 @@
     "page": "facial cleansing",
     "page_url": "https://www.sephora.de/marken/alle-marken-von-a---z/sephora-collection-sepho/?scgid=C7633",
     "file_name": "Germany_Sephora_DE_SEPHORA|sp|COLLECTION_facial|sp|cleansing_facial|sp|cleansing"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Sephora_DE",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Sephora_DE/",
-    "department": "SEPHORA UNLIMITED",
-    "category": "SEPHORA UNLIMITED",
-    "page": "SEPHORA UNLIMITED",
-    "page_url": "https://www.sephora.de/Sephora-Unlimited.html",
-    "file_name": "Germany_Sephora_DE_SEPHORA|sp|UNLIMITED_SEPHORA|sp|UNLIMITED_SEPHORA|sp|UNLIMITED"
   },
   {
     "country": "Germany",

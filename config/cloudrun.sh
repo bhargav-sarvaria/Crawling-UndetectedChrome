@@ -25,5 +25,5 @@ apt -y install google-chrome-stable
 
 pip install --upgrade requests
 PATH=$PATH:/home/analytics_digitaledge/.local/bin
-pip install -r ./requirements.txt
+pip install -r ./config/requirements.txt
 pip install "pymongo[srv]"

@@ -501,42 +501,9 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "MAKE-UP",
     "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Free Beauty Video Call",
-    "page_url": "https://mysephorabeautycoach.it/",
-    "file_name": "Italy_Sephora_IT_MAKE|h|UP_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Free|sp|Beauty|sp|Video|sp|Call"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "MAKE-UP",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
     "page": "Eyebrow Beauty Guide",
     "page_url": "https://www.sephora.it/beauty-guide-sopracciglia.html",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Eyebrow|sp|Beauty|sp|Guide"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "MAKE-UP",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "How to choose your mascara",
-    "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/idee-e-ispirazioni-beauty/come-scegliere-il-tuo-mascara-c302-mascara-buying-guide/",
-    "file_name": "Italy_Sephora_IT_MAKE|h|UP_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_How|sp|to|sp|choose|sp|your|sp|mascara"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "MAKE-UP",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Face Routine Quizz",
-    "page_url": "https://www.sephora.it/make-up/idee-e-ispirazioni-beauty/face-routine-quizz-face-routine-quizz/",
-    "file_name": "Italy_Sephora_IT_MAKE|h|UP_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Face|sp|Routine|sp|Quizz"
   },
   {
     "country": "Italy",
@@ -951,17 +918,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "PERFUMES",
-    "category": "EXCLUSIVE PERFUME COLLECTIONS",
-    "page": "Tom Ford",
-    "page_url": "https://www.sephora.it/FORD-HubPage.html",
-    "file_name": "Italy_Sephora_IT_PERFUMES_EXCLUSIVE|sp|PERFUME|sp|COLLECTIONS_Tom|sp|Ford"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "PERFUMES",
     "category": "WELL BEING",
     "page": "WELL BEING",
     "page_url": "https://www.sephora.it/profumi/benessere-c297850/",
@@ -1084,28 +1040,6 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "PERFUMES",
     "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Free Beauty Video Call",
-    "page_url": "https://mysephorabeautycoach.it/",
-    "file_name": "Italy_Sephora_IT_PERFUMES_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Free|sp|Beauty|sp|Video|sp|Call"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "PERFUMES",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Find the Perfect Gift",
-    "page_url": "https://www.sephora.it/gift-finder-idee-regalo.html",
-    "file_name": "Italy_Sephora_IT_PERFUMES_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Find|sp|the|sp|Perfect|sp|Gift"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "PERFUMES",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
     "page": "Fragrance Buying Guide",
     "page_url": "https://www.sephora.it/beauty-guide-fragranze.html",
     "file_name": "Italy_Sephora_IT_PERFUMES_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Fragrance|sp|Buying|sp|Guide"
@@ -1120,17 +1054,6 @@
     "page": "Summer Fragrances",
     "page_url": "https://www.sephora.it/profumi/idee-e-ispirazioni-beauty/summer-fragrances-summer-fragrances/",
     "file_name": "Italy_Sephora_IT_PERFUMES_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Summer|sp|Fragrances"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "PERFUMES",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Top Rated Products",
-    "page_url": "https://www.sephora.it/profumi/idee-e-ispirazioni-beauty/top-rated-products-top-rated-profumi/",
-    "file_name": "Italy_Sephora_IT_PERFUMES_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Top|sp|Rated|sp|Products"
   },
   {
     "country": "Italy",
@@ -1634,31 +1557,9 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "FACE TREATMENTS",
     "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Free Beauty Video Call",
-    "page_url": "https://mysephorabeautycoach.it/",
-    "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Free|sp|Beauty|sp|Video|sp|Call"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "FACE TREATMENTS",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
     "page": "Skincredibles",
     "page_url": "https://www.sephora.it/www.sephora.it/skincredibles.html",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Skincredibles"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "FACE TREATMENTS",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Skincare Quiz",
-    "page_url": "https://www.sephora.it/skincare-quizz.html",
-    "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Skincare|sp|Quiz"
   },
   {
     "country": "Italy",
@@ -2187,28 +2088,6 @@
     "page": "BEAUTY IDEAS AND INSPIRATIONS",
     "page_url": "https://www.sephora.it/corpo-e-bagno/idee-e-ispirazioni-beauty-c304-ispirazioni-beauty/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "BODY & BATH",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Free Beauty Video Call",
-    "page_url": "https://mysephorabeautycoach.it/",
-    "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Free|sp|Beauty|sp|Video|sp|Call"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "BODY & BATH",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Top Rated Products",
-    "page_url": "https://www.sephora.it/corpo-e-bagno/idee-e-ispirazioni-beauty/top-rated-products-top-rated-corpoebagno/",
-    "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Top|sp|Rated|sp|Products"
   },
   {
     "country": "Italy",
@@ -2800,28 +2679,6 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "HAIR",
     "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Free Beauty Video Call",
-    "page_url": "https://mysephorabeautycoach.it/",
-    "file_name": "Italy_Sephora_IT_HAIR_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Free|sp|Beauty|sp|Video|sp|Call"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "HAIR",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "Top Rated Products",
-    "page_url": "https://www.sephora.it/capelli/idee-e-ispirazioni-beauty/top-rated-products-top-rated-capelli/",
-    "file_name": "Italy_Sephora_IT_HAIR_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Top|sp|Rated|sp|Products"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "HAIR",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
     "page": "Hair Routine",
     "page_url": "https://www.sephora.it/hair-routine.html",
     "file_name": "Italy_Sephora_IT_HAIR_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Hair|sp|Routine"
@@ -2847,17 +2704,6 @@
     "page": "BEAUTY GUIDE FOR YOUR HAIR",
     "page_url": "https://www.sephora.it/haircare-beauty-guide.html",
     "file_name": "Italy_Sephora_IT_HAIR_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_BEAUTY|sp|GUIDE|sp|FOR|sp|YOUR|sp|HAIR"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "HAIR",
-    "category": "BEAUTY IDEAS AND INSPIRATIONS",
-    "page": "HAIRCARE QUIZZ",
-    "page_url": "https://www.sephora.it/beauty-guide-capelli.html",
-    "file_name": "Italy_Sephora_IT_HAIR_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_HAIRCARE|sp|QUIZZ"
   },
   {
     "country": "Italy",
@@ -2986,17 +2832,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "ANNOUNCEMENTS",
-    "category": "ANNOUNCEMENTS",
-    "page": "ANNOUNCEMENTS",
-    "page_url": "https://www.sephora.it/novit%C3%A0-novita/",
-    "file_name": "Italy_Sephora_IT_ANNOUNCEMENTS_ANNOUNCEMENTS_ANNOUNCEMENTS"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "ANNOUNCEMENTS",
     "category": "Make-up news",
     "page": "Make-up news",
     "page_url": "https://www.sephora.it/novit%C3%A0/vedi-tutte-le-novit%C3%A0/novit%C3%A0-make-up-tutte-le-novita-make-up/",
@@ -3089,17 +2924,6 @@
     "page": "DRUNK ELEPHANT",
     "page_url": "https://www.sephora.it/novit%C3%A0/nuove-marche/drunk-elephant-novita-nuove-marche-5/",
     "file_name": "Italy_Sephora_IT_ANNOUNCEMENTS_DRUNK|sp|ELEPHANT_DRUNK|sp|ELEPHANT"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "MARCHE",
-    "category": "MARCHE",
-    "page": "MARCHE",
-    "page_url": "https://www.sephora.it/marche-brand-page/",
-    "file_name": "Italy_Sephora_IT_MARCHE_MARCHE_MARCHE"
   },
   {
     "country": "Italy",

@@ -22,12 +22,19 @@ class Mongo:
         doc = collection.find_one()
         result =  collection.delete_many({'_id': doc['_id']})
         return doc
+
+    def printUrls(self, collection):
+        result = list(self.db[collection].find({}, {'_id': 0, 'page_url': 1}))
+        for res in result:
+            print(res)
+        return result
     
 
-mongo = Mongo()
+# mongo = Mongo()
+# mongo.printUrls('United Kingdom')
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
-mongo.deleteAllDocuments('India')
+# mongo.deleteAllDocuments('India')
 # mongo.deleteAllDocuments('United States')
 # mongo.deleteAllDocuments('United Kingdom')
 # mongo.deleteAllDocuments('EU')
@@ -36,5 +43,3 @@ mongo.deleteAllDocuments('India')
 # mongo.printDocuments('India')
 # print(mongo.getDocuments('India'))
 # mongo.deleteAllDocuments('India')
-
-

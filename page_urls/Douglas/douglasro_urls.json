@@ -3811,17 +3811,6 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "DOUGLAS COLLECTION",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
-    "page_url": "https://www.douglas.ro/c/douglas-collection/home-lifestyle/",
-    "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
-  },
-  {
-    "country": "Romania",
-    "retailer": "DOUGLAS_RO",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "DOUGLAS COLLECTION",
     "category": "ALL LINES",
     "page": "ALL LINES",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/",

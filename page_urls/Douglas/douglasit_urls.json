@@ -1780,16 +1780,5 @@
     "page": "OFFERS",
     "page_url": "https://www.douglas.it/Offerte/index_07.html",
     "file_name": "Italy_DOUGLAS_IT_OFFERS_OFFERS_OFFERS"
-  },
-  {
-    "country": "Italy",
-    "retailer": "DOUGLAS_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "FREEBIES",
-    "category": "FREEBIES",
-    "page": "FREEBIES",
-    "page_url": "https://www.douglas.it/giveawayAndAction",
-    "file_name": "Italy_DOUGLAS_IT_FREEBIES_FREEBIES_FREEBIES"
   }
 ]

@@ -31,5 +31,5 @@ apt-get install -y gnome-panel gnome-settings-daemon metacity nautilus gnome-ter
 apt-get install -y python3-tk python3-dev
 
 PATH=$PATH:/home/analytics_digitaledge/.local/bin
-pip install -r ./requirements.txt
+pip install -r ./config/requirements.txt
 pip install "pymongo[srv]"

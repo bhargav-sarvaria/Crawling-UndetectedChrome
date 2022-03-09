@@ -623,7 +623,7 @@
     "department": "MAKE-UP",
     "category": "BEAUTY IDEAS",
     "page": "quiz of your base",
-    "page_url": "https://www.sephora.pt/quizz_foundation_PT.html",
+    "page_url": "",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BEAUTY|sp|IDEAS_quiz|sp|of|sp|your|sp|base"
   },
   {
@@ -658,17 +658,6 @@
     "page": "TREATMENT",
     "page_url": "https://www.sephora.pt/tratamento-c303/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TREATMENT_TREATMENT"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Sephora_PT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "TREATMENT",
-    "category": "-30% FOREO MASKS",
-    "page": "-30% FOREO MASKS",
-    "page_url": "https://www.sephora.pt/campanha-mascaras-foreo/",
-    "file_name": "Portugal_Sephora_PT_TREATMENT_|h|30%|sp|FOREO|sp|MASKS_|h|30%|sp|FOREO|sp|MASKS"
   },
   {
     "country": "Portugal",
@@ -2847,17 +2836,6 @@
     "page": "OBVIOUS",
     "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z/obvious-obvio/",
     "file_name": "Portugal_Sephora_PT_NEWS_OBVIOUS_OBVIOUS"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Sephora_PT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z-brands/",
-    "file_name": "Portugal_Sephora_PT_BRANDS_BRANDS_BRANDS"
   },
   {
     "country": "Portugal",

@@ -1637,16 +1637,5 @@
     "page": "Eco-friendly packaging",
     "page_url": "https://www.douglas.ee/ee/kataloog/zali/ilgtspejigs-iepakojums/dabai-draudzigs-iepakojums/",
     "file_name": "Estonia_DOUGLAS_EE_GREEN_SUSTAINABLE|sp|PACKAGING_Eco|h|friendly|sp|packaging"
-  },
-  {
-    "country": "Estonia",
-    "retailer": "DOUGLAS_EE",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
-    "department": "TRADEMARKS",
-    "category": "TRADEMARKS",
-    "page": "TRADEMARKS",
-    "page_url": "https://www.douglas.ee/ee/kaubamargid/",
-    "file_name": "Estonia_DOUGLAS_EE_TRADEMARKS_TRADEMARKS_TRADEMARKS"
   }
 ]

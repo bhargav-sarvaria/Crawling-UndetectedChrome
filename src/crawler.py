@@ -67,22 +67,26 @@ class Crawler:
     def crawlUrlsFromConfigPath(self, crawl_folder):
         if 'Retry' in crawl_folder:
             self.crawl_folder = crawl_folder.split('_')[1]
-            crawl_pages = mongo.getDocuments(crawl_folder.split('_')[1])
-        else:
-            self.crawl_folder = crawl_folder
-            crawl_path = './page_urls/' + crawl_folder + '/'
-            crawl_pages = [crawl_path + f for f in listdir(crawl_path) if isfile(join(crawl_path, f))] 
-        for crawl_page in crawl_pages:
-            if not os.path.isfile(crawl_page):
-                return False
-            if '.json' not in crawl_page:
-                continue
-            crawl_urls = json.load(open(crawl_page,'r'))
-
+            crawl_urls = mongo.getDocuments(crawl_folder.split('_')[1])
             for idx, page_config in enumerate(crawl_urls):
                 page_config['index'] = str(idx)
                 page_config['url_count'] = str(len(crawl_urls))
                 self.addConfig(page_config)
+        else:
+            self.crawl_folder = crawl_folder
+            crawl_path = './page_urls/' + crawl_folder + '/'
+            crawl_pages = [crawl_path + f for f in listdir(crawl_path) if isfile(join(crawl_path, f))] 
+            for crawl_page in crawl_pages:
+                if not os.path.isfile(crawl_page):
+                    return False
+                if '.json' not in crawl_page:
+                    continue
+                crawl_urls = json.load(open(crawl_page,'r'))
+
+                for idx, page_config in enumerate(crawl_urls):
+                    page_config['index'] = str(idx)
+                    page_config['url_count'] = str(len(crawl_urls))
+                    self.addConfig(page_config)
 
     def crawlUrlsFromConfig(self, crawl_pages=None):
         if not os.path.isfile(crawl_pages):
@@ -137,12 +141,12 @@ class Crawler:
                     time.sleep(1.5)
                 source = BeautifulSoup(d.page_source, 'html.parser')
                 
-                threading.Thread(target = self.parsePage, args=(source,page_config,)).start()      
-                # self.parsePage(source,page_config)
+                # threading.Thread(target = self.parsePage, args=(source,page_config,)).start()      
+                self.parsePage(source,page_config)
 
             except Exception as e:
                 page_config['date'] = datetime.today().strftime('%Y-%m-%d')
-                mongo.addDocument(self.crawl_folder, page_config)
+                # mongo.addDocument(self.crawl_folder, page_config)
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')    
         try:
             d.close()
@@ -161,14 +165,14 @@ class Crawler:
             if len(products) == 0:
                 page_config['message'] = 'No products'
                 page_config['date'] = date
-                mongo.addDocument(self.crawl_folder, page_config)
+                # mongo.addDocument(self.crawl_folder, page_config)
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             products_data = self.getProductsData(products, parser['fetch_product'], page_config)
             if len(products_data) == 0:
                 page_config['message'] = 'No product details'
                 page_config['date'] = date
-                mongo.addDocument(self.crawl_folder, page_config)
+                # mongo.addDocument(self.crawl_folder, page_config)
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             df = pd.DataFrame(products_data)
@@ -180,7 +184,7 @@ class Crawler:
                 os.remove(filname)
                 print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
         except Exception as e:
-            mongo.addDocument(self.crawl_folder, page_config)
+            # mongo.addDocument(self.crawl_folder, page_config)
             print('**ERROR**' + page_config['page_url'] + ' ' + '0')
 
     def fetchProductsinPage(self, element, selectors):

@@ -27,17 +27,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "MAKEUP",
-    "category": "BEST SELLERS",
-    "page": "BEST SELLERS",
-    "page_url": "https://www.sephora.ro/top-vanzari/?prefn1=productRayon&prefv1=Machiaj&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Romania_Sephora_RO_MAKEUP_BEST|sp|SELLERS_BEST|sp|SELLERS"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "MAKEUP",
     "category": "COMPLEXION",
     "page": "COMPLEXION",
     "page_url": "https://www.sephora.ro/shop/machiaj/ten-c342/",
@@ -699,17 +688,6 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "MAKEUP",
     "category": "IDEAS & INSPIRATIONS FOR BEAUTY",
-    "page": "IDEAS & INSPIRATIONS FOR BEAUTY",
-    "page_url": "https://inspiratie.sephora.ro/",
-    "file_name": "Romania_Sephora_RO_MAKEUP_IDEAS|sp||as||sp|INSPIRATIONS|sp|FOR|sp|BEAUTY_IDEAS|sp||as||sp|INSPIRATIONS|sp|FOR|sp|BEAUTY"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "MAKEUP",
-    "category": "IDEAS & INSPIRATIONS FOR BEAUTY",
     "page": "Beauty Guide Mascara",
     "page_url": "https://www.sephora.ro/mascara-attack.html",
     "file_name": "Romania_Sephora_RO_MAKEUP_IDEAS|sp||as||sp|INSPIRATIONS|sp|FOR|sp|BEAUTY_Beauty|sp|Guide|sp|Mascara"
@@ -1183,17 +1161,6 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "PERFUMERY",
     "category": "BEAUTY IDEAS & INSPIRATIONS",
-    "page": "BEAUTY IDEAS & INSPIRATIONS",
-    "page_url": "https://inspiratie.sephora.ro/",
-    "file_name": "Romania_Sephora_RO_PERFUMERY_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "PERFUMERY",
-    "category": "BEAUTY IDEAS & INSPIRATIONS",
     "page": "Beauty Guide Fragrance",
     "page_url": "https://www.sephora.ro/buying-guide-parfumuri.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Beauty|sp|Guide|sp|Fragrance"
@@ -1230,17 +1197,6 @@
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/noutati-ingrijire.html",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_NEWS_NEWS"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "SKIN CARE",
-    "category": "BEST SELLERS",
-    "page": "BEST SELLERS",
-    "page_url": "https://www.sephora.ro/top-vanzari/?prefn1=productRayon&prefv1=Ingrijire%20ten&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_BEST|sp|SELLERS_BEST|sp|SELLERS"
   },
   {
     "country": "Romania",
@@ -1711,17 +1667,6 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "SKIN CARE",
     "category": "IDEAS & INSPIRATIONS FOR BEAUTY",
-    "page": "IDEAS & INSPIRATIONS FOR BEAUTY",
-    "page_url": "https://inspiratie.sephora.ro/",
-    "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_IDEAS|sp||as||sp|INSPIRATIONS|sp|FOR|sp|BEAUTY_IDEAS|sp||as||sp|INSPIRATIONS|sp|FOR|sp|BEAUTY"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "SKIN CARE",
-    "category": "IDEAS & INSPIRATIONS FOR BEAUTY",
     "page": "Routine care",
     "page_url": "https://www.sephora.ro/rutina-de-ingrijire.html",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_IDEAS|sp||as||sp|INSPIRATIONS|sp|FOR|sp|BEAUTY_Routine|sp|care"
@@ -1802,17 +1747,6 @@
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/toate-noutatile/noutati-baie-corp-n-c304/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_NEWS_NEWS"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "BAIE & CORP",
-    "category": "BEST SELLERS",
-    "page": "BEST SELLERS",
-    "page_url": "https://www.sephora.ro/top-vanzari/?prefn1=productRayon&prefv1=Baie%20%26%20corp&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BEST|sp|SELLERS_BEST|sp|SELLERS"
   },
   {
     "country": "Romania",
@@ -2315,17 +2249,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "HAIR",
-    "category": "BEST SELLERS",
-    "page": "BEST SELLERS",
-    "page_url": "https://www.sephora.ro/top-vanzari/?prefn1=productRayon&prefv1=Par&srule=Sorting%20Rule%20-%20Best%20Sellers#topbreadcrumb",
-    "file_name": "Romania_Sephora_RO_HAIR_BEST|sp|SELLERS_BEST|sp|SELLERS"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "HAIR",
     "category": "HAIR CARE",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par-c299914/",
@@ -2451,17 +2374,6 @@
     "page": "Hair brush",
     "page_url": "https://www.sephora.ro/shop/par/accesorii/perie-de-par-c471/",
     "file_name": "Romania_Sephora_RO_HAIR_ACCESSORY_Hair|sp|brush"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "HAIR",
-    "category": "ACCESSORY",
-    "page": "Plate & hair curler",
-    "page_url": "https://www.sephora.ro/shop/par/accesorii/placa-ondulator-de-par-c5231/",
-    "file_name": "Romania_Sephora_RO_HAIR_ACCESSORY_Plate|sp||as||sp|hair|sp|curler"
   },
   {
     "country": "Romania",
@@ -2986,17 +2898,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "NEWS",
-    "category": "Baie & Corp. News",
-    "page": "Baie & Corp. News",
-    "page_url": "https://www.sephora.ro/cautare?cgid=nc304",
-    "file_name": "Romania_Sephora_RO_NEWS_Baie|sp||as||sp|Corp.|sp|News_Baie|sp||as||sp|Corp.|sp|News"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "NEWS",
     "category": "News Par",
     "page": "News Par",
     "page_url": "https://www.sephora.ro/noutati-ingrijire-par.html",
@@ -3067,17 +2968,6 @@
     "page": "Fenty Skin",
     "page_url": "https://www.sephora.ro/FENSK-HubPage.html",
     "file_name": "Romania_Sephora_RO_NEWS_Fenty|sp|Skin_Fenty|sp|Skin"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.ro/branduri-de-la-a-la-z/",
-    "file_name": "Romania_Sephora_RO_BRANDS_BRANDS_BRANDS"
   },
   {
     "country": "Romania",
@@ -3276,17 +3166,6 @@
     "page": "PAT MCGRATH",
     "page_url": "https://www.sephora.ro/PATMC-HubPage.html",
     "file_name": "Romania_Sephora_RO_BRANDS_PAT|sp|MCGRATH_PAT|sp|MCGRATH"
-  },
-  {
-    "country": "Romania",
-    "retailer": "Sephora_RO",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Sephora_RO/",
-    "department": "DEALS",
-    "category": "DEALS",
-    "page": "DEALS",
-    "page_url": "https://www.sephora.ro/cadouri-si-oferte-speciale.html",
-    "file_name": "Romania_Sephora_RO_DEALS_DEALS_DEALS"
   },
   {
     "country": "Romania",

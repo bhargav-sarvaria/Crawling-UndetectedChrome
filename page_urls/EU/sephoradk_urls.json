@@ -830,28 +830,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "MAKEUP",
-    "category": "INSPIRATION",
-    "page": "Best Skin Ever Shade Finder",
-    "page_url": "https://www.sephora.dk/best-skin-ever-shadefinder.html",
-    "file_name": "Denmark_Sephora_DK_MAKEUP_INSPIRATION_Best|sp|Skin|sp|Ever|sp|Shade|sp|Finder"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "MAKEUP",
-    "category": "INSPIRATION",
-    "page": "Fenty Shade Finder",
-    "page_url": "https://www.sephora.dk/fenty-beauty-shade-finder.html",
-    "file_name": "Denmark_Sephora_DK_MAKEUP_INSPIRATION_Fenty|sp|Shade|sp|Finder"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "MAKEUP",
     "category": "SEE ALL",
     "page": "SEE ALL",
     "page_url": "https://www.sephora.dk/shop/makeup-c302/?listview=true",
@@ -1615,17 +1593,6 @@
     "page": "#SKINCAREBUZZ",
     "page_url": "https://www.sephora.dk/skincare-buzz-scandinavia.html",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_INSPIRATION_#SKINCAREBUZZ"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "SKIN CARE",
-    "category": "INSPIRATION",
-    "page": "Super Molecules Guide",
-    "page_url": "https://www.sephora.dk/super-molecule.html",
-    "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_INSPIRATION_Super|sp|Molecules|sp|Guide"
   },
   {
     "country": "Denmark",
@@ -2524,17 +2491,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "PERFUME",
-    "category": "GOOD PERFUME",
-    "page": "Natural perfume",
-    "page_url": "https://www.sephora.dk/sog/?cgid=%27good-for-vegan-fragrance",
-    "file_name": "Denmark_Sephora_DK_PERFUME_GOOD|sp|PERFUME_Natural|sp|perfume"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "PERFUME",
     "category": "UNISEX",
     "page": "UNISEX",
     "page_url": "https://www.sephora.dk/shop/parfume/unisex-c322301/",
@@ -3349,17 +3305,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "SEPHORA COLLECTION",
-    "category": "Colorful Skincare",
-    "page": "Colorful Skincare",
-    "page_url": "https://www.sephora.dk/colorful-skincare.html",
-    "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Colorful|sp|Skincare_Colorful|sp|Skincare"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "SEPHORA COLLECTION",
     "category": "Super Charged Serums",
     "page": "Super Charged Serums",
     "page_url": "https://www.sephora.dk/sephora-collection-serum-sc.html",
@@ -3375,28 +3320,6 @@
     "page": "Sephora Collection Engagement",
     "page_url": "https://www.sephora.dk/sephora-collection-engagement/",
     "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Sephora|sp|Collection|sp|Engagement_Sephora|sp|Collection|sp|Engagement"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "SEPHORA COLLECTION",
-    "category": "Best Skin Ever Shade Finder",
-    "page": "Best Skin Ever Shade Finder",
-    "page_url": "https://www.sephora.dk/best-skin-ever-shadefinder.html",
-    "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Best|sp|Skin|sp|Ever|sp|Shade|sp|Finder_Best|sp|Skin|sp|Ever|sp|Shade|sp|Finder"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.dk/maerker/alle-maerker-fra--a-til-z-brands/",
-    "file_name": "Denmark_Sephora_DK_BRANDS_BRANDS_BRANDS"
   },
   {
     "country": "Denmark",
@@ -3529,17 +3452,6 @@
     "page": "Clarins",
     "page_url": "https://www.sephora.dk/maerker/alle-maerker-fra--a-til-z/clarins-clari/",
     "file_name": "Denmark_Sephora_DK_BRANDS_Clarins_Clarins"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "OFFER",
-    "category": "OFFER",
-    "page": "OFFER",
-    "page_url": "https://www.sephora.dk/beauty-offers-SC.html",
-    "file_name": "Denmark_Sephora_DK_OFFER_OFFER_OFFER"
   },
   {
     "country": "Denmark",

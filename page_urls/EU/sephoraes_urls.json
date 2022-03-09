@@ -27,17 +27,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "MAKE-UP",
-    "category": "UP TO 15% OFF LANC\u00d4ME LASH ID\u00d4LE COLLECTION",
-    "page": "UP TO 15% OFF LANC\u00d4ME LASH ID\u00d4LE COLLECTION",
-    "page_url": "https://www.sephora.es/promociones-flash-lancome/",
-    "file_name": "Spain_Sephora_ES_MAKE|h|UP_UP|sp|TO|sp|15%|sp|OFF|sp|LANC\u00d4ME|sp|LASH|sp|ID\u00d4LE|sp|COLLECTION_UP|sp|TO|sp|15%|sp|OFF|sp|LANC\u00d4ME|sp|LASH|sp|ID\u00d4LE|sp|COLLECTION"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "MAKE-UP",
     "category": "MAKEUP TRENDS",
     "page": "MAKEUP TRENDS",
     "page_url": "https://www.sephora.es/rutina-preparacion-rostro/rutina-preparacion-rostro.html",
@@ -83,17 +72,6 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "MAKE-UP",
     "category": "MAKEUP TRENDS",
-    "page": "foundation finder",
-    "page_url": "https://www.sephora.es/buscador-base-de-maquillaje.html",
-    "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_foundation|sp|finder"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "MAKE-UP",
-    "category": "MAKEUP TRENDS",
     "page": "Long lasting makeup",
     "page_url": "https://www.sephora.es/maquillaje-larga-duracion-1/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Long|sp|lasting|sp|makeup"
@@ -108,17 +86,6 @@
     "page": "The most valued",
     "page_url": "https://www.sephora.es/resenas-valoraciones.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_The|sp|most|sp|valued"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "MAKE-UP",
-    "category": "MAKEUP TRENDS",
-    "page": "Virtual Masterclass",
-    "page_url": "https://www.sephora.es/virtual-masterclass-sephora.html",
-    "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Virtual|sp|Masterclass"
   },
   {
     "country": "Spain",
@@ -141,17 +108,6 @@
     "page": "TOP SALES MAKEUP",
     "page_url": "https://www.sephora.es/top-ventas-maquillaje/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_TOP|sp|SALES|sp|MAKEUP_TOP|sp|SALES|sp|MAKEUP"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "MAKE-UP",
-    "category": "BOOK YOUR MAKEUP BEAUTY APPOINTMENT",
-    "page": "BOOK YOUR MAKEUP BEAUTY APPOINTMENT",
-    "page_url": "https://www.sephora.es/tu-cita-beauty.html",
-    "file_name": "Spain_Sephora_ES_MAKE|h|UP_BOOK|sp|YOUR|sp|MAKEUP|sp|BEAUTY|sp|APPOINTMENT_BOOK|sp|YOUR|sp|MAKEUP|sp|BEAUTY|sp|APPOINTMENT"
   },
   {
     "country": "Spain",
@@ -753,17 +709,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "TREATMENT",
-    "category": "-30% FOREIGN",
-    "page": "-30% FOREIGN",
-    "page_url": "https://www.sephora.es/promocion-flash-foreo-1/",
-    "file_name": "Spain_Sephora_ES_TREATMENT_|h|30%|sp|FOREIGN_|h|30%|sp|FOREIGN"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "TREATMENT",
     "category": "-30% FOREO MASKS",
     "page": "-30% FOREO MASKS",
     "page_url": "https://www.sephora.es/productos-promo-foreo/",
@@ -820,17 +765,6 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "TREATMENT",
     "category": "TRENDS TREATMENT",
-    "page": "Facial Routine Finder",
-    "page_url": "https://www.sephora.es/buscador-de-rutina-facial.html",
-    "file_name": "Spain_Sephora_ES_TREATMENT_TRENDS|sp|TREATMENT_Facial|sp|Routine|sp|Finder"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "TREATMENT",
-    "category": "TRENDS TREATMENT",
     "page": "The most valued",
     "page_url": "https://www.sephora.es/resenas-valoraciones.html",
     "file_name": "Spain_Sephora_ES_TREATMENT_TRENDS|sp|TREATMENT_The|sp|most|sp|valued"
@@ -856,17 +790,6 @@
     "page": "TOP SALES TREATMENT",
     "page_url": "https://www.sephora.es/top-ventas-tratamiento/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TOP|sp|SALES|sp|TREATMENT_TOP|sp|SALES|sp|TREATMENT"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "TREATMENT",
-    "category": "BOOK YOUR BEAUTY TREATMENT APPOINTMENT",
-    "page": "BOOK YOUR BEAUTY TREATMENT APPOINTMENT",
-    "page_url": "https://www.sephora.es/tu-cita-beauty.html",
-    "file_name": "Spain_Sephora_ES_TREATMENT_BOOK|sp|YOUR|sp|BEAUTY|sp|TREATMENT|sp|APPOINTMENT_BOOK|sp|YOUR|sp|BEAUTY|sp|TREATMENT|sp|APPOINTMENT"
   },
   {
     "country": "Spain",
@@ -1326,17 +1249,6 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "TREATMENT",
     "category": "+45 YEARS",
-    "page": "wrinkles",
-    "page_url": "https://www.sephora.es/productos-problema-arrugas-1/?prefn1=productRayon&prefv1=Tratamiento&srule=rank8#topbreadcrumb",
-    "file_name": "Spain_Sephora_ES_TREATMENT_+45|sp|YEARS_wrinkles"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "TREATMENT",
-    "category": "+45 YEARS",
     "page": "Recommended by dermatologists",
     "page_url": "https://www.sephora.es/productos-tratamiento-recomendados-dermatologos/",
     "file_name": "Spain_Sephora_ES_TREATMENT_+45|sp|YEARS_Recommended|sp|by|sp|dermatologists"
@@ -1582,17 +1494,6 @@
     "page": "TOP SALES PERFUME",
     "page_url": "https://www.sephora.es/top-ventas-perfume/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_TOP|sp|SALES|sp|PERFUME_TOP|sp|SALES|sp|PERFUME"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "FRAGRANCE",
-    "category": "BOOK YOUR PERFUME BEAUTY APPOINTMENT",
-    "page": "BOOK YOUR PERFUME BEAUTY APPOINTMENT",
-    "page_url": "https://www.sephora.es/tu-cita-beauty.html",
-    "file_name": "Spain_Sephora_ES_FRAGRANCE_BOOK|sp|YOUR|sp|PERFUME|sp|BEAUTY|sp|APPOINTMENT_BOOK|sp|YOUR|sp|PERFUME|sp|BEAUTY|sp|APPOINTMENT"
   },
   {
     "country": "Spain",
@@ -2008,17 +1909,6 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "HAIR",
     "category": "HAIR TRENDS",
-    "page": "perfect hair tips",
-    "page_url": "https://www.sephora.es/consejos-cabello-perfecto.html",
-    "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|TRENDS_perfect|sp|hair|sp|tips"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "HAIR",
-    "category": "HAIR TRENDS",
     "page": "Hair care guide",
     "page_url": "https://www.sephora.es/guia-cuidado-cabello.html",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|TRENDS_Hair|sp|care|sp|guide"
@@ -2055,17 +1945,6 @@
     "page": "TOP SALES HAIR",
     "page_url": "https://www.sephora.es/top-ventas-cabello/",
     "file_name": "Spain_Sephora_ES_HAIR_TOP|sp|SALES|sp|HAIR_TOP|sp|SALES|sp|HAIR"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "HAIR",
-    "category": "BOOK YOUR HAIR BEAUTY APPOINTMENT",
-    "page": "BOOK YOUR HAIR BEAUTY APPOINTMENT",
-    "page_url": "https://www.sephora.es/tu-cita-beauty.html",
-    "file_name": "Spain_Sephora_ES_HAIR_BOOK|sp|YOUR|sp|HAIR|sp|BEAUTY|sp|APPOINTMENT_BOOK|sp|YOUR|sp|HAIR|sp|BEAUTY|sp|APPOINTMENT"
   },
   {
     "country": "Spain",
@@ -3210,17 +3089,6 @@
     "page": "Huda Beauty Rose Quartz Palette",
     "page_url": "https://www.sephora.es/p/rose-quartz-eyeshadow-palette---paleta-sombras-de-ojos-P10022118.html",
     "file_name": "Spain_Sephora_ES_NEW_Huda|sp|Beauty|sp|Rose|sp|Quartz|sp|Palette_Huda|sp|Beauty|sp|Rose|sp|Quartz|sp|Palette"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.es/marcas-de-a-a-z/",
-    "file_name": "Spain_Sephora_ES_BRANDS_BRANDS_BRANDS"
   },
   {
     "country": "Spain",

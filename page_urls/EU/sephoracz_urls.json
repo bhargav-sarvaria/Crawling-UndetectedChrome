@@ -1105,17 +1105,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "SCENT",
-    "category": "SEPHORA FRAGRANCE COLLECTION",
-    "page": "SEPHORA FRAGRANCE COLLECTION",
-    "page_url": "https://www.sephora.cz/vune-sephora-collection-do-not-drink.html",
-    "file_name": "Czech|sp|Republic_Sephora_CZ_SCENT_SEPHORA|sp|FRAGRANCE|sp|COLLECTION_SEPHORA|sp|FRAGRANCE|sp|COLLECTION"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "Sephora_CZ",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
-    "department": "SCENT",
     "category": "TIPS AND TRICKS",
     "page": "TIPS AND TRICKS",
     "page_url": "https://www.sephora.cz/produkty/vune-c301/",
@@ -1754,17 +1743,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "BODY CARE",
-    "category": "BODY CARE",
-    "page": "BODY CARE",
-    "page_url": "https://www.sephora.cz/produkty/pece-o-telo-c304/",
-    "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY|sp|CARE_BODY|sp|CARE"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "Sephora_CZ",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
-    "department": "BODY CARE",
     "category": "GIFT SETS",
     "page": "GIFT SETS",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/darkove-sady-c7654/",
@@ -2165,17 +2143,6 @@
     "page": "SHOW ALL",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo-c304/?listview=true",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_SHOW|sp|ALL_SHOW|sp|ALL"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "Sephora_CZ",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
-    "department": "HAIR",
-    "category": "HAIR",
-    "page": "HAIR",
-    "page_url": "https://www.sephora.cz/produkty/vlasy-c307/",
-    "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR_HAIR"
   },
   {
     "country": "Czech Republic",
@@ -2715,17 +2682,6 @@
     "page": "ILIA",
     "page_url": "https://www.sephora.cz/ilia-brand/ILIA-HubPage.html",
     "file_name": "Czech|sp|Republic_Sephora_CZ_NEWS_ILIA_ILIA"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "Sephora_CZ",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
-    "department": "BRANDS",
-    "category": "BRANDS",
-    "page": "BRANDS",
-    "page_url": "https://www.sephora.cz/znacky/",
-    "file_name": "Czech|sp|Republic_Sephora_CZ_BRANDS_BRANDS_BRANDS"
   },
   {
     "country": "Czech Republic",

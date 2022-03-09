@@ -2812,17 +2812,6 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "HOME & LIFESTYLE",
     "category": "BAGS & LUGGAGE",
-    "page": "Shoppers",
-    "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/tassen-bagage/shoppers/150102",
-    "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_BAGS|sp||as||sp|LUGGAGE_Shoppers"
-  },
-  {
-    "country": "Netherlands",
-    "retailer": "DOUGLAS_NL",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
-    "department": "HOME & LIFESTYLE",
-    "category": "BAGS & LUGGAGE",
     "page": "shoulder bags",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/tassen-bagage/schoudertassen/150103",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_BAGS|sp||as||sp|LUGGAGE_shoulder|sp|bags"
