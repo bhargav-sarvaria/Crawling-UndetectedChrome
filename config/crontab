@@ -1,0 +1,1 @@
+<mm> <HH> * * * cd /home/analytics_digitaledge/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py <Folder Name> <Headlessflag> >>  ./file.log

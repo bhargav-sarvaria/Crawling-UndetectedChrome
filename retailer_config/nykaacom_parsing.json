@@ -50,6 +50,7 @@
       "field": "product_name",
       "field_name": "Product Name",
       "selectors": [
+        { "type": "classname", "value": "css-xrzmfa" },
         { "type": "classname", "value": "css-10zjw4o" },
         { "type": "classname", "value": "m-content__product-list__title" }
       ]
@@ -84,6 +85,7 @@
       "field": "listing_label",
       "field_name": "Label",
       "selectors": [
+        { "type": "classname", "value": "css-ycjyr6" },
         { "type": "classname", "value": "css-rtqjpr" },
         { "type": "classname", "value": "tags " },
         { "type": "classname", "value": "tags" }
@@ -97,7 +99,7 @@
     {
       "field": "ratings",
       "field_name": "Ratings",
-      "selectors": []
+      "selectors": [{ "type": "classname", "value": "css-1j33oxj" }]
     },
     {
       "field": "date",
