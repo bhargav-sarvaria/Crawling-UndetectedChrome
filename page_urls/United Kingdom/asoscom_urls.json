@@ -875,17 +875,6 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Clothing",
     "category": "SHOP BY EDIT",
-    "page": "Wedding",
-    "page_url": "https://www.asos.com/women/discover/wedding/?nlid=ww|clothing|shop+by+edit|wedding",
-    "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|EDIT_Wedding"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Women_Clothing",
-    "category": "SHOP BY EDIT",
     "page": "Workwear",
     "page_url": "https://www.asos.com/women/workwear/cat/?cid=19645&nlid=ww|clothing|shop+by+edit|workwear",
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|EDIT_Workwear"
@@ -1890,17 +1879,6 @@
     "page": "Trousers",
     "page_url": "https://www.asos.com/women/a-to-z-of-brands/topshop/topshop-trousers-leggings/cat/?cid=30238&nlid=ww|topshop|shop+by+product|trousers",
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Trousers"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Women_Topshop",
-    "category": "CTAS",
-    "page": "DISCOVER TOPSHOP",
-    "page_url": "https://www.asos.com/topshop/?nlid=ww|topshop|ctas|discover+topshop",
-    "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_CTAS_DISCOVER|sp|TOPSHOP"
   },
   {
     "country": "United Kingdom",
@@ -3350,17 +3328,6 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_New in",
     "category": "NEW EDITS",
-    "page": "FINISHING TOUCHES",
-    "page_url": "https://www.asos.com/men/cats/fashion-online-28/cat/?cid=16776&nlid=mw|new+in|new+edits|finishing+touches",
-    "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|EDITS_FINISHING|sp|TOUCHES"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Men_New in",
-    "category": "NEW EDITS",
     "page": "THE WARM-UP",
     "page_url": "https://www.asos.com/%20men/ctas/fashion-online-17/cat/?cid=13528&nlid=mw|new+in|new+edits|the+warm-up",
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|EDITS_THE|sp|WARM|h|UP"
@@ -4692,17 +4659,6 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Topman",
     "category": "CTAS",
-    "page": "DISCOVER TOPMAN",
-    "page_url": "https://www.asos.com/topman/?nlid=mw|topman|ctas|discover+topman",
-    "file_name": "United|sp|Kingdom_ASOS_Men_Topman_CTAS_DISCOVER|sp|TOPMAN"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Men_Topman",
-    "category": "CTAS",
     "page": "JEANS",
     "page_url": "https://www.asos.com/men/a-to-z-of-brands/topman/topman-jeans/cat/?cid=30208&nlid=mw|topman|ctas|jeans",
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_CTAS_JEANS"
@@ -4959,17 +4915,6 @@
     "page": "Wahl",
     "page_url": "https://www.asos.com/men/a-to-z-of-brands/wahl/cat/?cid=21432&nlid=mw|face+%2B+body|shop+by+brand|wahl",
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Wahl"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Men_Face + Body",
-    "category": "DESKTOP ONLY CTAS (LEFT)",
-    "page": "THE ORDINARY",
-    "page_url": "https://www.asos.com/discover/the-ordinary/?nlid=mw|face+%2B+body|desktop+only+ctas+(left)|the+ordinary",
-    "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_THE|sp|ORDINARY"
   },
   {
     "country": "United Kingdom",

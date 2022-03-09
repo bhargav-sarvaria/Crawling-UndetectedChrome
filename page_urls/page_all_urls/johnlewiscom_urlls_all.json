@@ -1711,17 +1711,6 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Baby & Child",
     "category": "Offers (Selected Lines)",
-    "page": "LEGO: 20% off",
-    "page_url": "https://www.johnlewis.com/brand/lego/all-offers/_/N-1z140g1Z1yzvw1q",
-    "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_LEGO|cln||sp|20%|sp|off"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "John Lewis",
-    "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
-    "department": "Baby & Child",
-    "category": "Offers (Selected Lines)",
     "page": "Girls Boots: 20% off",
     "page_url": "https://www.johnlewis.com/browse/baby-child/childrens-shoes/girls-shoes-boots-trainers/all-offers/boots/_/N-8lwZ1yzvw1qZ1yze0w3",
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_Girls|sp|Boots|cln||sp|20%|sp|off"
@@ -3361,17 +3350,6 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Sale",
     "category": "Baby & Child Offers (Selected Lines)",
-    "page": "LEGO: 20% off",
-    "page_url": "https://www.johnlewis.com/brand/lego/all-offers/_/N-1z140g1Z1yzvw1q",
-    "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_LEGO|cln||sp|20%|sp|off"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "John Lewis",
-    "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
-    "department": "Sale",
-    "category": "Baby & Child Offers (Selected Lines)",
     "page": "Girls Boots: 20% off",
     "page_url": "https://www.johnlewis.com/browse/baby-child/childrens-shoes/girls-shoes-boots-trainers/all-offers/boots/_/N-8lwZ1yzvw1qZ1yze0w3",
     "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_Girls|sp|Boots|cln||sp|20%|sp|off"
@@ -4035,17 +4013,6 @@
     "page": "Sosandar",
     "page_url": "https://www.johnlewis.com/brand/sosandar/_/N-1yze4xu",
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Sosandar"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "John Lewis",
-    "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
-    "department": "Brands",
-    "category": "Top Brand Offers",
-    "page": "LEGO: 20% off",
-    "page_url": "https://www.johnlewis.com/brand/lego/all-offers/_/N-1z140g1Z1yzvw1q",
-    "file_name": "United|sp|Kingdom_ASOS_Brands_Top|sp|Brand|sp|Offers_LEGO|cln||sp|20%|sp|off"
   },
   {
     "country": "United Kingdom",

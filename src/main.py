@@ -11,7 +11,7 @@ if __name__ == '__main__':
         crawler.crawlUrlsFromConfigPath(sys.argv[1])
         os.environ["HEADLESS"] = sys.argv[2]
         
-        # crawler.crawlUrlsFromConfigPath('Retry_EU')
+        # crawler.crawlUrlsFromConfigPath('Retry_United Kingdom')
         # os.environ["HEADLESS"] = '0'
     except Exception as e:
         print(e)
