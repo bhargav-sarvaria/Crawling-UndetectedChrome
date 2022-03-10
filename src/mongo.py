@@ -13,6 +13,11 @@ class Mongo:
     def getDocuments(self, collection):
         result = list(self.db[collection].find())
         return result
+
+    def getDocumentsForRetry(self, collection):
+        result = list(self.db[collection].find())
+        self.db[collection].delete_many({})
+        return result
    
     def deleteAllDocuments(self, collection):
         result = self.db[collection].delete_many({})

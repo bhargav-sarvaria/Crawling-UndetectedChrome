@@ -67,7 +67,8 @@ class Crawler:
     def crawlUrlsFromConfigPath(self, crawl_folder):
         if 'Retry' in crawl_folder:
             self.crawl_folder = crawl_folder.split('_')[1]
-            crawl_urls = mongo.getDocuments(crawl_folder.split('_')[1])
+            crawl_urls = mongo.getDocumentsForRetry(crawl_folder.split('_')[1])
+
             for idx, page_config in enumerate(crawl_urls):
                 page_config['index'] = str(idx)
                 page_config['url_count'] = str(len(crawl_urls))
