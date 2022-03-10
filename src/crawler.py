@@ -17,6 +17,8 @@ from datetime import datetime
 from lxml import html
 
 mongo = Mongo()
+COLUMN_ORDER = ["product_id","country","retailer","department","category","page""device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
+
 
 class Crawler:
     def __init__(self, thread_limit = 4):
@@ -179,6 +181,7 @@ class Crawler:
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             df = pd.DataFrame(products_data)
+            df = df.reindex(columns=COLUMN_ORDER)
             filname = page_config['file_name'] + '_' + device + '_' + date + '.csv'
             df.to_csv(filname, index=False)
             gcloud_filename = page_config['gcloud_path'] + date + '/' + filname;
