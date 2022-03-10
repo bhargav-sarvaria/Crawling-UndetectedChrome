@@ -144,7 +144,7 @@ class Crawler:
                         time.sleep(1.5)
                     source = BeautifulSoup(d.page_source, 'html.parser')
                     
-                    threading.Thread(target = self.parsePage, args=(source,page_config,)).start()      
+                    threading.Thread(target = self.parsePage, args=(source,page_config,device,)).start()      
                     # self.parsePage(source,page_config, device)
 
                 except Exception as e:
