@@ -23,7 +23,7 @@ class Driver:
     def get_driver(self, 
     country_name='United States', 
     hoxx = False, 
-    channel = 'Desktop',
+    device = 'Desktop',
     use_proxy=False
     ):
         try:
@@ -32,15 +32,17 @@ class Driver:
             opt.add_argument("--disable-dev-shm-usage")
             opt.add_argument("--start-maximized")
             opt.add_argument("--disable-infobars")
-            opt.add_argument('--disable-gpu')
-            opt.add_argument('--blink-settings=imagesEnabled=false')
+            opt.add_argument("--disable-gpu")
+            opt.add_argument("--blink-settings=imagesEnabled=false")
+            opt.add_argument("--disable-geolocation")
+            opt.add_argument("--enable-strict-powerful-feature-restrictions")
             if use_proxy:
                 proxy = self.getProxy()
                 opt.add_argument('--proxy-server=%s' % proxy)
 
             if os.environ['HEADLESS'] == '1':
                 opt.add_argument("--headless")
-            if channel == 'Mobile':
+            if device == 'Mobile':
                 opt.add_argument('--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1')
 
             else:

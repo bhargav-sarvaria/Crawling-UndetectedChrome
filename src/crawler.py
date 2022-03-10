@@ -107,58 +107,60 @@ class Crawler:
         use_proxy = False
         if 'Proxy' in self.crawl_folder:
             use_proxy = True
-        d = self.driver.get_driver(use_proxy=use_proxy)
-        for page_config in page_configs:
-            try:
-                if d == None:
-                    d = self.driver.get_driver(use_proxy=use_proxy)
+        for device in ['Desktop','Mobile']:
+            d = self.driver.get_driver(use_proxy=use_proxy, device=device)
+            for page_config in page_configs:
+                page_config['device'] = device
                 try:
-                    d.get(page_config['page_url'])
-                except  TimeoutException as ex:
-                    x=1                    
+                    if d == None:
+                        d = self.driver.get_driver(use_proxy=use_proxy, device=device)
+                    try:
+                        d.get(page_config['page_url'])
+                    except  TimeoutException as ex:
+                        x=1                    
 
-                if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
-                    execu = '''
-                    var scr = document.createElement('div');
-                    scr.className = "rightClick";
-                    document.body.appendChild(scr);
-                    '''
-                    d.execute_script(execu)
-                    ActionChains(d).context_click(d.find_element(By.CLASS_NAME, 'rightClick')).perform()
-                    time.sleep(0.5)
-                    import pyautogui
-                    for i in range(8):
-                        pyautogui.press('down')
-                    pyautogui.press('enter')
-                    d.execute_script("window.scrollTo(0, 0);")
-                    for i in range(0,10):
+                    if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
+                        execu = '''
+                        var scr = document.createElement('div');
+                        scr.className = "rightClick";
+                        document.body.appendChild(scr);
+                        '''
+                        d.execute_script(execu)
+                        ActionChains(d).context_click(d.find_element(By.CLASS_NAME, 'rightClick')).perform()
                         time.sleep(0.5)
-                        d.execute_script("window.scrollTo(0,"+str(i)+"*(document.body.scrollHeight/10));")
-                else:
-                    d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
-                
-                # Wait for a second since Sephora loads products though javascript
-                if page_config['retailer'] == 'Sephora' or page_config['retailer'] == 'Nykaa':
-                    time.sleep(1.5)
-                source = BeautifulSoup(d.page_source, 'html.parser')
-                
-                threading.Thread(target = self.parsePage, args=(source,page_config,)).start()      
-                # self.parsePage(source,page_config)
+                        import pyautogui
+                        for i in range(8):
+                            pyautogui.press('down')
+                        pyautogui.press('enter')
+                        d.execute_script("window.scrollTo(0, 0);")
+                        for i in range(0,10):
+                            time.sleep(0.5)
+                            d.execute_script("window.scrollTo(0,"+str(i)+"*(document.body.scrollHeight/10));")
+                    else:
+                        d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+                    
+                    # Wait for a second since Sephora loads products though javascript
+                    if page_config['retailer'] == 'Sephora' or page_config['retailer'] == 'Nykaa':
+                        time.sleep(1.5)
+                    source = BeautifulSoup(d.page_source, 'html.parser')
+                    
+                    threading.Thread(target = self.parsePage, args=(source,page_config,)).start()      
+                    # self.parsePage(source,page_config, device)
 
-            except Exception as e:
-                page_config['date'] = datetime.today().strftime('%Y-%m-%d')
-                mongo.addDocument(self.crawl_folder, page_config)
-                print('**ERROR**' + page_config['page_url'] + ' ' + '0')    
-        try:
-            d.close()
-            d.quit()
-        except:
-            x = 1
+                except Exception as e:
+                    page_config['date'] = datetime.today().strftime('%Y-%m-%d')
+                    mongo.addDocument(self.crawl_folder, page_config)
+                    print('**ERROR**' + page_config['page_url'] + ' ' + '0')    
+            try:
+                d.close()
+                d.quit()
+            except:
+                x = 1
         self.RUNNING_THREADS.remove(thread_name)
         if len(self.RUNNING_THREADS) == 0 and not self.queueNotEmpty():
             self.consumerRunning = False
     
-    def parsePage(self, source, page_config):
+    def parsePage(self, source, page_config, device):
         date = datetime.today().strftime('%Y-%m-%d')
         try:
             parser = json.load(open(page_config['parsing_config'],'r'))
@@ -177,7 +179,7 @@ class Crawler:
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             df = pd.DataFrame(products_data)
-            filname = page_config['file_name'] + '_' + date + '.csv'
+            filname = page_config['file_name'] + '_' + device + '_' + date + '.csv'
             df.to_csv(filname, index=False)
             gcloud_filename = page_config['gcloud_path'] + date + '/' + filname;
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)

@@ -42,6 +42,11 @@
       "selectors": [{ "type": "config_value", "value": "page" }]
     },
     {
+      "field": "device",
+      "field_name": "Device",
+      "selectors": [{ "type": "config_value", "value": "device" }]
+    },
+    {
       "field": "page_url",
       "field_name": "Page URL",
       "selectors": [{ "type": "config_value", "value": "page_url" }]
