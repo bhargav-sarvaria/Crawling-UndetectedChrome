@@ -2,7 +2,8 @@
   "fetch_products": {
     "selectors": [
       { "type": "classname", "value": "css-d5z3ro" },
-      { "type": "classname", "value": "product-list-box" }
+      { "type": "classname", "value": "product-list-box" },
+      { "type": "classname", "value": "product-card-wrap" }
     ]
   },
   "fetch_product": [
@@ -56,6 +57,7 @@
       "field_name": "Product Name",
       "selectors": [
         { "type": "classname", "value": "css-xrzmfa" },
+        { "type": "classname", "value": "css-1cisxsl" },
         { "type": "classname", "value": "css-10zjw4o" },
         { "type": "classname", "value": "m-content__product-list__title" }
       ]
@@ -80,6 +82,11 @@
           "selector_attribute": "css-qlopj4"
         },
         {
+          "type": "classname_attribute",
+          "value": "css-u4u0nz",
+          "selector_attribute": "href"
+        },
+        {
           "type": "tagname_attribute",
           "value": "href",
           "selector_attribute": "a"
@@ -91,6 +98,7 @@
       "field_name": "Label",
       "selectors": [
         { "type": "classname", "value": "css-ycjyr6" },
+        { "type": "classname", "value": "css-op2i1d" },
         { "type": "classname", "value": "css-rtqjpr" },
         { "type": "classname", "value": "tags " },
         { "type": "classname", "value": "tags" }
@@ -99,12 +107,15 @@
     {
       "field": "reviews",
       "field_name": "Reviews",
-      "selectors": []
+      "selectors": [
+        { "type": "classname", "value": "css-1j33oxj" },
+        { "type": "classname", "value": "css-1oeynrl" }
+      ]
     },
     {
       "field": "ratings",
       "field_name": "Ratings",
-      "selectors": [{ "type": "classname", "value": "css-1j33oxj" }]
+      "selectors": []
     },
     {
       "field": "date",
