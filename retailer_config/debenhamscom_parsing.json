@@ -1,0 +1,128 @@
+{
+  "fetch_products": {
+    "selectors": [
+      {
+        "type": "classname",
+        "value": "product-card__ProductCardContainer-sc-1yedo7d-0"
+      }
+    ]
+  },
+  "fetch_product": [
+    {
+      "field": "product_id",
+      "field_name": "Product ID",
+      "selectors": [{ "type": "attribute", "value": "data-product-id" }]
+    },
+    {
+      "field": "country",
+      "field_name": "Country",
+      "selectors": [{ "type": "config_value", "value": "country" }]
+    },
+    {
+      "field": "retailer",
+      "field_name": "Retailer",
+      "selectors": [{ "type": "config_value", "value": "retailer" }]
+    },
+    {
+      "field": "department",
+      "field_name": "Department",
+      "selectors": [{ "type": "config_value", "value": "department" }]
+    },
+    {
+      "field": "category",
+      "field_name": "Category",
+      "selectors": [{ "type": "config_value", "value": "category" }]
+    },
+    {
+      "field": "page",
+      "field_name": "Page",
+      "selectors": [{ "type": "config_value", "value": "page" }]
+    },
+    {
+      "field": "device",
+      "field_name": "Device",
+      "selectors": [{ "type": "config_value", "value": "device" }]
+    },
+    {
+      "field": "page_url",
+      "field_name": "Page URL",
+      "selectors": [{ "type": "config_value", "value": "page_url" }]
+    },
+    {
+      "field": "brand",
+      "field_name": "Brand",
+      "selectors": [
+        {
+          "type": "classname_attribute_condition",
+          "value": "heading__StyledHeading-as990v-0",
+          "attribute_key": "data-theme-product-card--brand",
+          "attribute_value": "true"
+        }
+      ]
+    },
+    {
+      "field": "product_name",
+      "field_name": "Product Name",
+      "selectors": [
+        {
+          "type": "classname_attribute_condition",
+          "value": "heading__StyledHeading-as990v-0",
+          "attribute_key": "data-theme-product-card--name",
+          "attribute_value": "true"
+        }
+      ]
+    },
+    {
+      "field": "sku",
+      "field_name": "SKU",
+      "selectors": []
+    },
+    {
+      "field": "position",
+      "field_name": "Position",
+      "selectors": []
+    },
+    {
+      "field": "product_page_url",
+      "field_name": "Product Page URL",
+      "selectors": [
+        {
+          "type": "tagname_attribute",
+          "value": "a",
+          "selector_attribute": "href"
+        }
+      ]
+    },
+    {
+      "field": "listing_label",
+      "field_name": "Label",
+      "selectors": [
+        {
+          "type": "classname",
+          "value": "badge__BadgeDiv-sc-1u4z9yi-1"
+        }
+      ]
+    },
+    {
+      "field": "reviews",
+      "field_name": "Reviews",
+      "selectors": [{ "type": "classname", "value": "product_review_count" }]
+    },
+    {
+      "field": "ratings",
+      "field_name": "Ratings",
+      "selectors": [
+        {
+          "type": "xpath_attribute",
+          "value": "//div/div[4]/div[2]/span",
+          "selector_attribute": "aria-label"
+        }
+      ]
+    },
+    {
+      "field": "date",
+      "field_name": "Date",
+      "selectors": []
+    }
+  ]
+}

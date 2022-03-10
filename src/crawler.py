@@ -107,7 +107,7 @@ class Crawler:
         use_proxy = False
         if 'Proxy' in self.crawl_folder:
             use_proxy = True
-        for device in ['Desktop','Mobile']:
+        for device in ['Desktop', 'Mobile']:
             d = self.driver.get_driver(use_proxy=use_proxy, device=device)
             for page_config in page_configs:
                 page_config['device'] = device
@@ -119,7 +119,7 @@ class Crawler:
                     except  TimeoutException as ex:
                         x=1                    
 
-                    if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
+                    if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang') and d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
                         execu = '''
                         var scr = document.createElement('div');
                         scr.className = "rightClick";
@@ -248,6 +248,17 @@ class Crawler:
                             value = ' '.join([value, element.find( class_= selection).getText()])
                 elif selector['type'] == 'classname_attribute':
                     value = element.find(class_= selector['value']).get(selector['selector_attribute'])
+                elif selector['type'] == 'classname_attribute_condition':
+                    elements = element.find_all(class_= selector['value'])
+                    for el in elements:
+                        try:
+                            if el.get(selector['attribute_key']):
+                                if el.get(selector['attribute_key']) == selector['attribute_value']:
+                                    value = el.getText()
+                                    if value:
+                                        break
+                        except:
+                            continue
                 elif selector['type'] == 'classname_attribute_objectvalue':
                     value = json.loads(element.find(class_= selector['value']).get(selector['selector_attribute']))[selector['object_key']]
                 elif selector['type'] == 'tagname':
