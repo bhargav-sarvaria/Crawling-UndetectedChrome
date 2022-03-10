@@ -265,6 +265,17 @@ class Crawler:
                     value = element.find(selector['value']).getText()
                 elif selector['type'] == 'tagname_attribute':
                     value = element.find(selector['value']).get(selector['selector_attribute'])
+                elif selector['type'] == 'tagname_attribute_condition':
+                    elements = element.find_all(selector['value'])
+                    for el in elements:
+                        try:
+                            if el.get(selector['attribute_key']):
+                                if el.get(selector['attribute_key']) == selector['attribute_value']:
+                                    value = el.getText()
+                                    if value:
+                                        break
+                        except:
+                            continue
                 elif selector['type'] == 'xpath_attribute':
                     value = html.fromstring(element.prettify()).xpath(selector['value'])[0].get(selector['selector_attribute'])
                 elif selector['type'] == 'attribute_objectvalue':

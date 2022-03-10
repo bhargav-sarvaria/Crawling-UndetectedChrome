@@ -2,8 +2,10 @@
   "fetch_products": {
     "selectors": [
       {
-        "type": "classname",
-        "value": "product-card__ProductCardContainer-sc-1yedo7d-0"
+        "type": "tagname_attribute",
+        "value": "a",
+        "attribute_key": "data-test",
+        "attribute_value": "productCard-container"
       }
     ]
   },
@@ -11,7 +13,7 @@
     {
       "field": "product_id",
       "field_name": "Product ID",
-      "selectors": [{ "type": "attribute", "value": "data-product-id" }]
+      "selectors": []
     },
     {
       "field": "country",
@@ -53,10 +55,10 @@
       "field_name": "Brand",
       "selectors": [
         {
-          "type": "classname_attribute_condition",
-          "value": "heading__StyledHeading-as990v-0",
-          "attribute_key": "data-theme-product-card--brand",
-          "attribute_value": "true"
+          "type": "tagname_attribute_condition",
+          "value": "p",
+          "attribute_key": "data-test",
+          "attribute_value": "productCard-brandName"
         }
       ]
     },
@@ -65,10 +67,10 @@
       "field_name": "Product Name",
       "selectors": [
         {
-          "type": "classname_attribute_condition",
-          "value": "heading__StyledHeading-as990v-0",
-          "attribute_key": "data-theme-product-card--name",
-          "attribute_value": "true"
+          "type": "tagname_attribute_condition",
+          "value": "h3",
+          "attribute_key": "data-test",
+          "attribute_value": "productCard-productName"
         }
       ]
     },
@@ -87,9 +89,8 @@
       "field_name": "Product Page URL",
       "selectors": [
         {
-          "type": "tagname_attribute",
-          "value": "a",
-          "selector_attribute": "href"
+          "type": "attribute",
+          "value": "href"
         }
       ]
     },
@@ -98,8 +99,10 @@
       "field_name": "Label",
       "selectors": [
         {
-          "type": "classname",
-          "value": "badge__BadgeDiv-sc-1u4z9yi-1"
+          "type": "tagname_attribute_condition",
+          "value": "h3",
+          "attribute_key": "data-test",
+          "attribute_value": "productCard-productTag"
         }
       ]
     },
