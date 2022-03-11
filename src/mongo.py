@@ -16,6 +16,15 @@ class Mongo:
         document['_id'] = document['file_name'] + self.current_milli_time()
         result = self.db[collection].insert_one(document)
 
+    def addErrorDocument(self, collection, document):
+        result = list(self.db[collection].find({
+            "page_url": document["page_url"], 
+            "date": document["date"]
+        }))
+        if not len(result):
+            document['_id'] = document['file_name'] + self.current_milli_time()
+            result = self.db[collection].insert_one(document)
+
     def getDocuments(self, collection):
         result = list(self.db[collection].find())
         return result

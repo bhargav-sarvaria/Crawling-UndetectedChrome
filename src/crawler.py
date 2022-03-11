@@ -156,8 +156,9 @@ class Crawler:
                     # self.parsePage(source,page_config, device)
 
                 except Exception as e:
+                    page_config['message'] = 'processConfig exception'
                     page_config['date'] = datetime.today().strftime('%Y-%m-%d')
-                    mongo.addDocument(self.crawl_folder, page_config)
+                    mongo.addErrorDocument(self.crawl_folder, page_config)
                     print('**ERROR**' + page_config['page_url'] + ' ' + '0')    
             try:
                 d.close()
@@ -176,14 +177,14 @@ class Crawler:
             if len(products) == 0:
                 page_config['message'] = 'No products'
                 page_config['date'] = date
-                mongo.addDocument(self.crawl_folder, page_config)
+                mongo.addErrorDocument(self.crawl_folder, page_config)
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             products_data = self.getProductsData(products, parser['fetch_product'], page_config)
             if len(products_data) == 0:
                 page_config['message'] = 'No product details'
                 page_config['date'] = date
-                mongo.addDocument(self.crawl_folder, page_config)
+                mongo.addErrorDocument(self.crawl_folder, page_config)
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             df = pd.DataFrame(products_data)
@@ -196,7 +197,9 @@ class Crawler:
                 os.remove(filname)
                 print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
         except Exception as e:
-            mongo.addDocument(self.crawl_folder, page_config)
+            page_config['message'] = 'parsePage exception'
+            page_config['date'] = date
+            mongo.addErrorDocument(self.crawl_folder, page_config)
             print('**ERROR**' + page_config['page_url'] + ' ' + '0')
 
     def fetchProductsinPage(self, element, selectors):
