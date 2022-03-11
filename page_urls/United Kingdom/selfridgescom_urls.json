@@ -203,28 +203,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "WOMEN",
-    "category": "WOMEN",
-    "page": "WOMEN",
-    "page_url": "https://www.selfridges.com/GB/en/cat/womens/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_WOMEN_WOMEN"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "WOMEN",
-    "category": "Shop all women's",
-    "page": "Shop all women's",
-    "page_url": "https://www.selfridges.com/GB/en/cat/womens/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Shop|sp|all|sp|women|sq|s_Shop|sp|all|sp|women|sq|s"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "WOMEN",
     "category": "New this week",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/newin/",
@@ -328,17 +306,6 @@
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/exclusive-to-selfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Our|sp|exclusives_Our|sp|exclusives"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "WOMEN",
-    "category": "Weddings at Selfridges",
-    "page": "Weddings at Selfridges",
-    "page_url": "https://www.selfridges.com/GB/en/cat/wedding-shop/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Weddings|sp|at|sp|Selfridges_Weddings|sp|at|sp|Selfridges"
   },
   {
     "country": "United Kingdom",
@@ -940,17 +907,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "WOMEN",
-    "category": "Rent with us",
-    "page": "Rent with us",
-    "page_url": "https://selfridgesrental.com/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Rent|sp|with|sp|us_Rent|sp|with|sp|us"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "WOMEN",
     "category": "SUPERSELF: the feel-good edit",
     "page": "SUPERSELF: the feel-good edit",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/?freeText=edit+superself&srch=Y",
@@ -988,17 +944,6 @@
     "page": "MEN",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_MEN_MEN"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "MEN",
-    "category": "Shop all men\u2019s",
-    "page": "Shop all men\u2019s",
-    "page_url": "https://www.selfridges.com/GB/en/cat/mens/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Shop|sp|all|sp|men\u2019s_Shop|sp|all|sp|men\u2019s"
   },
   {
     "country": "United Kingdom",
@@ -1076,17 +1021,6 @@
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/exclusive-to-selfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Our|sp|exclusives_Our|sp|exclusives"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "MEN",
-    "category": "Weddings at Selfridges",
-    "page": "Weddings at Selfridges",
-    "page_url": "https://www.selfridges.com/GB/en/cat/wedding-shop/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Weddings|sp|at|sp|Selfridges_Weddings|sp|at|sp|Selfridges"
   },
   {
     "country": "United Kingdom",
@@ -1677,17 +1611,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "MEN",
-    "category": "Rent with us",
-    "page": "Rent with us",
-    "page_url": "https://selfridgesrental.com/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Rent|sp|with|sp|us_Rent|sp|with|sp|us"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "MEN",
     "category": "New in: streetwear",
     "page": "New in: streetwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/streetwear/?app=EDIT+MW+STREETNEWIN&srch=Y",
@@ -1802,28 +1725,6 @@
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/exclusive-to-selfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Our|sp|exclusives_Our|sp|exclusives"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "BAGS",
-    "category": "Repair with us",
-    "page": "Repair with us",
-    "page_url": "https://www.selfridges.com/GB/en/features/project-earth/repair/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Repair|sp|with|sp|us_Repair|sp|with|sp|us"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "BAGS",
-    "category": "Rent with us",
-    "page": "Rent with us",
-    "page_url": "https://selfridgesrental.com/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Rent|sp|with|sp|us_Rent|sp|with|sp|us"
   },
   {
     "country": "United Kingdom",
@@ -2194,17 +2095,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "BAGS",
-    "category": "Resellfridges - Sell your pre-loved accessories",
-    "page": "Resellfridges - Sell your pre-loved accessories",
-    "page_url": "https://www.resellfridges.com/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Resellfridges|sp||h||sp|Sell|sp|your|sp|pre|h|loved|sp|accessories_Resellfridges|sp||h||sp|Sell|sp|your|sp|pre|h|loved|sp|accessories"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "BAGS",
     "category": "Resellfridges - Shop pre-loved & archive",
     "page": "Resellfridges - Shop pre-loved & archive",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/project-earth-resellfridges/",
@@ -2308,17 +2198,6 @@
     "page": "The ultimate shoes to gift",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/gifting-shoes/?app=EDIT+SHOES+GIFTS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|ultimate|sp|shoes|sp|to|sp|gift_The|sp|ultimate|sp|shoes|sp|to|sp|gift"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "SHOES",
-    "category": "The Yellow Draw",
-    "page": "The Yellow Draw",
-    "page_url": "https://www.selfridges.com/GB/en/features/info/the-yellow-draw-for-exclusive-trainers/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|Yellow|sp|Draw_The|sp|Yellow|sp|Draw"
   },
   {
     "country": "United Kingdom",
@@ -3360,17 +3239,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "BEAUTY",
-    "category": "Coming soon",
-    "page": "Coming soon",
-    "page_url": "https://www.selfridges.com/GB/en/features/articles/beauty-coming-soon/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Coming|sp|soon_Coming|sp|soon"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "BEAUTY",
     "category": "Vegan beauty",
     "page": "Vegan beauty",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/project-earth-vegan/",
@@ -4394,17 +4262,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "HOME & TECH",
-    "category": "All home",
-    "page": "Wallpaper",
-    "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/home/wallpaper/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Wallpaper"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "HOME & TECH",
     "category": "All technology",
     "page": "All technology",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/technology/",
@@ -5032,17 +4889,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "GIFTS",
-    "category": "GIFTS",
-    "page": "GIFTS",
-    "page_url": "https://www.selfridges.com/GB/en/features/gifts/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_GIFTS_GIFTS"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "GIFTS",
     "category": "By Recipient",
     "page": "Gifts for her",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-for-her/?app=EDIT+GIFTSFORHER&srch=Y",
@@ -5319,17 +5165,6 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "GIFTS",
     "category": "By Category",
-    "page": "All gifts",
-    "page_url": "https://www.selfridges.com/GB/en/features/gifts/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_All|sp|gifts"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "GIFTS",
-    "category": "By Category",
     "page": "Beauty gifts",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/?freeText=edit+beauty+topbeautygifts&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Beauty|sp|gifts"
@@ -5527,50 +5362,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "GIFTS",
-    "category": "Create your wedding list",
-    "page": "Create your wedding list",
-    "page_url": "https://www.weddingshop.com/register-landing/selfridges?utm_source=selfridges&utm_medium=referral&utm_campaign=selfridges_gifts&referrer=SPLP",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Create|sp|your|sp|wedding|sp|list_Create|sp|your|sp|wedding|sp|list"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "GIFTS",
-    "category": "Gifting inspiration",
-    "page": "Gifting inspiration",
-    "page_url": "https://www.selfridges.com/GB/en/features/gifts/?cm_sp=MegaMenu-_-Gifts-_-gift-inspiration",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Gifting|sp|inspiration_Gifting|sp|inspiration"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "GIFTS",
-    "category": "Gift card",
-    "page": "Gift card",
-    "page_url": "https://www.selfridges.com/GB/en/features/info/gift-card/?cm_sp=MegaMenu-_-Gifts-_-gift-card",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Gift|sp|card_Gift|sp|card"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "GIFTS",
-    "category": "The Experience Concierge",
-    "page": "The Experience Concierge",
-    "page_url": "https://www.selfridges.com/GB/en/features/info/stores/london/store-services/experience-concierge/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_The|sp|Experience|sp|Concierge_The|sp|Experience|sp|Concierge"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "GIFTS",
     "category": "Mother's Day gifts",
     "page": "Mother's Day gifts",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/mothers-day/",
@@ -5586,16 +5377,5 @@
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/mothers-day/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Shop|sp|now_Shop|sp|now"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "PROJECT EARTH",
-    "category": "PROJECT EARTH",
-    "page": "PROJECT EARTH",
-    "page_url": "https://www.selfridges.com/GB/en/features/project-earth/?cm_sp=MegaMenu-_-ProjectEarth-_-ProjectEarth",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_PROJECT|sp|EARTH_PROJECT|sp|EARTH_PROJECT|sp|EARTH"
   }
 ]

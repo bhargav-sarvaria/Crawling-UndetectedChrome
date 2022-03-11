@@ -4,6 +4,10 @@
       {
         "type": "classname",
         "value": "c-listing-items__item"
+      },
+      {
+        "type": "classname",
+        "value": "--observer-attached"
       }
     ]
   },
@@ -16,6 +20,10 @@
           "type": "classname_attribute",
           "value": "--wishlist",
           "selector_attribute": "data-product-id"
+        },
+        {
+          "type": "attribute",
+          "value": "data-product-id"
         }
       ]
     },

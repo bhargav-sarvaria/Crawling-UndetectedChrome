@@ -136,39 +136,6 @@
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Exclusives",
-    "category": "Principles",
-    "page": "Principles",
-    "page_url": "https://www.debenhams.com/page/principles",
-    "file_name": "United|sp|Kingdom_Debenhams_Exclusives_Principles_Principles"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Beauty",
-    "category": "Beauty",
-    "page": "Beauty",
-    "page_url": "https://www.debenhams.com/page/beauty",
-    "file_name": "United|sp|Kingdom_Debenhams_Beauty_Beauty_Beauty"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Beauty",
-    "category": "Sign Up To Beauty Club",
-    "page": "Sign Up To Beauty Club",
-    "page_url": "https://www.debenhams.com/page/beauty-club",
-    "file_name": "United|sp|Kingdom_Debenhams_Beauty_Sign|sp|Up|sp|To|sp|Beauty|sp|Club_Sign|sp|Up|sp|To|sp|Beauty|sp|Club"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
     "category": "All Beauty",
     "page": "All Beauty",
@@ -581,17 +548,6 @@
     "page": "Paraben Free",
     "page_url": "https://www.debenhams.com/category/beauty-conscious-beauty-paraben-free",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Conscious|sp|Beauty_Paraben|sp|Free"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Beauty",
-    "category": "Beauty Brands A-C",
-    "page": "Beauty Brands A-C",
-    "page_url": "https://www.debenhams.com/page/beauty",
-    "file_name": "United|sp|Kingdom_Debenhams_Beauty_Beauty|sp|Brands|sp|A|h|C_Beauty|sp|Brands|sp|A|h|C"
   },
   {
     "country": "United Kingdom",
@@ -1160,17 +1116,6 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Women",
-    "page": "Women",
-    "page_url": "https://www.debenhams.com/page/women",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Women_Women"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
     "category": "Clothing",
     "page": "Dresses",
     "page_url": "https://www.debenhams.com/category/womens-dresses",
@@ -1612,17 +1557,6 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
     "category": "Wedding",
-    "page": "Wedding",
-    "page_url": "https://www.debenhams.com/page/wedding",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Wedding"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "Wedding",
     "page": "Wedding Dresses",
     "page_url": "https://www.debenhams.com/category/womens-dresses-wedding",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Wedding|sp|Dresses"
@@ -1689,42 +1623,9 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
     "category": "Shop By Fit",
-    "page": "Curve",
-    "page_url": "https://www.debenhams.com/page/womens-plus-size",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Fit_Curve"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "Shop By Fit",
-    "page": "Petite",
-    "page_url": "https://www.debenhams.com/page/womens-petite",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Fit_Petite"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "Shop By Fit",
     "page": "Tall",
     "page_url": "https://www.debenhams.com/category/womens-tall",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Fit_Tall"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "Shop By Fit",
-    "page": "Maternity",
-    "page_url": "https://www.debenhams.com/page/maternity",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Fit_Maternity"
   },
   {
     "country": "United Kingdom",
@@ -1747,28 +1648,6 @@
     "page": "Shop By Collection",
     "page_url": "https://www.debenhams.com/category/womens-collections",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Shop|sp|By|sp|Collection"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "Shop By Collection",
-    "page": "Wedding Boutique",
-    "page_url": "https://www.debenhams.com/page/wedding",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Wedding|sp|Boutique"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "Shop By Collection",
-    "page": "The Occasion Shop",
-    "page_url": "https://www.debenhams.com/page/womens-occasion",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_The|sp|Occasion|sp|Shop"
   },
   {
     "country": "United Kingdom",
@@ -1813,17 +1692,6 @@
     "page": "Workwear",
     "page_url": "https://www.debenhams.com/category/womens-workwear",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Workwear"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "Shop By Collection",
-    "page": "Holiday Shop",
-    "page_url": "https://www.debenhams.com/page/holiday-shop",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Holiday|sp|Shop"
   },
   {
     "country": "United Kingdom",
@@ -1967,17 +1835,6 @@
     "page": "Joe Browns",
     "page_url": "https://www.debenhams.com/category/brands-joe-browns",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|by|sp|Brand_Joe|sp|Browns"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Men",
-    "category": "Men",
-    "page": "Men",
-    "page_url": "https://www.debenhams.com/page/men",
-    "file_name": "United|sp|Kingdom_Debenhams_Men_Men_Men"
   },
   {
     "country": "United Kingdom",
@@ -2517,17 +2374,6 @@
     "page": "Watches",
     "page_url": "https://www.debenhams.com/category/brands-watchshop",
     "file_name": "United|sp|Kingdom_Debenhams_Watches_Watches_Watches"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Shoes & Accessories",
-    "category": "Shoes & Accessories",
-    "page": "Shoes & Accessories",
-    "page_url": "https://www.debenhams.com/page/shoes-accessories",
-    "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shoes|sp||as||sp|Accessories_Shoes|sp||as||sp|Accessories"
   },
   {
     "country": "United Kingdom",
@@ -3305,17 +3151,6 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Kids",
-    "category": "Kids",
-    "page": "Kids",
-    "page_url": "https://www.debenhams.com/page/kidswear",
-    "file_name": "United|sp|Kingdom_Debenhams_Kids_Kids_Kids"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Kids",
     "category": "Baby",
     "page": "Baby",
     "page_url": "https://www.debenhams.com/category/kids-baby",
@@ -3954,32 +3789,10 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Kids",
-    "category": "Toys",
-    "page": "Soft Toys",
-    "page_url": "https://www.debenhams.com/category/kids-toys-soft-toys",
-    "file_name": "United|sp|Kingdom_Debenhams_Kids_Toys_Soft|sp|Toys"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Kids",
     "category": "Loungewear",
     "page": "Loungewear",
     "page_url": "https://www.debenhams.com/category/kids-loungewear",
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Loungewear_Loungewear"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Kids",
-    "category": "Shop By Collection",
-    "page": "Shop By Collection",
-    "page_url": "https://www.debenhams.com/page/kidswear",
-    "file_name": "United|sp|Kingdom_Debenhams_Kids_Shop|sp|By|sp|Collection_Shop|sp|By|sp|Collection"
   },
   {
     "country": "United Kingdom",
@@ -4145,17 +3958,6 @@
     "page": "Chipmunks",
     "page_url": "https://www.debenhams.com/category/brands-chipmunks",
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Kids|sp|Brands_Chipmunks"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Lingerie",
-    "category": "Lingerie",
-    "page": "Lingerie",
-    "page_url": "https://www.debenhams.com/page/womens-lingerie",
-    "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Lingerie_Lingerie"
   },
   {
     "country": "United Kingdom",
@@ -4735,17 +4537,6 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Sportswear",
-    "category": "Sportswear",
-    "page": "Sportswear",
-    "page_url": "https://www.debenhams.com/page/sportswear",
-    "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Sportswear_Sportswear"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Sportswear",
     "category": "Womens Sports",
     "page": "Womens Sports",
     "page_url": "https://www.debenhams.com/category/womens-activewear",
@@ -5135,17 +4926,6 @@
     "page": "Under Armour",
     "page_url": "https://www.debenhams.com/category/brands-under-armour",
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Sports|sp|Brands_Under|sp|Armour"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Home",
-    "category": "Home",
-    "page": "Home",
-    "page_url": "https://www.debenhams.com/page/homeware",
-    "file_name": "United|sp|Kingdom_Debenhams_Home_Home_Home"
   },
   {
     "country": "United Kingdom",
@@ -5836,17 +5616,6 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
     "category": "Home Trends",
-    "page": "Home Trends",
-    "page_url": "https://www.debenhams.com/page/home",
-    "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Home|sp|Trends"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Home",
-    "category": "Home Trends",
     "page": "Baking",
     "page_url": "https://www.debenhams.com/category/promotion-3",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Baking"
@@ -6495,17 +6264,6 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Brands",
-    "category": "Principles",
-    "page": "Principles",
-    "page_url": "https://www.debenhams.com/page/principles",
-    "file_name": "United|sp|Kingdom_Debenhams_Brands_Principles_Principles"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Brands",
     "category": "Pure Luxuries",
     "page": "Pure Luxuries",
     "page_url": "https://www.debenhams.com/category/brands-pure-luxuries",
@@ -6781,17 +6539,6 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Sale",
-    "category": "Sale",
-    "page": "Sale",
-    "page_url": "https://www.debenhams.com/page/sale",
-    "file_name": "United|sp|Kingdom_Debenhams_Sale_Sale_Sale"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Sale",
     "category": "View All Sale",
     "page": "View All Sale",
     "page_url": "https://www.debenhams.com/category/sale",
@@ -6994,17 +6741,6 @@
     "page": "Mens Shoes",
     "page_url": "https://www.debenhams.com/category/mens-sale-shoes",
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Mens|sp|Shoes"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Sale",
-    "category": "Shoes & Accessories Sale",
-    "page": "Mens Bags",
-    "page_url": "https://www.debenhams.com/category/mens-sale-accessories-bags",
-    "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Mens|sp|Bags"
   },
   {
     "country": "United Kingdom",
@@ -7379,28 +7115,6 @@
     "page": "Boys Sale",
     "page_url": "https://www.debenhams.com/category/kids-sale-boys",
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_Boys|sp|Sale"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Sale",
-    "category": "Kids Sale",
-    "page": "Underwear & Socks",
-    "page_url": "https://www.debenhams.com/category/kids-sale-underwear-socks",
-    "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_Underwear|sp||as||sp|Socks"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Sale",
-    "category": "Kids Sale",
-    "page": "School Uniform",
-    "page_url": "https://www.debenhams.com/category/kids-sale-school-uniform",
-    "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_School|sp|Uniform"
   },
   {
     "country": "United Kingdom",

@@ -105,6 +105,12 @@ class Crawler:
             page_config['url_count'] = str(len(page_configs))
             self.addConfig(page_config)
 
+    def retailerWait(self, retailer):
+        if retailer == 'Sephora' or retailer == 'Nykaa':
+            time.sleep(1.5)
+        if retailer == 'Harrods' or retailer == 'Selfridges_UK':
+            time.sleep(2.5)
+
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
         if 'Proxy' in self.crawl_folder:
@@ -119,7 +125,10 @@ class Crawler:
                     try:
                         d.get(page_config['page_url'])
                     except  TimeoutException as ex:
-                        x=1                    
+                        x=1         
+
+                    # Wait for lazy loading
+                    self.retailerWait(page_config['retailer'])
 
                     if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang') and d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
                         execu = '''
@@ -141,9 +150,6 @@ class Crawler:
                     else:
                         d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
                     
-                    # Wait for a second since Sephora loads products though javascript
-                    if page_config['retailer'] == 'Sephora' or page_config['retailer'] == 'Nykaa':
-                        time.sleep(1.5)
                     source = BeautifulSoup(d.page_source, 'html.parser')
                     
                     threading.Thread(target = self.parsePage, args=(source,page_config,device,)).start()      

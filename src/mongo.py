@@ -1,4 +1,5 @@
 import pymongo
+import time
 
 class Mongo:
     def __init__(self, database_name = 'DigitalShelfPlatform'):
@@ -7,7 +8,12 @@ class Mongo:
         self.client = pymongo.MongoClient(self.conn_str, serverSelectionTimeoutMS=5000)
         self.db = self.client[self.database_name]
 
+    
+    def current_milli_time(self):
+        return str(round(time.time() * 1000))
+
     def addDocument(self, collection, document):
+        document['_id'] = document['file_name'] + self.current_milli_time()
         result = self.db[collection].insert_one(document)
 
     def getDocuments(self, collection):
