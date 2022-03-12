@@ -106,7 +106,7 @@
     {
       "field": "date",
       "field_name": "Date",
-      "selectors": []
+      "selectors": [{ "type": "config_value", "value": "date" }]
     }
   ]
 }

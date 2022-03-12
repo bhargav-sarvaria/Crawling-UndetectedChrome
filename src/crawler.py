@@ -31,6 +31,7 @@ class Crawler:
         self.bucket = self.storage_client.get_bucket('dsp-retail-scan')
 
     def addConfig(self, page_config):
+        page_config['date'] = datetime.today().strftime('%Y-%m-%d')
         retailer = page_config['retailer']
         if retailer in self.queueMap.keys():
             self.queueMap[retailer].put(page_config)
@@ -133,7 +134,6 @@ class Crawler:
 
                 except Exception as e:
                     page_config['message'] = 'processConfig exception'
-                    page_config['date'] = datetime.today().strftime('%Y-%m-%d')
                     mongo.addErrorDocument(self.crawl_folder, page_config)
                     print('**ERROR**' + page_config['page_url'] + ' ' + '0')    
             try:
@@ -146,35 +146,31 @@ class Crawler:
             self.consumerRunning = False
     
     def parsePage(self, source, page_config, device):
-        date = datetime.today().strftime('%Y-%m-%d')
         try:
             parser = json.load(open(page_config['parsing_config'],'r'))
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
                 page_config['message'] = 'No products'
-                page_config['date'] = date
                 mongo.addErrorDocument(self.crawl_folder, page_config)
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             products_data = self.getProductsData(products, parser['fetch_product'], page_config)
             if len(products_data) == 0:
                 page_config['message'] = 'No product details'
-                page_config['date'] = date
                 mongo.addErrorDocument(self.crawl_folder, page_config)
                 print('**ERROR**' + page_config['page_url'] + ' ' + '0')
                 return
             df = pd.DataFrame(products_data)
             df = df.reindex(columns=COLUMN_ORDER)
-            filname = page_config['file_name'] + '_' + device + '_' + date + '.csv'
+            filname = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
             df.to_csv(filname, index=False)
-            gcloud_filename = page_config['gcloud_path'] + date + '/' + filname;
+            gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname;
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
             if os.path.exists(filname):
                 os.remove(filname)
                 print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
         except Exception as e:
             page_config['message'] = 'parsePage exception'
-            page_config['date'] = date
             mongo.addErrorDocument(self.crawl_folder, page_config)
             print('**ERROR**' + page_config['page_url'] + ' ' + '0')
 
@@ -311,15 +307,13 @@ class Crawler:
                 product_data = {}
                 for product_attr in product_attrs:
                     field = product_attr['field']
-                    if field != 'position' and field != 'date': 
+                    if field != 'position': 
                         product_data[field] = self.fetchTextFromSelectors(product, product_attr['selectors'], page_config)
                     elif field == 'position':
                         if product_data['product_name'] == '' or product_data['product_name'] is None:
                             continue
                         product_data[field] = position_counter
                         position_counter += 1
-                    elif field == 'date':
-                        product_data[field] = datetime.today().strftime('%Y-%m-%d')
                 if product_data['product_name'] == '' or product_data['product_name'] is None:
                     continue
                 products_data.append(product_data)
