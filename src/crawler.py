@@ -105,12 +105,6 @@ class Crawler:
             page_config['url_count'] = str(len(page_configs))
             self.addConfig(page_config)
 
-    def retailerWait(self, retailer):
-        if retailer == 'Sephora' or retailer == 'Nykaa':
-            time.sleep(1.5)
-        if retailer == 'Harrods' or retailer == 'Selfridges_UK':
-            time.sleep(2.5)
-
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
         if 'Proxy' in self.crawl_folder:
@@ -129,26 +123,8 @@ class Crawler:
 
                     # Wait for lazy loading
                     self.retailerWait(page_config['retailer'])
-
-                    if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang') and d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
-                        execu = '''
-                        var scr = document.createElement('div');
-                        scr.className = "rightClick";
-                        document.body.appendChild(scr);
-                        '''
-                        d.execute_script(execu)
-                        ActionChains(d).context_click(d.find_element(By.CLASS_NAME, 'rightClick')).perform()
-                        time.sleep(0.5)
-                        import pyautogui
-                        for i in range(8):
-                            pyautogui.press('down')
-                        pyautogui.press('enter')
-                        d.execute_script("window.scrollTo(0, 0);")
-                        for i in range(0,10):
-                            time.sleep(0.5)
-                            d.execute_script("window.scrollTo(0,"+str(i)+"*(document.body.scrollHeight/10));")
-                    else:
-                        d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+                    # self.translateToEnglish(d)
+                    d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
                     
                     source = BeautifulSoup(d.page_source, 'html.parser')
                     
@@ -350,3 +326,30 @@ class Crawler:
         except Exception as e:
             return []
         return products_data
+
+    def retailerWait(self, retailer):
+        if retailer == 'Sephora' or retailer == 'Nykaa':
+            time.sleep(1.5)
+        if retailer == 'Harrods' or retailer == 'Selfridges_UK':
+            time.sleep(2.5)
+
+    def translateToEnglish(self, d):
+        if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang') and d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
+            execu = '''
+            var scr = document.createElement('div');
+            scr.className = "rightClick";
+            document.body.appendChild(scr);
+            '''
+            d.execute_script(execu)
+            ActionChains(d).context_click(d.find_element(By.CLASS_NAME, 'rightClick')).perform()
+            time.sleep(0.5)
+            import pyautogui
+            for i in range(8):
+                pyautogui.press('down')
+            pyautogui.press('enter')
+            d.execute_script("window.scrollTo(0, 0);")
+            for i in range(0,10):
+                time.sleep(0.5)
+                d.execute_script("window.scrollTo(0,"+str(i)+"*(document.body.scrollHeight/10));")
+
+    
