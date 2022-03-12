@@ -57,6 +57,7 @@ class Driver:
                 opt.add_argument(extensions)
 
             driver = uc.Chrome(options = opt, use_subprocess=True)
+            driver.set_page_load_timeout(10)
 
             if hoxx:
                 handles = driver.window_handles

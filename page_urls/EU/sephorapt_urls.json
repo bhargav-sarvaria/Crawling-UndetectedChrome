@@ -621,17 +621,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "MAKE-UP",
-    "category": "BEAUTY IDEAS",
-    "page": "quiz of your base",
-    "page_url": "",
-    "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BEAUTY|sp|IDEAS_quiz|sp|of|sp|your|sp|base"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Sephora_PT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "MAKE-UP",
     "category": "ARTISTIC MAKEUP",
     "page": "ARTISTIC MAKEUP",
     "page_url": "https://www.sephora.pt/maquilhagem/maquilhagem-artistica-c299923/",

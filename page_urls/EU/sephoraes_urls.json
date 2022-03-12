@@ -709,17 +709,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "TREATMENT",
-    "category": "-30% FOREO MASKS",
-    "page": "-30% FOREO MASKS",
-    "page_url": "https://www.sephora.es/productos-promo-foreo/",
-    "file_name": "Spain_Sephora_ES_TREATMENT_|h|30%|sp|FOREO|sp|MASKS_|h|30%|sp|FOREO|sp|MASKS"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "TREATMENT",
     "category": "UP TO -45% ON YOUR TREATMENT ROUTINE",
     "page": "UP TO -45% ON YOUR TREATMENT ROUTINE",
     "page_url": "https://www.sephora.es/productos-rutina-skincare/",
