@@ -40,8 +40,7 @@ class Driver:
                 proxy = self.getProxy()
                 opt.add_argument('--proxy-server=%s' % proxy)
 
-            if os.environ['HEADLESS'] == '1':
-                opt.add_argument("--headless")
+            
             if device == 'Mobile':
                 opt.add_argument('--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1')
 
@@ -51,6 +50,11 @@ class Driver:
             extensions = '--load-extension='+extension_folder+'CSS-Block,'+extension_folder+'GIF-blocker'
             if hoxx:
                 extensions = extensions + ','+extension_folder+'hoxx'
+
+            if os.environ['HEADLESS'] == '1':
+                opt.add_argument("--headless")
+            else:
+                opt.add_argument(extensions)
 
             driver = uc.Chrome(options = opt, use_subprocess=True)
 
