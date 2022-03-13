@@ -15,6 +15,9 @@ from os import listdir
 from os.path import isfile, join
 from datetime import datetime
 from lxml import html
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 mongo = Mongo()
 COLUMN_ORDER = ["product_id","country","retailer","department","category","page""device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
@@ -29,6 +32,7 @@ class Crawler:
         self.RUNNING_THREADS = []
         self.storage_client = storage.Client.from_service_account_json('config/dsp_retail_scan_cred.json')
         self.bucket = self.storage_client.get_bucket('dsp-retail-scan')
+        self.parser_map = {}
 
     def addConfig(self, page_config):
         if 'date' not in page_config:
@@ -74,6 +78,8 @@ class Crawler:
             crawl_urls = mongo.getDocumentsForRetry(crawl_folder.split('_')[1])
 
             for idx, page_config in enumerate(crawl_urls):
+                if page_config['retailer'] not in self.parser_map:
+                    self.parser_map[page_config['retailer']] = json.load(open(page_config['parsing_config'],'r'))
                 page_config['index'] = str(idx)
                 page_config['url_count'] = str(len(crawl_urls))
                 self.addConfig(page_config)
@@ -87,7 +93,10 @@ class Crawler:
                 if '.json' not in crawl_page:
                     continue
                 crawl_urls = json.load(open(crawl_page,'r'))
-
+                
+                # Store the opened config file in local variable
+                if len(crawl_urls):
+                    self.parser_map[crawl_urls[0]['retailer']] = json.load(open(crawl_urls[0]['parsing_config'],'r'))
                 for idx, page_config in enumerate(crawl_urls):
                     page_config['index'] = str(idx)
                     page_config['url_count'] = str(len(crawl_urls))
@@ -124,7 +133,7 @@ class Crawler:
                         x=1         
 
                     # Wait for lazy loading
-                    self.retailerWait(page_config['retailer'])
+                    self.retailerWait(d, page_config)
                     # self.translateToEnglish(d)
                     d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
                     
@@ -148,7 +157,8 @@ class Crawler:
     
     def parsePage(self, source, page_config, device):
         try:
-            parser = json.load(open(page_config['parsing_config'],'r'))
+            # parser = json.load(open(page_config['parsing_config'],'r'))
+            parser = self.parser_map[page_config['retailer']]
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
                 page_config['message'] = 'No products'
@@ -322,13 +332,20 @@ class Crawler:
             return []
         return products_data
 
-    def retailerWait(self, retailer):
-        if retailer in ['Sephora', 'Nykaa']:
+    def retailerWait(self, d, page_config):
+        retailer = page_config['retailer']
+        
+
+        if retailer == 'Sephora_AU':
+            d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+            parser = self.parser_map[page_config['retailer']]
+            WebDriverWait(d, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['fetch_products']['selectors'][0]["value"])))
+        elif retailer in ['Harrods', 'Selfridges_UK']:
+            time.sleep(2.5)
+        elif retailer in ['Sephora', 'Nykaa']:
             time.sleep(1.5)
         elif retailer in ['Myer']:
             time.sleep(2)
-        if retailer in ['Harrods', 'Selfridges_UK']:
-            time.sleep(2.5)
 
     def translateToEnglish(self, d):
         if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang') and d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
