@@ -1049,17 +1049,6 @@
     "retailer": "Sephora",
     "department": "Skincare",
     "category": "Help Me Choose",
-    "page": "Skincare by Age",
-    "page_url": "https://www.sephora.com/beauty/skin-care-by-age",
-    "file_name": "United|sp|States_Sephora_Skincare_Help|sp|Me|sp|Choose_Skincare|sp|by|sp|Age",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "United States",
-    "retailer": "Sephora",
-    "department": "Skincare",
-    "category": "Help Me Choose",
     "page": "Skincare for Your Skin Type",
     "page_url": "https://www.sephora.com/beauty/skin-care-for-different-skin-types",
     "file_name": "United|sp|States_Sephora_Skincare_Help|sp|Me|sp|Choose_Skincare|sp|for|sp|Your|sp|Skin|sp|Type",

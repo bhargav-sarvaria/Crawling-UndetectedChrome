@@ -31,7 +31,8 @@ class Crawler:
         self.bucket = self.storage_client.get_bucket('dsp-retail-scan')
 
     def addConfig(self, page_config):
-        page_config['date'] = datetime.today().strftime('%Y-%m-%d')
+        if 'date' not in page_config:
+            page_config['date'] = datetime.today().strftime('%Y-%m-%d')
         retailer = page_config['retailer']
         if retailer in self.queueMap.keys():
             self.queueMap[retailer].put(page_config)
