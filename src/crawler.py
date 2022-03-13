@@ -336,13 +336,14 @@ class Crawler:
         retailer = page_config['retailer']
         
 
-        if retailer == 'Sephora_AU':
+        if retailer in ['Sephora_AU', 'Selfridges_UK', 'Harrods']:
             d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
             parser = self.parser_map[page_config['retailer']]
-            WebDriverWait(d, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['fetch_products']['selectors'][0]["value"])))
-        elif retailer in ['Harrods', 'Selfridges_UK']:
-            time.sleep(2.5)
-        elif retailer in ['Sephora', 'Nykaa']:
+            try:
+                WebDriverWait(d, 8).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class'])))
+            except Exception as e:
+                x = 1
+        elif retailer in ['Sephora', 'Nykaa'] or 'Sephora' in retailer:
             time.sleep(1.5)
         elif retailer in ['Myer']:
             time.sleep(2)

@@ -11,6 +11,7 @@
       }
     ]
   },
+  "wait_for_class": "c-listing-items__item",
   "fetch_product": [
     {
       "field": "product_id",

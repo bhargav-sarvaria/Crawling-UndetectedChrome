@@ -3261,17 +3261,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "TIPS",
-    "category": "TIPS",
-    "page": "TIPS",
-    "page_url": "https://www.sephora.fr/cadeaux-bon-plan-beaute-bon-plan-beaute/",
-    "file_name": "France_Sephora_FR_TIPS_TIPS_TIPS"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "TIPS",
     "category": "Sephora Collection: 3 for 2",
     "page": "Sephora Collection: 3 for 2",
     "page_url": "https://www.sephora.fr/marques/de-a-a-z/sephora-collection-sepho/?scgid=C302",
@@ -3342,17 +3331,6 @@
     "page": "test me",
     "page_url": "https://www.sephora.fr/testez-moi.html",
     "file_name": "France_Sephora_FR_TIPS_test|sp|me_test|sp|me"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "TIPS",
-    "category": "Our mini products offered",
-    "page": "Our mini products offered",
-    "page_url": "https://www.sephora.fr/cadeaux-bon-plan-beaute-bon-plan-beaute/",
-    "file_name": "France_Sephora_FR_TIPS_Our|sp|mini|sp|products|sp|offered_Our|sp|mini|sp|products|sp|offered"
   },
   {
     "country": "France",

@@ -3474,16 +3474,5 @@
     "page": "facial cleansing",
     "page_url": "https://www.sephora.de/marken/alle-marken-von-a---z/sephora-collection-sepho/?scgid=C7633",
     "file_name": "Germany_Sephora_DE_SEPHORA|sp|COLLECTION_facial|sp|cleansing_facial|sp|cleansing"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Sephora_DE",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Sephora_DE/",
-    "department": "BEAUTY TRENDS",
-    "category": "BEAUTY TRENDS",
-    "page": "BEAUTY TRENDS",
-    "page_url": "https://www.sephora.de/weekly-wows/",
-    "file_name": "Germany_Sephora_DE_BEAUTY|sp|TRENDS_BEAUTY|sp|TRENDS_BEAUTY|sp|TRENDS"
   }
 ]

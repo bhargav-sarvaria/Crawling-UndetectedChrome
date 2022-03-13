@@ -9,6 +9,7 @@
       }
     ]
   },
+  "wait_for_class": "productGrid",
   "fetch_product": [
     {
       "field": "product_id",
