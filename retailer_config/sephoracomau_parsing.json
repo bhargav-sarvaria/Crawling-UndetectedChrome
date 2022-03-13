@@ -1,12 +1,12 @@
 {
   "fetch_products": {
-    "selectors": [{ "type": "classname", "value": "productThumbnail" }]
+    "selectors": [{ "type": "classname", "value": "product-card" }]
   },
   "fetch_product": [
     {
       "field": "product_id",
       "field_name": "Product ID",
-      "selectors": [{ "type": "attribute", "value": "id" }]
+      "selectors": [{ "type": "attribute", "value": "data-variant-id" }]
     },
     {
       "field": "country",
@@ -21,12 +21,7 @@
     {
       "field": "department",
       "field_name": "Department",
-      "selectors": [
-        {
-          "type": "config_value",
-          "value": "department"
-        }
-      ]
+      "selectors": [{ "type": "config_value", "value": "department" }]
     },
     {
       "field": "category",
@@ -51,15 +46,15 @@
     {
       "field": "brand",
       "field_name": "Brand",
-      "selectors": [{ "type": "classname", "value": "brand" }]
+      "selectors": [
+        { "type": "delete_classname", "value": "dy-product-card-label" },
+        { "type": "classname", "value": "product-card-brand" }
+      ]
     },
     {
       "field": "product_name",
       "field_name": "Product Name",
-      "selectors": [
-        { "type": "delete_classname", "value": "brand" },
-        { "type": "classname", "value": "productDescription" }
-      ]
+      "selectors": [{ "type": "classname", "value": "product-card-product" }]
     },
     {
       "field": "sku",
@@ -77,7 +72,7 @@
       "selectors": [
         {
           "type": "classname_attribute",
-          "value": "productDescLink",
+          "value": "product-card-image-container",
           "selector_attribute": "href"
         }
       ]
@@ -90,12 +85,18 @@
     {
       "field": "reviews",
       "field_name": "Reviews",
-      "selectors": []
+      "selectors": [{ "type": "classname", "value": "product-rating-count" }]
     },
     {
       "field": "ratings",
       "field_name": "Ratings",
-      "selectors": []
+      "selectors": [
+        {
+          "type": "classname_attribute",
+          "value": "rateit-range",
+          "selector_attribute": "aria-valuenow"
+        }
+      ]
     },
     {
       "field": "date",
