@@ -322,9 +322,11 @@ class Crawler:
         return products_data
 
     def retailerWait(self, retailer):
-        if retailer == 'Sephora' or retailer == 'Nykaa':
+        if retailer in ['Sephora', 'Nykaa']:
             time.sleep(1.5)
-        if retailer == 'Harrods' or retailer == 'Selfridges_UK':
+        elif retailer in ['Myer']:
+            time.sleep(2)
+        if retailer in ['Harrods', 'Selfridges_UK']:
             time.sleep(2.5)
 
     def translateToEnglish(self, d):
