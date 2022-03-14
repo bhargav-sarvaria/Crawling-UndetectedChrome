@@ -135,7 +135,6 @@ class Crawler:
                     # Wait for lazy loading
                     self.retailerWait(d, page_config, device)
                     # self.translateToEnglish(d)
-                    d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
                     
                     source = BeautifulSoup(d.page_source, 'html.parser')
                     

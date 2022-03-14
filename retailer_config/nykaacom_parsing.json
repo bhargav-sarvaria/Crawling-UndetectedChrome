@@ -4,7 +4,8 @@
       { "type": "classname", "value": "productWrapper" },
       { "type": "classname", "value": "product-card-wrap" },
       { "type": "classname", "value": "css-d5z3ro" },
-      { "type": "classname", "value": "product-list-box" }
+      { "type": "classname", "value": "product-list-box" },
+      { "type": "classname", "value": "product-info-box" }
     ]
   },
   "wait_for_class_device": {
@@ -95,6 +96,10 @@
           "type": "tagname_attribute",
           "value": "href",
           "selector_attribute": "a"
+        },
+        {
+          "type": "attribute",
+          "value": "href"
         }
       ]
     },
@@ -114,7 +119,8 @@
       "field_name": "Reviews",
       "selectors": [
         { "type": "classname", "value": "css-1j33oxj" },
-        { "type": "classname", "value": "css-1oeynrl" }
+        { "type": "classname", "value": "css-1oeynrl" },
+        { "type": "classname", "value": "rating-count" }
       ]
     },
     {

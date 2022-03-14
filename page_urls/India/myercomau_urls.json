@@ -4361,28 +4361,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Toys",
-    "category": "All Toys",
-    "page": "All Toys",
-    "page_url": "https://www.myer.com.au/c/all-toys",
-    "file_name": "Australia_Myer_Toys_All|sp|Toys_All|sp|Toys"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Toys",
-    "category": "Toys Mid Season Sale",
-    "page": "Toys Mid Season Sale",
-    "page_url": "https://www.myer.com.au/c/all-toys/toys-sale--1",
-    "file_name": "Australia_Myer_Toys_Toys|sp|Mid|sp|Season|sp|Sale_Toys|sp|Mid|sp|Season|sp|Sale"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Toys",
     "category": "Action Figures",
     "page": "Action Figures",
     "page_url": "https://www.myer.com.au/c/all-toys/action-figures-accessories",
@@ -4889,17 +4867,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "All Gifts",
-    "page": "All Gifts",
-    "page_url": "https://www.myer.com.au/c/gifts",
-    "file_name": "Australia_Myer_Gifts_All|sp|Gifts_All|sp|Gifts"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
     "category": "Personalised Gifts",
     "page": "Personalised Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/personalised-gifts--1",
@@ -4926,28 +4893,6 @@
     "page": "Food & Hampers",
     "page_url": "https://www.myer.com.au/c/gifts/food-hampers-gifts",
     "file_name": "Australia_Myer_Gifts_Food|sp||as||sp|Hampers_Food|sp||as||sp|Hampers"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
-    "category": "Shop With Confidence",
-    "page": "Shop With Confidence",
-    "page_url": "https://www.myer.com.au/content/shop-your-way",
-    "file_name": "Australia_Myer_Gifts_Shop|sp|With|sp|Confidence_Shop|sp|With|sp|Confidence"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
-    "category": "The Easter Shop",
-    "page": "The Easter Shop",
-    "page_url": "https://www.myer.com.au/c/gifts/easter-shop",
-    "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_The|sp|Easter|sp|Shop"
   },
   {
     "country": "Australia",

@@ -1,0 +1,20 @@
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+sudo apt update
+sudo apt install gh
+
+git config --global user.name "bhargav-sarvaria"
+git config --global user.email "bhargav.sarvaria@gmail.com"
+
+gh auth login
+token = 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
+
+gh repo clone bhargav-sarvaria/DigitalShelfPlatform
+cd DigitalShelfPlatform
+chmod +x ./config/setup_chrome.sh 
+sudo ./config/setup_chrome.sh 
+
+crontab -e
+
+30 16 * * * cd /home/analytics_digitaledge/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py 'United States' 1 >>  ./file.log
+30 6 * * * cd /home/analytics_digitaledge/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py India 1 >>  ./file.log
