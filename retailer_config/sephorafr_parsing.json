@@ -6,13 +6,14 @@
         "value": "owl-item",
         "delete_value": "global-nav, sticky-carousel, hide, cloned"
       },
+      { "type": "classname", "value": "product-tile" },
       {
         "type": "classname",
         "value": "bv-recommended-product"
-      },
-      { "type": "classname", "value": "product-tile" }
+      }
     ]
   },
+  "wait_for_class": "product-tile",
   "fetch_product": [
     {
       "field": "product_id",

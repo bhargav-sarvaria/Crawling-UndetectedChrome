@@ -3,10 +3,11 @@
     "selectors": [
       {
         "type": "classname",
-        "value": "product-thumbnail grid-33 tablet-grid-33 mobile-grid-50 grid-1600 enhancement"
+        "value": "product-thumbnail"
       }
     ]
   },
+  "wait_for_class": "product-thumbnail",
   "fetch_product": [
     {
       "field": "product_id",

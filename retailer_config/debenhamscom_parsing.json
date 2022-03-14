@@ -7,6 +7,7 @@
       }
     ]
   },
+  "wait_for_class": "product-card__ProductCardContainer-sc-1yedo7d-0",
   "fetch_product": [
     {
       "field": "product_id",

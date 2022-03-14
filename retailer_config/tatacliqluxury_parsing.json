@@ -2,6 +2,7 @@
   "fetch_products": {
     "selectors": [{ "type": "classname", "value": "plpPrdGridItem" }]
   },
+  "wait_for_class": "plpPrdGridItem",
   "fetch_product": [
     {
       "field": "product_id",

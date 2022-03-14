@@ -9,6 +9,7 @@
       }
     ]
   },
+  "wait_for_tag": "section",
   "fetch_product": [
     {
       "field": "product_id",

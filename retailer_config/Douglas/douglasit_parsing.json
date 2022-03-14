@@ -2,6 +2,7 @@
   "fetch_products": {
     "selectors": [{ "type": "classname", "value": "rd__product-tile" }]
   },
+  "wait_for_class": "rd__product-tile",
   "fetch_product": [
     {
       "field": "product_id",

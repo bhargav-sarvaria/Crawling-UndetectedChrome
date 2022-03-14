@@ -2,6 +2,7 @@
   "fetch_products": {
     "selectors": [{ "type": "tagname", "value": "article" }]
   },
+  "wait_for_tag": "article",
   "fetch_product": [
     {
       "field": "product_id",
