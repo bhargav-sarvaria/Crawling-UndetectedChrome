@@ -1,10 +1,15 @@
 {
   "fetch_products": {
     "selectors": [
+      { "type": "classname", "value": "productWrapper" },
+      { "type": "classname", "value": "product-card-wrap" },
       { "type": "classname", "value": "css-d5z3ro" },
-      { "type": "classname", "value": "product-list-box" },
-      { "type": "classname", "value": "product-card-wrap" }
+      { "type": "classname", "value": "product-list-box" }
     ]
+  },
+  "wait_for_class_device": {
+    "Mobile": "product-card-wrap",
+    "Desktop": "productWrapper"
   },
   "fetch_product": [
     {

@@ -133,7 +133,7 @@ class Crawler:
                         x=1         
 
                     # Wait for lazy loading
-                    self.retailerWait(d, page_config)
+                    self.retailerWait(d, page_config, device)
                     # self.translateToEnglish(d)
                     d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
                     
@@ -332,27 +332,23 @@ class Crawler:
             return []
         return products_data
 
-    def retailerWait(self, d, page_config):
-        retailer = page_config['retailer']
-        
-        if 'wait_for_class' in parser:
+    def retailerWait(self, d, page_config, device):
+        try:
             d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+            retailer = page_config['retailer']
             parser = self.parser_map[page_config['retailer']]
-            try:
-                WebDriverWait(d, 8).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class'])))
-            except Exception as e:
-                x = 1
-        elif 'wait_for_tag' in parser:
-                d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
-                parser = self.parser_map[page_config['retailer']]
-                try:
-                    WebDriverWait(d, 8).until(EC.visibility_of_element_located((By.TAG_NAME, parser['wait_for_tag'])))
-                except Exception as e:
-                    x = 1
-        elif retailer in ['Sephora', 'Nykaa'] or 'Sephora' in retailer:
-            time.sleep(1.5)
-        elif retailer in ['Myer']:
-            time.sleep(2)
+            if 'wait_for_class' in parser:
+                WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class'])))
+            elif 'wait_for_class_device' in parser:
+                WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class_device'][device])))
+            elif 'wait_for_tag' in parser:
+                    WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.TAG_NAME, parser['wait_for_tag'])))
+            elif 'Sephora' in retailer:
+                time.sleep(1.5)
+            elif retailer in ['Myer']:
+                time.sleep(2)
+        except Exception as e:
+            return
 
     def translateToEnglish(self, d):
         if 'en' not in d.find_element(By.TAG_NAME, 'html').get_attribute('lang') and d.find_element(By.TAG_NAME, 'html').get_attribute('lang'):
