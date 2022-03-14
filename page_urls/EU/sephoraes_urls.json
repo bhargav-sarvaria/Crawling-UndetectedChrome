@@ -3073,17 +3073,6 @@
     "retailer": "Sephora_ES",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "NEW",
-    "category": "Huda Beauty Rose Quartz Palette",
-    "page": "Huda Beauty Rose Quartz Palette",
-    "page_url": "https://www.sephora.es/p/rose-quartz-eyeshadow-palette---paleta-sombras-de-ojos-P10022118.html",
-    "file_name": "Spain_Sephora_ES_NEW_Huda|sp|Beauty|sp|Rose|sp|Quartz|sp|Palette_Huda|sp|Beauty|sp|Rose|sp|Quartz|sp|Palette"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "BRANDS",
     "category": "SEPHORA COLLECTION",
     "page": "SEPHORA COLLECTION",

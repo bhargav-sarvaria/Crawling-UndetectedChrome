@@ -6,6 +6,10 @@
         "value": "li",
         "attribute_key": "data-automation",
         "attribute_value": "product-grid-item"
+      },
+      {
+        "type": "classname",
+        "value": "dy-recommendation-product"
       }
     ]
   },
@@ -13,7 +17,10 @@
     {
       "field": "product_id",
       "field_name": "Product ID",
-      "selectors": [{ "type": "attribute", "value": "id" }]
+      "selectors": [
+        { "type": "attribute", "value": "id" },
+        { "type": "attribute", "value": "data-dy-sku" }
+      ]
     },
     {
       "field": "country",
@@ -59,6 +66,10 @@
           "value": "span",
           "attribute_key": "data-automation",
           "attribute_value": "product-brand"
+        },
+        {
+          "type": "classname",
+          "value": "dy-recommendation-product__detail--brand-name"
         }
       ]
     },
@@ -71,6 +82,10 @@
           "value": "span",
           "attribute_key": "data-automation",
           "attribute_value": "product-name"
+        },
+        {
+          "type": "classname",
+          "value": "dy-recommendation-product__detail--name"
         }
       ]
     },
@@ -92,6 +107,10 @@
           "type": "tagname_attribute",
           "value": "a",
           "selector_attribute": "href"
+        },
+        {
+          "type": "attribute",
+          "value": "href"
         }
       ]
     },

@@ -446,17 +446,6 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "MAKEUP",
     "category": "NAILS",
-    "page": "Artificial Nails",
-    "page_url": "https://www.sephora.com.au/categories/makeup/nails/artificial-nails",
-    "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Artificial|sp|Nails"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "MAKEUP",
-    "category": "NAILS",
     "page": "Nail Treatments",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails/nail-treatments",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Nail|sp|Treatments"
@@ -812,17 +801,6 @@
     "page": "Self Tanner",
     "page_url": "https://www.sephora.com.au/categories/skincare/suncare/self-tanner",
     "file_name": "Australia_Sephora_AU_SKINCARE_SUN|sp|CARE_Self|sp|Tanner"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "SKINCARE",
-    "category": "SUN CARE",
-    "page": "After Sun Care",
-    "page_url": "https://www.sephora.com.au/categories/skincare/suncare/after-sun-care",
-    "file_name": "Australia_Sephora_AU_SKINCARE_SUN|sp|CARE_After|sp|Sun|sp|Care"
   },
   {
     "country": "Australia",
@@ -1370,17 +1348,6 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "TOOLS & BRUSHES",
     "category": "MANICURE & PEDICURE",
-    "page": "Nail Brushes",
-    "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/nail-brushes",
-    "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Nail|sp|Brushes"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "TOOLS & BRUSHES",
-    "category": "MANICURE & PEDICURE",
     "page": "Nail Clippers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/nail-clippers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Nail|sp|Clippers"
@@ -1395,28 +1362,6 @@
     "page": "Nail Files & Buffers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/nail-files-and-buffers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Nail|sp|Files|sp||as||sp|Buffers"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "TOOLS & BRUSHES",
-    "category": "MANICURE & PEDICURE",
-    "page": "Scissors",
-    "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/scissors",
-    "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Scissors"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "TOOLS & BRUSHES",
-    "category": "MANICURE & PEDICURE",
-    "page": "Toe Separators",
-    "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/toe-separators",
-    "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Toe|sp|Separators"
   },
   {
     "country": "Australia",
@@ -1549,17 +1494,6 @@
     "page": "Dental Care",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices/dental-care",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_Dental|sp|Care"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "TOOLS & BRUSHES",
-    "category": "BEAUTY DEVICES",
-    "page": "Hair Removal",
-    "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices/hair-removal",
-    "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_Hair|sp|Removal"
   },
   {
     "country": "Australia",
@@ -1703,17 +1637,6 @@
     "page": "Body Exfoliator",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower/body-exfoliator",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_Body|sp|Exfoliator"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "BATH & BODY",
-    "category": "BATH & SHOWER",
-    "page": "Body Sponges",
-    "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower/body-sponges",
-    "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_Body|sp|Sponges"
   },
   {
     "country": "Australia",
@@ -1879,39 +1802,6 @@
     "page": "Beauty Support Supplements",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments/beauty-support-supplements",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_Beauty|sp|Support|sp|Supplements"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "BATH & BODY",
-    "category": "TREATMENTS",
-    "page": "Cellulite & Stretch Marks",
-    "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments/cellulite-and-stretch-marks",
-    "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_Cellulite|sp||as||sp|Stretch|sp|Marks"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "BATH & BODY",
-    "category": "TREATMENTS",
-    "page": "Contouring & Sculpting",
-    "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments/contouring-and-sculpting",
-    "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_Contouring|sp||as||sp|Sculpting"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "BATH & BODY",
-    "category": "TREATMENTS",
-    "page": "Mother & Baby",
-    "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments/mother-and-baby",
-    "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_Mother|sp||as||sp|Baby"
   },
   {
     "country": "Australia",
@@ -2392,28 +2282,6 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "GIFTS",
-    "category": "E-GIFT CARDS",
-    "page": "E-GIFT CARDS",
-    "page_url": "https://www.sephora.com.au/gift-cards",
-    "file_name": "Australia_Sephora_AU_GIFTS_E|h|GIFT|sp|CARDS_E|h|GIFT|sp|CARDS"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "GIFTS",
-    "category": "E-GIFT CARDS",
-    "page": "E-GIFT CARDS",
-    "page_url": "https://www.sephora.com.au/gift-cards",
-    "file_name": "Australia_Sephora_AU_GIFTS_E|h|GIFT|sp|CARDS_E|h|GIFT|sp|CARDS"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "GIFTS",
     "category": "GIFT IDEAS",
     "page": "GIFT IDEAS",
     "page_url": "https://www.sephora.com.au/categories/gifts/gift-ideas",
@@ -2473,16 +2341,5 @@
     "page": "EXCLUSIVES",
     "page_url": "https://www.sephora.com.au/categories/gifts/exclusives",
     "file_name": "Australia_Sephora_AU_GIFTS_EXCLUSIVES_EXCLUSIVES"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Sephora_AU",
-    "parsing_config": "./retailer_config/sephoracomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "GIFTS",
-    "category": "EXCLUSIVES",
-    "page": "Beauty Pass Exclusives",
-    "page_url": "https://www.sephora.com.au/categories/gifts/exclusives/beauty-pass-exclusives",
-    "file_name": "Australia_Sephora_AU_GIFTS_EXCLUSIVES_Beauty|sp|Pass|sp|Exclusives"
   }
 ]
