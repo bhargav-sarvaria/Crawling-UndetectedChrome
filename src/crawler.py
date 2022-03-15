@@ -20,7 +20,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 mongo = Mongo()
-COLUMN_ORDER = ["product_id","country","retailer","department","category","page""device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
+COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
 
 
 class Crawler:
