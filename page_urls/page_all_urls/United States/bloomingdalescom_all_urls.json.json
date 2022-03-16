@@ -984,17 +984,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "SHOES",
-    "category": "Featured Designers",
-    "page": "Designers A-Z",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/shoes?id=1001339&cm_sp=NAVIGATION-_-TOP_NAV-_-1001339-Featured-Designers-Designers-A-Z",
-    "file_name": "United|sp|States_Bloomingdales_SHOES_Featured|sp|Designers_Designers|sp|A|h|Z"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "SHOES",
     "category": "Featured Trends",
     "page": "Head-to-Toe Brights",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/head-to-toe-brights/Sort_by_fob/Shoes?id=1146961&cm_sp=NAVIGATION-_-TOP_NAV-_-1146961-Featured-Trends-Head-to-Toe-Brights",
@@ -1076,17 +1065,6 @@
     "page": "All Shoes",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/all-fashion-shoes?id=17411&cm_sp=NAVIGATION-_-TOP_NAV-_-17411-Gift-Card-Event-Designers-All-Shoes",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Gift|sp|Card|sp|Event|sp|Designers_All|sp|Shoes"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "SHOES",
-    "category": "Gift Card Event Designers",
-    "page": "Info/Exclusions",
-    "page_url": "https://www.bloomingdales.com/shop/coupons-sales-promotions?cm_sp=NAVIGATION-_-TOP_NAV-_-1151993-Gift-Card-Event-Designers-Info/Exclusions",
-    "file_name": "United|sp|States_Bloomingdales_SHOES_Gift|sp|Card|sp|Event|sp|Designers_Info|fs|Exclusions"
   },
   {
     "country": "United States",
@@ -1413,17 +1391,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "HANDBAGS",
-    "category": "Featured Designers",
-    "page": "Designers A-Z",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/handbags?id=1001340&cm_sp=NAVIGATION-_-TOP_NAV-_-1001340-Featured-Designers-Designers-A-Z",
-    "file_name": "United|sp|States_Bloomingdales_HANDBAGS_Featured|sp|Designers_Designers|sp|A|h|Z"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "HANDBAGS",
     "category": "Shop by Category",
     "page": "Backpacks & Weekenders",
     "page_url": "https://www.bloomingdales.com/shop/handbags/womens-backpacks-travel-bags?id=1000369&cm_sp=NAVIGATION-_-TOP_NAV-_-1000369-Shop-by-Category-Backpacks-%26-Weekenders",
@@ -1659,28 +1626,6 @@
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/handbags/womens-handbags-purses?id=17316&cm_sp=NAVIGATION-_-TOP_NAV-_-17316-Gift-Card-Event-Designers-Shop-All",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_Gift|sp|Card|sp|Event|sp|Designers_Shop|sp|All"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "HANDBAGS",
-    "category": "Gift Card Event Designers",
-    "page": "Info/Exclusions",
-    "page_url": "https://www.bloomingdales.com/shop/coupons-sales-promotions?cm_sp=NAVIGATION-_-TOP_NAV-_-1151601-Gift-Card-Event-Designers-Info/Exclusions",
-    "file_name": "United|sp|States_Bloomingdales_HANDBAGS_Gift|sp|Card|sp|Event|sp|Designers_Info|fs|Exclusions"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "JEWELRY & ACCESSORIES",
-    "category": "JEWELRY & ACCESSORIES",
-    "page": "JEWELRY & ACCESSORIES",
-    "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories?id=3376&cm_sp=NAVIGATION-_-TOP_NAV-_-JEWELRY-%26-ACCESSORIES-n-n",
-    "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_JEWELRY|sp||as||sp|ACCESSORIES_JEWELRY|sp||as||sp|ACCESSORIES"
   },
   {
     "country": "United States",
@@ -2183,17 +2128,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "JEWELRY & ACCESSORIES",
-    "category": "Featured Designers",
-    "page": "All Designers",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/jewelry-brands?id=1001342&cm_sp=NAVIGATION-_-TOP_NAV-_-1001342-Featured-Designers-All-Designers",
-    "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Featured|sp|Designers_All|sp|Designers"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "JEWELRY & ACCESSORIES",
     "category": "Men's",
     "page": "Belts",
     "page_url": "https://www.bloomingdales.com/shop/mens/designer-belts?id=1000060&cm_sp=NAVIGATION-_-TOP_NAV-_-1000060-Men%27s-Belts",
@@ -2678,17 +2612,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "MEN",
-    "category": "MEN",
-    "page": "MEN",
-    "page_url": "https://www.bloomingdales.com/shop/mens?id=3864&cm_sp=NAVIGATION-_-TOP_NAV-_-MEN-n-n",
-    "file_name": "United|sp|States_Bloomingdales_MEN_MEN_MEN"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "MEN",
     "category": "Clothing",
     "page": "Active & Workout",
     "page_url": "https://www.bloomingdales.com/shop/mens/activewear-workout-clothes?id=1004734&cm_sp=NAVIGATION-_-TOP_NAV-_-1004734-Clothing-Active-%26-Workout",
@@ -3019,17 +2942,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "MEN",
-    "category": "Designer Boutique",
-    "page": "Trending Now: Gucci Web Slide",
-    "page_url": "https://www.bloomingdales.com/shop/product/gucci-mens-web-signature-stripe-slide-sandals?ID=3807816&cm_sp=NAVIGATION-_-TOP_NAV-_-1149761-Designer-Boutique-Trending-Now:-Gucci-Web-Slide",
-    "file_name": "United|sp|States_Bloomingdales_MEN_Designer|sp|Boutique_Trending|sp|Now|cln||sp|Gucci|sp|Web|sp|Slide"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "MEN",
     "category": "Shoes",
     "page": "Shoes",
     "page_url": "https://www.bloomingdales.com/shop/mens/designer-shoes?id=1000055&cm_sp=NAVIGATION-_-TOP_NAV-_-1000055-MEN-Shoes",
@@ -3276,17 +3188,6 @@
     "page": "Vince",
     "page_url": "https://www.bloomingdales.com/shop/vince/mens-clothing-shoes?id=1004127&cm_sp=NAVIGATION-_-TOP_NAV-_-1004127-Featured-Designers-Vince",
     "file_name": "United|sp|States_Bloomingdales_MEN_Featured|sp|Designers_Vince"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "MEN",
-    "category": "Featured Designers",
-    "page": "All Designers",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/clothing-brands-for-men?id=1001338&cm_sp=NAVIGATION-_-TOP_NAV-_-1001338-Featured-Designers-All-Designers",
-    "file_name": "United|sp|States_Bloomingdales_MEN_Featured|sp|Designers_All|sp|Designers"
   },
   {
     "country": "United States",
@@ -3602,17 +3503,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "KIDS",
-    "category": "Baby Gear & Essentials",
-    "page": "NEW: Nuna TRVL Stroller",
-    "page_url": "https://www.bloomingdales.com/shop/product/nuna-trvl-stroller?ID=4258303&CategoryID=3866&cm_sp=NAVIGATION-_-TOP_NAV-_-1146967-Baby-Gear-%26-Essentials-NEW:-Nuna-TRVL-Stroller",
-    "file_name": "United|sp|States_Bloomingdales_KIDS_Baby|sp|Gear|sp||as||sp|Essentials_NEW|cln||sp|Nuna|sp|TRVL|sp|Stroller"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "KIDS",
     "category": "Baby & Kids Furniture",
     "page": "Nursery Must-Haves",
     "page_url": "https://www.bloomingdales.com/shop/kids/nursery-must-haves?id=1005606&cm_sp=NAVIGATION-_-TOP_NAV-_-1005606-Baby-%26-Kids-Furniture-Nursery-Must-Haves",
@@ -3804,17 +3694,6 @@
     "page": "Ralph Lauren",
     "page_url": "https://www.bloomingdales.com/shop/ralph-lauren/kids-clothing-accessories?id=1003115&cm_sp=NAVIGATION-_-TOP_NAV-_-1003115-Featured-Designers-Ralph-Lauren",
     "file_name": "United|sp|States_Bloomingdales_KIDS_Featured|sp|Designers_Ralph|sp|Lauren"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "KIDS",
-    "category": "Featured Designers",
-    "page": "All Designers",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/clothing-brands-for-babies-kids?id=1001343&cm_sp=NAVIGATION-_-TOP_NAV-_-1001343-Featured-Designers-All-Designers",
-    "file_name": "United|sp|States_Bloomingdales_KIDS_Featured|sp|Designers_All|sp|Designers"
   },
   {
     "country": "United States",
@@ -5042,116 +4921,6 @@
     "retailer": "Bloomingdales",
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "SALE",
-    "category": "Offers & Promotions",
-    "page": "See All",
-    "page_url": "https://www.bloomingdales.com/shop/coupons-sales-promotions?cm_sp=NAVIGATION-_-TOP_NAV-_-1058459-Offers-%26-Promotions-See-All",
-    "file_name": "United|sp|States_Bloomingdales_SALE_Offers|sp||as||sp|Promotions_See|sp|All"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "DESIGNERS",
-    "page": "DESIGNERS",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers?id=1001351&cm_sp=NAVIGATION-_-TOP_NAV-_-DESIGNERS-n-n",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_DESIGNERS_DESIGNERS"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Women",
-    "page": "Women",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/clothing-brands-for-women?id=1001337&cm_sp=NAVIGATION-_-TOP_NAV-_-1001337-DESIGNERS-Women",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Women_Women"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Shoes",
-    "page": "Shoes",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/shoe-brands-for-women?id=1001339&cm_sp=NAVIGATION-_-TOP_NAV-_-1001339-DESIGNERS-Shoes",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Shoes_Shoes"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Handbags",
-    "page": "Handbags",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/handbags-purse-brands?id=1001340&cm_sp=NAVIGATION-_-TOP_NAV-_-1001340-DESIGNERS-Handbags",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Handbags_Handbags"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Jewelry & Accessories",
-    "page": "Jewelry & Accessories",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/jewelry-brands?id=1001342&cm_sp=NAVIGATION-_-TOP_NAV-_-1001342-DESIGNERS-Jewelry-%26-Accessories",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Jewelry|sp||as||sp|Accessories_Jewelry|sp||as||sp|Accessories"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Beauty",
-    "page": "Beauty",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/beauty-makeup-skincare-brands?id=1001341&cm_sp=NAVIGATION-_-TOP_NAV-_-1001341-DESIGNERS-Beauty",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Beauty_Beauty"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Kids",
-    "page": "Kids",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/clothing-brands-for-babies-kids?id=1001343&cm_sp=NAVIGATION-_-TOP_NAV-_-1001343-DESIGNERS-Kids",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Kids_Kids"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Men",
-    "page": "Men",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/clothing-brands-for-men?id=1001338&cm_sp=NAVIGATION-_-TOP_NAV-_-1001338-DESIGNERS-Men",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Men_Men"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Home",
-    "page": "Home",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/best-cookware-kitchen-bedding-furniture-brands?id=1001344&cm_sp=NAVIGATION-_-TOP_NAV-_-1001344-DESIGNERS-Home",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Home_Home"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "DESIGNERS",
     "category": "Featured Designers",
     "page": "AllSaints",
@@ -5245,17 +5014,6 @@
     "page": "Maje",
     "page_url": "https://www.bloomingdales.com/buy/maje?cm_sp=NAVIGATION-_-TOP_NAV-_-1144466-Featured-Designers-Maje",
     "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Maje"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "DESIGNERS",
-    "category": "Featured Designers",
-    "page": "Ralph Lauren",
-    "page_url": "https://www.bloomingdales.com/shop/ralph-lauren?id=1003114&cm_sp=NAVIGATION-_-TOP_NAV-_-1003114-Featured-Designers-Ralph-Lauren",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Ralph|sp|Lauren"
   },
   {
     "country": "United States",
@@ -5604,17 +5362,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "EDITORIAL",
-    "category": "EDITORIAL",
-    "page": "EDITORIAL",
-    "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide?id=13668&cm_sp=NAVIGATION-_-TOP_NAV-_-EDITORIAL-n-n",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_EDITORIAL_EDITORIAL"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
     "category": "New This Week",
     "page": "Women's New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/womens-new-arrivals?id=1036559&cm_sp=NAVIGATION-_-TOP_NAV-_-1036559-New-This-Week-Women%27s-New-Arrivals",
@@ -5652,72 +5399,6 @@
     "page": "Shop The Carousel",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/bridgerton-dresses-outfits?id=1148359&cm_sp=NAVIGATION-_-TOP_NAV-_-1148359-Bridgerton-The-Carousel-Shop-The-Carousel",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Bridgerton|sp|The|sp|Carousel_Shop|sp|The|sp|Carousel"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
-    "category": "Bridgerton The Carousel",
-    "page": "Shop The Lookbook",
-    "page_url": "https://www.bloomingdales.com/c/editorial/carousel/bridgerton/?cm_sp=NAVIGATION-_-TOP_NAV-_-1148360-Bridgerton-The-Carousel-Shop-The-Lookbook",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Bridgerton|sp|The|sp|Carousel_Shop|sp|The|sp|Lookbook"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
-    "category": "The Edit",
-    "page": "Women",
-    "page_url": "https://www.bloomingdales.com/c/editorial/women/?cm_sp=NAVIGATION-_-TOP_NAV-_-1090659-The-Edit-Women",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_The|sp|Edit_Women"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
-    "category": "The Edit",
-    "page": "Men",
-    "page_url": "https://www.bloomingdales.com/c/editorial/men/?cm_sp=NAVIGATION-_-TOP_NAV-_-1090660-The-Edit-Men",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_The|sp|Edit_Men"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
-    "category": "The Edit",
-    "page": "Beauty",
-    "page_url": "https://www.bloomingdales.com/c/editorial/beauty/?cm_sp=NAVIGATION-_-TOP_NAV-_-1090661-The-Edit-Beauty",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_The|sp|Edit_Beauty"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
-    "category": "The Edit",
-    "page": "Home",
-    "page_url": "https://www.bloomingdales.com/c/editorial/home/?cm_sp=NAVIGATION-_-TOP_NAV-_-1090662-The-Edit-Home",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_The|sp|Edit_Home"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
-    "category": "The Edit",
-    "page": "Bloomingdale's On Screen",
-    "page_url": "https://www.bloomingdales.com/c/editorial/onscreen/onscreen-landing/?cm_sp=NAVIGATION-_-TOP_NAV-_-1132663-The-Edit-Bloomingdale%27s-On-Screen",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_The|sp|Edit_Bloomingdale|sq|s|sp|On|sp|Screen"
   },
   {
     "country": "United States",
@@ -5924,17 +5605,6 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "EDITORIAL",
     "category": "Women's Spring Trends",
-    "page": "Shop the Lookbook",
-    "page_url": "https://www.bloomingdales.com/c/editorial/women/spring-2022-fashion-trends?cm_sp=NAVIGATION-_-TOP_NAV-_-1150559-Women%27s-Spring-Trends-Shop-the-Lookbook",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Shop|sp|the|sp|Lookbook"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "EDITORIAL",
-    "category": "Women's Spring Trends",
     "page": "Cottagecore",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/cottagecore-clothes?id=1100959&cm_sp=NAVIGATION-_-TOP_NAV-_-1100959-Women%27s-Spring-Trends-Cottagecore",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Cottagecore"
@@ -6088,17 +5758,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "GIFTS",
-    "category": "GIFTS",
-    "page": "GIFTS",
-    "page_url": "https://www.bloomingdales.com/shop/gifts?id=3948&cm_sp=NAVIGATION-_-TOP_NAV-_-GIFTS-n-n",
-    "file_name": "United|sp|States_Bloomingdales_GIFTS_GIFTS_GIFTS"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "GIFTS",
     "category": "Gift Cards",
     "page": "Gift Cards",
     "page_url": "https://www.bloomingdales.com/shop/gifts/gift-cards?id=3949&cm_sp=NAVIGATION-_-TOP_NAV-_-3949-GIFTS-Gift-Cards",
@@ -6125,17 +5784,6 @@
     "page": "Physical Gift Cards",
     "page_url": "https://www.bloomingdales.com/shop/gifts/gift-cards?id=3954&cm_sp=NAVIGATION-_-TOP_NAV-_-3954-Gift-Cards-Physical-Gift-Cards",
     "file_name": "United|sp|States_Bloomingdales_GIFTS_Gift|sp|Cards_Physical|sp|Gift|sp|Cards"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "GIFTS",
-    "category": "Gift Cards",
-    "page": "Check Gift Card Balance",
-    "page_url": "https://www.bloomingdales.com/account/giftcardbalance?cm_sp=NAVIGATION-_-TOP_NAV-_-1036859-Gift-Cards-Check-Gift-Card-Balance",
-    "file_name": "United|sp|States_Bloomingdales_GIFTS_Gift|sp|Cards_Check|sp|Gift|sp|Card|sp|Balance"
   },
   {
     "country": "United States",
@@ -6301,38 +5949,5 @@
     "page": "Housewarming",
     "page_url": "https://www.bloomingdales.com/shop/gifts/best-luxury-housewarming-gifts?id=1028266&cm_sp=NAVIGATION-_-TOP_NAV-_-1028266-Gifts-by-Occasion-Housewarming",
     "file_name": "United|sp|States_Bloomingdales_GIFTS_Gifts|sp|by|sp|Occasion_Housewarming"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "GIFTS",
-    "category": "Business Gifts",
-    "page": "Business Gifts",
-    "page_url": "https://www.bloomingdales.com/b/about-us/shopping/corporate-business-gifts?cm_sp=NAVIGATION-_-TOP_NAV-_-1064459-GIFTS-Business-Gifts",
-    "file_name": "United|sp|States_Bloomingdales_GIFTS_Business|sp|Gifts_Business|sp|Gifts"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "GIFTS",
-    "category": "Business Gifts",
-    "page": "Shop Now",
-    "page_url": "https://www.bloomingdales.com/b/about-us/shopping/corporate-business-gifts?cm_sp=NAVIGATION-_-TOP_NAV-_-1064659-Business-Gifts-Shop-Now",
-    "file_name": "United|sp|States_Bloomingdales_GIFTS_Business|sp|Gifts_Shop|sp|Now"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "GIFTS",
-    "category": "The Registry",
-    "page": "The Registry",
-    "page_url": "https://www.bloomingdales.com/wedding-registry?cm_sp=NAVIGATION-_-TOP_NAV-_-1087859-GIFTS-The-Registry",
-    "file_name": "United|sp|States_Bloomingdales_GIFTS_The|sp|Registry_The|sp|Registry"
   }
 ]
