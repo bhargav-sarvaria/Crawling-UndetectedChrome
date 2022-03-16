@@ -1,0 +1,18 @@
+CREATE OR REPLACE TABLE CRAWL_DATA ( product_id varchar,
+country  varchar,
+retailer  varchar,
+department  varchar,
+category  varchar,
+page  varchar,
+device  varchar,
+page_url  varchar,
+brand  varchar,
+product_name  varchar,
+sku  varchar,
+position  varchar,
+product_page_url  varchar,
+listing_label  varchar,
+reviews  varchar,
+ratings  varchar,
+date varchar);
+

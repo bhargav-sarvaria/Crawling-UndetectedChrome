@@ -1,0 +1,123 @@
+[
+  {
+    "field": "product_id",
+    "field_name": "Product ID",
+    "selectors": [{ "type": "config_value", "value": "product_id" }]
+  },
+  {
+    "field": "country",
+    "field_name": "Country",
+    "selectors": [{ "type": "config_value", "value": "country" }]
+  },
+  {
+    "field": "retailer",
+    "field_name": "Retailer",
+    "selectors": [{ "type": "config_value", "value": "retailer" }]
+  },
+  {
+    "field": "department",
+    "field_name": "Department",
+    "selectors": [{ "type": "config_value", "value": "department" }]
+  },
+  {
+    "field": "category",
+    "field_name": "Category",
+    "selectors": [{ "type": "config_value", "value": "category" }]
+  },
+  {
+    "field": "page",
+    "field_name": "Page",
+    "selectors": [{ "type": "config_value", "value": "page" }]
+  },
+  {
+    "field": "product_page_url",
+    "field_name": "Product Page URL",
+    "selectors": [{ "type": "config_value", "value": "product_page_url" }]
+  },
+  {
+    "field": "brand",
+    "field_name": "Brand",
+    "selectors": [
+      {
+        "type": "tagname_attribute_condition",
+        "value": "a",
+        "attribute_key": "data-auto",
+        "attribute_value": "product-brand"
+      }
+    ]
+  },
+  {
+    "field": "product_name",
+    "field_name": "Product Name",
+    "selectors": [
+      {
+        "type": "tagname_attribute_condition",
+        "value": "div",
+        "attribute_key": "data-auto",
+        "attribute_value": "product-name"
+      }
+    ]
+  },
+  {
+    "field": "sku",
+    "field_name": "SKU",
+    "selectors": [
+      {
+        "type": "tagname_attribute_condition",
+        "value": "div",
+        "attribute_key": "data-auto",
+        "attribute_value": "size-header"
+      }
+    ]
+  },
+  {
+    "field": "regular_price",
+    "field_name": "Regular Price",
+    "selectors": []
+  },
+  {
+    "field": "currency",
+    "field_name": "Currency",
+    "selectors": []
+  },
+  {
+    "field": "final_price",
+    "field_name": "Final Price",
+    "selectors": []
+  },
+  {
+    "field": "price_range",
+    "field_name": "Final Price",
+    "selectors": []
+  },
+  {
+    "field": "availability",
+    "field_name": "Availability",
+    "selectors": []
+  },
+  {
+    "field": "ratings",
+    "field_name": "Ratings",
+    "selectors": []
+  },
+  {
+    "field": "reviews",
+    "field_name": "Reviews",
+    "selectors": []
+  },
+  {
+    "field": "product_image",
+    "field_name": "Product Image",
+    "selectors": []
+  },
+  {
+    "field": "product_images",
+    "field_name": "Product Images",
+    "selectors": []
+  },
+  {
+    "field": "date",
+    "field_name": "Date",
+    "selectors": [{ "type": "config_value", "value": "date" }]
+  }
+]
