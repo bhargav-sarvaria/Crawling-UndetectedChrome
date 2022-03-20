@@ -2407,16 +2407,5 @@
     "page": "The Ultimate Cheeseboard",
     "page_url": "https://www.harrods.com/en-gb/stories/the-ultimate-cheeseboard?icid=megamenu_shop_food-drinks_edits-inspiration_the-ultimate-cheeseboard",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_EDITS|sp||as||sp|INSPIRATION_The|sp|Ultimate|sp|Cheeseboard"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Harrods",
-    "parsing_config": "./retailer_config/harrodscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Harrods/",
-    "department": "Food & Drinks",
-    "category": "EDITS & INSPIRATION",
-    "page": "The Very Best Champagnes",
-    "page_url": "https://www.harrods.com/en-gb/stories/grape-expectations-the-very-best-champagnes?icid=megamenu_shop_food-drinks_edits-inspiration_the-very-best-champagnes",
-    "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_EDITS|sp||as||sp|INSPIRATION_The|sp|Very|sp|Best|sp|Champagnes"
   }
 ]
