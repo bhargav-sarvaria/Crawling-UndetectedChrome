@@ -35,6 +35,8 @@ class Driver:
             opt.add_argument("--disable-gpu")
             opt.add_argument("--blink-settings=imagesEnabled=false")
             opt.add_argument("--disable-geolocation")
+            opt.add_argument("--disable-notifications")
+            opt.add_argument("--disable-media-stream")
             opt.add_argument("--enable-strict-powerful-feature-restrictions")
             if use_proxy:
                 proxy = self.getProxy()
@@ -105,35 +107,6 @@ class Driver:
                             WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.CLASS_NAME, 'connected-view__status-title')))
                             # print('Created the final driver for Country: ' + country_name)
                             break
-            return driver
-        except Exception as e:
-            print(e)
-        return None
-
-    def get_driverWithoutHoxx(self, use_proxy=False):
-        try:
-            opt = uc.ChromeOptions()
-            if use_proxy:
-                proxy = self.getProxy()
-                opt.add_argument('--proxy-server=%s' % proxy)
-            opt.add_argument("--no-sandbox")
-            opt.add_argument("--disable-dev-shm-usage")
-            opt.add_argument("--start-maximized")
-            opt.add_argument("--lang=en")
-            opt.add_argument("--disable-infobars")
-            if os.environ['HEADLESS'] == '1':
-                opt.add_argument("--headless")
-            opt.add_argument('--blink-settings=imagesEnabled=false')
-            opt.add_argument('--load-extension='+extension_folder+'CSS-Block,'+ extension_folder+'GIF-blocker')
-            
-            opt.add_argument('--disable-gpu')
-            opt.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36")
-            opt.add_argument('--referer=https://www.google.com/')
-            # Kiosk is for full screen
-            # opt.add_argument("--kiosk")
-            
-            driver = uc.Chrome(options = opt)
-            driver.set_page_load_timeout(10)
             return driver
         except Exception as e:
             print(e)

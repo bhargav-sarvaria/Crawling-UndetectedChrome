@@ -1,4 +1,5 @@
 from mongo import Mongo
+import numpy as np
 import threading
 import time
 import queue
@@ -173,7 +174,7 @@ class Crawler:
             df = pd.DataFrame(products_data)
             df = df.reindex(columns=COLUMN_ORDER)
             filname = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
-            df.to_csv(filname, index=False)
+            np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
             gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname;
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
             if os.path.exists(filname):
