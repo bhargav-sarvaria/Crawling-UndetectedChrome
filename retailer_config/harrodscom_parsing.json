@@ -9,7 +9,7 @@
       }
     ]
   },
-  "wait_for_class": "productGrid",
+  "wait_for_id": "productGrid",
   "fetch_product": [
     {
       "field": "product_id",

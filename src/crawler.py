@@ -338,6 +338,8 @@ class Crawler:
             parser = self.parser_map[page_config['retailer']]
             if 'wait_for_class' in parser:
                 WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class'])))
+            elif 'wait_for_id' in parser:
+                WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.ID, parser['wait_for_id'])))
             elif 'wait_for_class_device' in parser:
                 WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class_device'][device])))
             elif 'wait_for_tag' in parser:
