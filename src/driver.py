@@ -28,7 +28,7 @@ class Driver:
     ):
         try:
             opt = uc.ChromeOptions()
-            opt.add_argument("--no-sandbox")
+            # opt.add_argument("--no-sandbox")
             opt.add_argument("--disable-dev-shm-usage")
             opt.add_argument("--start-maximized")
             opt.add_argument("--disable-infobars")
