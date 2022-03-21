@@ -104,6 +104,7 @@ class Driver:
                             country.click()
                             WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.CLASS_NAME, 'connected-view__status-title')))
                             # print('Created the final driver for Country: ' + country_name)
+                            break
             return driver
         except Exception as e:
             print(e)
