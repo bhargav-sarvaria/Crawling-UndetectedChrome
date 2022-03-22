@@ -1,15 +1,14 @@
-gcloud compute instances create australia --project=winged-tenure-344909 --zone=us-central1-c --machine-type=e2-medium --network-interface=network-tier=PREMIUM,subnet=default --maintenance-policy=MIGRATE --service-account=201700702311-compute@developer.gserviceaccount.com --scopes=https://www.googleapis.com/auth/devstorage.read_only,https://www.googleapis.com/auth/logging.write,https://www.googleapis.com/auth/monitoring.write,https://www.googleapis.com/auth/servicecontrol,https://www.googleapis.com/auth/service.management.readonly,https://www.googleapis.com/auth/trace.append --tags=vnc-server,http-server,https-server --create-disk=auto-delete=yes,boot=yes,device-name=australia,image=projects/ubuntu-os-cloud/global/images/ubuntu-2004-focal-v20220308,mode=rw,size=10,type=projects/winged-tenure-344909/zones/us-central1-c/diskTypes/pd-balanced --no-shielded-secure-boot --shielded-vtpm --shielded-integrity-monitoring --reservation-affinity=any
+gcloud compute instances create unitedstates --project=winged-tenure-344909 --zone=us-central1-c --machine-type=e2-medium --network-interface=network-tier=PREMIUM,subnet=default --maintenance-policy=MIGRATE --service-account=201700702311-compute@developer.gserviceaccount.com --scopes=https://www.googleapis.com/auth/devstorage.read_only,https://www.googleapis.com/auth/logging.write,https://www.googleapis.com/auth/monitoring.write,https://www.googleapis.com/auth/servicecontrol,https://www.googleapis.com/auth/service.management.readonly,https://www.googleapis.com/auth/trace.append --tags=vnc-server,http-server,https-server --create-disk=auto-delete=yes,boot=yes,device-name=unitedstates,image=projects/ubuntu-os-cloud/global/images/ubuntu-2004-focal-v20220308,mode=rw,size=10,type=projects/winged-tenure-344909/zones/us-central1-c/diskTypes/pd-balanced --no-shielded-secure-boot --shielded-vtpm --shielded-integrity-monitoring --reservation-affinity=any
 
 
 curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
 sudo apt update
 sudo apt install -y gh
-
 git config --global user.name "bhargav-sarvaria"
 git config --global user.email "bhargav.sarvaria@gmail.com"
-
 gh auth login
+
 token = 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
 
 sudo git config --global credential.helper cache
@@ -21,5 +20,5 @@ sudo ./config/setup_chrome.sh
 
 crontab -e
 
-30 16 * * * cd /home/analytics_digitaledge/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py 'United States' 1 >>  ./file.log
-30 6 * * * cd /home/analytics_digitaledge/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py India 1 >>  ./file.log
+0 7 * * * cd /home/labsbhargav/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py 'United States' 1 >>  ./file.log
+30 6 * * * cd /home/labsbhargav/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py India 1 >>  ./file.log

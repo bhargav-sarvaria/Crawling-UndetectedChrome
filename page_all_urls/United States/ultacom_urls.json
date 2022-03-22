@@ -4,6 +4,17 @@
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
+    "department": "Makeup",
+    "category": "Makeup",
+    "page": "Makeup",
+    "page_url": "https://www.ulta.com/shop/makeup",
+    "file_name": "United|sp|States_Ulta_Makeup_Makeup_Makeup"
+  },
+  {
+    "country": "United States",
+    "retailer": "Ulta",
+    "parsing_config": "./retailer_config/ultacom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "New Arrivals",
     "category": "New Arrivals",
     "page": "New Arrivals",
@@ -126,32 +137,10 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Sale & Coupons",
-    "category": "Gift With Purchase",
-    "page": "Gift With Purchase",
-    "page_url": "https://www.ulta.com/promotion/gift-with-purchase/",
-    "file_name": "United|sp|States_Ulta_Sale|sp||as||sp|Coupons_Gift|sp|With|sp|Purchase_Gift|sp|With|sp|Purchase"
-  },
-  {
-    "country": "United States",
-    "retailer": "Ulta",
-    "parsing_config": "./retailer_config/ultacom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Ulta/",
-    "department": "Sale & Coupons",
     "category": "Sale",
     "page": "Sale",
     "page_url": "https://www.ulta.com/promotion/sale?N=1z13uvl&Ns=product.bestseller%7C1",
     "file_name": "United|sp|States_Ulta_Sale|sp||as||sp|Coupons_Sale_Sale"
-  },
-  {
-    "country": "United States",
-    "retailer": "Ulta",
-    "parsing_config": "./retailer_config/ultacom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Ulta/",
-    "department": "Makeup",
-    "category": "Makeup",
-    "page": "Makeup",
-    "page_url": "https://www.ulta.com/shop/makeup",
-    "file_name": "United|sp|States_Ulta_Makeup_Makeup_Makeup"
   },
   {
     "country": "United States",

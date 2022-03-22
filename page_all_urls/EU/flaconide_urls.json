@@ -193,17 +193,6 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "PERFUME",
     "category": "TOP BRANDS",
-    "page": "TOP BRANDS",
-    "page_url": "https://www.flaconi.de/marken/",
-    "file_name": "Germany_Flaconi_PERFUME_TOP|sp|BRANDS_TOP|sp|BRANDS"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "PERFUME",
-    "category": "TOP BRANDS",
     "page": "Burberry",
     "page_url": "https://www.flaconi.de/burberry/",
     "file_name": "Germany_Flaconi_PERFUME_TOP|sp|BRANDS_Burberry"
@@ -930,17 +919,6 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
     "category": "TOP BRANDS",
-    "page": "TOP BRANDS",
-    "page_url": "https://www.flaconi.de/marken/",
-    "file_name": "Germany_Flaconi_CARE_TOP|sp|BRANDS_TOP|sp|BRANDS"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "CARE",
-    "category": "TOP BRANDS",
     "page": "BABOR",
     "page_url": "https://www.flaconi.de/babor/",
     "file_name": "Germany_Flaconi_CARE_TOP|sp|BRANDS_BABOR"
@@ -1593,17 +1571,6 @@
     "page": "nail file",
     "page_url": "https://www.flaconi.de/nagelfeile/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|file"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "MAKE UP",
-    "category": "TOP BRANDS",
-    "page": "TOP BRANDS",
-    "page_url": "https://www.flaconi.de/marken/",
-    "file_name": "Germany_Flaconi_MAKE|sp|UP_TOP|sp|BRANDS_TOP|sp|BRANDS"
   },
   {
     "country": "Germany",
@@ -2272,17 +2239,6 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "HAIR",
     "category": "TOP BRANDS",
-    "page": "TOP BRANDS",
-    "page_url": "https://www.flaconi.de/marken/",
-    "file_name": "Germany_Flaconi_HAIR_TOP|sp|BRANDS_TOP|sp|BRANDS"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "HAIR",
-    "category": "TOP BRANDS",
     "page": "aveda",
     "page_url": "https://www.flaconi.de/aveda/",
     "file_name": "Germany_Flaconi_HAIR_TOP|sp|BRANDS_aveda"
@@ -2690,17 +2646,6 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "NATURE",
     "category": "TOP BRANDS",
-    "page": "TOP BRANDS",
-    "page_url": "https://www.flaconi.de/marken/",
-    "file_name": "Germany_Flaconi_NATURE_TOP|sp|BRANDS_TOP|sp|BRANDS"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "NATURE",
-    "category": "TOP BRANDS",
     "page": "ANNEMARIE BORLIND",
     "page_url": "https://www.flaconi.de/annemarie-boerlind/",
     "file_name": "Germany_Flaconi_NATURE_TOP|sp|BRANDS_ANNEMARIE|sp|BORLIND"
@@ -2715,17 +2660,6 @@
     "page": "Charlotte Meentzen",
     "page_url": "https://www.flaconi.de/charlotte-meentzen/",
     "file_name": "Germany_Flaconi_NATURE_TOP|sp|BRANDS_Charlotte|sp|Meentzen"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "NATURE",
-    "category": "TOP BRANDS",
-    "page": "dr Hauschka",
-    "page_url": "https://www.flaconi.de/dr-hauschka-shop/",
-    "file_name": "Germany_Flaconi_NATURE_TOP|sp|BRANDS_dr|sp|Hauschka"
   },
   {
     "country": "Germany",
@@ -3617,28 +3551,6 @@
     "page": "wet n wild",
     "page_url": "https://www.flaconi.de/wet-n-wild/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_wet|sp|n|sp|wild"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "MAGAZINE",
-    "category": "MAGAZINE",
-    "page": "MAGAZINE",
-    "page_url": "https://www.flaconi.de/magazin/",
-    "file_name": "Germany_Flaconi_MAGAZINE_MAGAZINE_MAGAZINE"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "MAGAZINE",
-    "category": "MAGAZINE",
-    "page": "MAGAZINE",
-    "page_url": "https://www.flaconi.de/magazin/",
-    "file_name": "Germany_Flaconi_MAGAZINE_MAGAZINE_MAGAZINE"
   },
   {
     "country": "Germany",

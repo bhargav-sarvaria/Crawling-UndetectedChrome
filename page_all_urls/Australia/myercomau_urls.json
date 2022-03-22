@@ -49,17 +49,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_New_Gift|sp|Cards_Gift|sp|Cards"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "New",
     "category": "Women",
     "page": "Women",
     "page_url": "https://www.myer.com.au/c/new-in/women-709562--1",
@@ -511,17 +500,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "All Women",
-    "page": "All Women",
-    "page_url": "https://www.myer.com.au/c/women",
-    "file_name": "Australia_Myer_Women_All|sp|Women_All|sp|Women"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Women",
     "category": "Women's Mid Season Sale",
     "page": "Women's Mid Season Sale",
     "page_url": "https://www.myer.com.au/c/women/womens-sale--1",
@@ -592,17 +570,6 @@
     "page": "Top Brands",
     "page_url": "https://www.myer.com.au/c/women/featured-womenswear-brands",
     "file_name": "Australia_Myer_Women_Top|sp|Brands_Top|sp|Brands"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Women",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Women_Gift|sp|Cards_Gift|sp|Cards"
   },
   {
     "country": "Australia",
@@ -1314,17 +1281,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Men",
-    "category": "All Men",
-    "page": "All Men",
-    "page_url": "https://www.myer.com.au/c/men",
-    "file_name": "Australia_Myer_Men_All|sp|Men_All|sp|Men"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Men",
     "category": "Men's Mid Season Sale",
     "page": "Men's Mid Season Sale",
     "page_url": "https://www.myer.com.au/c/men/mens-sale--1",
@@ -1406,17 +1362,6 @@
     "page": "Top Brands",
     "page_url": "https://www.myer.com.au/c/men/featured-menswear-brands",
     "file_name": "Australia_Myer_Men_Top|sp|Brands_Top|sp|Brands"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Men",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Men_Gift|sp|Cards_Gift|sp|Cards"
   },
   {
     "country": "Australia",
@@ -1963,17 +1908,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "All Beauty",
-    "page": "All Beauty",
-    "page_url": "https://www.myer.com.au/c/beauty",
-    "file_name": "Australia_Myer_Beauty_All|sp|Beauty_All|sp|Beauty"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
     "category": "Men's Grooming & Cologne",
     "page": "Men's Grooming & Cologne",
     "page_url": "https://www.myer.com.au/c/beauty/all-mens-grooming",
@@ -2022,50 +1956,6 @@
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-trends",
     "file_name": "Australia_Myer_Beauty_Now|sp|Trending_Now|sp|Trending"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
-    "category": "Beauty Emporium",
-    "page": "Beauty Emporium",
-    "page_url": "https://www.myer.com.au/content/shop-beauty-emporium",
-    "file_name": "Australia_Myer_Beauty_Beauty|sp|Emporium_Beauty|sp|Emporium"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
-    "category": "Gift With Purchase",
-    "page": "Gift With Purchase",
-    "page_url": "https://www.myer.com.au/content/gift-with-purchase",
-    "file_name": "Australia_Myer_Beauty_Gift|sp|With|sp|Purchase_Gift|sp|With|sp|Purchase"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
-    "category": "Beauty Services",
-    "page": "Beauty Services",
-    "page_url": "https://www.myer.com.au/content/our-experiences-and-services/hair-and-beauty/",
-    "file_name": "Australia_Myer_Beauty_Beauty|sp|Services_Beauty|sp|Services"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Beauty_Gift|sp|Cards_Gift|sp|Cards"
   },
   {
     "country": "Australia",
@@ -2612,28 +2502,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "All Home",
-    "page": "All Home",
-    "page_url": "https://www.myer.com.au/c/home",
-    "file_name": "Australia_Myer_Home_All|sp|Home_All|sp|Home"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Home",
-    "category": "Home Mid Season Sale",
-    "page": "Home Mid Season Sale",
-    "page_url": "https://www.myer.com.au/c/home/home-sale-1064077-1",
-    "file_name": "Australia_Myer_Home_Home|sp|Mid|sp|Season|sp|Sale_Home|sp|Mid|sp|Season|sp|Sale"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Home",
     "category": "Bathroom",
     "page": "Bathroom",
     "page_url": "https://www.myer.com.au/c/home/allbathroom",
@@ -2726,17 +2594,6 @@
     "page": "Top Brands",
     "page_url": "https://www.myer.com.au/c/home/featured-home-brands",
     "file_name": "Australia_Myer_Home_Top|sp|Brands_Top|sp|Brands"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Home",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Home_Gift|sp|Cards_Gift|sp|Cards"
   },
   {
     "country": "Australia",
@@ -3338,17 +3195,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sport",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Sport_Gift|sp|Cards_Gift|sp|Cards"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Sport",
     "category": "Top Brands",
     "page": "Top Brands",
     "page_url": "https://www.myer.com.au/c/sport/top-brands",
@@ -3701,17 +3547,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "All Kids",
-    "page": "All Kids",
-    "page_url": "https://www.myer.com.au/c/kidsbaby",
-    "file_name": "Australia_Myer_Kids_All|sp|Kids_All|sp|Kids"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Kids",
     "category": "Kids Mid Season Sale",
     "page": "Kids Mid Season Sale",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-sale--1",
@@ -3804,17 +3639,6 @@
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-trends",
     "file_name": "Australia_Myer_Kids_Now|sp|Trending_Now|sp|Trending"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Kids",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Kids_Gift|sp|Cards_Gift|sp|Cards"
   },
   {
     "country": "Australia",
@@ -4537,28 +4361,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Toys",
-    "category": "All Toys",
-    "page": "All Toys",
-    "page_url": "https://www.myer.com.au/c/all-toys",
-    "file_name": "Australia_Myer_Toys_All|sp|Toys_All|sp|Toys"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Toys",
-    "category": "Toys Mid Season Sale",
-    "page": "Toys Mid Season Sale",
-    "page_url": "https://www.myer.com.au/c/all-toys/toys-sale--1",
-    "file_name": "Australia_Myer_Toys_Toys|sp|Mid|sp|Season|sp|Sale_Toys|sp|Mid|sp|Season|sp|Sale"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Toys",
     "category": "Action Figures",
     "page": "Action Figures",
     "page_url": "https://www.myer.com.au/c/all-toys/action-figures-accessories",
@@ -4618,17 +4420,6 @@
     "page": "Top Brands",
     "page_url": "https://www.myer.com.au/c/all-toys/featured-toys-brands",
     "file_name": "Australia_Myer_Toys_Top|sp|Brands_Top|sp|Brands"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Toys",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Toys_Gift|sp|Cards_Gift|sp|Cards"
   },
   {
     "country": "Australia",
@@ -5076,17 +4867,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "All Gifts",
-    "page": "All Gifts",
-    "page_url": "https://www.myer.com.au/c/gifts",
-    "file_name": "Australia_Myer_Gifts_All|sp|Gifts_All|sp|Gifts"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
     "category": "Personalised Gifts",
     "page": "Personalised Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/personalised-gifts--1",
@@ -5113,39 +4893,6 @@
     "page": "Food & Hampers",
     "page_url": "https://www.myer.com.au/c/gifts/food-hampers-gifts",
     "file_name": "Australia_Myer_Gifts_Food|sp||as||sp|Hampers_Food|sp||as||sp|Hampers"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
-    "category": "Shop With Confidence",
-    "page": "Shop With Confidence",
-    "page_url": "https://www.myer.com.au/content/shop-your-way",
-    "file_name": "Australia_Myer_Gifts_Shop|sp|With|sp|Confidence_Shop|sp|With|sp|Confidence"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
-    "category": "Gift Cards",
-    "page": "Gift Cards",
-    "page_url": "https://www.myer.com.au/content/gift-cards",
-    "file_name": "Australia_Myer_Gifts_Gift|sp|Cards_Gift|sp|Cards"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
-    "category": "The Easter Shop",
-    "page": "The Easter Shop",
-    "page_url": "https://www.myer.com.au/c/gifts/easter-shop",
-    "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_The|sp|Easter|sp|Shop"
   },
   {
     "country": "Australia",

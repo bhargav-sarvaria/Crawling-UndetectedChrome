@@ -5,17 +5,6 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
-    "category": "Own Your Style",
-    "page": "Own Your Style",
-    "page_url": "https://www.macys.com/shop/own-your-style?id=324256&cm_sp=us_hdr-_-own-your-style-_-324256_own-your-style",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Own|sp|Your|sp|Style_Own|sp|Your|sp|Style"
-  },
-  {
-    "country": "United States",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
     "category": "Women's Trends & Must Haves",
     "page": "Find Your Pastel",
     "page_url": "https://www.macys.com/s/own-your-style/find-your-pastel/?cm_sp=us_hdr-_-own-your-style-_-find-your-pastel_COL1",
@@ -229,17 +218,6 @@
     "page": "Hello There, Sunshine",
     "page_url": "https://www.macys.com/s/contemporary/browsepool/?c=home&pagetitle=hello%20there,%20sunshine%20&url=%2Fshop%2Fcontemporary-nocrawl%2Fhello-sunshine%3Fid%3D323256&cm_sp=us_hdr-_-own-your-style-_-hello-there%2C-sunshine_COL2",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Hello|sp|There,|sp|Sunshine"
-  },
-  {
-    "country": "United States",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Featured Shops",
-    "page": "Macy'S Live",
-    "page_url": "https://www.macys.com/shop/live-shopping/?cm_sp=us_hdr-_-own-your-style-_-macy%27s-live_COL2",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Macy|sq|S|sp|Live"
   },
   {
     "country": "United States",

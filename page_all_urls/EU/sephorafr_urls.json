@@ -644,17 +644,6 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "MAKEUP",
     "category": "BEAUTY IDEAS & INSPIRATIONS",
-    "page": "Sephora Shopping Party",
-    "page_url": "https://www.sephora.fr/sephora-shopping-party.html",
-    "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Sephora|sp|Shopping|sp|Party"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "MAKEUP",
-    "category": "BEAUTY IDEAS & INSPIRATIONS",
     "page": "Power at first sight",
     "page_url": "https://www.sephora.fr/beaute-regard.html",
     "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Power|sp|at|sp|first|sp|sight"
@@ -691,17 +680,6 @@
     "page": "Palettes stories",
     "page_url": "https://www.sephora.fr/palette-invasion/",
     "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Palettes|sp|stories"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "MAKEUP",
-    "category": "BEAUTY IDEAS & INSPIRATIONS",
-    "page": "Special complexion quiz",
-    "page_url": "https://www.sephora.fr/quiz-teint.html",
-    "file_name": "France_Sephora_FR_MAKEUP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATIONS_Special|sp|complexion|sp|quiz"
   },
   {
     "country": "France",
@@ -3327,10 +3305,10 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "TIPS",
-    "category": "Box affordable skincare: Free from 50 \u20ac of purchases in the skincare category with the code SKINCARE22",
-    "page": "Box affordable skincare: Free from 50 \u20ac of purchases in the skincare category with the code SKINCARE22",
+    "category": "Box affordable skincare",
+    "page": "Box affordable skincare",
     "page_url": "https://www.sephora.fr/soins-30-euros/",
-    "file_name": "France_Sephora_FR_TIPS_Box|sp|affordable|sp|skincare|cln||sp|Free|sp|from|sp|50|sp|\u20ac|sp|of|sp|purchases|sp|in|sp|the|sp|skincare|sp|category|sp|with|sp|the|sp|code|sp|SKINCARE22_Box|sp|affordable|sp|skincare|cln||sp|Free|sp|from|sp|50|sp|\u20ac|sp|of|sp|purchases|sp|in|sp|the|sp|skincare|sp|category|sp|with|sp|the|sp|code|sp|SKINCARE22"
+    "file_name": "France_Sephora_FR_TIPS_Box|sp|affordable|sp|skincare_Box|sp|affordable|sp|skincare"
   },
   {
     "country": "France",

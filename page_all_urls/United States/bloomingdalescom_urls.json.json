@@ -5,17 +5,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "WOMEN",
-    "category": "WOMEN",
-    "page": "WOMEN",
-    "page_url": "https://www.bloomingdales.com/shop/womens-apparel?id=2910&cm_sp=NAVIGATION-_-TOP_NAV-_-WOMEN-n-n",
-    "file_name": "United|sp|States_Bloomingdales_WOMEN_WOMEN_WOMEN"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "WOMEN",
     "category": "Clothing",
     "page": "Active & Workout",
     "page_url": "https://www.bloomingdales.com/shop/womens-apparel/activewear-workout-clothes?id=11817&cm_sp=NAVIGATION-_-TOP_NAV-_-11817-Clothing-Active-%26-Workout",
@@ -346,17 +335,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "WOMEN",
-    "category": "New & Noteworthy",
-    "page": "The Edit",
-    "page_url": "https://www.bloomingdales.com/c/editorial/women/?cm_sp=NAVIGATION-_-TOP_NAV-_-1128568-New-%26-Noteworthy-The-Edit",
-    "file_name": "United|sp|States_Bloomingdales_WOMEN_New|sp||as||sp|Noteworthy_The|sp|Edit"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "WOMEN",
     "category": "Best Sellers",
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/womens-apparel/shop-all?id=1006685&cm_sp=NAVIGATION-_-TOP_NAV-_-1006685-Best-Sellers-Shop-All",
@@ -493,17 +471,6 @@
     "page": "Vince",
     "page_url": "https://www.bloomingdales.com/shop/vince/womens-clothing?id=1004124&cm_sp=NAVIGATION-_-TOP_NAV-_-1004124-Featured-Designers-Vince",
     "file_name": "United|sp|States_Bloomingdales_WOMEN_Featured|sp|Designers_Vince"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "WOMEN",
-    "category": "Featured Designers",
-    "page": "All Designers",
-    "page_url": "https://www.bloomingdales.com/shop/all-designers/clothing-brands-for-women?id=1001337&cm_sp=NAVIGATION-_-TOP_NAV-_-1001337-Featured-Designers-All-Designers",
-    "file_name": "United|sp|States_Bloomingdales_WOMEN_Featured|sp|Designers_All|sp|Designers"
   },
   {
     "country": "United States",
