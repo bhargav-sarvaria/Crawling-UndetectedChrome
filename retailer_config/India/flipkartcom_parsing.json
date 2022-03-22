@@ -1,0 +1,116 @@
+{
+  "fetch_products": {
+    "selectors": [
+      {
+        "type": "classname",
+        "value": "_1xHGtK _373qXS"
+      }
+    ]
+  },
+  "wait_for_class": "_1xHGtK",
+  "fetch_product": [
+    {
+      "field": "product_id",
+      "field_name": "Product ID",
+      "selectors": [{ "type": "attribute", "value": "data-product-sku" }]
+    },
+    {
+      "field": "country",
+      "field_name": "Countryˀˀˀ",
+      "selectors": [{ "type": "config_value", "value": "country" }]
+    },
+    {
+      "field": "retailer",
+      "field_name": "Retailer",
+      "selectors": [{ "type": "config_value", "value": "retailer" }]
+    },
+    {
+      "field": "department",
+      "field_name": "Department",
+      "selectors": [{ "type": "config_value", "value": "department" }]
+    },
+    {
+      "field": "category",
+      "field_name": "Category",
+      "selectors": [{ "type": "config_value", "value": "category" }]
+    },
+    {
+      "field": "page",
+      "field_name": "Page",
+      "selectors": [{ "type": "config_value", "value": "page" }]
+    },
+    {
+      "field": "device",
+      "field_name": "Device",
+      "selectors": [{ "type": "config_value", "value": "device" }]
+    },
+    {
+      "field": "page_url",
+      "field_name": "Page URL",
+      "selectors": [{ "type": "config_value", "value": "page_url" }]
+    },
+    {
+      "field": "brand",
+      "field_name": "Brand",
+      "selectors": [
+        {
+          "type": "classname",
+          "value": "_2WkVRV"
+        }
+      ]
+    },
+    {
+      "field": "product_name",
+      "field_name": "Product Name",
+      "selectors": [
+        {
+          "type": "classname",
+          "values": "IRpwTa"
+        }
+      ]
+    },
+    {
+      "field": "sku",
+      "field_name": "SKU",
+      "selectors": [
+        { "classname": "ProductItemVerticalstyle__ProductBasePrice" }
+      ]
+    },
+    {
+      "field": "position",
+      "field_name": "Position",
+      "selectors": []
+    },
+    {
+      "field": "product_page_url",
+      "field_name": "Product Page URL",
+      "selectors": [
+        {
+          "type": "classname_attribute",
+          "value": "_2UzuFa",
+          "selector_attribute": "href"
+        }
+      ]
+    },
+    {
+      "field": "listing_label",
+      "field_name": "Label",
+      "selectors": [{ "type": "classname", "value": "_2I5qvP" }]
+    },
+    {
+      "field": "reviews",
+      "field_name": "Reviews",
+      "selectors": []
+    },
+    {
+      "field": "ratings",
+      "field_name": "Ratings",
+      "selectors": []
+    },
+    {
+      "field": "date",
+      "field_name": "Date",
+      "selectors": [{ "type": "config_value", "value": "date" }]
+    }
+  ]
+}
