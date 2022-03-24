@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.flaconi.de/parfum/",
     "file_name": "Germany_Flaconi_PERFUME_PERFUME_PERFUME"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.flaconi.de/damenparfum/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "fragrances",
     "page_url": "https://www.flaconi.de/damenduefte/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_fragrances"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "shower care",
     "page_url": "https://www.flaconi.de/damen-duschpflege/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_shower|sp|care"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "personal hygiene",
     "page_url": "https://www.flaconi.de/damen-parfum-koerperprodukte/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_personal|sp|hygiene"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "deodorants",
     "page_url": "https://www.flaconi.de/damen-deodorant/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_deodorants"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "fragrance sets",
     "page_url": "https://www.flaconi.de/damen-duftsets/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_fragrance|sp|sets"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "MEN'S PERFUME",
+    "category": "Mens Perfume",
     "page": "MEN'S PERFUME",
     "page_url": "https://www.flaconi.de/herrenparfum/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_MEN|sq|S|sp|PERFUME"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "MEN'S PERFUME",
+    "category": "Mens Perfume",
     "page": "fragrances",
     "page_url": "https://www.flaconi.de/herrenduefte/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_fragrances"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "MEN'S PERFUME",
+    "category": "Mens Perfume",
     "page": "shower care",
     "page_url": "https://www.flaconi.de/herren-duschpflege/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_shower|sp|care"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "MEN'S PERFUME",
+    "category": "Mens Perfume",
     "page": "personal hygiene",
     "page_url": "https://www.flaconi.de/herren-parfum-koerperprodukte/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_personal|sp|hygiene"
@@ -126,7 +126,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "MEN'S PERFUME",
+    "category": "Mens Perfume",
     "page": "deodorants",
     "page_url": "https://www.flaconi.de/herren-deodorant/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_deodorants"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "MEN'S PERFUME",
+    "category": "Mens Perfume",
     "page": "fragrance sets",
     "page_url": "https://www.flaconi.de/herren-duftsets/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_fragrance|sp|sets"
@@ -148,7 +148,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfume",
-    "category": "MEN'S PERFUME",
+    "category": "Mens Perfume",
     "page": "after shave",
     "page_url": "https://www.flaconi.de/after-shave/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_after|sp|shave"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.flaconi.de/gesicht/",
     "file_name": "Germany_Flaconi_CARE_FACE_FACE"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "facial care",
     "page_url": "https://www.flaconi.de/gesichtspflege/",
     "file_name": "Germany_Flaconi_CARE_FACE_facial|sp|care"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "day care",
     "page_url": "https://www.flaconi.de/tagespflege/",
     "file_name": "Germany_Flaconi_CARE_FACE_day|sp|care"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "face mask",
     "page_url": "https://www.flaconi.de/gesichtsmaske/",
     "file_name": "Germany_Flaconi_CARE_FACE_face|sp|mask"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "facial oil",
     "page_url": "https://www.flaconi.de/gesichtsoel/",
     "file_name": "Germany_Flaconi_CARE_FACE_facial|sp|oil"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "facial cleansing",
     "page_url": "https://www.flaconi.de/gesichtsreinigung/",
     "file_name": "Germany_Flaconi_CARE_FACE_facial|sp|cleansing"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "cleansing milk",
     "page_url": "https://www.flaconi.de/reinigungsmilch/",
     "file_name": "Germany_Flaconi_CARE_FACE_cleansing|sp|milk"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "antiaging",
     "page_url": "https://www.flaconi.de/anti-aging/",
     "file_name": "Germany_Flaconi_CARE_FACE_antiaging"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "eye care",
     "page_url": "https://www.flaconi.de/augenpflege/",
     "file_name": "Germany_Flaconi_CARE_FACE_eye|sp|care"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "eye cream",
     "page_url": "https://www.flaconi.de/augencreme/",
     "file_name": "Germany_Flaconi_CARE_FACE_eye|sp|cream"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "FACE",
+    "category": "Face",
     "page": "dental care",
     "page_url": "https://www.flaconi.de/zahnpflege/",
     "file_name": "Germany_Flaconi_CARE_FACE_dental|sp|care"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.flaconi.de/pflege-koerper/",
     "file_name": "Germany_Flaconi_CARE_BODY_BODY"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "personal hygiene",
     "page_url": "https://www.flaconi.de/koerperpflege/",
     "file_name": "Germany_Flaconi_CARE_BODY_personal|sp|hygiene"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "Body lotion",
     "page_url": "https://www.flaconi.de/bodylotion/",
     "file_name": "Germany_Flaconi_CARE_BODY_Body|sp|lotion"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "deodorant",
     "page_url": "https://www.flaconi.de/deodorant/",
     "file_name": "Germany_Flaconi_CARE_BODY_deodorant"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "body cleansing",
     "page_url": "https://www.flaconi.de/koerperreinigung/",
     "file_name": "Germany_Flaconi_CARE_BODY_body|sp|cleansing"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "shower gel",
     "page_url": "https://www.flaconi.de/duschgel/",
     "file_name": "Germany_Flaconi_CARE_BODY_shower|sp|gel"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "bath additive",
     "page_url": "https://www.flaconi.de/badezusaetze/",
     "file_name": "Germany_Flaconi_CARE_BODY_bath|sp|additive"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "hair removal",
     "page_url": "https://www.flaconi.de/enthaarung/",
     "file_name": "Germany_Flaconi_CARE_BODY_hair|sp|removal"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "nail care",
     "page_url": "https://www.flaconi.de/nagelpflege/",
     "file_name": "Germany_Flaconi_CARE_BODY_nail|sp|care"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "hand care",
     "page_url": "https://www.flaconi.de/handpflege/",
     "file_name": "Germany_Flaconi_CARE_BODY_hand|sp|care"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "CARE",
-    "category": "BODY",
+    "category": "Body",
     "page": "pedicure",
     "page_url": "https://www.flaconi.de/fusspflege/",
     "file_name": "Germany_Flaconi_CARE_BODY_pedicure"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.flaconi.de/make-up/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.flaconi.de/augen-make-up/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_EYES"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "mascara",
     "page_url": "https://www.flaconi.de/mascara/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_mascara"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye shadow base",
     "page_url": "https://www.flaconi.de/eyeshadow-base/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_Eye|sp|shadow|sp|base"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyeshadow",
     "page_url": "https://www.flaconi.de/lidschatten/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_eyeshadow"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "kajal",
     "page_url": "https://www.flaconi.de/kajalstift/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_kajal"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyeliner",
     "page_url": "https://www.flaconi.de/eyeliner/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_eyeliner"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyebrows",
     "page_url": "https://www.flaconi.de/augenbrauenfarbe/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_eyebrows"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Artificial eyelashes",
     "page_url": "https://www.flaconi.de/kuenstliche-wimpern/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_Artificial|sp|eyelashes"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye make up remover",
     "page_url": "https://www.flaconi.de/augen-make-up-entferner/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_EYES_Eye|sp|make|sp|up|sp|remover"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.flaconi.de/lippen-make-up/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_LIPS_LIPS"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lipstick",
     "page_url": "https://www.flaconi.de/lippenstift/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_LIPS_lipstick"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip gloss",
     "page_url": "https://www.flaconi.de/lipgloss/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_LIPS_lip|sp|gloss"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Liquid lipstick",
     "page_url": "https://www.flaconi.de/liquid-lipstick/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_LIPS_Liquid|sp|lipstick"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip liner",
     "page_url": "https://www.flaconi.de/lipliner/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_LIPS_lip|sp|liner"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip plumper",
     "page_url": "https://www.flaconi.de/lip-plumper/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_LIPS_lip|sp|plumper"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip balm",
     "page_url": "https://www.flaconi.de/lippenbalsam/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_LIPS_lip|sp|balm"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.flaconi.de/nageldesign/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_NAILS"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail polish",
     "page_url": "https://www.flaconi.de/nagellack/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|polish"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Top coat",
     "page_url": "https://www.flaconi.de/top-coat/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_Top|sp|coat"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "base coat",
     "page_url": "https://www.flaconi.de/base-coat/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_base|sp|coat"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "gel nail polish",
     "page_url": "https://www.flaconi.de/gel-nagellack/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_gel|sp|nail|sp|polish"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail care",
     "page_url": "https://www.flaconi.de/nageldesign-pflege/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|care"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail polish remover",
     "page_url": "https://www.flaconi.de/nagellackentferner/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|polish|sp|remover"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail foil",
     "page_url": "https://www.flaconi.de/nagelfolie/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|foil"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "manicure sets",
     "page_url": "https://www.flaconi.de/manikuere-set/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_manicure|sp|sets"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail scissors",
     "page_url": "https://www.flaconi.de/nagelschere/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|scissors"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail file",
     "page_url": "https://www.flaconi.de/nagelfeile/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|file"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.flaconi.de/naturkosmetik-make-up/",
     "file_name": "Germany_Flaconi_NATURE_MAKE|sp|UP_MAKE|sp|UP"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "Skin",
     "page_url": "https://www.flaconi.de/naturkosmetik-gesicht-make-up/",
     "file_name": "Germany_Flaconi_NATURE_MAKE|sp|UP_complexion"
@@ -2579,7 +2579,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "eyes",
     "page_url": "https://www.flaconi.de/naturkosmetik-augen-make-up/",
     "file_name": "Germany_Flaconi_NATURE_MAKE|sp|UP_eyes"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "lips",
     "page_url": "https://www.flaconi.de/naturkosmetik-lippen-make-up/",
     "file_name": "Germany_Flaconi_NATURE_MAKE|sp|UP_lips"
@@ -2821,7 +2821,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.flaconi.de/premium-parfum/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_PERFUME"
@@ -2832,7 +2832,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "fragrances",
     "page_url": "https://www.flaconi.de/premiumduefte/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_fragrances"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "shower care",
     "page_url": "https://www.flaconi.de/premium-duschpflege/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_shower|sp|care"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "personal hygiene",
     "page_url": "https://www.flaconi.de/premium-koerperprodukte/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_personal|sp|hygiene"
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "deodorants",
     "page_url": "https://www.flaconi.de/premium-deodorants-parfum/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_deodorants"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "fragrance sets",
     "page_url": "https://www.flaconi.de/premium-duftsets/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_fragrance|sp|sets"
@@ -2887,7 +2887,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "after shave",
     "page_url": "https://www.flaconi.de/premium-after-shave/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_after|sp|shave"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.flaconi.de/premium-make-up/",
     "file_name": "Germany_Flaconi_PREMIUM_MAKE|sp|UP_MAKE|sp|UP"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "Skin",
     "page_url": "https://www.flaconi.de/premium-teint/",
     "file_name": "Germany_Flaconi_PREMIUM_MAKE|sp|UP_complexion"
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "eyes",
     "page_url": "https://www.flaconi.de/premium-augen-make-up/",
     "file_name": "Germany_Flaconi_PREMIUM_MAKE|sp|UP_eyes"
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "lips",
     "page_url": "https://www.flaconi.de/premium-lippen-make-up/",
     "file_name": "Germany_Flaconi_PREMIUM_MAKE|sp|UP_lips"
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "nails",
     "page_url": "https://www.flaconi.de/premium-nageldesign/",
     "file_name": "Germany_Flaconi_PREMIUM_MAKE|sp|UP_nails"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.flaconi.de/neuheiten-parfum/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_PERFUME"
@@ -3085,7 +3085,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "4711 Aqua Colonia",
     "page_url": "https://www.flaconi.de/4711-acqua-colonia/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_4711|sp|Aqua|sp|Colonia"
@@ -3096,7 +3096,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "azzaro",
     "page_url": "https://www.flaconi.de/azzaro/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_azzaro"
@@ -3107,7 +3107,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "BIRKWOOD",
     "page_url": "https://www.flaconi.de/birkholz/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_BIRKWOOD"
@@ -3118,7 +3118,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "Mandarin Duck",
     "page_url": "https://www.flaconi.de/mandarina-duck/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_Mandarin|sp|Duck"
@@ -3129,7 +3129,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PHILIPP PLEIN",
     "page_url": "https://www.flaconi.de/philipp-plein/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_PHILIPP|sp|PLEIN"
@@ -3140,7 +3140,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "POO POURRI",
     "page_url": "https://www.flaconi.de/poo-pourri/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_POO|sp|POURRI"
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "Roberto Ugolini",
     "page_url": "https://www.flaconi.de/roberto-ugolini/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_Roberto|sp|Ugolini"
@@ -3162,7 +3162,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "Titian Terenzi",
     "page_url": "https://www.flaconi.de/tiziana-terenzi/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_Titian|sp|Terenzi"
@@ -3173,7 +3173,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "tom ford",
     "page_url": "https://www.flaconi.de/tom-ford/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_tom|sp|ford"
@@ -3184,7 +3184,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "XERJOFF",
     "page_url": "https://www.flaconi.de/xerjoff/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_XERJOFF"
@@ -3437,7 +3437,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.flaconi.de/neuheiten-make-up/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_MAKE|sp|UP"
@@ -3448,7 +3448,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "Bourjois",
     "page_url": "https://www.flaconi.de/bourjois/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_Bourjois"
@@ -3459,7 +3459,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "LAURA MERCIER",
     "page_url": "https://www.flaconi.de/laura-mercier/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_LAURA|sp|MERCIER"
@@ -3470,7 +3470,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "LIP SMACKER",
     "page_url": "https://www.flaconi.de/lip-smacker/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_LIP|sp|SMACKER"
@@ -3481,7 +3481,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAC",
     "page_url": "https://www.flaconi.de/mac/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_MAC"
@@ -3492,7 +3492,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MADARA",
     "page_url": "https://www.flaconi.de/madara/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_MADARA"
@@ -3503,7 +3503,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "NYX Professional Makeup",
     "page_url": "https://www.flaconi.de/nyx-professional-makeup/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_NYX|sp|Professional|sp|Makeup"
@@ -3514,7 +3514,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "PHYSICIANS FORMULA",
     "page_url": "https://www.flaconi.de/physicians-formula/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_PHYSICIANS|sp|FORMULA"
@@ -3525,7 +3525,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "rms beauty",
     "page_url": "https://www.flaconi.de/rms-beauty/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_rms|sp|beauty"
@@ -3536,7 +3536,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "AND GRETEL",
     "page_url": "https://www.flaconi.de/und-gretel/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_AND|sp|GRETEL"
@@ -3547,7 +3547,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "wet n wild",
     "page_url": "https://www.flaconi.de/wet-n-wild/",
     "file_name": "Germany_Flaconi_NEW_MAKE|sp|UP_wet|sp|n|sp|wild"
@@ -3558,7 +3558,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.flaconi.de/sale/",
     "file_name": "Germany_Flaconi_SALE_SALE_SALE"
@@ -3569,7 +3569,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.flaconi.de/sale-parfuem/",
     "file_name": "Germany_Flaconi_SALE_PERFUME_PERFUME"
@@ -3580,7 +3580,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "women's fragrances",
     "page_url": "https://www.flaconi.de/sale-damenduefte/",
     "file_name": "Germany_Flaconi_SALE_PERFUME_women|sq|s|sp|fragrances"
@@ -3591,7 +3591,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "men's fragrances",
     "page_url": "https://www.flaconi.de/sale-herrenduefte/",
     "file_name": "Germany_Flaconi_SALE_PERFUME_men|sq|s|sp|fragrances"
@@ -3602,7 +3602,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "fragrance sets",
     "page_url": "https://www.flaconi.de/sale-duftsets/",
     "file_name": "Germany_Flaconi_SALE_PERFUME_fragrance|sp|sets"
@@ -3657,7 +3657,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.flaconi.de/sale-make-up/",
     "file_name": "Germany_Flaconi_SALE_MAKE|sp|UP_MAKE|sp|UP"
@@ -3668,7 +3668,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "Skin",
     "page_url": "https://www.flaconi.de/sale-teint/",
     "file_name": "Germany_Flaconi_SALE_MAKE|sp|UP_complexion"
@@ -3679,7 +3679,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "eyes",
     "page_url": "https://www.flaconi.de/sale-augen-make-up/",
     "file_name": "Germany_Flaconi_SALE_MAKE|sp|UP_eyes"
@@ -3690,7 +3690,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "lips",
     "page_url": "https://www.flaconi.de/sale-lippen-make-up/",
     "file_name": "Germany_Flaconi_SALE_MAKE|sp|UP_lips"
@@ -3701,7 +3701,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "nails",
     "page_url": "https://www.flaconi.de/sale-nageldesign/",
     "file_name": "Germany_Flaconi_SALE_MAKE|sp|UP_nails"

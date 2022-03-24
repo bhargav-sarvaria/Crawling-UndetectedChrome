@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz-c302/",
     "file_name": "Poland_Sephora_PL_MAKEUP_MAKEUP_MAKEUP"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "BESTSELLERS",
+    "category": "Bestsellers",
     "page": "BESTSELLERS",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/bestsellery-best-makeup/",
     "file_name": "Poland_Sephora_PL_MAKEUP_BESTSELLERS_BESTSELLERS"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "MAKE-UP SEPHORA COLLECTION",
+    "category": "Sephora Collection",
     "page": "MAKE-UP SEPHORA COLLECTION",
     "page_url": "https://www.sephora.pl/marki/od-a-do-z/sephora-collection-sepho/?srule=rank&start=0&sz=28&t2scookie=rank1&scgid=C302",
     "file_name": "Poland_Sephora_PL_MAKEUP_MAKE|h|UP|sp|SEPHORA|sp|COLLECTION_MAKE|h|UP|sp|SEPHORA|sp|COLLECTION"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "MINI MAKEUP COSMETICS",
+    "category": "Mini Make Up Cosmetics",
     "page": "MINI MAKEUP COSMETICS",
     "page_url": "https://www.sephora.pl/miniformat/mini-kosmetyki-do-makijazu-mini_makeup/",
     "file_name": "Poland_Sephora_PL_MAKEUP_MINI|sp|MAKEUP|sp|COSMETICS_MINI|sp|MAKEUP|sp|COSMETICS"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "GOOD MAKE UP",
+    "category": "Good Make Up",
     "page": "GOOD MAKE UP",
     "page_url": "https://www.sephora.pl/makijaz/good-make-up-good-make-up/",
     "file_name": "Poland_Sephora_PL_MAKEUP_GOOD|sp|MAKE|sp|UP_GOOD|sp|MAKE|sp|UP"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "GOOD MAKE UP",
+    "category": "Good Make Up",
     "page": "Natural makeup",
     "page_url": "https://www.sephora.pl/makijaz/good-make-up/makijaz-naturalny-naturalny-makijaz/",
     "file_name": "Poland_Sephora_PL_MAKEUP_GOOD|sp|MAKE|sp|UP_Natural|sp|makeup"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "GOOD MAKE UP",
+    "category": "Good Make Up",
     "page": "Vegan makeup",
     "page_url": "https://www.sephora.pl/makijaz/good-make-up/makijaz-weganski-weganskie-formuly/",
     "file_name": "Poland_Sephora_PL_MAKEUP_GOOD|sp|MAKE|sp|UP_Vegan|sp|makeup"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "GOOD MAKE UP",
+    "category": "Good Make Up",
     "page": "Eco makeup",
     "page_url": "https://www.sephora.pl/makijaz/good-make-up/makijaz-eko-makijaz-eko/",
     "file_name": "Poland_Sephora_PL_MAKEUP_GOOD|sp|MAKE|sp|UP_Eco|sp|makeup"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "LONG-LASTING MAKEUP",
+    "category": "Long Lasting Make Up",
     "page": "LONG-LASTING MAKEUP",
     "page_url": "https://www.sephora.pl/makijaz/makijaz-o-przedluzonej-trwalosci-longlasting/",
     "file_name": "Poland_Sephora_PL_MAKEUP_LONG|h|LASTING|sp|MAKEUP_LONG|h|LASTING|sp|MAKEUP"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy-c343/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_EYES"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow bases",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy/bazy-pod-cienie-c109101/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_Eyeshadow|sp|bases"
@@ -126,7 +126,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Shadow palettes",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy/palety-cieni-c258701/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_Shadow|sp|palettes"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy/cienie-do-powiek-c363/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_Eyeshadow"
@@ -148,7 +148,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye pencils and khol",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy/kredki-do-oczu-i-khol-c365/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_Eye|sp|pencils|sp|and|sp|khol"
@@ -159,7 +159,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascaras",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy/tusze-do-rzes-c366/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_Mascaras"
@@ -170,7 +170,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliners",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy/eyelinery-c7667/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_Eyeliners"
@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Artificial eyelashes",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/oczy/sztuczne-rzesy-c7668/",
     "file_name": "Poland_Sephora_PL_MAKEUP_EYES_Artificial|sp|eyelashes"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/paznokcie-c345/",
     "file_name": "Poland_Sephora_PL_MAKEUP_NAILS_NAILS"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Top coat and base",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/paznokcie/top-coat-i-bazy-c297704/",
     "file_name": "Poland_Sephora_PL_MAKEUP_NAILS_Top|sp|coat|sp|and|sp|base"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polishes",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/paznokcie/lakiery-do-paznokci-c377/",
     "file_name": "Poland_Sephora_PL_MAKEUP_NAILS_Nail|sp|polishes"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail care",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/paznokcie/pielegnacja-paznokci-c378/",
     "file_name": "Poland_Sephora_PL_MAKEUP_NAILS_Nail|sp|care"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Removers",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/paznokcie/zmywacze-c379/",
     "file_name": "Poland_Sephora_PL_MAKEUP_NAILS_Removers"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/perfumy-c301/",
     "file_name": "Poland_Sephora_PL_PERFUME_PERFUME_PERFUME"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Perfume",
-    "category": "BESTSELLERS",
+    "category": "Bestsellers",
     "page": "BESTSELLERS",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/perfumy/bestsellery-best-fragrance/",
     "file_name": "Poland_Sephora_PL_PERFUME_BESTSELLERS_BESTSELLERS"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Perfume",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "WELLNESS",
     "page_url": "https://www.sephora.pl/perfumy/wellness-c297850/",
     "file_name": "Poland_Sephora_PL_PERFUME_WELLNESS_WELLNESS"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Perfume",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Aromatherapy",
     "page_url": "https://www.sephora.pl/perfumy/wellness/aromaterapia-c297851/",
     "file_name": "Poland_Sephora_PL_PERFUME_WELLNESS_Aromatherapy"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Perfume",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Home fragrances",
     "page_url": "https://www.sephora.pl/perfumy/wellness/zapachy-do-domu-c297852/",
     "file_name": "Poland_Sephora_PL_PERFUME_WELLNESS_Home|sp|fragrances"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "BESTSELLERS",
+    "category": "Bestsellers",
     "page": "BESTSELLERS",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/bestsellery-best-skincare/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_BESTSELLERS_BESTSELLERS"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "MASKS",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/maseczki-c7685/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_MASKS_MASKS"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Sheet masks",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/maseczki/maseczki-w-plachcie-c313703/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_MASKS_Sheet|sp|masks"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Cream masks",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/maseczki/maseczki-w-kremie-c313704/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_MASKS_Cream|sp|masks"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "SUN CARE",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/pielegnacja-sloneczna-c402/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_SUN|sp|CARE_SUN|sp|CARE"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Self-tanners",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/pielegnacja-sloneczna/samoopalacze-c434/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_SUN|sp|CARE_Self|h|tanners"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "After tanning",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/pielegnacja-sloneczna/po-opalaniu-c436/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_SUN|sp|CARE_After|sp|tanning"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Sun protection",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/pielegnacja-sloneczna/ochrona-przeciwsloneczna-c438/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_SUN|sp|CARE_Sun|sp|protection"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "SHAVING",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/golenie-c494/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_SHAVING_SHAVING"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Gels and foams",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/golenie/zele-i-pianki-c512/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_SHAVING_Gels|sp|and|sp|foams"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "After shave",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/golenie/po-goleniu-c513/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_SHAVING_After|sp|shave"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BESTSELLERS",
+    "category": "Bestsellers",
     "page": "BESTSELLERS",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/bestsellery-best-body/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BESTSELLERS_BESTSELLERS"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala-c298002/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_BODY|sp|CARE"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Milks",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/mleczka-c298003/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Milks"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Lotions and creams",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/balsamy-i-kremy-c426/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Lotions|sp|and|sp|creams"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorants",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/dezodoranty-c429/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Deodorants"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Neckline and bust",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/dekolt-i-biust-c430/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Neckline|sp|and|sp|bust"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Hand care",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/pielegnacja-rak-c431/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Hand|sp|care"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Mists",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/mgielki-c432/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Mists"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Oils",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/olejki-c479/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Oils"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Peels",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/peelingi-c482/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Peels"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Foot care",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-ciala/pielegnacja-stop-c7752/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY|sp|CARE_Foot|sp|care"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "SUN CARE",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-przeciwsloneczna-c7784/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_SUN|sp|CARE_SUN|sp|CARE"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "After tanning",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-przeciwsloneczna/po-opalaniu-c7783/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_SUN|sp|CARE_After|sp|tanning"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Sun protection",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-przeciwsloneczna/ochrona-przeciwsloneczna-c7785/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_SUN|sp|CARE_Sun|sp|protection"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Self-tanners",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/pielegnacja-przeciwsloneczna/samoopalacze-c7786/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_SUN|sp|CARE_Self|h|tanners"
@@ -2348,7 +2348,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Mini formats",
     "page_url": "https://www.sephora.pl/cialo-i-kapiel/pielegnacja-przeciwsloneczna/mini-formaty-pielegnacja-przeciwsloneczna-mini/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_SUN|sp|CARE_Mini|sp|formats"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/cialo-c7641/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY_BODY"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Shower gels and soaps",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/cialo/zele-pod-prysznic-i-mydla-c495/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY_Shower|sp|gels|sp|and|sp|soaps"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Moisturizing",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/cialo/nawilzanie-c7713/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY_Moisturizing"
@@ -2414,7 +2414,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Deodorants",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/cialo/dezodoranty-c7796/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY_Deodorants"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "BESTSELLERS",
+    "category": "Bestsellers",
     "page": "BESTSELLERS",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/bestsellery-best-hair/",
     "file_name": "Poland_Sephora_PL_HAIR_BESTSELLERS_BESTSELLERS"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Sale",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.sephora.pl/beauty-offers.html/",
     "file_name": "Poland_Sephora_PL_SALE_SALE_SALE"
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "New",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.pl/nowosci/wszystkie-nowosci-new/",
     "file_name": "Poland_Sephora_PL_NEWS_NEWS_NEWS"

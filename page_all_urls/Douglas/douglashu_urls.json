@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.hu/c/parfumok/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_PERFUME_PERFUME"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_BODY|sp|CARE"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Care",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/apolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Care"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Shower gels, cleaners",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/tusfurdok-tisztitok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Shower|sp|gels,|sp|cleaners"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorants",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/dezodorok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Deodorants"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Baby care",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/baba-apolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Baby|sp|care"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Sets",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/szettek/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Sets"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Anti-cellulite / Slimming creams, firming",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/cellulitisz-elleni-karcsusito-kremek-feszesitok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Anti|h|cellulite|sp||fs||sp|Slimming|sp|creams,|sp|firming"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Accessories",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Accessories"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "MEN'S GROOMING",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_MEN|sq|S|sp|GROOMING"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Men's facial care",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/ferfi-arcapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_Men|sq|s|sp|facial|sp|care"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Shaving",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/borotvalkozas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_Shaving"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Men's body care",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/ferfi-testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_Men|sq|s|sp|body|sp|care"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Deodorants",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/dezodorok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_Deodorants"
@@ -874,7 +874,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Shower gels, shampoos",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/tusfurdok-samponok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_Shower|sp|gels,|sp|shampoos"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Sets",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/szettek/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_Sets"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "DENTAL CARE",
     "page_url": "https://www.douglas.hu/c/apolas/fogapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_DENTAL|sp|CARE_DENTAL|sp|CARE"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Electric toothbrushes",
     "page_url": "https://www.douglas.hu/c/apolas/fogapolas/elektromos-fogkefek/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_DENTAL|sp|CARE_Electric|sp|toothbrushes"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CARE",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Toothpastes, mouthwashes",
     "page_url": "https://www.douglas.hu/c/apolas/fogapolas/fogkremek-szajvizek/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_DENTAL|sp|CARE_Toothpastes,|sp|mouthwashes"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.hu/c/smink/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_MAKEUP_MAKEUP"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "EYE",
     "page_url": "https://www.douglas.hu/c/smink/szem/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_EYE"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "Eyeshadow",
     "page_url": "https://www.douglas.hu/c/smink/szem/szemhejfestek/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_Eyeshadow"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.douglas.hu/c/smink/szem/szempillaspiral/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_Mascara"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "Eyeliner, eyelid",
     "page_url": "https://www.douglas.hu/c/smink/szem/szemceruza-szemhejtus/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_Eyeliner,|sp|eyelid"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "Eyebrow",
     "page_url": "https://www.douglas.hu/c/smink/szem/szemoldok/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_Eyebrow"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "Sets, pallets",
     "page_url": "https://www.douglas.hu/c/smink/szem/szettek-palettak/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_Sets,|sp|pallets"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "Eyeshadow base",
     "page_url": "https://www.douglas.hu/c/smink/szem/szemhejfestek-bazis/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_Eyeshadow|sp|base"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "False eyelashes",
     "page_url": "https://www.douglas.hu/c/smink/szem/muszempillak/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_False|sp|eyelashes"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "EYE",
+    "category": "Eyes",
     "page": "Eyeshadow remover",
     "page_url": "https://www.douglas.hu/c/smink/szem/szemfesteklemoso/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_EYE_Eyeshadow|sp|remover"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.hu/c/clean-beauty/parfum/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_PERFUME_PERFUME"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "Women's scents",
     "page_url": "https://www.douglas.hu/c/clean-beauty/parfum/noi-illatok/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_PERFUME_Women|sq|s|sp|scents"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "Men's scents",
     "page_url": "https://www.douglas.hu/c/clean-beauty/parfum/ferfi-illatok/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_PERFUME_Men|sq|s|sp|scents"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.hu/c/clean-beauty/smink/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_MAKEUP_MAKEUP"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Arc",
     "page_url": "https://www.douglas.hu/c/clean-beauty/smink/arc/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_MAKEUP_Arc"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Eye",
     "page_url": "https://www.douglas.hu/c/clean-beauty/smink/szem/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_MAKEUP_Eye"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Invite",
     "page_url": "https://www.douglas.hu/c/clean-beauty/smink/ajak/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_MAKEUP_Invite"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Nail",
     "page_url": "https://www.douglas.hu/c/clean-beauty/smink/korom/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_MAKEUP_Nail"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "CLEAN BEAUTY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Accessories",
     "page_url": "https://www.douglas.hu/c/clean-beauty/smink/kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_MAKEUP_Accessories"

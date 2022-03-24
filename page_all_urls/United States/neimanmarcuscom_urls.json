@@ -3140,7 +3140,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Home Decor",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-cat40520731?navpath=cat000000_cat000553_cat40520731",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Home|sp|Decor"
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Accents",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-accents-cat40520739?navpath=cat000000_cat000553_cat40520731_cat40520739",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Accents"
@@ -3162,7 +3162,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Candles & Home Scents",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-candles-home-scents-cat10470808?navpath=cat000000_cat000553_cat40520731_cat10470808",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Candles|sp||as||sp|Home|sp|Scents"
@@ -3173,7 +3173,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Decorative Pillows & Throws",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-decorative-pillows-throws-cat16130901?navpath=cat000000_cat000553_cat40520731_cat16130901",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Decorative|sp|Pillows|sp||as||sp|Throws"
@@ -3184,7 +3184,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Desk & Stationery",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-desk-stationery-cat40520749?navpath=cat000000_cat000553_cat40520731_cat40520749",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Desk|sp||as||sp|Stationery"
@@ -3195,7 +3195,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Faux Florals, Plants & Planters",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-faux-florals-plants-planters-cat16130899?navpath=cat000000_cat000553_cat40520731_cat16130899",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Faux|sp|Florals,|sp|Plants|sp||as||sp|Planters"
@@ -3206,7 +3206,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Lighting",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-lighting-cat40520746?navpath=cat000000_cat000553_cat40520731_cat40520746",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Lighting"
@@ -3217,7 +3217,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Picture Frames",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-picture-frames-cat16130958?navpath=cat000000_cat000553_cat40520731_cat16130958",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Picture|sp|Frames"
@@ -3228,7 +3228,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Trays & Vases",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-trays-vases-cat81190744?navpath=cat000000_cat000553_cat40520731_cat81190744",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Trays|sp||as||sp|Vases"
@@ -3239,7 +3239,7 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Wall Art & Mirrors",
     "page_url": "https://www.neimanmarcus.com/c/home-home-decor-wall-art-mirrors-cat40460731?navpath=cat000000_cat000553_cat40520731_cat40460731",
     "file_name": "United|sp|States_Neimanmarcus_HOME_Home|sp|Decor_Wall|sp|Art|sp||as||sp|Mirrors"

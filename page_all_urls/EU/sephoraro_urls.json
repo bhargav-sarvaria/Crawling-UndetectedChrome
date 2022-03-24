@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.sephora.ro/shop/machiaj-c302/",
     "file_name": "Romania_Sephora_RO_MAKEUP_MAKEUP_MAKEUP"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/noutati-machiaj.html",
     "file_name": "Romania_Sephora_RO_MAKEUP_NEWS_NEWS"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi-c343/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_EYES"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye palette",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi/paleta-pentru-ochi-c258701/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_Eye|sp|palette"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi/mascara-c366/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_Mascara"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye shadow",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi/fard-de-pleoape-c363/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_Eye|sp|shadow"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi/eyeliner-c7667/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_Eyeliner"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye pencil & khol",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi/creion-de-ochi-khol-c365/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_Eye|sp|pencil|sp||as||sp|khol"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyelid base",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi/baza-pentru-pleoape-c109101/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_Eyelid|sp|base"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "False eyelashes",
     "page_url": "https://www.sephora.ro/shop/machiaj/ochi/gene-false-c7668/",
     "file_name": "Romania_Sephora_RO_MAKEUP_EYES_False|sp|eyelashes"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "LIP",
     "page_url": "https://www.sephora.ro/shop/machiaj/buze-c344/",
     "file_name": "Romania_Sephora_RO_MAKEUP_LIP_LIP"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.sephora.ro/shop/machiaj/buze/ruj-de-buze-c371/",
     "file_name": "Romania_Sephora_RO_MAKEUP_LIP_Lipstick"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Gloss",
     "page_url": "https://www.sephora.ro/shop/machiaj/buze/gloss-c372/",
     "file_name": "Romania_Sephora_RO_MAKEUP_LIP_Gloss"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lipgloss",
     "page_url": "https://www.sephora.ro/shop/machiaj/buze/balsam-de-buze-c7669/",
     "file_name": "Romania_Sephora_RO_MAKEUP_LIP_Lipgloss"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip pencil",
     "page_url": "https://www.sephora.ro/shop/machiaj/buze/creion-de-buze-c373/",
     "file_name": "Romania_Sephora_RO_MAKEUP_LIP_Lip|sp|pencil"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip base & volume",
     "page_url": "https://www.sephora.ro/shop/machiaj/buze/baza-pentru-buze-volum-c374/",
     "file_name": "Romania_Sephora_RO_MAKEUP_LIP_Lip|sp|base|sp||as||sp|volume"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.ro/shop/machiaj/unghii-c345/",
     "file_name": "Romania_Sephora_RO_MAKEUP_NAILS_NAILS"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.sephora.ro/shop/machiaj/unghii/lac-de-unghii-c377/",
     "file_name": "Romania_Sephora_RO_MAKEUP_NAILS_Nail|sp|polish"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail treatments",
     "page_url": "https://www.sephora.ro/shop/machiaj/unghii/tratamente-unghii-c378/",
     "file_name": "Romania_Sephora_RO_MAKEUP_NAILS_Nail|sp|treatments"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Base & top coat",
     "page_url": "https://www.sephora.ro/shop/machiaj/unghii/baza-top-coat-c297704/",
     "file_name": "Romania_Sephora_RO_MAKEUP_NAILS_Base|sp||as||sp|top|sp|coat"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Solvent",
     "page_url": "https://www.sephora.ro/shop/machiaj/unghii/dizolvant-c379/",
     "file_name": "Romania_Sephora_RO_MAKEUP_NAILS_Solvent"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://www.sephora.ro/shop/machiaj/accesorii-machiaj-c7650/",
     "file_name": "Romania_Sephora_RO_MAKEUP_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/noutati-parfumuri.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_NEWS_NEWS"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.sephora.ro/parfumerie-nisa.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Parma water",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/acqua-di-parma-acqua/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Parma|sp|water"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Cologne Workshop",
     "page_url": "https://www.sephora.ro/atelier-cologne/COLOG-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Cologne|sp|Workshop"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "National costume",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/costume-national-costu/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_National|sp|costume"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Chopard",
     "page_url": "https://www.sephora.ro/CHOPA-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Chopard"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Tom Ford",
     "page_url": "https://www.sephora.ro/FORD-BrandUniverse-3.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Tom|sp|Ford"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "House Margiela",
     "page_url": "https://www.sephora.ro/MARGI-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_House|sp|Margiela"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Trussardi",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/trussardi-truss/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Trussardi"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Guerlain",
     "page_url": "https://www.sephora.ro/guerlain/GUERL-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Guerlain"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Hermes",
     "page_url": "https://www.sephora.ro/hermes/HERMS-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Hermes"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "SKIN CARE",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten-c303/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_SKIN|sp|CARE_SKIN|sp|CARE"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/noutati-ingrijire.html",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_NEWS_NEWS"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "MASKS",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/masti-c7685/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_MASKS_MASKS"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Cream masks",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/masti/masti-crema-c313704/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_MASKS_Cream|sp|masks"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Fabric masks",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/masti/masti-tesatura-c313703/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_MASKS_Fabric|sp|masks"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "SHAVING",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/barbierit-c494/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_SHAVING_SHAVING"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/toate-noutatile/noutati-baie-corp-n-c304/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_NEWS_NEWS"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp-c298002/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_BODY|sp|CARE"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Moisturizer",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/crema-hidratanta-c426/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Moisturizer"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Scrub & Exfoliant corp",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/scrub-exfoliant-corp-c482/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Scrub|sp||as||sp|Exfoliant|sp|corp"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Hand cream",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/crema-de-maini-c431/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Hand|sp|cream"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body milk",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/lapte-de-corp-c298003/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Body|sp|milk"
@@ -1820,7 +1820,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorant",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/deodorant-c429/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Deodorant"
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body water",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/apa-de-corp-c432/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Body|sp|water"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Foot care",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/ingrijire-picioare-c7752/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Foot|sp|care"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Nourishing oil",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/ulei-hranitor-c479/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Nourishing|sp|oil"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Bust & cleavage care",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/ingrijire-bust-decolteu-c430/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Bust|sp||as||sp|cleavage|sp|care"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Tired foot treatments",
     "page_url": "https://www.sephora.ro/shop/baie-corp/ingrijire-corp/tratamente-picioare-obosite-c433/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BODY|sp|CARE_Tired|sp|foot|sp|treatments"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/noutati-ingrijire-par.html",
     "file_name": "Romania_Sephora_RO_HAIR_NEWS_NEWS"
@@ -2788,7 +2788,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Sephora Collection",
-    "category": "Lip",
+    "category": "Lips",
     "page": "Lip",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/sephora-collection-sepho/?scgid=C344",
     "file_name": "Romania_Sephora_RO_SEPHORA|sp|COLLECTION_Lip_Lip"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "New",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.ro/noutati/",
     "file_name": "Romania_Sephora_RO_NEWS_NEWS_NEWS"

@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.sephora.com.au/categories/makeup",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP_MAKEUP"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.sephora.com.au/categories/makeup/face",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_FACE"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.sephora.com.au/categories/makeup/face",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_FACE"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Contour",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/contour",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Contour"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Face Primer",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/face-primer",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Face|sp|Primer"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Highlighter & Illuminator",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/highlighter-and-illuminator",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Highlighter|sp||as||sp|Illuminator"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Face Palettes & Sets",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/face-palettes-and-sets",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Face|sp|Palettes|sp||as||sp|Sets"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Foundation",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/foundation",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Foundation"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Tinted Moisturiser",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/tinted-moisturiser",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Tinted|sp|Moisturiser"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "BB & CC Cream",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/bb-and-cc-cream",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_BB|sp||as||sp|CC|sp|Cream"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Powder",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/powder",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Powder"
@@ -126,7 +126,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Concealer & Corrector",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/concealer-and-corrector",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Concealer|sp||as||sp|Corrector"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Blush",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/blush",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Blush"
@@ -148,7 +148,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Bronzer",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/bronzer",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Bronzer"
@@ -159,7 +159,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Setting & Finishing Spray",
     "page_url": "https://www.sephora.com.au/categories/makeup/face/setting-and-finishing-spray",
     "file_name": "Australia_Sephora_AU_MAKEUP_FACE_Setting|sp||as||sp|Finishing|sp|Spray"
@@ -170,7 +170,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_EYES"
@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_EYES"
@@ -192,7 +192,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/eyeliner",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_Eyeliner"
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Palettes & Sets",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/eye-palettes-and-sets",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_Eye|sp|Palettes|sp||as||sp|Sets"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/eyeshadow",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_Eyeshadow"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyebrows",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/eyebrows",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_Eyebrows"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/mascara",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_Mascara"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "False Eyelashes",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/false-eyelashes",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_False|sp|Eyelashes"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Primer",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/eye-primer",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_Eye|sp|Primer"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Under Eye Concealer",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes/under-eye-concealer",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_Under|sp|Eye|sp|Concealer"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_LIPS"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_LIPS"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Palettes & Sets",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lip-palettes-and-sets",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lip|sp|Palettes|sp||as||sp|Sets"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lipstick",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lipstick"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Stain & Tint",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lip-stain-and-tint",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lip|sp|Stain|sp||as||sp|Tint"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Gloss",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lip-gloss",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lip|sp|Gloss"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Liner",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lip-liner",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lip|sp|Liner"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Balm",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lip-balm",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lip|sp|Balm"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Plumper",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lip-plumper",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lip|sp|Plumper"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Primer",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips/lip-primer",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_Lip|sp|Primer"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_NAILS"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_NAILS"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Polish",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails/nail-polish",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Nail|sp|Polish"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Base & Top Coat",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails/base-and-top-coat",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Base|sp||as||sp|Top|sp|Coat"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Art",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails/nail-art",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Nail|sp|Art"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Treatments",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails/nail-treatments",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Nail|sp|Treatments"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Polish Remover",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails/nail-polish-remover",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Nail|sp|Polish|sp|Remover"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Sets",
     "page_url": "https://www.sephora.com.au/categories/makeup/nails/nail-sets",
     "file_name": "Australia_Sephora_AU_MAKEUP_NAILS_Nail|sp|Sets"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "MAKEUP REMOVER",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_MAKEUP|sp|REMOVER"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "MAKEUP REMOVER",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_MAKEUP|sp|REMOVER"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "Eyes & Lips",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover/eyes-and-lips",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_Eyes|sp||as||sp|Lips"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "Face",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover/face",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_Face"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "CLEANSER & EXFOLIATOR",
+    "category": "Cleanser & Exfoliator",
     "page": "CLEANSER & EXFOLIATOR",
     "page_url": "https://www.sephora.com.au/categories/skincare/cleanser-and-exfoliator",
     "file_name": "Australia_Sephora_AU_SKINCARE_CLEANSER|sp||as||sp|EXFOLIATOR_CLEANSER|sp||as||sp|EXFOLIATOR"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "CLEANSER & EXFOLIATOR",
+    "category": "Cleanser & Exfoliator",
     "page": "CLEANSER & EXFOLIATOR",
     "page_url": "https://www.sephora.com.au/categories/skincare/cleanser-and-exfoliator",
     "file_name": "Australia_Sephora_AU_SKINCARE_CLEANSER|sp||as||sp|EXFOLIATOR_CLEANSER|sp||as||sp|EXFOLIATOR"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "CLEANSER & EXFOLIATOR",
+    "category": "Cleanser & Exfoliator",
     "page": "Facial Cleanser",
     "page_url": "https://www.sephora.com.au/categories/skincare/cleanser-and-exfoliator/facial-cleanser",
     "file_name": "Australia_Sephora_AU_SKINCARE_CLEANSER|sp||as||sp|EXFOLIATOR_Facial|sp|Cleanser"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "CLEANSER & EXFOLIATOR",
+    "category": "Cleanser & Exfoliator",
     "page": "Blotting Paper",
     "page_url": "https://www.sephora.com.au/categories/skincare/cleanser-and-exfoliator/blotting-paper",
     "file_name": "Australia_Sephora_AU_SKINCARE_CLEANSER|sp||as||sp|EXFOLIATOR_Blotting|sp|Paper"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "CLEANSER & EXFOLIATOR",
+    "category": "Cleanser & Exfoliator",
     "page": "Scrub & Exfoliator",
     "page_url": "https://www.sephora.com.au/categories/skincare/cleanser-and-exfoliator/scrub-and-exfoliator",
     "file_name": "Australia_Sephora_AU_SKINCARE_CLEANSER|sp||as||sp|EXFOLIATOR_Scrub|sp||as||sp|Exfoliator"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "TONER",
+    "category": "Toners",
     "page": "TONER",
     "page_url": "https://www.sephora.com.au/categories/skincare/toner",
     "file_name": "Australia_Sephora_AU_SKINCARE_TONER_TONER"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "TONER",
+    "category": "Toners",
     "page": "TONER",
     "page_url": "https://www.sephora.com.au/categories/skincare/toner",
     "file_name": "Australia_Sephora_AU_SKINCARE_TONER_TONER"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "MASKS & TREATMENTS",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_MASKS|sp||as||sp|TREATMENTS"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "MASKS & TREATMENTS",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_MASKS|sp||as||sp|TREATMENTS"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "Mask",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments/mask",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_Mask"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "Peel",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments/peel",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_Peel"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "Face Oil",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments/face-oil",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_Face|sp|Oil"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "Serum & Booster",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments/serum-and-booster",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_Serum|sp||as||sp|Booster"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "Eye Care",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments/eye-care",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_Eye|sp|Care"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MASKS & TREATMENTS",
+    "category": "Masks & Treatments",
     "page": "Lip Care",
     "page_url": "https://www.sephora.com.au/categories/skincare/masks-and-treatments/lip-care",
     "file_name": "Australia_Sephora_AU_SKINCARE_MASKS|sp||as||sp|TREATMENTS_Lip|sp|Care"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "SUN CARE",
     "page_url": "https://www.sephora.com.au/categories/skincare/suncare",
     "file_name": "Australia_Sephora_AU_SKINCARE_SUN|sp|CARE_SUN|sp|CARE"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "SUN CARE",
     "page_url": "https://www.sephora.com.au/categories/skincare/suncare",
     "file_name": "Australia_Sephora_AU_SKINCARE_SUN|sp|CARE_SUN|sp|CARE"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Face Sunscreen",
     "page_url": "https://www.sephora.com.au/categories/skincare/suncare/face-sunscreen",
     "file_name": "Australia_Sephora_AU_SKINCARE_SUN|sp|CARE_Face|sp|Sunscreen"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Self Tanner",
     "page_url": "https://www.sephora.com.au/categories/skincare/suncare/self-tanner",
     "file_name": "Australia_Sephora_AU_SKINCARE_SUN|sp|CARE_Self|sp|Tanner"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "SKINCARE SETS",
+    "category": "Skincare Sets",
     "page": "SKINCARE SETS",
     "page_url": "https://www.sephora.com.au/categories/skincare/skincare-sets",
     "file_name": "Australia_Sephora_AU_SKINCARE_SKINCARE|sp|SETS_SKINCARE|sp|SETS"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "SKINCARE SETS",
+    "category": "Skincare Sets",
     "page": "SKINCARE SETS",
     "page_url": "https://www.sephora.com.au/categories/skincare/skincare-sets",
     "file_name": "Australia_Sephora_AU_SKINCARE_SKINCARE|sp|SETS_SKINCARE|sp|SETS"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "TOOLS & BRUSHES",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_TOOLS|sp||as||sp|BRUSHES_TOOLS|sp||as||sp|BRUSHES"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "BRUSHES",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_BRUSHES"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "BRUSHES",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_BRUSHES"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "Face Brushes",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes/face-brushes",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_Face|sp|Brushes"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "Eye Brushes",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes/eye-brushes",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_Eye|sp|Brushes"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "Lip Brushes",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes/lip-brushes",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_Lip|sp|Brushes"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "Multipurpose Brushes",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes/multipurpose-brushes",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_Multipurpose|sp|Brushes"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "Brush Sets",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes/brush-sets",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_Brush|sp|Sets"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BRUSHES",
+    "category": "Brushes",
     "page": "Brush Cleaners",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/brushes/brush-cleaners",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BRUSHES_Brush|sp|Cleaners"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "SPONGES & APPLICATORS",
+    "category": "Sponges & Applicators",
     "page": "SPONGES & APPLICATORS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/sponges-and-applicators",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_SPONGES|sp||as||sp|APPLICATORS_SPONGES|sp||as||sp|APPLICATORS"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "SPONGES & APPLICATORS",
+    "category": "Sponges & Applicators",
     "page": "SPONGES & APPLICATORS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/sponges-and-applicators",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_SPONGES|sp||as||sp|APPLICATORS_SPONGES|sp||as||sp|APPLICATORS"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "SPONGES & APPLICATORS",
+    "category": "Sponges & Applicators",
     "page": "Sponges",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/sponges-and-applicators/sponges",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_SPONGES|sp||as||sp|APPLICATORS_Sponges"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "SPONGES & APPLICATORS",
+    "category": "Sponges & Applicators",
     "page": "Powder Puffs",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/sponges-and-applicators/powder-puffs",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_SPONGES|sp||as||sp|APPLICATORS_Powder|sp|Puffs"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/makeup-accessories",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/makeup-accessories",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Tweezers & Brows",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/makeup-accessories/tweezers-and-brows",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MAKEUP|sp|ACCESSORIES_Tweezers|sp||as||sp|Brows"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Eyelash Curlers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/makeup-accessories/eyelash-curlers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MAKEUP|sp|ACCESSORIES_Eyelash|sp|Curlers"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Pencil Sharpeners",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/makeup-accessories/pencil-sharpeners",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MAKEUP|sp|ACCESSORIES_Pencil|sp|Sharpeners"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Mirrors",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/makeup-accessories/mirrors",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MAKEUP|sp|ACCESSORIES_Mirrors"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MANICURE & PEDICURE",
+    "category": "Manicure & Pedicure",
     "page": "MANICURE & PEDICURE",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_MANICURE|sp||as||sp|PEDICURE"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MANICURE & PEDICURE",
+    "category": "Manicure & Pedicure",
     "page": "MANICURE & PEDICURE",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_MANICURE|sp||as||sp|PEDICURE"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MANICURE & PEDICURE",
+    "category": "Manicure & Pedicure",
     "page": "Nail Clippers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/nail-clippers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Nail|sp|Clippers"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MANICURE & PEDICURE",
+    "category": "Manicure & Pedicure",
     "page": "Nail Files & Buffers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/nail-files-and-buffers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Nail|sp|Files|sp||as||sp|Buffers"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MANICURE & PEDICURE",
+    "category": "Manicure & Pedicure",
     "page": "Pedicure Tools",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/pedicure-tools",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Pedicure|sp|Tools"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "MANICURE & PEDICURE",
+    "category": "Manicure & Pedicure",
     "page": "Manicure & Pedicure Sets",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/manicure-and-pedicure/manicure-and-pedicure-sets",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_MANICURE|sp||as||sp|PEDICURE_Manicure|sp||as||sp|Pedicure|sp|Sets"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "HAIR TOOLS",
+    "category": "Hair Tools",
     "page": "HAIR TOOLS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/hair-tools",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_HAIR|sp|TOOLS_HAIR|sp|TOOLS"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "HAIR TOOLS",
+    "category": "Hair Tools",
     "page": "HAIR TOOLS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/hair-tools",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_HAIR|sp|TOOLS_HAIR|sp|TOOLS"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "HAIR TOOLS",
+    "category": "Hair Tools",
     "page": "Brushes & Combs",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/hair-tools/brushes-and-combs",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_HAIR|sp|TOOLS_Brushes|sp||as||sp|Combs"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "HAIR TOOLS",
+    "category": "Hair Tools",
     "page": "Hair Accessories",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/hair-tools/hair-accessories",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_HAIR|sp|TOOLS_Hair|sp|Accessories"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "HAIR TOOLS",
+    "category": "Hair Tools",
     "page": "Hair Styling Devices",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/hair-tools/hair-styling-devices",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_HAIR|sp|TOOLS_Hair|sp|Styling|sp|Devices"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BEAUTY DEVICES",
+    "category": "Beauty Devices",
     "page": "BEAUTY DEVICES",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_BEAUTY|sp|DEVICES"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BEAUTY DEVICES",
+    "category": "Beauty Devices",
     "page": "BEAUTY DEVICES",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_BEAUTY|sp|DEVICES"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BEAUTY DEVICES",
+    "category": "Beauty Devices",
     "page": "Makeup",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices/makeup",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_Makeup"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BEAUTY DEVICES",
+    "category": "Beauty Devices",
     "page": "Skincare",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices/skincare",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_Skincare"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BEAUTY DEVICES",
+    "category": "Beauty Devices",
     "page": "Dental Care",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices/dental-care",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_Dental|sp|Care"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BAGS & ORGANISERS",
+    "category": "Bags & Organizers",
     "page": "BAGS & ORGANISERS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_BAGS|sp||as||sp|ORGANISERS"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BAGS & ORGANISERS",
+    "category": "Bags & Organizers",
     "page": "BAGS & ORGANISERS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_BAGS|sp||as||sp|ORGANISERS"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BAGS & ORGANISERS",
+    "category": "Bags & Organizers",
     "page": "Makeup Bags",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/makeup-bags",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Makeup|sp|Bags"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BAGS & ORGANISERS",
+    "category": "Bags & Organizers",
     "page": "Toiletry Bags",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/toiletry-bags",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Toiletry|sp|Bags"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BAGS & ORGANISERS",
+    "category": "Bags & Organizers",
     "page": "Professional Cases",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/professional-cases",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Professional|sp|Cases"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BAGS & ORGANISERS",
+    "category": "Bags & Organizers",
     "page": "Palette Organisers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/palette-organisers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Palette|sp|Organisers"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "BAGS & ORGANISERS",
+    "category": "Bags & Organizers",
     "page": "Containers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/containers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Containers"

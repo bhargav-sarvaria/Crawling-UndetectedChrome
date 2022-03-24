@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "View All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_View|sp|All",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Blazers & Coats",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Blazers|sp||as||sp|Coats",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101102"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Casual Shirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Casual|sp|Shirts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101104"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Chinos",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Chinos",
     "page_url": "https://luxury.tatacliq.com/search/?offer=&searchCategory=LSH1&q=Chinos:relevance:category:LSH10"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Formal Shirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Formal|sp|Shirts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101103"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Jackets",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Jackets",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101111"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Jeans",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Jeans",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101101"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Polos",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Polos",
     "page_url": "https://luxury.tatacliq.com/search/?offer=&searchCategory=LSH1&q=Polo:relevance:category:LSH10"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Shorts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Shorts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101112"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Suits",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Suits",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101110"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Sweatshirts & Hoodies",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Sweatshirts|sp||as||sp|Hoodies",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101100"
@@ -126,7 +126,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Trackpants",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Trackpants",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?page=0&q=:relevance:category:LSH1010101113&isSortFlow=false"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Trousers",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Trousers",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101106:category:LSH1010101107"
@@ -148,7 +148,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "T-shirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_T|h|shirts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101108"
@@ -159,7 +159,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Innerwear",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_CLOTHING_Innerwear",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010101109"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "View All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_View|sp|All",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Boots",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Boots",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103103"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Brogues",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Brogues",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103109"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Derby Shoes",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Derby|sp|Shoes",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103107"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Espadrilles",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Espadrilles",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103110"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Loafers & Moccasins",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Loafers|sp||as||sp|Moccasins",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103106"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Monk Strap Shoes",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Monk|sp|Strap|sp|Shoes",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103102"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Oxford Shoes",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Oxford|sp|Shoes",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103101"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Sandals",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Sandals",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103100"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Sneakers",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Sneakers",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH10?offer=&searchCategory=&q=:relevance:category:LSH1010103104"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Sports Shoes",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_SHOES_Sports|sp|Shoes",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=01&q=:isProductNew:category:LSH1010107&isSortFlow=false"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "View All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_View|sp|All",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1110101"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Dresses",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Dresses",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-clothes-dresses/c-LSH1110101102"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Jackets",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Jackets",
     "page_url": "https://luxury.tatacliq.com/luxury-women-designer-women-clothes-women-jackets/c-LSH1110101109"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Jeans",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Jeans",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-clothes-women-jeans/c-LSH1110101100"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Jumpsuits",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Jumpsuits",
     "page_url": "https://luxury.tatacliq.com/luxury-women-designer-women-clothes-women-jumpsuits/c-LSH1110101113?q=:relevance"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Leggings & Jeggings",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Leggings|sp||as||sp|Jeggings",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1110101104&isSortFlow=false"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Lingerie",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Lingerie",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1110108"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Shorts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Shorts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1110101131&isSortFlow=false"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Shirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Shirts",
     "page_url": "https://luxury.tatacliq.com/luxury-women-designer-women-clothes-women-casual-shirt/c-LSH1110101105?q=:relevance?"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Skirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Skirts",
     "page_url": "https://luxury.tatacliq.com/luxury-women-designer-women-clothes-skirts/c-LSH1110101103?q=:relevance?"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Sweatshirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Sweatshirts",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-clothes-women-sweatshirts-and-hoodies/c-LSH1110101107"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Shapewear",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Shapewear",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1110108108&isSortFlow=false"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Swimwear",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Swimwear",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1110101118&isSortFlow=false"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Tops & T-Shirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Tops|sp||as||sp|T|h|Shirts",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-clothes-women-tops-t-shirts/c-LSH1110101101"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Track Pants",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Track|sp|Pants",
     "page_url": "https://luxury.tatacliq.com/luxury-women-designer-women-clothes-women-trackpants/c-LSH1110101110?q=:relevance?"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "CLOTHING",
+    "category": "Clothing",
     "page": "Trousers",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_CLOTHING_Trousers",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1110101106&isSortFlow=false"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "View All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_SHOES_View|sp|All",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-shoes/c-LSH1110102"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Boots",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_SHOES_Boots",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-shoes-women-boots/c-LSH1110102106"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Flats",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_SHOES_Flats",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-shoes-women-flats/c-LSH1110102100"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Heels",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_SHOES_Heels",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-shoes-women-heel/c-LSH1110102103"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Sneakers",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_SHOES_Sneakers",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-shoes-women-sneakers/c-LSH1110102101"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Sports Shoes",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_SHOES_Sports|sp|Shoes",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:isProductNew:category:LSH1110107&isSortFlow=false"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "Wedges",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_SHOES_Wedges",
     "page_url": "https://luxury.tatacliq.com/luxury-women-women-design-women-shoes-women-wedges/c-LSH1110102104"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "JEWELLERY",
+    "category": "Jewellery",
     "page": "View All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_JEWELLERY_View|sp|All",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?offer=&searchCategory=&q=:relevance:category:LSH1110106&icid2=nav:lsc:10:01:mlb:lwjewellry:nod:plp:130919"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "JEWELLERY",
+    "category": "Jewellery",
     "page": "Bracelets",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_JEWELLERY_Bracelets",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1110106100"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "JEWELLERY",
+    "category": "Jewellery",
     "page": "Earrings",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_JEWELLERY_Earrings",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1110106102&isSortFlow=false"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "JEWELLERY",
+    "category": "Jewellery",
     "page": "Necklaces & Pendants",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_JEWELLERY_Necklaces|sp||as||sp|Pendants",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1110106104:category:LSH1110106106"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
-    "category": "JEWELLERY",
+    "category": "Jewellery",
     "page": "Rings",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_JEWELLERY_Rings",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1110106107&isSortFlow=false"

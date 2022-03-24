@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.sephora.de/shop/make-up-c302/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "NEW HITS",
+    "category": "New",
     "page": "NEW HITS",
     "page_url": "https://www.sephora.de/neu/alle-neuheiten/make-up-nc302/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_NEW|sp|HITS_NEW|sp|HITS"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.sephora.de/make-up-sale/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_SALE_SALE"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.de/shop/make-up/augen-c343/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_EYES"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye shadow base",
     "page_url": "https://www.sephora.de/shop/make-up/augen/lidschatten-base-c109101/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_Eye|sp|shadow|sp|base"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyeshadow",
     "page_url": "https://www.sephora.de/shop/make-up/augen/lidschatten-c363/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_eyeshadow"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner & Kajal",
     "page_url": "https://www.sephora.de/shop/make-up/augen/eyeliner-kajal-c365/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_Eyeliner|sp||as||sp|Kajal"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "mascara",
     "page_url": "https://www.sephora.de/shop/make-up/augen/mascara-c366/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_mascara"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyelashes",
     "page_url": "https://www.sephora.de/shop/make-up/augen/wimpern-c7668/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_eyelashes"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "pallets",
     "page_url": "https://www.sephora.de/shop/make-up/augen/paletten-c258701/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_pallets"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyeliner",
     "page_url": "https://www.sephora.de/shop/make-up/augen/eyeliner-c7667/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_EYES_eyeliner"
@@ -170,7 +170,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.sephora.de/shop/make-up/lippen-c344/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_LIPS"
@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Palette",
     "page_url": "https://www.sephora.de/shop/make-up/lippen/lippen-palette-c297703/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_Lip|sp|Palette"
@@ -192,7 +192,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lipstick",
     "page_url": "https://www.sephora.de/shop/make-up/lippen/lippenstift-c371/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_lipstick"
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip gloss",
     "page_url": "https://www.sephora.de/shop/make-up/lippen/lipgloss-c372/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_lip|sp|gloss"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip liner",
     "page_url": "https://www.sephora.de/shop/make-up/lippen/lipliner-c373/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_lip|sp|liner"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip care",
     "page_url": "https://www.sephora.de/shop/make-up/lippen/lippenpflege-c374/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_lip|sp|care"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Liquid lipstick",
     "page_url": "https://www.sephora.de/shop/make-up/lippen/liquid-lipstick-c391/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_Liquid|sp|lipstick"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip balm",
     "page_url": "https://www.sephora.de/shop/make-up/lippen/lip-balm-c7669/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_LIPS_lip|sp|balm"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.de/shop/make-up/naegel-c345/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_NAILS_NAILS"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail polish",
     "page_url": "https://www.sephora.de/shop/make-up/naegel/nagellack-c377/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_NAILS_nail|sp|polish"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail polish remover",
     "page_url": "https://www.sephora.de/shop/make-up/naegel/nagellackentferner-c378/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_NAILS_nail|sp|polish|sp|remover"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Top Coat & Base",
     "page_url": "https://www.sephora.de/shop/make-up/naegel/top-coat-base-c297704/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_NAILS_Top|sp|Coat|sp||as||sp|Base"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Semi-permanent varnish",
     "page_url": "https://www.sephora.de/shop/make-up/naegel/semi--permanenter-lack-c297705/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_NAILS_Semi|h|permanent|sp|varnish"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.sephora.de/shop/gesicht-c303/",
     "file_name": "Germany_Sephora_DE_FACE_FACE_FACE"
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "NEW HITS",
+    "category": "New",
     "page": "NEW HITS",
     "page_url": "https://www.sephora.de/neu/alle-neuheiten/gesicht-nc303/",
     "file_name": "Germany_Sephora_DE_FACE_NEW|sp|HITS_NEW|sp|HITS"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.sephora.de/sale-pflege/",
     "file_name": "Germany_Sephora_DE_FACE_SALE_SALE"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "MASKS",
     "page_url": "https://www.sephora.de/shop/gesicht/masken-c7685/",
     "file_name": "Germany_Sephora_DE_FACE_MASKS_MASKS"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "cloth mask",
     "page_url": "https://www.sephora.de/shop/gesicht/masken/stoffmaske-c313703/",
     "file_name": "Germany_Sephora_DE_FACE_MASKS_cloth|sp|mask"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "cream mask",
     "page_url": "https://www.sephora.de/shop/gesicht/masken/crememaske-c313704/",
     "file_name": "Germany_Sephora_DE_FACE_MASKS_cream|sp|mask"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.sephora.de/shop/parfum-c301/",
     "file_name": "Germany_Sephora_DE_PERFUME_PERFUME_PERFUME"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfume",
-    "category": "NEW HITS",
+    "category": "New",
     "page": "NEW HITS",
     "page_url": "https://www.sephora.de/neu/alle-neuheiten/parfum-nc301/",
     "file_name": "Germany_Sephora_DE_PERFUME_NEW|sp|HITS_NEW|sp|HITS"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfume",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.sephora.de/sale-parfum/",
     "file_name": "Germany_Sephora_DE_PERFUME_SALE_SALE"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfume",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "WELLNESS",
     "page_url": "https://www.sephora.de/parfum/wellness-c297850/",
     "file_name": "Germany_Sephora_DE_PERFUME_WELLNESS_WELLNESS"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfume",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Essential Oils",
     "page_url": "https://www.sephora.de/parfum/wellness/aetherische-oele-c297851/",
     "file_name": "Germany_Sephora_DE_PERFUME_WELLNESS_Essential|sp|Oils"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfume",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "room fragrances",
     "page_url": "https://www.sephora.de/parfum/wellness/raumduefte-c297852/",
     "file_name": "Germany_Sephora_DE_PERFUME_WELLNESS_room|sp|fragrances"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "NEW HITS",
+    "category": "New",
     "page": "NEW HITS",
     "page_url": "https://www.sephora.de/neu/alle-neuheiten/koerper-bad-nc304/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_NEW|sp|HITS_NEW|sp|HITS"
@@ -2348,7 +2348,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.sephora.de/shop/koerper-bad/koerper-c7641/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BODY_BODY"
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "shower gel & soap",
     "page_url": "https://www.sephora.de/shop/koerper-bad/koerper/duschgel-seife-c495/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BODY_shower|sp|gel|sp||as||sp|soap"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Creams & Lotions",
     "page_url": "https://www.sephora.de/shop/koerper-bad/koerper/cremes-lotionen-c7713/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BODY_Creams|sp||as||sp|Lotions"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "men's deodorant",
     "page_url": "https://www.sephora.de/shop/koerper-bad/koerper/herren-deo-c7796/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BODY_men|sq|s|sp|deodorant"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "NEW HITS",
+    "category": "New",
     "page": "NEW HITS",
     "page_url": "https://www.sephora.de/neu/alle-neuheiten/haare-nc307/",
     "file_name": "Germany_Sephora_DE_HAIR_NEW|sp|HITS_NEW|sp|HITS"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Sale",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.sephora.de/sale/",
     "file_name": "Germany_Sephora_DE_SALE_SALE_SALE"
@@ -3415,7 +3415,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Sephora Collection",
-    "category": "lips",
+    "category": "Lips",
     "page": "lips",
     "page_url": "https://www.sephora.de/marken/alle-marken-von-a---z/sephora-collection-sepho/?scgid=C344",
     "file_name": "Germany_Sephora_DE_SEPHORA|sp|COLLECTION_lips_lips"

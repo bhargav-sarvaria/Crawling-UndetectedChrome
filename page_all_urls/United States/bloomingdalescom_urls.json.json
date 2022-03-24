@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Women",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Fashion Director Finds",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/fashion-director-finds?id=1135959&cm_sp=NAVIGATION-_-TOP_NAV-_-1135959-New-%26-Noteworthy-Fashion-Director-Finds",
     "file_name": "United|sp|States_Bloomingdales_WOMEN_New|sp||as||sp|Noteworthy_Fashion|sp|Director|sp|Finds"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Women",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Fashion Finds: Under $200",
     "page_url": "https://www.bloomingdales.com/shop/womens-apparel/fashion-finds-under-200?id=1147959&cm_sp=NAVIGATION-_-TOP_NAV-_-1147959-New-%26-Noteworthy-Fashion-Finds:-Under-$200",
     "file_name": "United|sp|States_Bloomingdales_WOMEN_New|sp||as||sp|Noteworthy_Fashion|sp|Finds|cln||sp|Under|sp||dol|200"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Women",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/clothing?id=1001037&cm_sp=NAVIGATION-_-TOP_NAV-_-1001037-New-%26-Noteworthy-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_WOMEN_New|sp||as||sp|Noteworthy_New|sp|Arrivals"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "SHOES",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes?id=16961&cm_sp=NAVIGATION-_-TOP_NAV-_-SHOES-n-n",
     "file_name": "United|sp|States_Bloomingdales_SHOES_SHOES_SHOES"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Versace Spring 22",
     "page_url": "https://www.bloomingdales.com/shop/search?keyword=versace+women%27s+shoes&cm_sp=NAVIGATION-_-TOP_NAV-_-1139162-New-%26-Noteworthy-NEW:-Versace-Spring-22",
     "file_name": "United|sp|States_Bloomingdales_SHOES_New|sp||as||sp|Noteworthy_NEW|cln||sp|Versace|sp|Spring|sp|22"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Valentino Spring 22",
     "page_url": "https://www.bloomingdales.com/shop/search?keyword=valentino%20garavani%20womens%20shoes&cm_sp=NAVIGATION-_-TOP_NAV-_-1133362-New-%26-Noteworthy-NEW:-Valentino-Spring-22",
     "file_name": "United|sp|States_Bloomingdales_SHOES_New|sp||as||sp|Noteworthy_NEW|cln||sp|Valentino|sp|Spring|sp|22"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/shoes?id=19852&cm_sp=NAVIGATION-_-TOP_NAV-_-19852-New-%26-Noteworthy-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_SHOES_New|sp||as||sp|Noteworthy_New|sp|Arrivals"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Best Sellers",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/best-selling?id=23268&cm_sp=NAVIGATION-_-TOP_NAV-_-23268-New-%26-Noteworthy-Best-Sellers",
     "file_name": "United|sp|States_Bloomingdales_SHOES_New|sp||as||sp|Noteworthy_Best|sp|Sellers"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Customer's Top Rated",
     "page_url": "https://www.bloomingdales.com/shop/top-rated/shoes?id=1096260&cm_sp=NAVIGATION-_-TOP_NAV-_-1096260-New-%26-Noteworthy-Customer%27s-Top-Rated",
     "file_name": "United|sp|States_Bloomingdales_SHOES_New|sp||as||sp|Noteworthy_Customer|sq|s|sp|Top|sp|Rated"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Shoes Under $200",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/shoes-under-200?id=1009359&cm_sp=NAVIGATION-_-TOP_NAV-_-1009359-New-%26-Noteworthy-Shoes-Under-$200",
     "file_name": "United|sp|States_Bloomingdales_SHOES_New|sp||as||sp|Noteworthy_Shoes|sp|Under|sp||dol|200"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Booties",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/booties?id=1000692&cm_sp=NAVIGATION-_-TOP_NAV-_-1000692-Shoes-by-Style-Booties",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Booties"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Boots",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/boots?id=19212&cm_sp=NAVIGATION-_-TOP_NAV-_-19212-Shoes-by-Style-Boots",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Boots"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Comfort",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/comfort?id=1002295&cm_sp=NAVIGATION-_-TOP_NAV-_-1002295-Shoes-by-Style-Comfort",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Comfort"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Espadrilles",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/espadrilles?id=1057159&cm_sp=NAVIGATION-_-TOP_NAV-_-1057159-Shoes-by-Style-Espadrilles",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Espadrilles"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Evening & Wedding",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/wedding-bridal-prom-evening-shoes?id=17396&cm_sp=NAVIGATION-_-TOP_NAV-_-17396-Shoes-by-Style-Evening-%26-Wedding",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Evening|sp||as||sp|Wedding"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Flats",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/flats?id=16963&cm_sp=NAVIGATION-_-TOP_NAV-_-16963-Shoes-by-Style-Flats",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Flats"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Mules & Slides",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/mules-slides-shoes?id=1048259&cm_sp=NAVIGATION-_-TOP_NAV-_-1048259-Shoes-by-Style-Mules--%26-Slides",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Mules|sp||as||sp|Slides"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Pumps",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/pumps-high-heels-stilettos?id=17397&cm_sp=NAVIGATION-_-TOP_NAV-_-17397-Shoes-by-Style-Pumps",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Pumps"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Sandals",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/sandals-flip-flops?id=17398&cm_sp=NAVIGATION-_-TOP_NAV-_-17398-Shoes-by-Style-Sandals",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Sandals"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Slippers",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/slippers?id=17399&cm_sp=NAVIGATION-_-TOP_NAV-_-17399-Shoes-by-Style-Slippers",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Slippers"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Sneakers",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/sneakers?id=17400&cm_sp=NAVIGATION-_-TOP_NAV-_-17400-Shoes-by-Style-Sneakers",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Sneakers"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Wedges & Platforms",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/wedges-platforms-shoes?id=17402&cm_sp=NAVIGATION-_-TOP_NAV-_-17402-Shoes-by-Style-Wedges-%26-Platforms",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Wedges|sp||as||sp|Platforms"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "Winter & Snow Boots",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/winter-snow-boots?id=1005938&cm_sp=NAVIGATION-_-TOP_NAV-_-1005938-Shoes-by-Style-Winter-%26-Snow-Boots",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_Winter|sp||as||sp|Snow|sp|Boots"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
-    "category": "Shoes by Style",
+    "category": "By Style",
     "page": "All Shoes",
     "page_url": "https://www.bloomingdales.com/shop/womens-designer-shoes/all-fashion-shoes?id=17411&cm_sp=NAVIGATION-_-TOP_NAV-_-17411-Shoes-by-Style-All-Shoes",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Shoes|sp|by|sp|Style_All|sp|Shoes"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Balenciaga Spring 22",
     "page_url": "https://www.bloomingdales.com/buy/balenciaga/Fob,Sortby/Handbags,NEW_ITEMS?cm_sp=NAVIGATION-_-TOP_NAV-_-1150160-New-%26-Noteworthy-NEW:-Balenciaga-Spring-22",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_NEW|cln||sp|Balenciaga|sp|Spring|sp|22"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Chlo\u00e9 Spring 22",
     "page_url": "https://www.bloomingdales.com/shop/chloe/Fob,Sortby/Handbags,NEW_ITEMS?id=1061960&cm_sp=NAVIGATION-_-TOP_NAV-_-1061960-New-%26-Noteworthy-NEW:-Chlo%C3%A9-Spring-22",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_NEW|cln||sp|Chlo\u00e9|sp|Spring|sp|22"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Versace Spring 22",
     "page_url": "https://www.bloomingdales.com/buy/versace/Fob,Sortby/Handbags,NEW_ITEMS?cm_sp=NAVIGATION-_-TOP_NAV-_-1150161-New-%26-Noteworthy-NEW:-Versace-Spring-22",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_NEW|cln||sp|Versace|sp|Spring|sp|22"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/new-designer-handbags-purses?id=22173&cm_sp=NAVIGATION-_-TOP_NAV-_-22173-New-%26-Noteworthy-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_New|sp|Arrivals"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Best Sellers",
     "page_url": "https://www.bloomingdales.com/shop/handbags/best-sellers?id=23173&cm_sp=NAVIGATION-_-TOP_NAV-_-23173-New-%26-Noteworthy-Best-Sellers",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_Best|sp|Sellers"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Customer's Top Rated",
     "page_url": "https://www.bloomingdales.com/shop/top-rated/handbags?id=1096269&cm_sp=NAVIGATION-_-TOP_NAV-_-1096269-New-%26-Noteworthy-Customer%27s-Top-Rated",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_Customer|sq|s|sp|Top|sp|Rated"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Handbags Under $200",
     "page_url": "https://www.bloomingdales.com/shop/handbags/handbags-under-200?id=1007659&cm_sp=NAVIGATION-_-TOP_NAV-_-1007659-New-%26-Noteworthy-Handbags-Under-$200",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_Handbags|sp|Under|sp||dol|200"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/jewelry-accessories?id=1001781&cm_sp=NAVIGATION-_-TOP_NAV-_-1001781-New-%26-Noteworthy-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_New|sp||as||sp|Noteworthy_New|sp|Arrivals"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Customers\u2019 Top Rated",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/jewelry-accessories?id=1096268&cm_sp=NAVIGATION-_-TOP_NAV-_-1096268-New-%26-Noteworthy-Customers%E2%80%99-Top-Rated",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_New|sp||as||sp|Noteworthy_Customers\u2019|sp|Top|sp|Rated"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Cult Gaia",
     "page_url": "https://www.bloomingdales.com/buy/cult-gaia/Fob/Jewelry%20%26%20Accessories?cm_sp=NAVIGATION-_-TOP_NAV-_-1150459-New-%26-Noteworthy-NEW:-Cult-Gaia",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_New|sp||as||sp|Noteworthy_NEW|cln||sp|Cult|sp|Gaia"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Kurt Geiger London",
     "page_url": "https://www.bloomingdales.com/buy/kurt-geiger-london/Fob/Jewelry%20%26%20Accessories?cm_sp=NAVIGATION-_-TOP_NAV-_-1150061-New-%26-Noteworthy-NEW:-Kurt-Geiger-London",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_New|sp||as||sp|Noteworthy_NEW|cln||sp|Kurt|sp|Geiger|sp|London"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Trending Now: Designer Sunglasses",
     "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories/premium-designer-sunglasses?id=1003486&cm_sp=NAVIGATION-_-TOP_NAV-_-1003486-New-%26-Noteworthy-Trending-Now:-Designer-Sunglasses",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_New|sp||as||sp|Noteworthy_Trending|sp|Now|cln||sp|Designer|sp|Sunglasses"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Cologne",
     "page_url": "https://www.bloomingdales.com/shop/mens/cologne?id=1006034&cm_sp=NAVIGATION-_-TOP_NAV-_-1006034-Men%27s-Grooming-Cologne",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Men|sq|s|sp|Grooming_Cologne"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Skin Care",
     "page_url": "https://www.bloomingdales.com/shop/mens/skin-care-products?id=1006035&cm_sp=NAVIGATION-_-TOP_NAV-_-1006035-Men%27s-Grooming-Skin-Care",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Men|sq|s|sp|Grooming_Skin|sp|Care"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Kits & Gift Sets",
     "page_url": "https://www.bloomingdales.com/shop/mens/cologne-gift-sets?id=1006039&cm_sp=NAVIGATION-_-TOP_NAV-_-1006039-Men%27s-Grooming-Kits-%26-Gift-Sets",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Men|sq|s|sp|Grooming_Kits|sp||as||sp|Gift|sp|Sets"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/mens/cologne-grooming-kit?id=1000067&cm_sp=NAVIGATION-_-TOP_NAV-_-1000067-Men%27s-Grooming-Shop-All",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Men|sq|s|sp|Grooming_Shop|sp|All"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/new-beauty-products?id=16541&cm_sp=NAVIGATION-_-TOP_NAV-_-16541-New-%26-Noteworthy-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_New|sp||as||sp|Noteworthy_New|sp|Arrivals"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: Decorte",
     "page_url": "https://www.bloomingdales.com/buy/decorte-beauty?cm_sp=NAVIGATION-_-TOP_NAV-_-1151359-New-%26-Noteworthy-NEW:-Decorte",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_New|sp||as||sp|Noteworthy_NEW|cln||sp|Decorte"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: U Beauty",
     "page_url": "https://www.bloomingdales.com/buy/u-beauty-beauty?cm_sp=NAVIGATION-_-TOP_NAV-_-1151360-New-%26-Noteworthy-NEW:-U-Beauty",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_New|sp||as||sp|Noteworthy_NEW|cln||sp|U|sp|Beauty"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Customers' Top Rated",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/beauty?id=1096266&cm_sp=NAVIGATION-_-TOP_NAV-_-1096266-New-%26-Noteworthy-Customers%27-Top-Rated",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_New|sp||as||sp|Noteworthy_Customers|sq||sp|Top|sp|Rated"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Korean Beauty",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/korean-beauty?id=1090275&cm_sp=NAVIGATION-_-TOP_NAV-_-1090275-New-%26-Noteworthy-Korean-Beauty",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_New|sp||as||sp|Noteworthy_Korean|sp|Beauty"
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Men",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/mens-new-arrivals?id=20592&cm_sp=NAVIGATION-_-TOP_NAV-_-20592-New-%26-Noteworthy-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_MEN_New|sp||as||sp|Noteworthy_New|sp|Arrivals"
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Men",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Fashion Director Finds",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/shop-all?id=1135960&cm_sp=NAVIGATION-_-TOP_NAV-_-1135960-New-%26-Noteworthy-Fashion-Director-Finds",
     "file_name": "United|sp|States_Bloomingdales_MEN_New|sp||as||sp|Noteworthy_Fashion|sp|Director|sp|Finds"
@@ -3019,7 +3019,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Men",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "NEW: David Yurman Men's",
     "page_url": "https://www.bloomingdales.com/shop/david-yurman/mens-jewelry?id=1002105&cm_sp=NAVIGATION-_-TOP_NAV-_-1002105-New-%26-Noteworthy-NEW:-David-Yurman-Men%27s",
     "file_name": "United|sp|States_Bloomingdales_MEN_New|sp||as||sp|Noteworthy_NEW|cln||sp|David|sp|Yurman|sp|Men|sq|s"
@@ -3030,7 +3030,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Men",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Wedding Guest Attire",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/wedding-suits-groom-tuxedo-shoes-bow-ties?id=1004720&cm_sp=NAVIGATION-_-TOP_NAV-_-1004720-New-%26-Noteworthy-Wedding-Guest-Attire",
     "file_name": "United|sp|States_Bloomingdales_MEN_New|sp||as||sp|Noteworthy_Wedding|sp|Guest|sp|Attire"
@@ -3195,7 +3195,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "KIDS",
+    "category": "Kids",
     "page": "KIDS",
     "page_url": "https://www.bloomingdales.com/shop/kids?id=3866&cm_sp=NAVIGATION-_-TOP_NAV-_-KIDS-n-n",
     "file_name": "United|sp|States_Bloomingdales_KIDS_KIDS_KIDS"
@@ -3690,7 +3690,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/kids/shop-all?id=1067562&cm_sp=NAVIGATION-_-TOP_NAV-_-1067562-New-%26-Noteworthy-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_New|sp|Arrivals"
@@ -3701,7 +3701,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Active & Athleisure Shop",
     "page_url": "https://www.bloomingdales.com/shop/kids/active-athleisure-shop?id=1110159&cm_sp=NAVIGATION-_-TOP_NAV-_-1110159-New-%26-Noteworthy-Active-%26-Athleisure-Shop",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Active|sp||as||sp|Athleisure|sp|Shop"
@@ -3712,7 +3712,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Cold Weather Shop",
     "page_url": "https://www.bloomingdales.com/shop/kids/snow-boots-winter-coats?id=1001681&cm_sp=NAVIGATION-_-TOP_NAV-_-1001681-New-%26-Noteworthy-Cold-Weather-Shop",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Cold|sp|Weather|sp|Shop"
@@ -3723,7 +3723,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Family Matching",
     "page_url": "https://www.bloomingdales.com/shop/kids/family-matching?id=1133860&cm_sp=NAVIGATION-_-TOP_NAV-_-1133860-New-%26-Noteworthy-Family-Matching",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Family|sp|Matching"
@@ -3734,7 +3734,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Dress Shop",
     "page_url": "https://www.bloomingdales.com/shop/kids/girls-party-dresses?id=1004517&cm_sp=NAVIGATION-_-TOP_NAV-_-1004517-New-%26-Noteworthy-Dress-Shop",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Dress|sp|Shop"
@@ -3745,7 +3745,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Easter Basket Stuffers",
     "page_url": "https://www.bloomingdales.com/buy/bunny%20kids/Product_department/Bath%20Accessories%7CBlankets%20%26%20Throws%7CNewborn%20One%20Pieces%7CTowels%7CToys?cm_sp=NAVIGATION-_-TOP_NAV-_-1152460-New-%26-Noteworthy-Easter-Basket-Stuffers",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Easter|sp|Basket|sp|Stuffers"
@@ -3756,7 +3756,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Pajama Shop",
     "page_url": "https://www.bloomingdales.com/shop/kids/pajama-shop?id=1055159&cm_sp=NAVIGATION-_-TOP_NAV-_-1055159-New-%26-Noteworthy-Pajama-Shop",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Pajama|sp|Shop"
@@ -3767,7 +3767,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "New & Noteworthy",
+    "category": "New",
     "page": "Swim Shop",
     "page_url": "https://www.bloomingdales.com/shop/kids/swimsuits-bathing-suits?id=1002625&cm_sp=NAVIGATION-_-TOP_NAV-_-1002625-New-%26-Noteworthy-Swim-Shop",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Swim|sp|Shop"
@@ -4075,7 +4075,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Home Decor",
     "page_url": "https://www.bloomingdales.com/shop/home/home-decor?id=1001539&cm_sp=NAVIGATION-_-TOP_NAV-_-1001539-HOME-Home-Decor",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Home|sp|Decor"
@@ -4086,7 +4086,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Bowls, Trays & Vases",
     "page_url": "https://www.bloomingdales.com/shop/home/bowls-trays-vases?id=1001541&cm_sp=NAVIGATION-_-TOP_NAV-_-1001541-Home-Decor-Bowls,-Trays-%26-Vases",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Bowls,|sp|Trays|sp||as||sp|Vases"
@@ -4097,7 +4097,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Candles & Home Fragrances",
     "page_url": "https://www.bloomingdales.com/shop/home/luxury-home-fragrances-candles-diffusers?id=1001542&cm_sp=NAVIGATION-_-TOP_NAV-_-1001542-Home-Decor-Candles-%26-Home-Fragrances",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Candles|sp||as||sp|Home|sp|Fragrances"
@@ -4108,7 +4108,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Curtains & Window Treatments",
     "page_url": "https://www.bloomingdales.com/shop/home/curtains-window-treatments?id=1068559&cm_sp=NAVIGATION-_-TOP_NAV-_-1068559-Home-Decor-Curtains-%26-Window-Treatments",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Curtains|sp||as||sp|Window|sp|Treatments"
@@ -4119,7 +4119,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Decorative Pillows & Throws",
     "page_url": "https://www.bloomingdales.com/shop/home/designer-pillows-throw-blankets?id=1001548&cm_sp=NAVIGATION-_-TOP_NAV-_-1001548-Home-Decor-Decorative-Pillows-%26-Throws",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Decorative|sp|Pillows|sp||as||sp|Throws"
@@ -4130,7 +4130,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Home Accents",
     "page_url": "https://www.bloomingdales.com/shop/home/home-accents-accessories?id=1001543&cm_sp=NAVIGATION-_-TOP_NAV-_-1001543-Home-Decor-Home-Accents",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Home|sp|Accents"
@@ -4141,7 +4141,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Mirrors & Wall Art",
     "page_url": "https://www.bloomingdales.com/shop/home/modern-contemporary-mirrors-wall-art?id=1001546&cm_sp=NAVIGATION-_-TOP_NAV-_-1001546-Home-Decor-Mirrors-%26-Wall-Art",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Mirrors|sp||as||sp|Wall|sp|Art"
@@ -4152,7 +4152,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "Home Decor",
+    "category": "Decor",
     "page": "Picture Frames",
     "page_url": "https://www.bloomingdales.com/shop/home/modern-picture-frames-luxury-photo-frames?id=1001547&cm_sp=NAVIGATION-_-TOP_NAV-_-1001547-Home-Decor-Picture-Frames",
     "file_name": "United|sp|States_Bloomingdales_HOME_Home|sp|Decor_Picture|sp|Frames"
@@ -4350,7 +4350,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Sale",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.bloomingdales.com/shop/sale?id=3977&cm_sp=NAVIGATION-_-TOP_NAV-_-SALE-n-n",
     "file_name": "United|sp|States_Bloomingdales_SALE_SALE_SALE"
@@ -5329,7 +5329,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "EDITORIAL",
-    "category": "New This Week",
+    "category": "New",
     "page": "Women's New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/womens-new-arrivals?id=1036559&cm_sp=NAVIGATION-_-TOP_NAV-_-1036559-New-This-Week-Women%27s-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_New|sp|This|sp|Week_Women|sq|s|sp|New|sp|Arrivals"
@@ -5340,7 +5340,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "EDITORIAL",
-    "category": "New This Week",
+    "category": "New",
     "page": "Men's New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/mens-new-arrivals?id=20592&cm_sp=NAVIGATION-_-TOP_NAV-_-20592-New-This-Week-Men%27s-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_New|sp|This|sp|Week_Men|sq|s|sp|New|sp|Arrivals"
@@ -5351,7 +5351,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "EDITORIAL",
-    "category": "New This Week",
+    "category": "New",
     "page": "Kids' New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/kids-new-arrivals?id=1067562&cm_sp=NAVIGATION-_-TOP_NAV-_-1067562-New-This-Week-Kids%27-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_New|sp|This|sp|Week_Kids|sq||sp|New|sp|Arrivals"

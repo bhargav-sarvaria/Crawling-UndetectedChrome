@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.sephora.cz/produkty/liceni-c302/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_MAKEUP_MAKEUP"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci-c343/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_EYES"
@@ -148,7 +148,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Background bases",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci/podkladove-baze-c109101/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_Background|sp|bases"
@@ -159,7 +159,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow palettes",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci/paletky-ocnich-stinu-c258701/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_Eyeshadow|sp|palettes"
@@ -170,7 +170,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci/ocni-stiny-c363/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_Eyeshadow"
@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye pencils",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci/tuzky-na-oci-c365/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_Eye|sp|pencils"
@@ -192,7 +192,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye lines",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci/linky-na-oci-c7667/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_Eye|sp|lines"
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascaras",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci/rasenky-c366/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_Mascaras"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Fake eyelashes",
     "page_url": "https://www.sephora.cz/produkty/liceni/oci/umele-rasy-c7668/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_EYES_Fake|sp|eyelashes"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "SKIN",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet-c342/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_SKIN"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Primers & fixation",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/primery-fixace-c351/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Primers|sp||as||sp|fixation"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Toning creams",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/tonovaci-kremy-c357/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Toning|sp|creams"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "BB creams & CC creams",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/bb-kremy-cc-kremy-c93801/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_BB|sp|creams|sp||as||sp|CC|sp|creams"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Makeup",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/makeupy-c353/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Makeup"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Concealers",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/korektory-c352/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Concealers"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Mattifying powders",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/matujici-pudry-c354/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Mattifying|sp|powders"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Loose powders",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/sypke-pudry-c297702/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Loose|sp|powders"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Contouring",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/konturovani-c195701/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Contouring"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Cheeks",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/tvarenky-c356/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Cheeks"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Brighteners",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/rozjasnovace-c359/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Brighteners"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Bronzers",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/bronzery-c119401/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Bronzers"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face palettes",
     "page_url": "https://www.sephora.cz/produkty/liceni/plet/paletky-na-oblicej-c258702/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_SKIN_Face|sp|palettes"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty-c344/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_LIPS"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip balms",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty/balzamy-na-rty-c7669/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_Lip|sp|balms"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Primers & lip augmentation",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty/primery-zvetseni-rtu-c374/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_Primers|sp||as||sp|lip|sp|augmentation"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Contours",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty/konturky-c373/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_Contours"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipsticks",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty/rtenky-c371/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_Lipsticks"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Liquid lipstick",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty/tekute-rtenky-c391/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_Liquid|sp|lipstick"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip glosses",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty/lesky-na-rty-c372/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_Lip|sp|glosses"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip palettes",
     "page_url": "https://www.sephora.cz/produkty/liceni/rty/paletky-na-rty-c297703/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_LIPS_Lip|sp|palettes"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.cz/produkty/liceni/nehty-c345/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_NAILS_NAILS"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail care",
     "page_url": "https://www.sephora.cz/produkty/liceni/nehty/pece-o-nehty-c378/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_NAILS_Nail|sp|care"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Primers & top coat",
     "page_url": "https://www.sephora.cz/produkty/liceni/nehty/podkladove-laky-top-coat-c297704/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_NAILS_Primers|sp||as||sp|top|sp|coat"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.sephora.cz/produkty/liceni/nehty/laky-na-nehty-c377/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_NAILS_Nail|sp|polish"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish removers",
     "page_url": "https://www.sephora.cz/produkty/liceni/nehty/odlakovace-c379/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_NAILS_Nail|sp|polish|sp|removers"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://www.sephora.cz/produkty/liceni/doplnky-liceni-c7650/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Sharpeners",
     "page_url": "https://www.sephora.cz/produkty/liceni/doplnky-liceni/orezavatka-c538/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Sharpeners"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Nail files",
     "page_url": "https://www.sephora.cz/produkty/liceni/doplnky-liceni/pilniky-na-nehty-c543/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Nail|sp|files"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Matte papers",
     "page_url": "https://www.sephora.cz/produkty/liceni/doplnky-liceni/matujici-papirky-c7732/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Matte|sp|papers"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Skin",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "SHAVING",
     "page_url": "https://www.sephora.cz/produkty/pece-o-plet/holeni-c494/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SKINCARE_SHAVING_SHAVING"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Skin",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Aftershave care",
     "page_url": "https://www.sephora.cz/produkty/pece-o-plet/holeni/pece-po-holeni-c513/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SKINCARE_SHAVING_Aftershave|sp|care"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Skin",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Beard care",
     "page_url": "https://www.sephora.cz/produkty/pece-o-plet/holeni/pece-o-vousy-c323101/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SKINCARE_SHAVING_Beard|sp|care"
@@ -1754,7 +1754,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo-c298002/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_BODY"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Moisturizing creams",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/hydratacni-kremy-c426/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Moisturizing|sp|creams"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Moisturizing milk",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/hydratacni-mleka-c298003/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Moisturizing|sp|milk"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Nourishing oils",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/vyzivujici-oleje-c479/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Nourishing|sp|oils"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Body scrubs & screws",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/telove-peelingy-scruby-c482/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Body|sp|scrubs|sp||as||sp|screws"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Body mists",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/telove-mlhy-c432/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Body|sp|mists"
@@ -1820,7 +1820,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Hands",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/ruce-c431/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Hands"
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Decollete",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/dekolt-c430/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Decollete"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Feet",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/nohy-c7752/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Feet"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "Deodorants",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo/deodoranty-c429/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_Deodorants"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "WELLNESS",
     "page_url": "https://www.sephora.cz/pece-o-telo/wellness-c7799/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_WELLNESS_WELLNESS"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Toys for adults",
     "page_url": "https://www.sephora.cz/pece-o-telo/wellness/hracky-pro-dospele-c7800/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_WELLNESS_Toys|sp|for|sp|adults"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Intimate gels",
     "page_url": "https://www.sephora.cz/pece-o-telo/wellness/intimni-gely-c7801/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_WELLNESS_Intimate|sp|gels"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Intimate hygiene",
     "page_url": "https://www.sephora.cz/pece-o-telo/wellness/intimni-hygiena-c7802/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_WELLNESS_Intimate|sp|hygiene"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/telo-c7652/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BODY_BODY"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "New",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.cz/novinky/zobrazit-vsechny-novinky-novinky/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_NEWS_NEWS_NEWS"
@@ -2700,7 +2700,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Exclusive",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.sephora.cz/exkluzivni-liceni/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_EXCLUSIVELY_MAKEUP_MAKEUP"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Exclusive",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.sephora.cz/exkluzivni-pece-o-telo/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_EXCLUSIVELY_BODY|sp|CARE_BODY|sp|CARE"

@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.sephora.gr/shop/makigiaz-c302/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP_MAKEUP"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia-c343/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_EYES"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Palette for the eyes",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia/paleta-gia-ta-matia-c258701/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Palette|sp|for|sp|the|sp|eyes"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia/mascara-c366/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Mascara"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Shadows",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia/skies-c363/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Shadows"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia/eyeliner-c7667/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Eyeliner"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia/molubi-mation-c365/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Eyeliner"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Base",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia/bash-c109101/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Base"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyelashes",
     "page_url": "https://www.sephora.gr/shop/makigiaz/matia/blefarides-c7668/",
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Eyelashes"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.sephora.gr/shop/makigiaz/xeilh-c344/",
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_LIPS"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.sephora.gr/shop/makigiaz/xeilh/kragion-c371/",
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lipstick"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Gloss",
     "page_url": "https://www.sephora.gr/shop/makigiaz/xeilh/gloss-c372/",
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Gloss"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip balm",
     "page_url": "https://www.sephora.gr/shop/makigiaz/xeilh/balm-xeilion-c7669/",
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lip|sp|balm"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip pencil",
     "page_url": "https://www.sephora.gr/shop/makigiaz/xeilh/molubi-xeilion-c373/",
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lip|sp|pencil"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip balms",
     "page_url": "https://www.sephora.gr/shop/makigiaz/xeilh/diogkotika-xeilion-c374/",
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lip|sp|balms"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.gr/shop/makigiaz/nuxia-c345/",
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_NAILS"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.sephora.gr/shop/makigiaz/nuxia/berniki-nuxion-c377/",
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Nail|sp|polish"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Manicure",
     "page_url": "https://www.sephora.gr/shop/makigiaz/nuxia/peripoihsh-nuxion-c378/",
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Manicure"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Main tint and base tint",
     "page_url": "https://www.sephora.gr/shop/makigiaz/nuxia/kuria-apoxrosh-kai-apoxrosh-bashs-c297704/",
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Main|sp|tint|sp|and|sp|base|sp|tint"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Acetone",
     "page_url": "https://www.sephora.gr/shop/makigiaz/nuxia/aseton-c379/",
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Acetone"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://www.sephora.gr/shop/makigiaz/axesouar-makigiaz-c7650/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.sephora.gr/shop/prosopo-c303/",
     "file_name": "Greece_Sephora_GR_FACE_FACE_FACE"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "MASKS",
     "page_url": "https://www.sephora.gr/shop/prosopo/maskes-c7685/",
     "file_name": "Greece_Sephora_GR_FACE_MASKS_MASKS"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Face",
     "page_url": "https://www.sephora.gr/shop/prosopo/maskes/prosopo-c313704/",
     "file_name": "Greece_Sephora_GR_FACE_MASKS_Face"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Masks",
     "page_url": "https://www.sephora.gr/shop/prosopo/maskes/maskes-c313703/",
     "file_name": "Greece_Sephora_GR_FACE_MASKS_Masks"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "SHAVING",
     "page_url": "https://www.sephora.gr/shop/prosopo/xurisma-c494/",
     "file_name": "Greece_Sephora_GR_FACE_SHAVING_SHAVING"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.sephora.gr/shop/soma-c304/",
     "file_name": "Greece_Sephora_GR_BODY_BODY_BODY"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos-c298002/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Lotion",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/body-lotion-c426/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Lotion"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Scrub and Exfoliation",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/scrub-somatos-kai-apolepish-c482/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Scrub|sp|and|sp|Exfoliation"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Hand care",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-xerion-c431/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Hand|sp|care"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Milk",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/body-milk-c298003/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Milk"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorant",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/aposmhtiko-c429/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Deodorant"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Mist",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/body-mist-c432/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Mist"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Pedicure",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-podion-c7752/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Pedicure"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Moisturizing oil",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/ladi-enudatoshs-c479/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Moisturizing|sp|oil"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Neck care",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-laimou-c430/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Neck|sp|care"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Tired foot treatment",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-kourasmenon-podion-c433/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Tired|sp|foot|sp|treatment"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "WELLNESS",
     "page_url": "https://www.sephora.gr/soma/euexia-c7799/",
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_WELLNESS"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Sextoys",
     "page_url": "https://www.sephora.gr/soma/euexia/sextoys-c7800/",
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_Sextoys"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Lubricants",
     "page_url": "https://www.sephora.gr/soma/euexia/lipantika-c7801/",
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_Lubricants"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "",
     "page_url": "https://www.sephora.gr/soma/euexia-c7802/",
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_"

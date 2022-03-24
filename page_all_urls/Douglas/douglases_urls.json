@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://douglas.es/c/tratamiento_corporal",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY_BODY"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Creams and Lotions",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/cremas_y_lociones",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_Body|sp|Creams|sp|and|sp|Lotions"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Hand Creams",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/cremas_de_manos",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_Hand|sp|Creams"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Essential oils",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/aceites_esenciales",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_Essential|sp|oils"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "scrubs",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_scrubs"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_See|sp|all|sp|categories"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://douglas.es/c/maquillaje/accesorios",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Makeup Sponges",
     "page_url": "https://douglas.es/c/maquillaje/accesorios/esponjas_maquillaje",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|ACCESSORIES_Makeup|sp|Sponges"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "face brush",
     "page_url": "https://douglas.es/c/maquillaje/accesorios/brochas_de_rostro",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|ACCESSORIES_face|sp|brush"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Eye Brush",
     "page_url": "https://douglas.es/c/maquillaje/accesorios/pincel_de_ojos",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|ACCESSORIES_Eye|sp|Brush"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/maquillaje/accesorios",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|ACCESSORIES_See|sp|all|sp|categories"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "BEARD CARE",
     "page_url": "https://douglas.es/c/hombre/cuidado_barba",
     "file_name": "Spain_DOUGLAS_ES_MAN_BEARD|sp|CARE_BEARD|sp|CARE"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Treatment",
     "page_url": "https://douglas.es/c/hombre/cuidado_barba/tratamiento",
     "file_name": "Spain_DOUGLAS_ES_MAN_BEARD|sp|CARE_Beard|sp|Treatment"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Shampoo",
     "page_url": "https://douglas.es/c/hombre/cuidado_barba/champu",
     "file_name": "Spain_DOUGLAS_ES_MAN_BEARD|sp|CARE_Beard|sp|Shampoo"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://douglas.es/c/hombre/cuidado",
     "file_name": "Spain_DOUGLAS_ES_MAN_BODY|sp|CARE_BODY|sp|CARE"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Creams and Lotions",
     "page_url": "https://douglas.es/c/hombre/cuidado/cremas_y_lociones",
     "file_name": "Spain_DOUGLAS_ES_MAN_BODY|sp|CARE_Body|sp|Creams|sp|and|sp|Lotions"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "BABY CARE",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado_bebe",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BABY|sp|CARE_BABY|sp|CARE"
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Bastoncillos",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado_bebe/bastoncillos",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BABY|sp|CARE_Bastoncillos"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Serums and Nasal Aspirators",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado_bebe/sueros_y_aspiradores_nasales",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BABY|sp|CARE_Serums|sp|and|sp|Nasal|sp|Aspirators"
@@ -3085,7 +3085,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_BODY|sp|CARE"
@@ -3096,7 +3096,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Essential oils",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado/aceites_esenciales",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_Essential|sp|oils"
@@ -3107,7 +3107,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "scrubs",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_scrubs"
@@ -3118,7 +3118,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Hand Creams",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado/cremas_de_manos",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_Hand|sp|Creams"
@@ -3129,7 +3129,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_See|sp|all|sp|categories"
@@ -4119,7 +4119,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "New",
-    "category": "NEW IN",
+    "category": "New",
     "page": "NEW IN",
     "page_url": "https://douglas.es/c/novedades",
     "file_name": "Spain_DOUGLAS_ES_NEW|sp|IN_NEW|sp|IN_NEW|sp|IN"

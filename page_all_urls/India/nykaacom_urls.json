@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "EYE CARE",
     "page_url": "https://www.nykaa.com/skin/eye-care/c/8402?root=nav_2",
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_EYE|sp|CARE"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Under Eye Cream & Serums",
     "page_url": "https://www.nykaa.com/skin/eye-care/under-eye-cream-serums/c/8403?root=nav_3",
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Under|sp|Eye|sp|Cream|sp||as||sp|Serums"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Dark Circles & Wrinkles",
     "page_url": "https://www.nykaa.com/skin/eye-care/dark-circles-wrinkles/c/8404?root=nav_3",
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Dark|sp|Circles|sp||as||sp|Wrinkles"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Puffiness",
     "page_url": "https://www.nykaa.com/skin/eye-care/puffiness/c/8405?root=nav_3",
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Puffiness"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eye Masks",
     "page_url": "https://www.nykaa.com/skin/eye-care/eye-masks/c/8406?root=nav_3",
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Eye|sp|Masks"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eye Makeup Remover",
     "page_url": "https://www.nykaa.com/skin/eye-care/eye-makeup-remover/c/8407?root=nav_3",
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Eye|sp|Makeup|sp|Remover"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "LIP CARE",
     "page_url": "https://www.nykaa.com/skin/lip-care/c/8408?root=nav_2",
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_LIP|sp|CARE"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip Balm",
     "page_url": "https://www.nykaa.com/skin/lip-care/lip-balm/c/8409?root=nav_3",
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_Lip|sp|Balm"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip Scrubs",
     "page_url": "https://www.nykaa.com/skin/lip-care/lip-scrubs/c/8410?root=nav_3",
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_Lip|sp|Scrubs"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip Masks",
     "page_url": "https://www.nykaa.com/skin/lip-care/lip-masks/c/8411?root=nav_3",
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_Lip|sp|Masks"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "NECK CREAMS",
+    "category": "Neck Creams",
     "page": "NECK CREAMS",
     "page_url": "https://www.nykaa.com/skin/neck-creams/c/8412?root=nav_2",
     "file_name": "India_Nykaa_Skin_NECK|sp|CREAMS_NECK|sp|CREAMS"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "NEW LAUNCHES",
+    "category": "New",
     "page": "NEW LAUNCHES",
     "page_url": "https://www.nykaa.com/skin/new-launches/c/9176?root=nav_2",
     "file_name": "India_Nykaa_Skin_NEW|sp|LAUNCHES_NEW|sp|LAUNCHES"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "FACE/SKIN TOOLS",
+    "category": "Tools",
     "page": "FACE/SKIN TOOLS",
     "page_url": "https://www.nykaa.com/personal-care-appliances/face-skin-tools/c/1402?ptype=lst&id=1402&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_FACE|fs|SKIN|sp|TOOLS"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "FACE/SKIN TOOLS",
+    "category": "Tools",
     "page": "Face Epilator",
     "page_url": "https://www.nykaa.com/personal-care-appliances/face-skin-tools/face-epilator/c/41?ptype=lst&id=41&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Face|sp|Epilator"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "FACE/SKIN TOOLS",
+    "category": "Tools",
     "page": "Dermarollers",
     "page_url": "https://www.nykaa.com/personal-care-appliances/face-skin-tools/dermarollers/c/1517?ptype=lst&id=1517&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Dermarollers"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "FACE/SKIN TOOLS",
+    "category": "Tools",
     "page": "Cleansing Brushes",
     "page_url": "https://www.nykaa.com/personal-care-appliances/face-skin-tools/cleansing-brushes/c/43?ptype=lst&id=43&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Cleansing|sp|Brushes"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "FACE/SKIN TOOLS",
+    "category": "Tools",
     "page": "Acne Removal",
     "page_url": "https://www.nykaa.com/personal-care-appliances/face-skin-tools/acne-removal/c/44",
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Acne|sp|Removal"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.nykaa.com/personal-care/body/c/36?ptype=lst&id=36&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_BODY"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "BODY",
+    "category": "Body",
     "page": "Lotions & Creams",
     "page_url": "https://www.nykaa.com/personal-care/body/moisturizing-lotion/c/371?ptype=lst&id=371&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Lotions|sp||as||sp|Creams"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "BODY",
+    "category": "Body",
     "page": "Talcum Powder",
     "page_url": "https://www.nykaa.com/personal-care/body/talcum-powder/c/374?ptype=lst&id=374&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Talcum|sp|Powder"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "BODY",
+    "category": "Body",
     "page": "Deodorants/Roll Ons",
     "page_url": "https://www.nykaa.com/personal-care/body/deodorants-roll-ons/c/377?ptype=lst&id=377&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Deodorants|fs|Roll|sp|Ons"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "BODY",
+    "category": "Body",
     "page": "Sunscreen",
     "page_url": "https://www.nykaa.com/personal-care/body/sunscreen/c/1389?ptype=lst&id=1389&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Sunscreen"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & SALON DISPOSABLES",
+    "category": "Home & Salon Disposables",
     "page": "HOME & SALON DISPOSABLES",
     "page_url": "https://www.nykaa.com/personal-care/home-and-salon-disposables/c/14358?ptype=lst&id=36&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|SALON|sp|DISPOSABLES_HOME|sp||as||sp|SALON|sp|DISPOSABLES"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "MEN'S GROOMING",
     "page_url": "https://www.nykaa.com/personal-care/men-s-grooming/c/1552?ptype=lst&id=1552&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_MEN|sq|S|sp|GROOMING"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Shavers & Trimmers",
     "page_url": "https://www.nykaa.com/personal-care/men-s-grooming/shavers-trimmers/c/2085?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Shavers|sp||as||sp|Trimmers"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Razors & Catridges",
     "page_url": "https://www.nykaa.com/personal-care/razors-cartridges/men-s-grooming/c/1398?ptype=lst&id=1398&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Razors|sp||as||sp|Catridges"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Shaving Cream, Foams & Gels",
     "page_url": "https://www.nykaa.com/personal-care/men-s-grooming/shaving-cream-foams-gels/c/1553?ptype=lst&id=1553&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Shaving|sp|Cream,|sp|Foams|sp||as||sp|Gels"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Pre & Post Shaves",
     "page_url": "https://www.nykaa.com/personal-care/pre-post-shaves/men-s-grooming/c/1410?ptype=lst&id=1410&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Pre|sp||as||sp|Post|sp|Shaves"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Beard & Moustache Care",
     "page_url": "https://www.nykaa.com/personal-care/men-s-grooming/beard-and-moustache-care/c/2086?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Beard|sp||as||sp|Moustache|sp|Care"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "MEN'S GROOMING",
+    "category": "Mens Grooming",
     "page": "Intimate Care",
     "page_url": "https://www.nykaa.com/personal-care/men-s-grooming/intimate-care/c/13816?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Intimate|sp|Care"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "DENTAL CARE",
     "page_url": "https://www.nykaa.com/personal-care/dentalcare/c/661?ptype=lst&id=661&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_DENTAL|sp|CARE"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Toothpaste",
     "page_url": "https://www.nykaa.com/personal-care/dentalcare/toothpaste/c/1133?ptype=lst&id=1133&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Toothpaste"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Manual Toothbrush",
     "page_url": "https://www.nykaa.com/personal-care/dentalcare/manual-toothbrush/c/663?ptype=lst&id=663&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Manual|sp|Toothbrush"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Electric Toothbrush",
     "page_url": "https://www.nykaa.com/personal-care/dentalcare/electric-toothbrush/c/1660?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Electric|sp|Toothbrush"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Floss & Tongue Cleaners",
     "page_url": "https://www.nykaa.com/personal-care/dentalcare/floss-and-tongue-cleaners/c/290?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Floss|sp||as||sp|Tongue|sp|Cleaners"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Mouthwash",
     "page_url": "https://www.nykaa.com/personal-care/dentalcare/mouthwash/c/662?ptype=lst&id=662&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Mouthwash"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "DENTAL CARE",
+    "category": "Dental Care",
     "page": "Tooth Powder",
     "page_url": "https://www.nykaa.com/personal-care/dentalcare/tooth-powder/c/7009?ptype=lst&id=7009&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Tooth|sp|Powder"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "HOME & HEALTH",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/c/1639?ptype=lst&id=1639&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_HOME|sp||as||sp|HEALTH"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Insect Repellents",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/insect-repellents/c/1645?ptype=lst&id=1645&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Insect|sp|Repellents"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Air Fresheners",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/airfreshener/c/1642?ptype=lst&id=1642&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Air|sp|Fresheners"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Toilet Seat Sanitizer",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/toilet-seat-sanitizer/c/326?ptype=lst&id=326&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Toilet|sp|Seat|sp|Sanitizer"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Face Mask",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/face-mask/c/13561",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Face|sp|Mask"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Gloves",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/gloves/c/13562",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Gloves"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Others",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/others/c/6790",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Others"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.nykaa.com/makeup/face/c/13?ptype=lst&id=13&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_FACE"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Face Primer",
     "page_url": "https://www.nykaa.com/makeup/face/face-primer/c/233?ptype=lst&id=233&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_Face|sp|Primer"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Concealer",
     "page_url": "https://www.nykaa.com/makeup/face/face-concealer/c/234",
     "file_name": "India_Nykaa_Makeup_FACE_Concealer"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Foundation",
     "page_url": "https://www.nykaa.com/makeup/face/face-foundation/c/228",
     "file_name": "India_Nykaa_Makeup_FACE_Foundation"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Compact",
     "page_url": "https://www.nykaa.com/makeup/face/compact/c/231?ptype=lst&id=231&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_Compact"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Contour",
     "page_url": "https://www.nykaa.com/makeup/face/contour/c/4140?ptype=lst&id=4140&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_Contour"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Loose Powder",
     "page_url": "https://www.nykaa.com/makeup/face/loose-powder/c/229?ptype=lst&id=229&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_Loose|sp|Powder"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Blush",
     "page_url": "https://www.nykaa.com/makeup/face/face-blush/c/235?ptype=lst&id=235&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_Blush"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Bronzer",
     "page_url": "https://www.nykaa.com/makeup/face/face-bronzer/c/236?ptype=lst&id=236&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_Bronzer"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "BB & CC Cream",
     "page_url": "https://www.nykaa.com/makeup/face/bb-cc-cream/c/232",
     "file_name": "India_Nykaa_Makeup_FACE_BB|sp||as||sp|CC|sp|Cream"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Highlighters",
     "page_url": "https://www.nykaa.com/makeup/face/face-illuminator/c/237",
     "file_name": "India_Nykaa_Makeup_FACE_Highlighters"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Setting Spray",
     "page_url": "https://www.nykaa.com/makeup/face/setting-spray/c/6761?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_FACE_Setting|sp|Spray"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Makeup Remover",
     "page_url": "https://www.nykaa.com/makeup/face/face-makeup-remover/c/239",
     "file_name": "India_Nykaa_Makeup_FACE_Makeup|sp|Remover"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.nykaa.com/makeup/eyes/c/14?ptype=lst&id=14&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_EYES_EYES"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Kajal",
     "page_url": "https://www.nykaa.com/makeup/eyes/kajal/c/687?root=nav_3",
     "file_name": "India_Nykaa_Makeup_EYES_Kajal"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.nykaa.com/makeup/eyes/eyeliner/c/240",
     "file_name": "India_Nykaa_Makeup_EYES_Eyeliner"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.nykaa.com/makeup/eyes/eye-mascara/c/241",
     "file_name": "India_Nykaa_Makeup_EYES_Mascara"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Shadow",
     "page_url": "https://www.nykaa.com/makeup/eyes/eyeshadow/c/242",
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Shadow"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Brow Enhancers",
     "page_url": "https://www.nykaa.com/makeup/eyes/eye-brow-enhancer/c/245",
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Brow|sp|Enhancers"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Primer",
     "page_url": "https://www.nykaa.com/makeup/eyes/eye-primer/c/1995?ptype=lst&id=1995&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Primer"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "False Eyelashes",
     "page_url": "https://www.nykaa.com/makeup/eyes/false-eyelashes/c/247?ptype=lst&id=247&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_EYES_False|sp|Eyelashes"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Makeup Remover",
     "page_url": "https://www.nykaa.com/makeup/eyes/eye-makeup-remover/c/931?ptype=lst&id=931&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Makeup|sp|Remover"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Under Eye Concealer",
     "page_url": "https://www.nykaa.com/makeup/eyes/under-eye-concealer/c/244?ptype=lst&id=244&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_EYES_Under|sp|Eye|sp|Concealer"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Contact Lenses",
     "page_url": "https://www.nykaa.com/makeup/eyes/contact-lenses/c/2440?ptype=lst&id=2440&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_EYES_Contact|sp|Lenses"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "MAKEUP KITS",
+    "category": "Make Up Kits",
     "page": "MAKEUP KITS",
     "page_url": "https://www.nykaa.com/makeup/makeup-kits/c/1448?ptype=lst&id=1448&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_MAKEUP|sp|KITS"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "MAKEUP KITS",
+    "category": "Make Up Kits",
     "page": "Eye Palettes",
     "page_url": "https://www.nykaa.com/makeup/makeup-kits/eye-palettes/c/1513?ptype=lst&id=1513&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_Eye|sp|Palettes"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "MAKEUP KITS",
+    "category": "Make Up Kits",
     "page": "Face Palettes",
     "page_url": "https://www.nykaa.com/makeup/makeup-kits/face-palettes/c/1514?ptype=lst&id=1514&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_Face|sp|Palettes"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "MAKEUP KITS",
+    "category": "Make Up Kits",
     "page": "Customize Your Palette",
     "page_url": "https://www.nykaa.com/makeup/makeup-kits/customize-your-palette/c/4036?ptype=lst&id=4036&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_Customize|sp|Your|sp|Palette"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "CLEANSERS",
+    "category": "Cleanser",
     "page": "CLEANSERS",
     "page_url": "https://www.nykaa.com/skin/cleansers/c/8378?root=nav_2",
     "file_name": "India_Nykaa_Skin_CLEANSERS_CLEANSERS"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "CLEANSERS",
+    "category": "Cleanser",
     "page": "Facewash",
     "page_url": "https://www.nykaa.com/skin/cleansers/face-wash/c/8379?root=nav_3",
     "file_name": "India_Nykaa_Skin_CLEANSERS_Facewash"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "CLEANSERS",
+    "category": "Cleanser",
     "page": "Cleanser",
     "page_url": "https://www.nykaa.com/skin/cleansers/cleanser/c/8380?root=nav_3",
     "file_name": "India_Nykaa_Skin_CLEANSERS_Cleanser"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "CLEANSERS",
+    "category": "Cleanser",
     "page": "Scrubs & Exfoliators",
     "page_url": "https://www.nykaa.com/skin/cleansers/scrubs-exfoliators/c/8381?root=nav_3",
     "file_name": "India_Nykaa_Skin_CLEANSERS_Scrubs|sp||as||sp|Exfoliators"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "CLEANSERS",
+    "category": "Cleanser",
     "page": "Facial Wipes",
     "page_url": "https://www.nykaa.com/skin/cleansers/face-wipes/c/8382?root=nav_3",
     "file_name": "India_Nykaa_Skin_CLEANSERS_Facial|sp|Wipes"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "CLEANSERS",
+    "category": "Cleanser",
     "page": "Makeup Remover",
     "page_url": "https://www.nykaa.com/skin/cleansers/makeup-remover/c/8383?root=nav_3",
     "file_name": "India_Nykaa_Skin_CLEANSERS_Makeup|sp|Remover"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "TONERS",
+    "category": "Toners",
     "page": "TONERS",
     "page_url": "https://www.nykaa.com/skin/toners/c/8391?root=nav_2",
     "file_name": "India_Nykaa_Skin_TONERS_TONERS"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "TONERS",
+    "category": "Toners",
     "page": "Toners & Mists",
     "page_url": "https://www.nykaa.com/skin/toners/toners-mists/c/8392?root=nav_3",
     "file_name": "India_Nykaa_Skin_TONERS_Toners|sp||as||sp|Mists"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Toners Under 1000",
     "page_url": "https://www.nykaa.com/toners-under-1000/c/16627",
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Toners|sp|Under|sp|1000"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Face Wash For Oily Skin",
     "page_url": "https://www.nykaa.com/src/face-wash-for-oily-skin?root=nav_3",
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Face|sp|Wash|sp|For|sp|Oily|sp|Skin"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Oil Free Face Moisturizers",
     "page_url": "https://www.nykaa.com/light-moisturizer/c/16628",
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Oil|sp|Free|sp|Face|sp|Moisturizers"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Lip Balm Under 500",
     "page_url": "https://www.nykaa.com/lip-balm-under-500/c/16626",
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Lip|sp|Balm|sp|Under|sp|500"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Vitamin C Serum",
     "page_url": "https://www.nykaa.com/src/vitamin-c-serum?root=nav_3",
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Vitamin|sp|C|sp|Serum"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MOISTURIZERS",
+    "category": "Mouisturisers",
     "page": "MOISTURIZERS",
     "page_url": "https://www.nykaa.com/skin/moisturizers/c/8393?root=nav_2",
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_MOISTURIZERS"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MOISTURIZERS",
+    "category": "Mouisturisers",
     "page": "Face Moisturizer & Day Cream",
     "page_url": "https://www.nykaa.com/skin/moisturizers/face-moisturizer-day-cream/c/8394?root=nav_3",
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Face|sp|Moisturizer|sp||as||sp|Day|sp|Cream"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MOISTURIZERS",
+    "category": "Mouisturisers",
     "page": "Night Cream",
     "page_url": "https://www.nykaa.com/skin/moisturizers/night-cream/c/8395?root=nav_3",
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Night|sp|Cream"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MOISTURIZERS",
+    "category": "Mouisturisers",
     "page": "Face Oils",
     "page_url": "https://www.nykaa.com/skin/moisturizers/face-oils/c/8396?root=nav_3",
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Face|sp|Oils"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MOISTURIZERS",
+    "category": "Mouisturisers",
     "page": "Serums & Essence",
     "page_url": "https://www.nykaa.com/skin/moisturizers/serums-essence/c/8397?root=nav_3",
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Serums|sp||as||sp|Essence"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MOISTURIZERS",
+    "category": "Mouisturisers",
     "page": "BB & CC Creams",
     "page_url": "https://www.nykaa.com/skin/moisturizers/bb-cc-creams/c/8398?root=nav_3",
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_BB|sp||as||sp|CC|sp|Creams"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "MASKS",
     "page_url": "https://www.nykaa.com/skin/masks/c/8399?root=nav_2",
     "file_name": "India_Nykaa_Skin_MASKS_MASKS"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Masks & Peels",
     "page_url": "https://www.nykaa.com/skin/masks/masks-peels/c/8400?root=nav_3",
     "file_name": "India_Nykaa_Skin_MASKS_Masks|sp||as||sp|Peels"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Sheet Masks",
     "page_url": "https://www.nykaa.com/skin/masks/sheet-masks/c/8401?root=nav_3",
     "file_name": "India_Nykaa_Skin_MASKS_Sheet|sp|Masks"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "KITS & COMBOS",
+    "category": "Kits & Combos",
     "page": "KITS & COMBOS",
     "page_url": "https://www.nykaa.com/skin/kits-combos/c/8435?root=nav_2",
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_KITS|sp||as||sp|COMBOS"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "KITS & COMBOS",
+    "category": "Kits & Combos",
     "page": "Facial Kits",
     "page_url": "https://www.nykaa.com/skin/kits-combos/facial-kits/c/8436?root=nav_3",
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_Facial|sp|Kits"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "KITS & COMBOS",
+    "category": "Kits & Combos",
     "page": "Combos @ Nykaa",
     "page_url": "https://www.nykaa.com/skin/kits-combos/combos-at-nykaa/c/8437?root=nav_3",
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_Combos|sp|@|sp|Nykaa"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "KITS & COMBOS",
+    "category": "Kits & Combos",
     "page": "Gift Sets",
     "page_url": "https://www.nykaa.com/skin/kits-combos/gift-sets/c/8438?root=nav_3",
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_Gift|sp|Sets"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "HANDS & FEET",
     "page_url": "https://www.nykaa.com/personal-care/hands-and-feet/c/37?ptype=lst&id=37&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_HANDS|sp||as||sp|FEET"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Handwash",
     "page_url": "https://www.nykaa.com/personal-care/hands-and-feet/handwash/c/584?ptype=lst&id=584&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Handwash"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Hand Sanitizer",
     "page_url": "https://www.nykaa.com/personal-care/hands-and-feet/hand-sanitizer/c/385?ptype=lst&id=385&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Hand|sp|Sanitizer"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Hand Creams",
     "page_url": "https://www.nykaa.com/personal-care/hands-and-feet/hand-creams/c/381?ptype=lst&id=381&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Hand|sp|Creams"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Foot Care",
     "page_url": "https://www.nykaa.com/personal-care/hands-and-feet/foot-care/c/382?ptype=lst&id=382&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Foot|sp|Care"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Tissue Boxes & Handkerchiefs",
     "page_url": "https://www.nykaa.com/personal-care/hands-and-feet/tissue-boxes-and-handkerchiefs/c/7466?ptype=lst&id=382&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Tissue|sp|Boxes|sp||as||sp|Handkerchiefs"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "EYE CARE",
     "page_url": "https://www.nykaa.com/personal-care/eye-care/c/6907?ptype=lst&id=6907&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_EYE|sp|CARE_EYE|sp|CARE"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Contact Lenses",
     "page_url": "https://www.nykaa.com/personal-care/eye-care/contact-lenses/c/6908?ptype=lst&id=6908&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_EYE|sp|CARE_Contact|sp|Lenses"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Lens Solution & Accessories",
     "page_url": "https://www.nykaa.com/personal-care/eye-care/lens-solution-accessories/c/6909?ptype=lst&id=6909&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_EYE|sp|CARE_Lens|sp|Solution|sp||as||sp|Accessories"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "SKIN",
     "page_url": "https://www.nykaa.com/natural/skin/c/9565?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_SKIN"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face Wash",
     "page_url": "https://www.nykaa.com/natural/skin/face-wash/c/9566?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Wash"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Cleanser",
     "page_url": "https://www.nykaa.com/natural/skin/cleanser/c/9567?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Cleanser"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Moisturizer",
     "page_url": "https://www.nykaa.com/natural/skin/moisturizer/c/9568?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Moisturizer"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face Cream",
     "page_url": "https://www.nykaa.com/natural/skin/face-cream/c/9569?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Cream"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face Mist",
     "page_url": "https://www.nykaa.com/natural/skin/face-mist/c/9570?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Mist"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Facial Kits",
     "page_url": "https://www.nykaa.com/natural/skin/facial-kits/c/9571?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Facial|sp|Kits"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Toner",
     "page_url": "https://www.nykaa.com/natural/skin/toner/c/9572?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Toner"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face Oils",
     "page_url": "https://www.nykaa.com/natural/skin/face-oils/c/9573?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Oils"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Sunscreen",
     "page_url": "https://www.nykaa.com/natural/skin/sunscreen/c/9574?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Sunscreen"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Night Cream",
     "page_url": "https://www.nykaa.com/natural/skin/night-cream/c/9575?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Night|sp|Cream"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Day Cream",
     "page_url": "https://www.nykaa.com/natural/skin/day-cream/c/9576?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Day|sp|Cream"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Under Eye Care",
     "page_url": "https://www.nykaa.com/natural/skin/under-eye-care/c/9577?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Under|sp|Eye|sp|Care"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face Bleach",
     "page_url": "https://www.nykaa.com/natural/skin/face-bleach/c/9578?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Bleach"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Serums",
     "page_url": "https://www.nykaa.com/natural/skin/serums/c/9579?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Serums"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "SKIN",
     "page_url": "https://www.nykaa.com/natural/skin/c/9565?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_SKIN"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Sheet Masks",
     "page_url": "https://www.nykaa.com/natural/skin/sheet-masks/c/9580?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Sheet|sp|Masks"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Masks & Peels",
     "page_url": "https://www.nykaa.com/natural/skin/masks-peels/c/9581?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Masks|sp||as||sp|Peels"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Scrubs & Exfoliators",
     "page_url": "https://www.nykaa.com/natural/skin/scrubs-exfoliators/c/9582?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Scrubs|sp||as||sp|Exfoliators"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face Tools",
     "page_url": "https://www.nykaa.com/natural/skin/face-tools/c/9583?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Tools"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Face Gel",
     "page_url": "https://www.nykaa.com/natural/skin/face-gel/c/9584?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Gel"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Lip Scrub",
     "page_url": "https://www.nykaa.com/natural/skin/lip-scrub/c/9766?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_SKIN_Lip|sp|Scrub"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.nykaa.com/natural/body-care/c/9605?ptype=lst&id=548&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_BODY|sp|CARE"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Shower Gels & Body Wash",
     "page_url": "https://www.nykaa.com/natural/body-care/shower-gels-and-body-wash/c/9606?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Shower|sp|Gels|sp||as||sp|Body|sp|Wash"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Soaps",
     "page_url": "https://www.nykaa.com/natural/body-care/soaps/c/9607?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Soaps"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Lotions",
     "page_url": "https://www.nykaa.com/natural/body-care/body-lotions/c/9608?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Body|sp|Lotions"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Scrubs",
     "page_url": "https://www.nykaa.com/natural/body-care/body-scrubs/c/9609?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Body|sp|Scrubs"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Bath Salts & Bath Bombs",
     "page_url": "https://www.nykaa.com/natural/body-care/bath-salts-bath-bombs/c/9610?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Bath|sp|Salts|sp||as||sp|Bath|sp|Bombs"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Hands & Feet Care",
     "page_url": "https://www.nykaa.com/natural/body-care/hands-and-feet-care/c/9611?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Hands|sp||as||sp|Feet|sp|Care"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Bath Tools & Accessories",
     "page_url": "https://www.nykaa.com/natural/body-care/bath-tools-accessories/c/9612?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Bath|sp|Tools|sp||as||sp|Accessories"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Oral Care",
     "page_url": "https://www.nykaa.com/natural/body-care/oral-care/c/9613?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Oral|sp|Care"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "BABY CARE",
     "page_url": "https://www.nykaa.com/mom-and-baby/baby-care/c/14798?ptype=lst&id=14798&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_BABY|sp|CARE"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Body Wash & Soaps",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/body-wash-soaps/c/14799",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Body|sp|Wash|sp||as||sp|Soaps"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Baby Oil",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/baby-oil/c/14800",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Oil"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Hair Oil",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/hair-oil/c/15009",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Hair|sp|Oil"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Lotions & Creams",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/lotions-creams/c/14801",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Lotions|sp||as||sp|Creams"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Baby Powder",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/baby-powder/c/14802",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Powder"
@@ -2348,7 +2348,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Shampoo & Conditioner",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/shampoo-conditioner/c/14803",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Shampoo|sp||as||sp|Conditioner"
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Sunscreen",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/sunscreen/c/14804",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Sunscreen"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Wipes & Buds",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/wipes-buds/c/14806",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Wipes|sp||as||sp|Buds"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Teeth & Dental Care",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/teeth-dental-care/c/15013",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Teeth|sp||as||sp|Dental|sp|Care"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Rash Cream",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/rash-cream/c/14807",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Rash|sp|Cream"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Diapers",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/diapers/c/15010",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Diapers"
@@ -2414,7 +2414,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Diaper Accessories",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/diaper-accessories/c/14808",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Diaper|sp|Accessories"
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Bath Accessories",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/bath-accessories/c/14809",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Bath|sp|Accessories"
@@ -2436,7 +2436,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Baby Grooming",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/baby-grooming/c/14805",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Grooming"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Baby Bedding",
     "page_url": "https://www.nykaa.com/mom-baby/baby-care/baby-bedding/c/14834",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Bedding"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "KIDS CARE",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/c/14818",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_KIDS|sp|CARE"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "Nutritional Supplement",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/nutritional-supplements/c/22633",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Nutritional|sp|Supplement"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "Body Wash & Soaps",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/body-wash-soaps/c/14819",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Body|sp|Wash|sp||as||sp|Soaps"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "Lotions & Creams",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/lotions-creams/c/14820",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Lotions|sp||as||sp|Creams"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "Hair Care",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/hair-care/c/14821",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Hair|sp|Care"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "Sunscreen",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/sunscreen/c/14822",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Sunscreen"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "Dental Care",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/dental-care/c/14823",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Dental|sp|Care"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "KIDS CARE",
+    "category": "Kids Care",
     "page": "Kids Makeup",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/kids-makeup/c/14824",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Kids|sp|Makeup"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "SHAVING",
     "page_url": "https://www.nykaa.com/mens/shaving/c/1286?ptype=lst&id=1286&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_SHAVING"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Razors & Cartridges",
     "page_url": "https://www.nykaa.com/mens/shaving/razors-cartridges/c/1287?ptype=lst&id=1287&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Razors|sp||as||sp|Cartridges"
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Shavers",
     "page_url": "https://www.nykaa.com/mens/shaving/shavers/c/1288?ptype=lst&id=1288&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Shavers"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Trimmers",
     "page_url": "https://www.nykaa.com/mens/shaving/trimmers/c/11028?ptype=lst&id=1288&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Trimmers"
@@ -2887,7 +2887,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Shaving Creams",
     "page_url": "https://www.nykaa.com/mens/shaving/shaving-creams/c/1289?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Creams"
@@ -2898,7 +2898,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Shaving Foams",
     "page_url": "https://www.nykaa.com/mens/shaving/shaving-foams/c/11029?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Foams"
@@ -2909,7 +2909,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Shaving Gels",
     "page_url": "https://www.nykaa.com/mens/shaving/shaving-gels/c/1548?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Gels"
@@ -2920,7 +2920,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Pre & Post Shaves",
     "page_url": "https://www.nykaa.com/mens/shaving/pre-post-shaves/c/1290?ptype=lst&id=1290&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Pre|sp||as||sp|Post|sp|Shaves"
@@ -2931,7 +2931,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Aftershave Lotion",
     "page_url": "https://www.nykaa.com/mens/shaving/aftershave-lotion/c/568?ptype=lst&id=568&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Aftershave|sp|Lotion"
@@ -2942,7 +2942,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "Shaving Brushes",
     "page_url": "https://www.nykaa.com/mens/shaving/shaving-brushes/c/1291?ptype=lst&id=1291&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Brushes"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "BEARD CARE",
     "page_url": "https://www.nykaa.com/mens/beard-care/c/1921",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_BEARD|sp|CARE"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Oil",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-oil/c/2799",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Oil"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Butter",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-butter/c/2800",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Butter"
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Softener",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-softener/c/11045",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Softener"
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Wash",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-wash/c/2801",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Wash"
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Wax",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-wax/c/11046",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Wax"
@@ -3019,7 +3019,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Moustache Oil",
     "page_url": "https://www.nykaa.com/mens/beard-care/moustache-oil/c/11047",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Moustache|sp|Oil"
@@ -3030,7 +3030,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Comb",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-comb/c/2803",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Comb"
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Moustache Wax",
     "page_url": "https://www.nykaa.com/mens/beard-care/moustache-wax/c/2802",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Moustache|sp|Wax"
@@ -3052,7 +3052,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Kits",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-kits/c/11048",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Kits"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Balm",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-balm/c/11051",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Balm"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Cream",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-cream/c/11052",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Cream"
@@ -3085,7 +3085,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Serum",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-serum/c/11054",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Serum"
@@ -3096,7 +3096,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Colour",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-colour/c/11216",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Colour"
@@ -3107,7 +3107,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "BEARD CARE",
+    "category": "Beard Care",
     "page": "Beard Shampoo",
     "page_url": "https://www.nykaa.com/mens/beard-care/beard-shampoo/c/11057",
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Shampoo"
@@ -3217,7 +3217,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/c/3863?ptype=lst&id=3863&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_FACE"
@@ -3228,7 +3228,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Primer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/primer/c/3928?ptype=lst&id=3928&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Primer"
@@ -3239,7 +3239,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Corrector & Concealer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/concealer/c/3929?ptype=lst&id=3929&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Corrector|sp||as||sp|Concealer"
@@ -3250,7 +3250,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Foundation",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/foundation/c/3909?ptype=lst&id=3909&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Foundation"
@@ -3261,7 +3261,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Compact",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/compact/c/3931?ptype=lst&id=3931&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Compact"
@@ -3272,7 +3272,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Loose Powder",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/loose-powder/c/3932?ptype=lst&id=3932&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Loose|sp|Powder"
@@ -3283,7 +3283,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Blush",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/blush/c/3933?ptype=lst&id=3933&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Blush"
@@ -3294,7 +3294,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Bronzer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/bronzer/c/3934?ptype=lst&id=3934&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Bronzer"
@@ -3305,7 +3305,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Highlighter",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/highlighter/c/3935?ptype=lst&id=3935&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Highlighter"
@@ -3316,7 +3316,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Tinted Moisturizer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/tinted-moisturizer/c/3936?ptype=lst&id=3936&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Tinted|sp|Moisturizer"
@@ -3327,7 +3327,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "BB & CC Cream",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/bb-cc-cream/c/3937?root=nav_3",
     "file_name": "India_Nykaa_LUXE_FACE_BB|sp||as||sp|CC|sp|Cream"
@@ -3338,7 +3338,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Makeup Remover",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/makeup-remover/c/3938?ptype=lst&id=3938&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Makeup|sp|Remover"
@@ -3349,7 +3349,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Contouring",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/contouring/c/3994?ptype=lst&id=3994&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Contouring"
@@ -3360,7 +3360,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Customize Your Palette",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/customize-your-palette/c/4145?ptype=lst&id=4145&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Customize|sp|Your|sp|Palette"
@@ -3371,7 +3371,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "FACE",
+    "category": "Face",
     "page": "Setting Spray",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/setting-spray/c/7581?ptype=lst&id=7581&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_FACE_Setting|sp|Spray"
@@ -3382,7 +3382,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/c/1102?ptype=lst&id=1102&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_EYES"
@@ -3393,7 +3393,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner & Kajal",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/eyeliner-kajal/c/3939?ptype=lst&id=3939&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Eyeliner|sp||as||sp|Kajal"
@@ -3404,7 +3404,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/mascara/c/3886?ptype=lst&id=3886&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Mascara"
@@ -3415,7 +3415,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Shadow",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/eye-shadow/c/3940?ptype=lst&id=3940&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Eye|sp|Shadow"
@@ -3426,7 +3426,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Brows",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/brows/c/3941?ptype=lst&id=3941&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Brows"
@@ -3437,7 +3437,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Lashes",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/lashes/c/3942?ptype=lst&id=3942&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Lashes"
@@ -3448,7 +3448,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye Primer",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/eye-primer/c/3943?ptype=lst&id=3943&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Eye|sp|Primer"
@@ -3459,7 +3459,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Corrector & Concealer",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/concealer/c/3944?ptype=lst&id=3944&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Corrector|sp||as||sp|Concealer"
@@ -3470,7 +3470,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Customize Your Palette",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/customize-your-palette/c/4144?ptype=lst&id=4144&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_EYES_Customize|sp|Your|sp|Palette"
@@ -3481,7 +3481,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/c/1127?ptype=lst&id=1127&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_LIPS_LIPS"
@@ -3492,7 +3492,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lipstick/c/3945?ptype=lst&id=3945&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_LIPS_Lipstick"
@@ -3503,7 +3503,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Liquid Lipstick",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/liquid-lipstick/c/12887?ptype=lst&id=12887&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_LIPS_Liquid|sp|Lipstick"
@@ -3514,7 +3514,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Gloss",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lip-gloss/c/3946?ptype=lst&id=3946&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_LIPS_Lip|sp|Gloss"
@@ -3525,7 +3525,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Liner",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lip-liner/c/3947?ptype=lst&id=3947&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_LIPS_Lip|sp|Liner"
@@ -3536,7 +3536,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Balm",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lip-balm/c/3948?ptype=lst&id=3948&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_LIPS_Lip|sp|Balm"
@@ -3547,7 +3547,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.nykaa.com/makeup/lips/c/15?ptype=lst&id=15&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_LIPS_LIPS"
@@ -3558,7 +3558,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.nykaa.com/makeup/lips/lipstick/c/249",
     "file_name": "India_Nykaa_Makeup_LIPS_Lipstick"
@@ -3569,7 +3569,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Liquid Lipstick",
     "page_url": "https://www.nykaa.com/makeup/lips/liquid-lipstick/c/263",
     "file_name": "India_Nykaa_Makeup_LIPS_Liquid|sp|Lipstick"
@@ -3580,7 +3580,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Crayon",
     "page_url": "https://www.nykaa.com/makeup/lips/lip-crayon/c/5079?root=nav_3&ptype=lst&id=5079&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Crayon"
@@ -3591,7 +3591,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Gloss",
     "page_url": "https://www.nykaa.com/makeup/lips/lip-gloss/c/250?ptype=lst&id=250&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Gloss"
@@ -3602,7 +3602,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Liner",
     "page_url": "https://www.nykaa.com/makeup/lips/lip-liner/c/251?ptype=lst&id=251&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Liner"
@@ -3613,7 +3613,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Plumper",
     "page_url": "https://www.nykaa.com/makeup/lips/c/252?ptype=lst&id=252&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Plumper"
@@ -3624,7 +3624,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Stain",
     "page_url": "https://www.nykaa.com/makeup/lips/lip-stain/c/253?ptype=lst&id=253&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Stain"
@@ -3635,7 +3635,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip Balm",
     "page_url": "https://www.nykaa.com/makeup/lips/lip-balm/c/254?ptype=lst&id=254&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Balm"
@@ -3646,7 +3646,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.nykaa.com/makeup/nails/c/16?ptype=lst&id=16&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_NAILS"
@@ -3657,7 +3657,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Polish",
     "page_url": "https://www.nykaa.com/makeup/nails/nail-polish/c/255?ptype=lst&id=255&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Polish"
@@ -3668,7 +3668,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Art Kits",
     "page_url": "https://www.nykaa.com/makeup/nails/nail-art-kits/c/256?ptype=lst&id=256&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Art|sp|Kits"
@@ -3679,7 +3679,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Polish Sets",
     "page_url": "https://www.nykaa.com/makeup/nails/nail-polish-sets/c/257?ptype=lst&id=257&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Polish|sp|Sets"
@@ -3690,7 +3690,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Care",
     "page_url": "https://www.nykaa.com/makeup/nails/nail-care/c/259?ptype=lst&id=259&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Care"
@@ -3701,7 +3701,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail Polish Remover",
     "page_url": "https://www.nykaa.com/makeup/nails/nail-polish-remover/c/260?ptype=lst&id=260&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Polish|sp|Remover"
@@ -3712,7 +3712,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Manicure & Pedicure Kits",
     "page_url": "https://www.nykaa.com/makeup/nails/manicure-pedicure-kits/c/3277?ptype=lst&id=3277&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_Manicure|sp||as||sp|Pedicure|sp|Kits"
@@ -3723,7 +3723,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "TOOLS & BRUSHES",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/c/217",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_TOOLS|sp||as||sp|BRUSHES"
@@ -3734,7 +3734,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Face Brush",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/face-brush/c/267?ptype=lst&id=267&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Face|sp|Brush"
@@ -3745,7 +3745,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Blush Brush",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/blush-brush/c/269?ptype=lst&id=269&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Blush|sp|Brush"
@@ -3756,7 +3756,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Eye Brush",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/eye-brush/c/268?ptype=lst&id=268&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Eye|sp|Brush"
@@ -3767,7 +3767,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Lip Brush",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/lip-brush/c/270?ptype=lst&id=270&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Lip|sp|Brush"
@@ -3778,7 +3778,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Brush Sets",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/brush-sets/c/266?ptype=lst&id=266&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Brush|sp|Sets"
@@ -3789,7 +3789,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Sponges & Applicators",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/sponges-applicators/c/271?ptype=lst&id=271&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Sponges|sp||as||sp|Applicators"
@@ -3800,7 +3800,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Eyelash Curlers",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/eyelash-curlers/c/272?ptype=lst&id=272&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Eyelash|sp|Curlers"
@@ -3811,7 +3811,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Tweezers",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/tweezers/c/273?ptype=lst&id=273&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Tweezers"
@@ -3822,7 +3822,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Sharpeners",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/sharpeners/c/274?ptype=lst&id=274&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Sharpeners"
@@ -3833,7 +3833,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Mirrors",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/mirrors/c/947?ptype=lst&id=947&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Mirrors"
@@ -3844,7 +3844,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
-    "category": "TOOLS & BRUSHES",
+    "category": "Tools & Brushes",
     "page": "Makeup Pouches",
     "page_url": "https://www.nykaa.com/makeup/tools-brushes/makeup-pouches/c/4037?ptype=lst&id=4037&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Makeup|sp|Pouches"
@@ -3855,7 +3855,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.nykaa.com/skin/body-care/c/8417?root=nav_2",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_BODY|sp|CARE"
@@ -3866,7 +3866,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Butter",
     "page_url": "https://www.nykaa.com/skin/body-care/body-butter/c/14001?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Body|sp|Butter"
@@ -3877,7 +3877,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Lotions & Creams",
     "page_url": "https://www.nykaa.com/skin/body-care/lotions-creams/c/8420?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Lotions|sp||as||sp|Creams"
@@ -3888,7 +3888,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Massage Oils",
     "page_url": "https://www.nykaa.com/skin/body-care/massage-oils/c/8421?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Massage|sp|Oils"
@@ -3899,7 +3899,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Anti-Stretch Mark Creams",
     "page_url": "https://www.nykaa.com/skin/body-care/anti-stretch-mark-creams/c/8422?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Anti|h|Stretch|sp|Mark|sp|Creams"
@@ -3910,7 +3910,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Anti-Cellulite Creams",
     "page_url": "https://www.nykaa.com/skin/body-care/anti-cellulite-creams/c/8423?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Anti|h|Cellulite|sp|Creams"
@@ -3921,7 +3921,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Bath Salts",
     "page_url": "https://www.nykaa.com/skin/body-care/bath-salts/c/8424?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Bath|sp|Salts"
@@ -3932,7 +3932,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Shower Gels & Body Wash",
     "page_url": "https://www.nykaa.com/skin/body-care/shower-gels-body-wash/c/8426?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Shower|sp|Gels|sp||as||sp|Body|sp|Wash"
@@ -3943,7 +3943,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Bath Scrubs",
     "page_url": "https://www.nykaa.com/skin/body-care/bath-scrubs/c/8427?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Bath|sp|Scrubs"
@@ -3954,7 +3954,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Soaps",
     "page_url": "https://www.nykaa.com/skin/body-care/soaps/c/8644?root=nav_3",
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Soaps"
@@ -3965,7 +3965,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "SUN CARE",
     "page_url": "https://www.nykaa.com/skin/sun-care/c/8428?root=nav_2",
     "file_name": "India_Nykaa_Skin_SUN|sp|CARE_SUN|sp|CARE"
@@ -3976,7 +3976,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Face Sunscreen",
     "page_url": "https://www.nykaa.com/skin/sun-care/face-sunscreen/c/8429?root=nav_3",
     "file_name": "India_Nykaa_Skin_SUN|sp|CARE_Face|sp|Sunscreen"
@@ -3987,7 +3987,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Body Sunscreen",
     "page_url": "https://www.nykaa.com/skin/sun-care/body-sunscreen/c/8430?root=nav_3",
     "file_name": "India_Nykaa_Skin_SUN|sp|CARE_Body|sp|Sunscreen"
@@ -3998,7 +3998,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "HANDS & FEET",
     "page_url": "https://www.nykaa.com/skin/hands-feet/c/8431?root=nav_2",
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_HANDS|sp||as||sp|FEET"
@@ -4009,7 +4009,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Hand Creams",
     "page_url": "https://www.nykaa.com/skin/hands-feet/hand-creams/c/8432?root=nav_3",
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_Hand|sp|Creams"
@@ -4020,7 +4020,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Foot Creams",
     "page_url": "https://www.nykaa.com/skin/hands-feet/foot-creams/c/8433?root=nav_3",
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_Foot|sp|Creams"
@@ -4031,7 +4031,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Hand & Foot Masks",
     "page_url": "https://www.nykaa.com/skin/hands-feet/hand-foot-masks/c/8434?root=nav_3",
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_Hand|sp||as||sp|Foot|sp|Masks"
@@ -4394,7 +4394,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "FEMININE HYGIENE",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/c/1648?ptype=lst&id=1648&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_FEMININE|sp|HYGIENE"
@@ -4405,7 +4405,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "Sanitary Napkins",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/sanitary-napkins/c/391?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Sanitary|sp|Napkins"
@@ -4416,7 +4416,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "Tampons",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/tampons/c/1816?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Tampons"
@@ -4427,7 +4427,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "Pantyliners",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/pantyliners/c/690?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Pantyliners"
@@ -4438,7 +4438,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "Shaving & Hair Removal",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/shaving-hair-removal/c/39?ptype=lst&id=39&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Shaving|sp||as||sp|Hair|sp|Removal"
@@ -4449,7 +4449,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "Intimate Hygiene",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/intimate-hygiene/c/1654?ptype=lst&id=1654&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Intimate|sp|Hygiene"
@@ -4460,7 +4460,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "Cotton Buds & Balls",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/cotton-buds-balls/c/1647?ptype=lst&id=1647&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Cotton|sp|Buds|sp||as||sp|Balls"
@@ -4471,7 +4471,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "FEMININE HYGIENE",
+    "category": "Femenine Hygiene",
     "page": "Menstrual Cups",
     "page_url": "https://www.nykaa.com/personal-care/feminine-hygiene/menstrual-cups/c/9475",
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Menstrual|sp|Cups"
@@ -4548,7 +4548,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "HOME & HEALTH",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/c/1639?ptype=lst&id=1639&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_HOME|sp||as||sp|HEALTH"
@@ -4559,7 +4559,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Insect Repellents",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/insect-repellents/c/1645?ptype=lst&id=1645&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Insect|sp|Repellents"
@@ -4570,7 +4570,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Air Fresheners",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/airfreshener/c/1642?ptype=lst&id=1642&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Air|sp|Fresheners"
@@ -4581,7 +4581,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Toilet Seat Sanitizer",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/toilet-seat-sanitizer/c/326?ptype=lst&id=326&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Toilet|sp|Seat|sp|Sanitizer"
@@ -4592,7 +4592,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Face Mask",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/face-mask/c/13561",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Face|sp|Mask"
@@ -4603,7 +4603,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Gloves",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/gloves/c/13562",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Gloves"
@@ -4614,7 +4614,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "HOME & HEALTH",
+    "category": "Home & Health",
     "page": "Others",
     "page_url": "https://www.nykaa.com/personal-care/home-and-health/others/c/6790",
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Others"
@@ -4625,7 +4625,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRAVEL ESSENTIALS",
+    "category": "Travel Essentials",
     "page": "TRAVEL ESSENTIALS",
     "page_url": "https://www.nykaa.com/personal-care/travel-essentials/c/395?ptype=lst&id=395&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_TRAVEL|sp|ESSENTIALS"
@@ -4636,7 +4636,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRAVEL ESSENTIALS",
+    "category": "Travel Essentials",
     "page": "Wanderlust",
     "page_url": "https://www.nykaa.com/nykaa-wanderlust-collection/c/2674",
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Wanderlust"
@@ -4647,7 +4647,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRAVEL ESSENTIALS",
+    "category": "Travel Essentials",
     "page": "Dove",
     "page_url": "https://www.nykaa.com/brands/dove/c/609?ptype=brnd&id=609&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Dove"
@@ -4658,7 +4658,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRAVEL ESSENTIALS",
+    "category": "Travel Essentials",
     "page": "Gillette",
     "page_url": "https://www.nykaa.com/brands/gillette/c/603?ptype=brnd&id=603&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Gillette"
@@ -4669,7 +4669,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRAVEL ESSENTIALS",
+    "category": "Travel Essentials",
     "page": "Pantene",
     "page_url": "https://www.nykaa.com/brands/pantene/c/665?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Pantene"
@@ -4680,7 +4680,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRAVEL ESSENTIALS",
+    "category": "Travel Essentials",
     "page": "Palmolive",
     "page_url": "https://www.nykaa.com/brands/palmolive/c/3796?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Palmolive"
@@ -4691,7 +4691,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRAVEL ESSENTIALS",
+    "category": "Travel Essentials",
     "page": "Bella",
     "page_url": "https://www.nykaa.com/brands/bella/c/2124?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Bella"
@@ -4746,7 +4746,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Beard Oil",
     "page_url": "https://www.nykaa.com/src/beard-growth-oil?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Beard|sp|Oil"
@@ -4757,7 +4757,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Mosquito Repellent",
     "page_url": "https://www.nykaa.com/src/mosquito-repellent?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Mosquito|sp|Repellent"
@@ -4768,7 +4768,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Menstrual Cup",
     "page_url": "https://www.nykaa.com/src/menstrual-cup?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Menstrual|sp|Cup"
@@ -4779,7 +4779,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Hair Removal Cream",
     "page_url": "https://www.nykaa.com/src/hair-removal-cream?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Hair|sp|Removal|sp|Cream"
@@ -4790,7 +4790,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Personal Care",
-    "category": "TRENDING SEARCHES",
+    "category": "Trending Searches",
     "page": "Wax Strips",
     "page_url": "https://www.nykaa.com/src/wax-strips?root=nav_4",
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Wax|sp|Strips"
@@ -4966,7 +4966,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.nykaa.com/natural/makeup/c/9585?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_MAKEUP"
@@ -4977,7 +4977,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Lipstick",
     "page_url": "https://www.nykaa.com/natural/makeup/lipstick/c/9586?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Lipstick"
@@ -4988,7 +4988,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Kajal",
     "page_url": "https://www.nykaa.com/natural/makeup/kajal/c/9587?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Kajal"
@@ -4999,7 +4999,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Eyeliner",
     "page_url": "https://www.nykaa.com/natural/makeup/eyeliner/c/9588?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Eyeliner"
@@ -5010,7 +5010,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Mascara",
     "page_url": "https://www.nykaa.com/natural/makeup/mascara/c/9589?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Mascara"
@@ -5021,7 +5021,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Nail Polish",
     "page_url": "https://www.nykaa.com/natural/makeup/nail-polish/c/9590?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Nail|sp|Polish"
@@ -5032,7 +5032,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Lip Balm & Gloss",
     "page_url": "https://www.nykaa.com/natural/makeup/lip-balm-gloss/c/9591?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Lip|sp|Balm|sp||as||sp|Gloss"
@@ -5043,7 +5043,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Foundation & Concealer",
     "page_url": "https://www.nykaa.com/natural/makeup/foundation-concealer/c/9592?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Foundation|sp||as||sp|Concealer"
@@ -5054,7 +5054,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Blush & Highlighter",
     "page_url": "https://www.nykaa.com/natural/makeup/blush-highlighter/c/9593?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Blush|sp||as||sp|Highlighter"
@@ -5065,7 +5065,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Makeup Remover",
     "page_url": "https://www.nykaa.com/natural/makeup/makeup-remover/c/9594?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Makeup|sp|Remover"
@@ -5076,7 +5076,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Tools & Brushes",
     "page_url": "https://www.nykaa.com/natural/makeup/tools-brushes/c/9595?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_MAKEUP_Tools|sp||as||sp|Brushes"
@@ -5087,7 +5087,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TRENDING SEARCH",
+    "category": "Trending Search",
     "page": "TRENDING SEARCH",
     "page_url": "https://www.nykaa.com/natural/top-search/c/9985?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_TRENDING|sp|SEARCH"
@@ -5098,7 +5098,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TRENDING SEARCH",
+    "category": "Trending Search",
     "page": "Tea Tree Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/tea-tree-oil/c/9986?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Tea|sp|Tree|sp|Oil"
@@ -5109,7 +5109,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TRENDING SEARCH",
+    "category": "Trending Search",
     "page": "Eucalyptus Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/eucalyptus-oil/c/9987?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Eucalyptus|sp|Oil"
@@ -5120,7 +5120,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TRENDING SEARCH",
+    "category": "Trending Search",
     "page": "Rosemary Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/rosemary-oil/c/9988?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Rosemary|sp|Oil"
@@ -5131,7 +5131,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TRENDING SEARCH",
+    "category": "Trending Search",
     "page": "Jojoba Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/jojoba-oil/c/9989?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Jojoba|sp|Oil"
@@ -5142,7 +5142,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TRENDING SEARCH",
+    "category": "Trending Search",
     "page": "Peppermint Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/peppermint-oil/c/9990?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Peppermint|sp|Oil"
@@ -5153,7 +5153,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "BABY CARE",
     "page_url": "https://www.nykaa.com/natural/baby-care/c/9621?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_BABY|sp|CARE"
@@ -5164,7 +5164,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Biotique",
     "page_url": "https://www.nykaa.com/brands/biotique/c/923?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Biotique"
@@ -5175,7 +5175,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Lotus Herbals",
     "page_url": "https://www.nykaa.com/brands/lotusherbals/c/670?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Lotus|sp|Herbals"
@@ -5186,7 +5186,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Nykaa Naturals",
     "page_url": "https://www.nykaa.com/brands/nykaa-naturals/c/7666?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Nykaa|sp|Naturals"
@@ -5197,7 +5197,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Kama Ayurveda",
     "page_url": "https://www.nykaa.com/luxe/brands/kama-ayurveda/c/2421?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Kama|sp|Ayurveda"
@@ -5208,7 +5208,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Khadi Natural",
     "page_url": "https://www.nykaa.com/brands/khadi-natural/c/621?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Khadi|sp|Natural"
@@ -5219,7 +5219,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "Himalaya",
     "page_url": "https://www.nykaa.com/brands/himalaya-herbals/c/680?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Himalaya"
@@ -5230,7 +5230,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "BABY CARE",
+    "category": "Baby Care",
     "page": "VLCC",
     "page_url": "https://www.nykaa.com/brands/vlcc/c/600?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_VLCC"
@@ -5241,7 +5241,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "TYPES OF SKIN",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/c/9633?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_TYPES|sp|OF|sp|SKIN"
@@ -5252,7 +5252,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "Dry Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/dry-skin/c/9634?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Dry|sp|Skin"
@@ -5263,7 +5263,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "Normal Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/normal-skin/c/9635?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Normal|sp|Skin"
@@ -5274,7 +5274,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "Oily Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/oily-skin/c/9636?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Oily|sp|Skin"
@@ -5285,7 +5285,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "Combination Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/combination-skin/c/9637?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Combination|sp|Skin"
@@ -5296,7 +5296,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY CARE",
+    "category": "Maternity Care",
     "page": "MATERNITY CARE",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-care/c/14837",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_MATERNITY|sp|CARE"
@@ -5307,7 +5307,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY CARE",
+    "category": "Maternity Care",
     "page": "Stretch Mark Creams & Oils",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-care/stretch-mark-creams-oils/c/14838",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Stretch|sp|Mark|sp|Creams|sp||as||sp|Oils"
@@ -5318,7 +5318,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY CARE",
+    "category": "Maternity Care",
     "page": "Breast Firming Gels & Creams",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-care/breast-firming-gels-creams/c/14839",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Breast|sp|Firming|sp|Gels|sp||as||sp|Creams"
@@ -5329,7 +5329,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY CARE",
+    "category": "Maternity Care",
     "page": "Nipple Creams",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-care/nipple-creams/c/14840",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Nipple|sp|Creams"
@@ -5340,7 +5340,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY CARE",
+    "category": "Maternity Care",
     "page": "Nutritional Supplements",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-care/nutritional-supplements/c/14844",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Nutritional|sp|Supplements"
@@ -5351,7 +5351,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY CARE",
+    "category": "Maternity Care",
     "page": "Maternity Pillows",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-care/maternity-pillows/c/14836",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Maternity|sp|Pillows"
@@ -5362,7 +5362,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "NURSING & FEEDING",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/c/14810",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_NURSING|sp||as||sp|FEEDING"
@@ -5373,7 +5373,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "Feeding Bottle & Nipples",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/feeding-bottle-nipples/c/14811",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Feeding|sp|Bottle|sp||as||sp|Nipples"
@@ -5384,7 +5384,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "Teethers & Soothers",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/teethers-soothers/c/14812",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Teethers|sp||as||sp|Soothers"
@@ -5395,7 +5395,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "Breast Pumps",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/breast-pumps/c/14813",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Breast|sp|Pumps"
@@ -5406,7 +5406,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "Breast Pads",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/breast-pads/c/14814",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Breast|sp|Pads"
@@ -5417,7 +5417,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "Cleaning & Feeding Accessories",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/cleaning-feeding-accessories/c/14815",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Cleaning|sp||as||sp|Feeding|sp|Accessories"
@@ -5428,7 +5428,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "Bibs",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/bibs/c/14816",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Bibs"
@@ -5439,7 +5439,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "NURSING & FEEDING",
+    "category": "Nursing & Feeding",
     "page": "Sippers & Cups",
     "page_url": "https://www.nykaa.com/mom-baby/nursing-feeding/sippers-cups/c/14817",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Sippers|sp||as||sp|Cups"
@@ -5450,7 +5450,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "HEALTH & SAFETY",
+    "category": "Health & Safety",
     "page": "HEALTH & SAFETY",
     "page_url": "https://www.nykaa.com/mom-baby/health-safety/c/14826",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_HEALTH|sp||as||sp|SAFETY"
@@ -5461,7 +5461,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "HEALTH & SAFETY",
+    "category": "Health & Safety",
     "page": "Nose & Ear Care",
     "page_url": "https://www.nykaa.com/mom-baby/health-safety/nose-ear-care/c/15123",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Nose|sp||as||sp|Ear|sp|Care"
@@ -5472,7 +5472,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "HEALTH & SAFETY",
+    "category": "Health & Safety",
     "page": "Gripe Water & Tummy Roll On",
     "page_url": "https://www.nykaa.com/mom-baby/health-safety/gripe-water-tummy-roll-on/c/15124",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Gripe|sp|Water|sp||as||sp|Tummy|sp|Roll|sp|On"
@@ -5483,7 +5483,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "HEALTH & SAFETY",
+    "category": "Health & Safety",
     "page": "Detergents & Cleansers",
     "page_url": "https://www.nykaa.com/mom-baby/health-safety/detergents-cleansers/c/14828",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Detergents|sp||as||sp|Cleansers"
@@ -5494,7 +5494,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "HEALTH & SAFETY",
+    "category": "Health & Safety",
     "page": "Handwash & Sanitizer",
     "page_url": "https://www.nykaa.com/mom-baby/health-safety/handwash-sanitizer/c/14828",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Handwash|sp||as||sp|Sanitizer"
@@ -5505,7 +5505,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "HEALTH & SAFETY",
+    "category": "Health & Safety",
     "page": "Mosquito Repellent",
     "page_url": "https://www.nykaa.com/mom-baby/health-safety/mosquito-repellent/c/14829",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Mosquito|sp|Repellent"
@@ -5516,7 +5516,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY WEAR",
+    "category": "Maternity Wear",
     "page": "MATERNITY WEAR",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-wear/c/14843",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_MATERNITY|sp|WEAR"
@@ -5527,7 +5527,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY WEAR",
+    "category": "Maternity Wear",
     "page": "Maternity Bra",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-wear/maternity-bra/c/15125",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_Maternity|sp|Bra"
@@ -5538,7 +5538,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY WEAR",
+    "category": "Maternity Wear",
     "page": "Maternity Dress",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-wear/maternity-dress/c/15126",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_Maternity|sp|Dress"
@@ -5549,7 +5549,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
-    "category": "MATERNITY WEAR",
+    "category": "Maternity Wear",
     "page": "Maternity Tops",
     "page_url": "https://www.nykaa.com/mom-baby/maternity-wear/maternity-tops/c/15127",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_Maternity|sp|Tops"
@@ -6033,7 +6033,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "SKIN CARE",
     "page_url": "https://www.nykaa.com/mens/skin-care/c/1300?ptype=lst&id=1300&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_SKIN|sp|CARE"
@@ -6044,7 +6044,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Face Wash",
     "page_url": "https://www.nykaa.com/mens/skin-care/face-wash/c/1301?ptype=lst&id=1301&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Face|sp|Wash"
@@ -6055,7 +6055,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Moisturizers",
     "page_url": "https://www.nykaa.com/mens/skin-care/moisturizers/c/1302?ptype=lst&id=1302&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Moisturizers"
@@ -6066,7 +6066,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Sunscreen",
     "page_url": "https://www.nykaa.com/mens/skin-care/sunscreen/c/1305?ptype=lst&id=1305&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Sunscreen"
@@ -6077,7 +6077,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Masks & Peels",
     "page_url": "https://www.nykaa.com/mens/skin-care/masks-peels/c/1303?ptype=lst&id=1303&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Masks|sp||as||sp|Peels"
@@ -6088,7 +6088,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Scrubs & Exfoliators",
     "page_url": "https://www.nykaa.com/mens/skin-care/scrubs-exfoliators/c/1304?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Scrubs|sp||as||sp|Exfoliators"
@@ -6099,7 +6099,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Fairness",
     "page_url": "https://www.nykaa.com/mens/skin-care/fairness/c/1306?ptype=lst&id=1306&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Fairness"
@@ -6176,7 +6176,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "WELLNESS",
     "page_url": "https://www.nykaa.com/mens/wellness/c/1325?ptype=lst&id=1325&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_WELLNESS_WELLNESS"
@@ -6187,7 +6187,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Sexual Wellness",
     "page_url": "https://www.nykaa.com/mens/wellness/sexual-wellness/c/6543??root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_WELLNESS_Sexual|sp|Wellness"
@@ -6198,7 +6198,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Health Supplements",
     "page_url": "https://www.nykaa.com/mens/wellness/health-supplements/c/1326?ptype=lst&id=1326&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_WELLNESS_Health|sp|Supplements"
@@ -6209,7 +6209,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Weight Management",
     "page_url": "https://www.nykaa.com/mens/wellness/weight-management/c/1328?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_WELLNESS_Weight|sp|Management"
@@ -6220,7 +6220,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
-    "category": "WELLNESS",
+    "category": "Wellbeing",
     "page": "Sports Nutrition",
     "page_url": "https://www.nykaa.com/mens/wellness/sports-nutrition/c/1329?ptype=lst&id=1329&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_WELLNESS_Sports|sp|Nutrition"
@@ -6231,7 +6231,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "MAKE UP_FACE",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/c/3863?ptype=lst&id=3863&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_MAKE|sp|UP_FACE"
@@ -6242,7 +6242,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Primer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/primer/c/3928?ptype=lst&id=3928&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Primer"
@@ -6253,7 +6253,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Corrector & Concealer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/concealer/c/3929?ptype=lst&id=3929&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Corrector|sp||as||sp|Concealer"
@@ -6264,7 +6264,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Foundation",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/foundation/c/3909?ptype=lst&id=3909&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Foundation"
@@ -6275,7 +6275,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Compact",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/compact/c/3931?ptype=lst&id=3931&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Compact"
@@ -6286,7 +6286,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Loose Powder",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/loose-powder/c/3932?ptype=lst&id=3932&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Loose|sp|Powder"
@@ -6297,7 +6297,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Blush",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/blush/c/3933?ptype=lst&id=3933&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Blush"
@@ -6308,7 +6308,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Bronzer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/bronzer/c/3934?ptype=lst&id=3934&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Bronzer"
@@ -6319,7 +6319,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Highlighter",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/highlighter/c/3935?ptype=lst&id=3935&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Highlighter"
@@ -6330,7 +6330,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Tinted Moisturizer",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/tinted-moisturizer/c/3936?ptype=lst&id=3936&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Tinted|sp|Moisturizer"
@@ -6341,7 +6341,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "BB & CC Cream",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/bb-cc-cream/c/3937?root=nav_3",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_BB|sp||as||sp|CC|sp|Cream"
@@ -6352,7 +6352,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Makeup Remover",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/makeup-remover/c/3938?ptype=lst&id=3938&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Makeup|sp|Remover"
@@ -6363,7 +6363,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Contouring",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/contouring/c/3994?ptype=lst&id=3994&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Contouring"
@@ -6374,7 +6374,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Customize Your Palette",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/customize-your-palette/c/4145?ptype=lst&id=4145&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Customize|sp|Your|sp|Palette"
@@ -6385,7 +6385,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_FACE",
+    "category": "Face Make Up",
     "page": "Setting Spray",
     "page_url": "https://www.nykaa.com/luxe/makeup/face/setting-spray/c/7581?ptype=lst&id=7581&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Setting|sp|Spray"
@@ -6396,7 +6396,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "MAKE UP_EYES",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/c/1102?ptype=lst&id=1102&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_MAKE|sp|UP_EYES"
@@ -6407,7 +6407,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Eyeliner & Kajal",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/eyeliner-kajal/c/3939?ptype=lst&id=3939&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Eyeliner|sp||as||sp|Kajal"
@@ -6418,7 +6418,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Mascara",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/mascara/c/3886?ptype=lst&id=3886&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Mascara"
@@ -6429,7 +6429,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Eye Shadow",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/eye-shadow/c/3940?ptype=lst&id=3940&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Eye|sp|Shadow"
@@ -6440,7 +6440,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Brows",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/brows/c/3941?ptype=lst&id=3941&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Brows"
@@ -6451,7 +6451,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Lashes",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/lashes/c/3942?ptype=lst&id=3942&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Lashes"
@@ -6462,7 +6462,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Eye Primer",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/eye-primer/c/3943?ptype=lst&id=3943&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Eye|sp|Primer"
@@ -6473,7 +6473,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Corrector & Concealer",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/concealer/c/3944?ptype=lst&id=3944&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Corrector|sp||as||sp|Concealer"
@@ -6484,7 +6484,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_EYES",
+    "category": "Eye Make Up",
     "page": "Customize Your Palette",
     "page_url": "https://www.nykaa.com/luxe/makeup/eyes/customize-your-palette/c/4144?ptype=lst&id=4144&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Customize|sp|Your|sp|Palette"
@@ -6495,7 +6495,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_LIPS",
+    "category": "Lips Make Up",
     "page": "MAKE UP_LIPS",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/c/1127?ptype=lst&id=1127&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_MAKE|sp|UP_LIPS"
@@ -6506,7 +6506,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_LIPS",
+    "category": "Lips Make Up",
     "page": "Lipstick",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lipstick/c/3945?ptype=lst&id=3945&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lipstick"
@@ -6517,7 +6517,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_LIPS",
+    "category": "Lips Make Up",
     "page": "Liquid Lipstick",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/liquid-lipstick/c/12887?ptype=lst&id=12887&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Liquid|sp|Lipstick"
@@ -6528,7 +6528,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_LIPS",
+    "category": "Lips Make Up",
     "page": "Lip Gloss",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lip-gloss/c/3946?ptype=lst&id=3946&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lip|sp|Gloss"
@@ -6539,7 +6539,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_LIPS",
+    "category": "Lips Make Up",
     "page": "Lip Liner",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lip-liner/c/3947?ptype=lst&id=3947&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lip|sp|Liner"
@@ -6550,7 +6550,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_LIPS",
+    "category": "Lips Make Up",
     "page": "Lip Balm",
     "page_url": "https://www.nykaa.com/luxe/makeup/lips/lip-balm/c/3948?ptype=lst&id=3948&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lip|sp|Balm"
@@ -6561,7 +6561,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_NAILS",
+    "category": "Nails Make Up",
     "page": "MAKE UP_NAILS",
     "page_url": "https://www.nykaa.com/luxe/makeup/nails/c/1103?ptype=lst&id=1103&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_MAKE|sp|UP_NAILS"
@@ -6572,7 +6572,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_NAILS",
+    "category": "Nails Make Up",
     "page": "Nail Polish",
     "page_url": "https://www.nykaa.com/luxe/makeup/nails/nail-polish/c/3949?ptype=lst&id=3949&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_Nail|sp|Polish"
@@ -6583,7 +6583,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_NAILS",
+    "category": "Nails Make Up",
     "page": "Nail Care",
     "page_url": "https://www.nykaa.com/luxe/makeup/nails/nail-care/c/3950?ptype=lst&id=3950&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_Nail|sp|Care"
@@ -6594,7 +6594,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_NAILS",
+    "category": "Nails Make Up",
     "page": "Nail Polish Remover",
     "page_url": "https://www.nykaa.com/luxe/makeup/nails/nail-polish-remover/c/3951?ptype=lst&id=3951&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_Nail|sp|Polish|sp|Remover"
@@ -6605,7 +6605,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_PALETTES",
+    "category": "Make Up Palettes",
     "page": "MAKE UP_PALETTES",
     "page_url": "https://www.nykaa.com/luxe/makeup/palettes/c/1126?ptype=lst&id=1126&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_MAKE|sp|UP_PALETTES"
@@ -6616,7 +6616,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_PALETTES",
+    "category": "Make Up Palettes",
     "page": "Eye Palette",
     "page_url": "https://www.nykaa.com/luxe/makeup/palettes/eye-palette/c/3952?ptype=lst&id=3952&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_Eye|sp|Palette"
@@ -6627,7 +6627,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_PALETTES",
+    "category": "Make Up Palettes",
     "page": "Face Palette",
     "page_url": "https://www.nykaa.com/luxe/makeup/palettes/face-palette/c/3953?ptype=lst&id=3953&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_Face|sp|Palette"
@@ -6638,7 +6638,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_PALETTES",
+    "category": "Make Up Palettes",
     "page": "Customize Your Palette",
     "page_url": "https://www.nykaa.com/luxe/makeup/palettes/customize-your-palette/c/4038?ptype=lst&id=4038&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_Customize|sp|Your|sp|Palette"
@@ -6649,7 +6649,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_TOOLS & BRUSHES",
+    "category": "Make Up Tools",
     "page": "MAKE UP_TOOLS & BRUSHES",
     "page_url": "https://www.nykaa.com/luxe/makeup/tools-brushes/c/3018?ptype=lst&id=3018&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES"
@@ -6660,7 +6660,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_TOOLS & BRUSHES",
+    "category": "Make Up Tools",
     "page": "Face Brush",
     "page_url": "https://www.nykaa.com/luxe/makeup/tools-brushes/face-brush/c/3930?ptype=lst&id=3930&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Face|sp|Brush"
@@ -6671,7 +6671,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_TOOLS & BRUSHES",
+    "category": "Make Up Tools",
     "page": "Eye Brush",
     "page_url": "https://www.nykaa.com/luxe/makeup/tools-brushes/eye-brush/c/3954?ptype=lst&id=3954&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Eye|sp|Brush"
@@ -6682,7 +6682,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_TOOLS & BRUSHES",
+    "category": "Make Up Tools",
     "page": "Lip Brush",
     "page_url": "https://www.nykaa.com/luxe/makeup/tools-brushes/lip-brush/c/3955?ptype=lst&id=3955&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Lip|sp|Brush"
@@ -6693,7 +6693,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "MAKE UP_TOOLS & BRUSHES",
+    "category": "Make Up Tools",
     "page": "Applicators",
     "page_url": "https://www.nykaa.com/luxe/makeup/tools-brushes/applicators/c/3956?ptype=lst&id=3956&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Applicators"
@@ -6704,7 +6704,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "BATH & BODY_BATH",
+    "category": "Bath",
     "page": "BATH & BODY_BATH",
     "page_url": "https://www.nykaa.com/luxe/bath-body/c/2884?ptype=lst&id=2884&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_BATH|sp||as||sp|BODY_BATH"
@@ -6715,7 +6715,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "BATH & BODY_BATH",
+    "category": "Bath",
     "page": "Soap",
     "page_url": "https://www.nykaa.com/luxe/bath-body/soaps/c/3968?ptype=lst&id=3968&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_Soap"
@@ -6726,7 +6726,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "BATH & BODY_BATH",
+    "category": "Bath",
     "page": "Shower Gel",
     "page_url": "https://www.nykaa.com/luxe/bath-body/shower-gels/c/3969?ptype=lst&id=3969&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_Shower|sp|Gel"
@@ -6737,7 +6737,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "BATH & BODY_BATH",
+    "category": "Bath",
     "page": "Scrubs & Exfoliators",
     "page_url": "https://www.nykaa.com/luxe/bath-body/scrubs-exfoliators/c/2886?ptype=lst&id=2886&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_Scrubs|sp||as||sp|Exfoliators"
@@ -6748,7 +6748,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "BATH & BODY_BODY",
+    "category": "Body",
     "page": "BATH & BODY_BODY",
     "page_url": "https://www.nykaa.com/luxe/bath-body/c/2884?ptype=lst&id=2884&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BODY_BATH|sp||as||sp|BODY_BODY"
@@ -6759,7 +6759,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "BATH & BODY_BODY",
+    "category": "Body",
     "page": "Moisturiser",
     "page_url": "https://www.nykaa.com/luxe/bath-body/moisturisers/c/2887?ptype=lst&id=2887&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BODY_Moisturiser"
@@ -6770,7 +6770,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "BATH & BODY_BODY",
+    "category": "Body",
     "page": "Sun Protection",
     "page_url": "https://www.nykaa.com/luxe/bath-body/sun-protection/c/3971?ptype=lst&id=3971&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BODY_Sun|sp|Protection"
@@ -6781,7 +6781,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_FACE",
     "page_url": "https://www.nykaa.com/luxe/skin/face/c/3958?ptype=lst&id=3958&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_FACE"
@@ -6792,7 +6792,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Face Wash & Cleansers",
     "page_url": "https://www.nykaa.com/luxe/skin/face/face-wash-cleansers/c/3957?ptype=lst&id=3957&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Face|sp|Wash|sp||as||sp|Cleansers"
@@ -6803,7 +6803,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Toner",
     "page_url": "https://www.nykaa.com/luxe/skin/face/toner/c/3959?ptype=lst&id=3959&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Toner"
@@ -6814,7 +6814,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Exfoliators",
     "page_url": "https://www.nykaa.com/luxe/skin/face/exfoliators/c/2877?ptype=lst&id=2877&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Exfoliators"
@@ -6825,7 +6825,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Serum",
     "page_url": "https://www.nykaa.com/luxe/skin/face/serums/c/2874?ptype=lst&id=2874&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Serum"
@@ -6836,7 +6836,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Moisturisers",
     "page_url": "https://www.nykaa.com/luxe/skin/face/moisturisers/c/2873?ptype=lst&id=2873&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Moisturisers"
@@ -6847,7 +6847,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Day Cream",
     "page_url": "https://www.nykaa.com/luxe/skin/face/day-cream/c/3964?ptype=lst&id=3964&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Day|sp|Cream"
@@ -6858,7 +6858,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Night Cream",
     "page_url": "https://www.nykaa.com/luxe/skin/face/night-cream/c/3965?ptype=lst&id=3965&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Night|sp|Cream"
@@ -6869,7 +6869,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Masks",
     "page_url": "https://www.nykaa.com/luxe/skin/face/masks/c/2876?ptype=lst&id=2876&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Masks"
@@ -6880,7 +6880,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Sunscreen",
     "page_url": "https://www.nykaa.com/luxe/skin/face/sunscreen/c/2875?ptype=lst&id=2875&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Sunscreen"
@@ -6891,7 +6891,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Face Mist",
     "page_url": "https://www.nykaa.com/luxe/skin/face/face-mist/c/3960?ptype=lst&id=3960&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Face|sp|Mist"
@@ -6902,7 +6902,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_FACE",
+    "category": "Face",
     "page": "SKIN_Makeup Remover",
     "page_url": "https://www.nykaa.com/luxe/skin/face/makeup-remover/c/3961?ptype=lst&id=3961&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Makeup|sp|Remover"
@@ -6913,7 +6913,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_EYECARE",
+    "category": "Eyecare",
     "page": "SKIN_EYECARE",
     "page_url": "https://www.nykaa.com/luxe/skin/eye-care/c/2878?ptype=lst&id=2878&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_EYECARE"
@@ -6924,7 +6924,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_EYECARE",
+    "category": "Eyecare",
     "page": "SKIN_Eye Cream",
     "page_url": "https://www.nykaa.com/luxe/skin/eye-care/eye-cream/c/3973?ptype=lst&id=3973&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_Eye|sp|Cream"
@@ -6935,7 +6935,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_EYECARE",
+    "category": "Eyecare",
     "page": "SKIN_Serum",
     "page_url": "https://www.nykaa.com/luxe/skin/eye-care/serum/c/3974?ptype=lst&id=3974&root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_Serum"
@@ -6946,7 +6946,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_EYECARE",
+    "category": "Eyecare",
     "page": "SKIN_Dark Circles",
     "page_url": "https://www.nykaa.com/luxe/skin/eye-care/dark-circles/c/3887?root=nav_4&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_Dark|sp|Circles"
@@ -6957,7 +6957,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_SHOP BY CONCERN",
     "page_url": "https://www.nykaa.com/luxe/shop-by-concern/c/3962?ptype=lst&id=3962&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_SHOP|sp|BY|sp|CONCERN"
@@ -6968,7 +6968,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Anti-Blemish",
     "page_url": "https://www.nykaa.com/luxe/shop-by-concern/anti-blemish/c/3858?ptype=lst&id=3858&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Anti|h|Blemish"
@@ -6979,7 +6979,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Brightening",
     "page_url": "https://www.nykaa.com/luxe/shop-by-concern/brightening/c/3963?ptype=lst&id=3963&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Brightening"
@@ -6990,7 +6990,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Pigmentation",
     "page_url": "https://www.nykaa.com/luxe/shop-by-concern/pigmentation/c/3860?ptype=lst&id=3860&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Pigmentation"
@@ -7001,7 +7001,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Oil Control",
     "page_url": "https://www.nykaa.com/luxe/shop-by-concern/oil-control/c/3888?ptype=lst&id=3888&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Oil|sp|Control"
@@ -7012,7 +7012,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Dryness",
     "page_url": "https://www.nykaa.com/luxe/shop-by-concern/dryness/c/3861?ptype=lst&id=3861&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Dryness"
@@ -7023,7 +7023,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Anti-Ageing",
     "page_url": "https://www.nykaa.com/luxe/shop-by-concern/anti-ageing/c/3859?ptype=lst&id=3859&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Anti|h|Ageing"
@@ -7034,7 +7034,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Perfumes (EDP/EDT)",
     "page_url": "https://www.nykaa.com/luxe/fragrance/perfumes-edp-edt/c/2907?ptype=lst&id=2907&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Perfumes|sp|(EDP|fs|EDT)"
@@ -7045,7 +7045,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Deodorants",
     "page_url": "https://www.nykaa.com/luxe/fragrance/deodorants/c/324?ptype=lst&id=324&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Deodorants"
@@ -7056,7 +7056,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "SKIN_SHOP BY CONCERN",
+    "category": "Shop By Concern",
     "page": "SKIN_Colognes",
     "page_url": "https://www.nykaa.com/luxe/fragrance/colognes/c/325?ptype=lst&id=325&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Colognes"
@@ -7067,7 +7067,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Fragrance_FRAGRANCE",
+    "category": "Fragrance",
     "page": "Fragrance_FRAGRANCE",
     "page_url": "https://www.nykaa.com/luxe/fragrance/c/2880?ptype=lst&id=2880&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_FRAGRANCE"
@@ -7078,7 +7078,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Fragrance_FRAGRANCE",
+    "category": "Fragrance",
     "page": "Fragrance_Perfumes (EDP/EDT)",
     "page_url": "https://www.nykaa.com/luxe/fragrance/perfumes-edp-edt/c/2907?ptype=lst&id=327&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Perfumes|sp|(EDP|fs|EDT)"
@@ -7089,7 +7089,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Fragrance_FRAGRANCE",
+    "category": "Fragrance",
     "page": "Fragrance_Aftershave",
     "page_url": "https://www.nykaa.com/luxe/fragrance/aftershave/c/327?ptype=lst&id=327&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Aftershave"
@@ -7100,7 +7100,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Fragrance_FRAGRANCE",
+    "category": "Fragrance",
     "page": "Fragrance_Face & Body Mists",
     "page_url": "https://www.nykaa.com/luxe/fragrance/face-body-mists/c/338?ptype=lst&id=338&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Face|sp||as||sp|Body|sp|Mists"
@@ -7111,7 +7111,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Fragrance_FRAGRANCE",
+    "category": "Fragrance",
     "page": "Fragrance_Candles & Incense",
     "page_url": "https://www.nykaa.com/luxe/fragrance/candles-incense/c/2906?ptype=lst&id=2906&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Candles|sp||as||sp|Incense"
@@ -7122,7 +7122,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Fragrance_FRAGRANCE",
+    "category": "Fragrance",
     "page": "Fragrance_Gifts",
     "page_url": "https://www.nykaa.com/luxe/fragrance/gifts/c/3967?ptype=lst&id=3967&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Gifts"
@@ -7133,7 +7133,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_HAIR",
     "page_url": "https://www.nykaa.com/luxe/hair/c/2911?ptype=lst&id=2911&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_HAIR"
@@ -7144,7 +7144,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_Shampoo",
     "page_url": "https://www.nykaa.com/luxe/hair/hair-care/shampoo/c/2912",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Shampoo"
@@ -7155,7 +7155,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_Conditioner",
     "page_url": "https://www.nykaa.com/luxe/hair/hair-care/conditioner/c/2913",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Conditioner"
@@ -7166,7 +7166,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_Hair Oil",
     "page_url": "https://www.nykaa.com/luxe/hair/hair-care/hair-oil/c/2914",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Oil"
@@ -7177,7 +7177,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_Hair Serums & Masks",
     "page_url": "https://www.nykaa.com/hair/hair-care/hair-serums-masks/c/2917",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Serums|sp||as||sp|Masks"
@@ -7188,7 +7188,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_Hair Styling",
     "page_url": "https://www.nykaa.com/luxe/hair/hair-styling/c/2916?ptype=lst&id=2916&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Styling"
@@ -7199,7 +7199,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_Hair Color",
     "page_url": "https://www.nykaa.com/luxe/hair/hair-color/c/2915?ptype=lst&id=2915&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Color"
@@ -7210,7 +7210,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Luxury",
-    "category": "Hair_HAIR",
+    "category": "Hair",
     "page": "Hair_Appliances",
     "page_url": "https://www.nykaa.com/luxe/luxe-appliances/c/23785?ptype=lst&id=2915&root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Appliances"

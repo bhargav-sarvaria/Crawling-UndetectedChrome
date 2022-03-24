@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "New",
-    "category": "New In",
+    "category": "New",
     "page": "New In",
     "page_url": "https://www.debenhams.com/category/new-in",
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_New|sp|In_New|sp|In"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "New",
-    "category": "Womens",
+    "category": "Women",
     "page": "Womens",
     "page_url": "https://www.debenhams.com/category/womens-new-in",
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Womens_Womens"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "New",
-    "category": "Mens",
+    "category": "Men",
     "page": "Mens",
     "page_url": "https://www.debenhams.com/category/mens-new-in",
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Mens_Mens"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "New",
-    "category": "Jewellery & Watches",
+    "category": "Watches",
     "page": "Jewellery & Watches",
     "page_url": "https://www.debenhams.com/category/jewellery-watches-new-in",
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Jewellery|sp||as||sp|Watches_Jewellery|sp||as||sp|Watches"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "New",
-    "category": "New In Brands",
+    "category": "Brands",
     "page": "New In Brands",
     "page_url": "https://www.debenhams.com/category/brands-new-in",
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_New|sp|In|sp|Brands_New|sp|In|sp|Brands"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Gifts for Women",
+    "category": "Gifts",
     "page": "Gifts for Women",
     "page_url": "https://www.debenhams.com/category/gifts-gifts-for-her",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Gifts|sp|for|sp|Women_Gifts|sp|for|sp|Women"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Shop By Collection",
     "page_url": "https://www.debenhams.com/category/womens-collections",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Shop|sp|By|sp|Collection"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Going Out",
     "page_url": "https://www.debenhams.com/category/womens-partywear",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Going|sp|Out"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Comfy Collection",
     "page_url": "https://www.debenhams.com/category/debenhams-campaign-6",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Comfy|sp|Collection"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Bright & Bold",
     "page_url": "https://www.debenhams.com/category/womens-collections-brights",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Bright|sp||as||sp|Bold"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Workwear",
     "page_url": "https://www.debenhams.com/category/womens-workwear",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Workwear"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Men",
-    "category": "Gifts for Men",
+    "category": "Gifts",
     "page": "Gifts for Men",
     "page_url": "https://www.debenhams.com/category/gifts-gifts-for-him",
     "file_name": "United|sp|Kingdom_Debenhams_Men_Gifts|sp|for|sp|Men_Gifts|sp|for|sp|Men"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Men",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Men's Grooming",
     "page_url": "https://www.debenhams.com/category/beauty?gender=Male",
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Men|sq|s|sp|Grooming"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Men",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Aftershave",
     "page_url": "https://www.debenhams.com/category/beauty-mens-fragrance-aftershave",
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Aftershave"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Men",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Shaving",
     "page_url": "https://www.debenhams.com/category/beauty-electricals-grooming",
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Shaving"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Men",
-    "category": "Men's Grooming",
+    "category": "Mens Grooming",
     "page": "Bodycare",
     "page_url": "https://www.debenhams.com/category/beauty-body-care?gender=Male",
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Bodycare"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Accessories",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Wedding",
     "page_url": "https://www.debenhams.com/category/womens-wedding?categoryTaxonomy=Jewellery%2CHeels%2CSandals%2CBags+%26+Purses%2CFlats%2CShoes%2CHair+Accessories%2CGloves+%26+Scarves",
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Wedding"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Accessories",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Occasion",
     "page_url": "https://www.debenhams.com/category/womens-occasion?categoryTaxonomy=Heels%2CAccessories%2CBags+%26+Purses%2CGloves+%26+Scarves%2CBoots%2CHair+Accessories%2CFlats%2CSandals%2CSuit+Accessories%2CUnderwear+%26+Socks",
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Occasion"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Accessories",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Real Leather",
     "page_url": "https://www.debenhams.com/category/shoes-accessories-collections-real-leather",
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Real|sp|Leather"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Accessories",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Workwear",
     "page_url": "https://www.debenhams.com/category/womens-workwear?categoryTaxonomy=Heels%2CBoots%2CTrainers%2CFlats%2CBags+%26+Purses%2CSuit+Accessories",
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Workwear"
@@ -2755,7 +2755,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Kids Accessories",
     "page_url": "https://www.debenhams.com/category/kids-accessories",
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Kids|sp|Accessories_Kids|sp|Accessories"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Kids",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Kids Value Collection",
     "page_url": "https://www.debenhams.com/category/kids-collections-value",
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Shop|sp|By|sp|Collection_Kids|sp|Value|sp|Collection"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Kids",
-    "category": "Shop By Collection",
+    "category": "By Collection",
     "page": "Occasionwear",
     "page_url": "https://www.debenhams.com/category/kids-wedding",
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Shop|sp|By|sp|Collection_Occasionwear"
@@ -3723,7 +3723,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Accessories",
+    "category": "Accessories",
     "page": "Home Accessories",
     "page_url": "https://www.debenhams.com/category/home-accessories",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Home|sp|Accessories"
@@ -3734,7 +3734,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Accessories",
+    "category": "Accessories",
     "page": "Wallpaper",
     "page_url": "https://www.debenhams.com/category/home-accessories-wallpaper",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Wallpaper"
@@ -3745,7 +3745,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Accessories",
+    "category": "Accessories",
     "page": "Candles & Diffusers",
     "page_url": "https://www.debenhams.com/category/home-accessories-candles-diffusers",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Candles|sp||as||sp|Diffusers"
@@ -3756,7 +3756,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Accessories",
+    "category": "Accessories",
     "page": "Door Stops",
     "page_url": "https://www.debenhams.com/category/home-accessories-door-stops",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Door|sp|Stops"
@@ -3767,7 +3767,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Accessories",
+    "category": "Accessories",
     "page": "Mirrors",
     "page_url": "https://www.debenhams.com/category/home-accessories-mirrors",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Mirrors"
@@ -3778,7 +3778,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Accessories",
+    "category": "Accessories",
     "page": "Jewellery Boxes",
     "page_url": "https://www.debenhams.com/category/womens-jewellery-jewellery-boxes",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Jewellery|sp|Boxes"
@@ -3877,7 +3877,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Kitchenware & Cookware",
+    "category": "Kitchen",
     "page": "Kitchenware & Cookware",
     "page_url": "https://www.debenhams.com/category/home-kitchenware",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Kitchenware|sp||as||sp|Cookware"
@@ -3888,7 +3888,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Kitchenware & Cookware",
+    "category": "Kitchen",
     "page": "Chopping Boards",
     "page_url": "https://www.debenhams.com/category/home-kitchenware-chopping-boards",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Chopping|sp|Boards"
@@ -3899,7 +3899,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Kitchenware & Cookware",
+    "category": "Kitchen",
     "page": "Pots & Pans",
     "page_url": "https://www.debenhams.com/category/home-kitchenware-pots-pans",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Pots|sp||as||sp|Pans"
@@ -3910,7 +3910,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Kitchenware & Cookware",
+    "category": "Kitchen",
     "page": "Oven Trays & Dishes",
     "page_url": "https://www.debenhams.com/category/home-kitchenware-oven-trays-dishes",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Oven|sp|Trays|sp||as||sp|Dishes"
@@ -3921,7 +3921,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Kitchenware & Cookware",
+    "category": "Kitchen",
     "page": "Kitchen Utensils",
     "page_url": "https://www.debenhams.com/category/home-kitchenware-kitchen-utensils",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Kitchen|sp|Utensils"
@@ -3932,7 +3932,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Kitchenware & Cookware",
+    "category": "Kitchen",
     "page": "Kitchen & Food Storage",
     "page_url": "https://www.debenhams.com/category/home-kitchenware-kitchen-food-storage",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Kitchen|sp||as||sp|Food|sp|Storage"
@@ -4064,7 +4064,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Home Electricals",
     "page_url": "https://www.debenhams.com/category/home-electricals",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Home|sp|Electricals"
@@ -4075,7 +4075,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Toasters",
     "page_url": "https://www.debenhams.com/category/home-electricals-toasters",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Toasters"
@@ -4086,7 +4086,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Kitchen Gadgets",
     "page_url": "https://www.debenhams.com/category/home-electricals-kitchen-gadgets",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Kitchen|sp|Gadgets"
@@ -4097,7 +4097,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Coffee Machines",
     "page_url": "https://www.debenhams.com/category/home-electricals-coffee-machines",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Coffee|sp|Machines"
@@ -4108,7 +4108,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Irons",
     "page_url": "https://www.debenhams.com/category/home-electricals-irons",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Irons"
@@ -4119,7 +4119,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Air Fryers",
     "page_url": "https://www.debenhams.com/category/home-electricals-air-fryers",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Air|sp|Fryers"
@@ -4130,7 +4130,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Kettles",
     "page_url": "https://www.debenhams.com/category/home-electricals-kettles",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Kettles"
@@ -4141,7 +4141,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Electricals",
+    "category": "Electricals",
     "page": "Food Processors",
     "page_url": "https://www.debenhams.com/category/home-electricals-food-processors",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Food|sp|Processors"
@@ -4262,7 +4262,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Trends",
+    "category": "Trends",
     "page": "Baking",
     "page_url": "https://www.debenhams.com/category/promotion-3",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Baking"
@@ -4273,7 +4273,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Home Trends",
+    "category": "Trends",
     "page": "Spring Florals",
     "page_url": "https://www.debenhams.com/category/home-collections-florals",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Spring|sp|Florals"
@@ -4284,7 +4284,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Sale",
-    "category": "View All Sale",
+    "category": "All Sales",
     "page": "View All Sale",
     "page_url": "https://www.debenhams.com/category/sale",
     "file_name": "United|sp|Kingdom_Debenhams_Sale_View|sp|All|sp|Sale_View|sp|All|sp|Sale"

@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.douglas.ro/c/make-up/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_EYES"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye shadow",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/fard-de-pleoape/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_Eye|sp|shadow"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/rimel/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_Mascara"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/eyeliner/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_Eyeliner"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/creion-de-ochi/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_Eyeliner"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Makeup palette",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/paleta-farduri/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_Makeup|sp|palette"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "First eyes",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/primer-ochi/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_First|sp|eyes"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye pigments",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/pigmenti-ochi/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_Eye|sp|pigments"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "False Eyelashes & Accessories",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/gene-false-accesorii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_False|sp|Eyelashes|sp||as||sp|Accessories"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye make-up remover",
     "page_url": "https://www.douglas.ro/c/make-up/ochi/demachiant-ochi/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_EYES_Eye|sp|make|h|up|sp|remover"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "LIP",
     "page_url": "https://www.douglas.ro/c/make-up/buze/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_LIP"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.douglas.ro/c/make-up/buze/ruj/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_Lipstick"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lipgloss",
     "page_url": "https://www.douglas.ro/c/make-up/buze/lipgloss/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_Lipgloss"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lipgloss",
     "page_url": "https://www.douglas.ro/c/make-up/buze/balsam-de-buze/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_Lipgloss"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip volume products",
     "page_url": "https://www.douglas.ro/c/make-up/buze/produse-volum-buze/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_Lip|sp|volume|sp|products"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip pencil",
     "page_url": "https://www.douglas.ro/c/make-up/buze/creion-de-buze/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_Lip|sp|pencil"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "First lips",
     "page_url": "https://www.douglas.ro/c/make-up/buze/primer-buze/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_First|sp|lips"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Set of flowers",
     "page_url": "https://www.douglas.ro/c/make-up/buze/set-rujuri/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_LIP_Set|sp|of|sp|flowers"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_NAILS"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/lac-de-unghii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Nail|sp|polish"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Quick-drying nail polish",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/oja-cu-uscare-rapida/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Quick|h|drying|sp|nail|sp|polish"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "False nails & Nail art",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/unghii-false-nail-art/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_False|sp|nails|sp||as||sp|Nail|sp|art"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Dissolving nails",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/dizolvant-unghii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Dissolving|sp|nails"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Manicure sets",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/seturi-manichiura/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Manicure|sp|sets"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Base Coat",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/base-coat/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Base|sp|Coat"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Top Coat",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/top-coat/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Top|sp|Coat"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail hardener",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/intaritor-unghii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Nail|sp|hardener"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Eyelash curler",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/ondulator-de-gene/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Eyelash|sp|curler"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Eyebrow tweezers",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/penseta-sprancene/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Eyebrow|sp|tweezers"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Brush the eyelashes",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/perie-gene/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Brush|sp|the|sp|eyelashes"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Sharpener",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/ascutitoare/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Sharpener"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Makeup mirror",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/oglinda-machiaj/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Makeup|sp|mirror"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Sponge makeup",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/bureti-machiaj/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Sponge|sp|makeup"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Nail clippers",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/foarfece-de-unghii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Nail|sp|clippers"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Nail file",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/pila-de-unghii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Nail|sp|file"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Other accessories",
     "page_url": "https://www.douglas.ro/c/make-up/accesorii-machiaj/alte-accesorii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKEUP|sp|ACCESSORIES_Other|sp|accessories"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "SKIN CARE",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_SKIN|sp|CARE"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Face cream",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/crema-de-fata/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_Face|sp|cream"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Anti wrinkle cream",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/crema-antirid/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_Anti|sp|wrinkle|sp|cream"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Day cream",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/crema-de-zi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_Day|sp|cream"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Night cream",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/crema-de-noapte/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_Night|sp|cream"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "BB cream & CC cream",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/bb-cream-cc-cream/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_BB|sp|cream|sp||as||sp|CC|sp|cream"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Skin oils",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/uleiuri-pentru-ten/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_Skin|sp|oils"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Face spray",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/spray-de-fata/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_Face|sp|spray"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "Skin care sets",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-tenului/seturi-ingrijire-ten/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE_Skin|sp|care|sp|sets"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "EYE CARE",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_EYE|sp|CARE"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eye cream",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/crema-de-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|cream"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eye serum",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/ser-pentru-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|serum"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eye gel",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/gel-pentru-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|gel"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eye Masks & Patches",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/masti-patches-pentru-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|Masks|sp||as||sp|Patches"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eyebrow serum",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/ser-sprancene/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eyebrow|sp|serum"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eyelash serum",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/ser-pentru-gene/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eyelash|sp|serum"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Eye lenses",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/lentile-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|lenses"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "LIP CARE",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-buzelor/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_LIP|sp|CARE_LIP|sp|CARE"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lipgloss",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-buzelor/balsam-de-buze/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_LIP|sp|CARE_Lipgloss"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip scrub",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-buzelor/scrub-de-buze/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_LIP|sp|CARE_Lip|sp|scrub"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip masks",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-buzelor/masti-de-buze/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_LIP|sp|CARE_Lip|sp|masks"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "TYPES OF SKIN",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_TYPES|sp|OF|sp|SKIN"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "Dry skin",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/ten-uscat/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_Dry|sp|skin"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "Oily skin",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/ten-gras/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_Oily|sp|skin"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "You are sensitive",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/ten-sensibil/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_You|sp|are|sp|sensitive"
@@ -1820,7 +1820,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "You have acne",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/ten-acneic/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_You|sp|have|sp|acne"
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "It's mixed",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/ten-mixt/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_It|sq|s|sp|mixed"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "Wrinkled skin",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/ten-cu-riduri/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_Wrinkled|sp|skin"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "He is irritated",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/ten-iritat/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_He|sp|is|sp|irritated"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "TYPES OF SKIN",
+    "category": "Types of Skin",
     "page": "with SPF",
     "page_url": "https://www.douglas.ro/c/ten/tipuri-de-tenuri/cu-spf/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_TYPES|sp|OF|sp|SKIN_with|sp|SPF"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.ro/c/corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY_BODY"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body lotion",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/lotiune-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|lotion"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorant",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/deodorant/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Deodorant"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Corp. Spray",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/spray-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Corp.|sp|Spray"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body oil",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/ulei-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|oil"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body butter",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/unt-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|butter"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Massage oil",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/ulei-de-masaj/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Massage|sp|oil"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Make-up",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/body-make-up/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|Make|h|up"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Anti-cellulite cream",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/crema-anticelulitica/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Anti|h|cellulite|sp|cream"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Neck & neckline",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/gat-decolteu/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Neck|sp||as||sp|neckline"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Corp. Powder",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/pudra-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Corp.|sp|Powder"
@@ -3591,7 +3591,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "DISCOUNTS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.ro/c/reduceri/machiaj/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_MAKEUP_MAKEUP"
@@ -3679,7 +3679,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "DOUGLAS COLLECTION",
-    "category": "MAKE UP",
+    "category": "Make Up",
     "page": "MAKE UP",
     "page_url": "https://www.douglas.ro/c/douglas-collection/make-up/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_MAKE|sp|UP_MAKE|sp|UP"
@@ -3701,7 +3701,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "DOUGLAS COLLECTION",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.ro/c/douglas-collection/corp/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_BODY_BODY"
@@ -3855,7 +3855,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "PHARMACY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.ro/c/drogherie/machiaj/",
     "file_name": "Romania_DOUGLAS_RO_PHARMACY_MAKEUP_MAKEUP"
@@ -3866,7 +3866,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "PHARMACY",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "SKIN CARE",
     "page_url": "https://www.douglas.ro/c/drogherie/ingrijire-ten/",
     "file_name": "Romania_DOUGLAS_RO_PHARMACY_SKIN|sp|CARE_SKIN|sp|CARE"
@@ -4042,7 +4042,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "BARBIE",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.ro/c/barbati/corp/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_BODY_BODY"
@@ -4053,7 +4053,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "BARBIE",
-    "category": "BODY",
+    "category": "Body",
     "page": "Body care",
     "page_url": "https://www.douglas.ro/c/barbati/corp/ingrijirea-corporala/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_BODY_Body|sp|care"
@@ -4064,7 +4064,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "BARBIE",
-    "category": "BODY",
+    "category": "Body",
     "page": "Bath & Shower",
     "page_url": "https://www.douglas.ro/c/barbati/corp/baie-dus/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_BODY_Bath|sp||as||sp|Shower"
@@ -4075,7 +4075,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "BARBIE",
-    "category": "BODY",
+    "category": "Body",
     "page": "Men's body care set",
     "page_url": "https://www.douglas.ro/c/barbati/corp/set-ingrijire-corporala-barbati/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_BODY_Men|sq|s|sp|body|sp|care|sp|set"
@@ -4262,7 +4262,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "SKIN CARE",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/ingrijire-ten/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_SKIN|sp|CARE_SKIN|sp|CARE"
@@ -4361,7 +4361,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "New",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.douglas.ro/c/noutati/",
     "file_name": "Romania_DOUGLAS_RO_NEWS_NEWS_NEWS"
@@ -4394,7 +4394,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "New",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.ro/c/noutati/machiaj/",
     "file_name": "Romania_DOUGLAS_RO_NEWS_MAKEUP_MAKEUP"

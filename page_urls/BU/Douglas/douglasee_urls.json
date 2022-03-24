@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "SKIN CARE",
+    "category": "Skincare",
     "page": "SKIN CARE",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKIN|sp|CARE_SKIN|sp|CARE"
@@ -226,9 +226,9 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "THE FACE",
-    "page": "Neck / d\u00e9collet\u00e9",
+    "page": "Neck / decollete",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/N%C3%A4gu/Kael-dekoltee",
-    "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Neck|sp||fs||sp|d\u00e9collet\u00e9"
+    "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Neck|sp||fs||sp|decollete"
   },
   {
     "country": "Estonia",
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Detergents",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Pesemisvahendid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Detergents"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Irrigation / feeding",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Niisutamine-toitmine/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Irrigation|sp||fs||sp|feeding"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Reinforcement / molding",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Tugevdamine-vormimine/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Reinforcement|sp||fs||sp|molding"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Anti-cellulite",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Tselluliidivastane/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Anti|h|cellulite"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Deodorants",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Deodorandid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Deodorants"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Venitusarmide vastane",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Venitusarmide-vastane/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Venitusarmide|sp|vastane"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Depilation",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Depilatsioon/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Depilation"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "BODY",
+    "category": "Body",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Keha/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Sets"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Silmad/Ripsmetuss/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Mascara"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliners / liners",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Silmad/Silmapliiatsid-lainerid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Eyeliners|sp||fs||sp|liners"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadows",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Silmad/Lauvarvid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Eyeshadows"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "For eyebrows",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Silmad/Kulmudele/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_For|sp|eyebrows"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "artificial repmed",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Silmad/Kunstripsmed/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_artificial|sp|repmed"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Silmad/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Sets"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipsticks",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Huuled/Huulevarvid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lipsticks"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip glosses",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Huuled/Huulelaiked/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lip|sp|glosses"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip pencils",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Huuled/Huulepliiatsid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lip|sp|pencils"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip balms",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Huuled/Huulepalsamid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lip|sp|balms"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick foundation creams",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Huuled/Huulepulga-aluskreemid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lipstick|sp|foundation|sp|creams"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Huuled/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Sets"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polishes",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Kuuned/Kuunelakid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_NAILS_Nail|sp|polishes"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish removers",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Kuuned/Kuunelakieemaldajad/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_NAILS_Nail|sp|polish|sp|removers"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Kuuned/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_NAILS_Sets"

@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "BEST SELLER",
+    "category": "Bestsellers",
     "page": "BEST SELLER",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/bestseller-c302-bestseller/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_BEST|sp|SELLER_BEST|sp|SELLER"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "PALETTE",
+    "category": "Make Up Palette",
     "page": "PALETTE",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/palette-c347/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_PALETTE_PALETTE"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "PALETTE",
+    "category": "Make Up Palette",
     "page": "Eye palette",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/palette/palette-occhi-c384/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_PALETTE_Eye|sp|palette"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "PALETTE",
+    "category": "Make Up Palette",
     "page": "Face palette",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/palette/palette-viso-c7666/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_PALETTE_Face|sp|palette"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "PALETTE",
+    "category": "Make Up Palette",
     "page": "Lip palette",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/palette/palette-labbra-c383/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_PALETTE_Lip|sp|palette"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso-c342/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_FACE"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Primers & Fixers",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/primer-e-fissanti-c351/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Primers|sp||as||sp|Fixers"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Anti-dark circles and correctors",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/antiocchiaie-e-correttori-c352/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Anti|h|dark|sp|circles|sp|and|sp|correctors"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Foundation",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/fondotinta-c353/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Foundation"
@@ -126,7 +126,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "BB & CC Cream",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/bb-e-cc-cream-c93801/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_BB|sp||as||sp|CC|sp|Cream"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Loose powders & powders",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/ciprie-e-polveri-libere-c297702/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Loose|sp|powders|sp||as||sp|powders"
@@ -148,7 +148,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Mattifying powder",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/cipria-opacizzante-c354/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Mattifying|sp|powder"
@@ -159,7 +159,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Blush",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/blush-c356/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Blush"
@@ -170,7 +170,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Illuminating",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/illuminanti-c359/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Illuminating"
@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Bronzer",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso/bronzer-c119401/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_Bronzer"
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/unghie-c345/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_NAILS_NAILS"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/occhi-c343/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_EYES_EYES"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/occhi/mascara-c366/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_EYES_Mascara"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadows",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/occhi/ombretti-c363/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_EYES_Eyeshadows"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Base for eyes",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/occhi/base-per-occhi-c109101/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_EYES_Base|sp|for|sp|eyes"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye pencils",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/occhi/matite-occhi-c365/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_EYES_Eye|sp|pencils"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/occhi/eyeliner-c7667/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_EYES_Eyeliner"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Fake eyelashes",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/occhi/ciglia-finte-c7668/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_EYES_Fake|sp|eyelashes"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "LIP",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra-c344/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_LIP"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lipsticks",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra/rossetti-c371/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_Lipsticks"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Gloss",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra/gloss-c372/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_Gloss"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Matte lipsticks",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra/rossetti-matte-c399701/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_Matte|sp|lipsticks"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Liquid Lipsticks",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra/rossetti-liquidi-c391/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_Liquid|sp|Lipsticks"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip pencils",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra/matite-labbra-c373/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_Lip|sp|pencils"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip balm",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra/balsamo-labbra-c7669/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_Lip|sp|balm"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Primer and plumping lips",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/labbra/primer-e-rimpolpanti-labbra-c374/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_LIP_Primer|sp|and|sp|plumping|sp|lips"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfume",
-    "category": "BEST SELLER",
+    "category": "Bestsellers",
     "page": "BEST SELLER",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi/bestseller-c301-bestseller/",
     "file_name": "Italy_Sephora_IT_PERFUMES_BEST|sp|SELLER_BEST|sp|SELLER"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "BEST SELLER",
+    "category": "Bestsellers",
     "page": "BEST SELLER",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/bestseller-c303-bestseller/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_BEST|sp|SELLER_BEST|sp|SELLER"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "SHAVING",
+    "category": "Shaving",
     "page": "SHAVING",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/rasatura-c494/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_SHAVING_SHAVING"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "BEST SELLER",
+    "category": "Bestsellers",
     "page": "BEST SELLER",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/bestseller-c304-bestseller/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BEST|sp|SELLER_BEST|sp|SELLER"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "BEST SELLER",
+    "category": "Bestsellers",
     "page": "BEST SELLER",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/bestseller-c307-bestseller/",
     "file_name": "Italy_Sephora_IT_HAIR_BEST|sp|SELLER_BEST|sp|SELLER"

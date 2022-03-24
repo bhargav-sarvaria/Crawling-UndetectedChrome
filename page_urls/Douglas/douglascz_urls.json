@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.cz/c/oblicej-419998090/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE_FACE"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "LIP CARE",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-rty-419998098/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_LIP|sp|CARE_LIP|sp|CARE"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip balms",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-rty/balzamy-na-rty-419998153/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_LIP|sp|CARE_Lip|sp|balms"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip peelings",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-rty/peelingy-na-rty-419998154/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_LIP|sp|CARE_Lip|sp|peelings"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "LIP CARE",
+    "category": "Lip Care",
     "page": "Lip masks",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-rty/masky-na-rty-419998155/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_LIP|sp|CARE_Lip|sp|masks"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.cz/c/telo-419998211/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY_BODY"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo-419998212/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body lotions",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telova-mleka-419998213/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|lotions"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorants",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/deodoranty-419998214/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Deodorants"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body oils",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telove-oleje-419998215/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|oils"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body butter",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telova-masla-419998216/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|butter"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body creams",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telove-kremy-419998217/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|creams"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Massage and essential oils",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/masazni-a-esencialni-oleje-419998218/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Massage|sp|and|sp|essential|sp|oils"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Intimate hygiene",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/intimni-hygiena-419998220/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Intimate|sp|hygiene"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Against cellulite",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/proti-celulitide-419998222/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Against|sp|cellulite"
@@ -1325,10 +1325,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "BODY CARE",
-    "page": "Neck and d\u00e9collet\u00e9 care",
+    "category": "Body Care",
+    "page": "Neck and decollete care",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/pece-o-krk-a-dekolt-419998223/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Neck|sp|and|sp|d\u00e9collet\u00e9|sp|care"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Neck|sp|and|sp|decollete|sp|care"
   },
   {
     "country": "Czech Republic",
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.cz/c/liceni-4003/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP_MAKEUP"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "SKIN",
     "page_url": "https://www.douglas.cz/c/liceni/plet-400301/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_SKIN"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Concealers",
     "page_url": "https://www.douglas.cz/c/liceni/plet/korektory-40030101/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Concealers"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Powders",
     "page_url": "https://www.douglas.cz/c/liceni/plet/pudry-40030102/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Powders"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Cheeks",
     "page_url": "https://www.douglas.cz/c/liceni/plet/tvarenky-40030103/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Cheeks"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Makeup",
     "page_url": "https://www.douglas.cz/c/liceni/plet/make-up-40030104/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Makeup"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Brighteners",
     "page_url": "https://www.douglas.cz/c/liceni/plet/rozjasnovace-40030106/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Brighteners"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Bases and primers",
     "page_url": "https://www.douglas.cz/c/liceni/plet/baze-a-primery-40030108/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Bases|sp|and|sp|primers"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "BB & CC creams",
     "page_url": "https://www.douglas.cz/c/liceni/plet/bb-cc-kremy-40030109/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_BB|sp||as||sp|CC|sp|creams"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Contouring",
     "page_url": "https://www.douglas.cz/c/liceni/plet/konturovani-40030110/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Contouring"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Bronzers",
     "page_url": "https://www.douglas.cz/c/liceni/plet/bronzery-40030111/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Bronzers"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Makeup fixation",
     "page_url": "https://www.douglas.cz/c/liceni/plet/fixace-make-upu-40030115/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Makeup|sp|fixation"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "Color concealers",
     "page_url": "https://www.douglas.cz/c/liceni/plet/barevne-korektory-419998004/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_Color|sp|concealers"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SKIN",
+    "category": "Skin",
     "page": "\u00bbAll categories",
     "page_url": "https://www.douglas.cz/c/liceni/plet-400301/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_\u00bbAll|sp|categories"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.douglas.cz/c/liceni/rty-400302/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_LIPS_LIPS"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipsticks",
     "page_url": "https://www.douglas.cz/c/liceni/rty/rtenky-40030201/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_LIPS_Lipsticks"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip glosses",
     "page_url": "https://www.douglas.cz/c/liceni/rty/lesky-na-rty-40030202/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_LIPS_Lip|sp|glosses"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Contouring pencils",
     "page_url": "https://www.douglas.cz/c/liceni/rty/konturovaci-tuzky-40030203/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_LIPS_Contouring|sp|pencils"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip balms",
     "page_url": "https://www.douglas.cz/c/liceni/rty/balzamy-na-rty-40030206/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_LIPS_Lip|sp|balms"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip augmentation balms",
     "page_url": "https://www.douglas.cz/c/liceni/rty/balzamy-na-zvetseni-rtu-419998020/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_LIPS_Lip|sp|augmentation|sp|balms"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick sets",
     "page_url": "https://www.douglas.cz/c/liceni/rty/sady-rtenek-419998026/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_LIPS_Lipstick|sp|sets"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.douglas.cz/c/liceni/oci-400303/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_EYES"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascaras",
     "page_url": "https://www.douglas.cz/c/liceni/oci/rasenky-40030301/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Mascaras"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow",
     "page_url": "https://www.douglas.cz/c/liceni/oci/ocni-stiny-40030302/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Eyeshadow"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye lines",
     "page_url": "https://www.douglas.cz/c/liceni/oci/ocni-linky-40030304/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Eye|sp|lines"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye pencils",
     "page_url": "https://www.douglas.cz/c/liceni/oci/tuzky-na-oci-40030305/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Eye|sp|pencils"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Base",
     "page_url": "https://www.douglas.cz/c/liceni/oci/baze-40030308/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Base"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Fake eyelashes",
     "page_url": "https://www.douglas.cz/c/liceni/oci/umele-rasy-40030309/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Fake|sp|eyelashes"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye make-up remover",
     "page_url": "https://www.douglas.cz/c/liceni/oci/odlicovac-oci-419997993/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Eye|sp|make|h|up|sp|remover"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow sets",
     "page_url": "https://www.douglas.cz/c/liceni/oci/sady-ocnich-stinu-419998027/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_EYES_Eyeshadow|sp|sets"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.douglas.cz/c/liceni/nehty-400304/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_NAILS"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/laky-na-nehty-40030401/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|polish"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail care",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/pece-o-nehty-40030402/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|care"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish removers",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/odlakovace-na-nehty-40030407/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|polish|sp|removers"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/podkladovy-lak-na-nehty-419998021/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|polish"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Top nail polish",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/vrchni-lak-na-nehty-419998022/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Top|sp|nail|sp|polish"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Gel nail polish",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/gelovy-lak-na-nehty-419998023/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Gel|sp|nail|sp|polish"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail sets",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/sady-na-nehty-419998030/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|sets"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "MAKEUP ACCESSORIES",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni-400308/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Eyelash curlers",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/klesticky-na-rasy-419998008/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Eyelash|sp|curlers"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Tweezers",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/pinzety-419998009/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Tweezers"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Eyelash brush",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/kartacek-na-rasy-419998010/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Eyelash|sp|brush"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Sharpeners",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/orezavatka-419998011/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Sharpeners"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Make-up mirrors",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/make-up-zrcadla-419998012/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Make|h|up|sp|mirrors"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Eyelash adhesives",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/lepidla-na-rasy-419998013/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Eyelash|sp|adhesives"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Empty makeup palettes",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/prazdne-paletky-na-make-up-419998014/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Empty|sp|makeup|sp|palettes"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Matte papers",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/matujici-papirky-419998015/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Matte|sp|papers"
@@ -2579,7 +2579,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Nail scissors",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/nuzky-na-nehty-419998016/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Nail|sp|scissors"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Nail clippers",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/klesticky-na-nehty-419998017/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Nail|sp|clippers"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "Nail File",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni/pilnik-na-nehty-419998018/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_Nail|sp|File"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "MAKEUP ACCESSORIES",
+    "category": "Make Up Accessories",
     "page": "\u00bbAll categories",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni-400308/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_\u00bbAll|sp|categories"
@@ -3294,7 +3294,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "New",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.douglas.cz/c/novinky-4008/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_NEWS_NEWS_NEWS"
@@ -3327,7 +3327,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "New",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.cz/c/novinky/make-up-400804/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_NEWS_MAKEUP_MAKEUP"
@@ -3690,7 +3690,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "BESTSELLERS",
+    "category": "Bestsellers",
     "page": "BESTSELLERS",
     "page_url": "https://www.douglas.cz/c/bestsellery-4015/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_BESTSELLERS_BESTSELLERS"
@@ -3811,7 +3811,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni-419997870/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_MAKEUP"
@@ -3822,7 +3822,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Skin",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni/plet-419997881/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_Skin"
@@ -3833,7 +3833,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni/rty-419997882/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_Lips"
@@ -3844,7 +3844,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni/oci-419997883/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_Eyes"
@@ -3855,7 +3855,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Eyebrow",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni/oboci-419997884/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_Eyebrow"
@@ -3866,7 +3866,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Nails",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni/nehty-419997885/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_Nails"
@@ -3877,7 +3877,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "Brushes and applicators",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni/stetce-a-aplikatory-419997886/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_Brushes|sp|and|sp|applicators"
@@ -3932,7 +3932,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "CLEAN BEAUTY",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.cz/c/clean-beauty/liceni-419998456/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_CLEAN|sp|BEAUTY_MAKEUP_MAKEUP"
@@ -3943,7 +3943,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "CLEAN BEAUTY",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.cz/c/clean-beauty/oblicej-419998457/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_CLEAN|sp|BEAUTY_FACE_FACE"
@@ -3954,7 +3954,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "CLEAN BEAUTY",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.cz/c/clean-beauty/telo-419998458/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_CLEAN|sp|BEAUTY_BODY_BODY"
@@ -4009,7 +4009,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "EVENTS AND GIFTS",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.douglas.cz/c/akce-a-darky/novinky-419997433/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_EVENTS|sp|AND|sp|GIFTS_NEWS_NEWS"

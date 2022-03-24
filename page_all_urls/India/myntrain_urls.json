@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Lingerie & Sleepwear",
     "page_url": "https://www.myntra.com/lingerie",
     "file_name": "India_Myntra_WOMEN_Lingerie|sp||as||sp|Sleepwear_Lingerie|sp||as||sp|Sleepwear"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Bra",
     "page_url": "https://www.myntra.com/bra",
     "file_name": "India_Myntra_WOMEN_Lingerie|sp||as||sp|Sleepwear_Bra"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Briefs",
     "page_url": "https://www.myntra.com/women-briefs",
     "file_name": "India_Myntra_WOMEN_Lingerie|sp||as||sp|Sleepwear_Briefs"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Shapewear",
     "page_url": "https://www.myntra.com/women-clothing-shapewear",
     "file_name": "India_Myntra_WOMEN_Lingerie|sp||as||sp|Sleepwear_Shapewear"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Sleepwear & Loungewear",
     "page_url": "https://www.myntra.com/women-loungewear-and-nightwear",
     "file_name": "India_Myntra_WOMEN_Lingerie|sp||as||sp|Sleepwear_Sleepwear|sp||as||sp|Loungewear"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Swimwear",
     "page_url": "https://www.myntra.com/women-swimwear",
     "file_name": "India_Myntra_WOMEN_Lingerie|sp||as||sp|Sleepwear_Swimwear"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Camisoles & Thermals",
     "page_url": "https://www.myntra.com/camisoles-and-thermals",
     "file_name": "India_Myntra_WOMEN_Lingerie|sp||as||sp|Sleepwear_Camisoles|sp||as||sp|Thermals"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Kids Accessories",
     "page_url": "https://www.myntra.com/kids-accessories",
     "file_name": "India_Myntra_KIDS_Kids|sp|Accessories_Kids|sp|Accessories"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Bags & Backpacks",
     "page_url": "https://www.myntra.com/kids?f=Categories%3ABackpacks%2CSchool%20Essentials%2CStationery%2CWater%20Bottle&plaEnabled=false",
     "file_name": "India_Myntra_KIDS_Kids|sp|Accessories_Bags|sp||as||sp|Backpacks"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Watches",
     "page_url": "https://www.myntra.com/kids?f=Categories%3AWatch%20Gift%20Set%2CWatches&plaEnabled=false",
     "file_name": "India_Myntra_KIDS_Kids|sp|Accessories_Watches"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Jewellery & Hair accessory",
     "page_url": "https://www.myntra.com/kids?f=Categories%3AHair%20Accessory%2CHair%20Brush%20and%20Comb%2CJewellery%20Set%2CNecklace%20and%20Chains&plaEnabled=false",
     "file_name": "India_Myntra_KIDS_Kids|sp|Accessories_Jewellery|sp||as||sp|Hair|sp|accessory"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Sunglasses",
     "page_url": "https://www.myntra.com/kids?f=Categories%3ASunglasses&plaEnabled=false",
     "file_name": "India_Myntra_KIDS_Kids|sp|Accessories_Sunglasses"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Masks & Protective Gears",
     "page_url": "https://www.myntra.com/kids?f=Categories%3AOutdoor%20Masks&plaEnabled=false",
     "file_name": "India_Myntra_KIDS_Kids|sp|Accessories_Masks|sp||as||sp|Protective|sp|Gears"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Kids",
-    "category": "Kids Accessories",
+    "category": "Accessories",
     "page": "Caps & Hats",
     "page_url": "https://www.myntra.com/kids?f=Categories%3ACaps%2CHat&plaEnabled=false",
     "file_name": "India_Myntra_KIDS_Kids|sp|Accessories_Caps|sp||as||sp|Hats"

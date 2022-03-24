@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.at/de/c/parfum/01",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_PERFUME_PERFUME"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.douglas.at/de/c/make-up/augen/0303",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_EYES"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyeshadow",
     "page_url": "https://www.douglas.at/de/c/make-up/augen/lidschatten/030302",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_eyeshadow"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.douglas.at/de/c/make-up/augen/mascara/030301",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_Mascara"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyebrow color",
     "page_url": "https://www.douglas.at/",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_eyebrow|sp|color"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/augen/0303",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_>>|sp|All|sp|in|sp|Kategorien"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.douglas.at/de/c/make-up/lippen/0302",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_LIPS_LIPS"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lipsticks",
     "page_url": "https://www.douglas.at/de/c/make-up/lippen/lippenstifte/030201",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_LIPS_lipsticks"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipgloss",
     "page_url": "https://www.douglas.at/de/c/make-up/lippen/lipgloss/030202",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_LIPS_Lipgloss"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip-Balm",
     "page_url": "https://www.douglas.at/de/c/make-up/lippen/lip-balm/030206",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_LIPS_Lip|h|Balm"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/lippen/0302",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_LIPS_>>|sp|All|sp|in|sp|Kategorien"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/0304",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_NAILS"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/nagellack/030401",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_Nail|sp|polish"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail care",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/nagelpflege/030402",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_nail|sp|care"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail design",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/nageldesign/030405",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_nail|sp|design"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/0304",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_>>|sp|All|sp|in|sp|Kategorien"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.at/de/c/gesicht/12",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACE_FACE"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "EYE CARE",
     "page_url": "https://www.douglas.at/de/c/gesicht/augenpflege/1204",
     "file_name": "Austria_DOUGLAS_AT_FACE_EYE|sp|CARE_EYE|sp|CARE"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "eye cream",
     "page_url": "https://www.douglas.at/de/c/gesicht/augenpflege/augencreme/120401",
     "file_name": "Austria_DOUGLAS_AT_FACE_EYE|sp|CARE_eye|sp|cream"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "eye serum",
     "page_url": "https://www.douglas.at/de/c/gesicht/augenpflege/augenserum/120402",
     "file_name": "Austria_DOUGLAS_AT_FACE_EYE|sp|CARE_eye|sp|serum"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": "Augengel",
     "page_url": "https://www.douglas.at/de/c/gesicht/augenpflege/augengel/120403",
     "file_name": "Austria_DOUGLAS_AT_FACE_EYE|sp|CARE_Augengel"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "EYE CARE",
+    "category": "Eye Care",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/augenpflege/1204",
     "file_name": "Austria_DOUGLAS_AT_FACE_EYE|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.at/de/c/koerper/13",
     "file_name": "Austria_DOUGLAS_AT_BODY_BODY_BODY"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Sale",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.douglas.at/de/c/sale/05",
     "file_name": "Austria_DOUGLAS_AT_SALE_SALE_SALE"

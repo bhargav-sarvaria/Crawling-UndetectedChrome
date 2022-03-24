@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP TRENDS",
+    "category": "Trends",
     "page": "MAKEUP TRENDS",
     "page_url": "https://www.sephora.es/rutina-preparacion-rostro/rutina-preparacion-rostro.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_MAKEUP|sp|TRENDS"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP TRENDS",
+    "category": "Trends",
     "page": "Find your mascara",
     "page_url": "https://www.sephora.es/encuentra-tu-mascara.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Find|sp|your|sp|mascara"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP TRENDS",
+    "category": "Trends",
     "page": "Perfect Eyebrows Guide",
     "page_url": "https://www.sephora.es/guia-beauty-cejas-perfectas.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Perfect|sp|Eyebrows|sp|Guide"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP TRENDS",
+    "category": "Trends",
     "page": "TOP Palettes",
     "page_url": "https://www.sephora.es/paletas-sombras-ojos-top-ventas.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_TOP|sp|Palettes"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP TRENDS",
+    "category": "Trends",
     "page": "Long lasting makeup",
     "page_url": "https://www.sephora.es/maquillaje-larga-duracion-1/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Long|sp|lasting|sp|makeup"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP TRENDS",
+    "category": "Trends",
     "page": "The most valued",
     "page_url": "https://www.sephora.es/resenas-valoraciones.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_The|sp|most|sp|valued"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP NOVELTIES",
+    "category": "Make Up Novelties",
     "page": "MAKEUP NOVELTIES",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje-c302/?prefn1=tagsEnabled&prefv1=Novedad&srule=Sorting%20Rule%20-%20New%20First",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|NOVELTIES_MAKEUP|sp|NOVELTIES"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "TOP SALES MAKEUP",
+    "category": "Sale",
     "page": "TOP SALES MAKEUP",
     "page_url": "https://www.sephora.es/top-ventas-maquillaje/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_TOP|sp|SALES|sp|MAKEUP_TOP|sp|SALES|sp|MAKEUP"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos-c343/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_EYES"
@@ -126,7 +126,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eye shadow palette",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos/paleta-de-sombras-de-ojos-c258701/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_eye|sp|shadow|sp|palette"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "mascara",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos/m%C3%A1scara-de-pestanas-c366/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_mascara"
@@ -148,7 +148,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye shadows",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos/sombras-de-ojos-c363/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_Eye|sp|shadows"
@@ -159,7 +159,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyeliner",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos/eyeliner-c7667/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_eyeliner"
@@ -170,7 +170,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eye pencil & kohl",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos/l%C3%A1piz-de-ojos-khol-c365/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_eye|sp|pencil|sp||as||sp|kohl"
@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eye shadow base",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos/base-de-sombra-de-ojos-c109101/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_eye|sp|shadow|sp|base"
@@ -192,7 +192,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "false eyelashes",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/ojos/pestanas-postizas-c7668/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_EYES_false|sp|eyelashes"
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro-c342/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_FACE"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Makeup base",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/base-de-maquillaje-c353/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_Makeup|sp|base"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Concealer & concealer",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/antiojeras-corrector-c352/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_Concealer|sp||as||sp|concealer"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Rouge",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/colorete-c356/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_Rouge"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Primer & smoothing base",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/primer-base-alisadora-c351/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_Primer|sp||as||sp|smoothing|sp|base"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Illuminator",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/iluminador-c359/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_Illuminator"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "bronzing powders",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/polvos-bronceadores-c119401/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_bronzing|sp|powders"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "BB & CC Creams",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/cremas-bb-cc-c93801/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_BB|sp||as||sp|CC|sp|Creams"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "mattifying powders",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/polvos-matificantes-c354/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_mattifying|sp|powders"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "loose powder",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/polvos-sueltos-c297702/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_loose|sp|powder"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "face palette",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/paleta-rostro-c258702/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_face|sp|palette"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "contouring",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/contouring-c195701/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_contouring"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "colored cream",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro/crema-de-color-c357/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_colored|sp|cream"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/labios-c344/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_LIPS_LIPS"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/labios/l%C3%A1piz-de-labios-c373/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_LIPS_Lipstick"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip volumizer",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/labios/voluminizador-labios-c374/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_LIPS_lip|sp|volumizer"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/labios/barra-de-labios-c371/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_LIPS_Lipstick"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/labios/b%C3%A1lsamo-labial-c7669/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_LIPS_Lipstick"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "gloss",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/labios/gloss-c372/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_LIPS_gloss"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "MAKEUP REMOVER",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/desmaquillante-c7632/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|REMOVER_MAKEUP|sp|REMOVER"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "face make-up remover",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/desmaquillante/desmaquillante-rostro-c7678/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|REMOVER_face|sp|make|h|up|sp|remover"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "make-up remover oil",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/desmaquillante/aceite-desmaquillante-c297806/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|REMOVER_make|h|up|sp|remover|sp|oil"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "make-up remover milk",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/desmaquillante/leche-desmaquillante-c297805/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|REMOVER_make|h|up|sp|remover|sp|milk"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "GOOD MAKE UP",
+    "category": "Good Make Up",
     "page": "GOOD MAKE UP",
     "page_url": "https://www.sephora.es/good-make-up-es/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_GOOD|sp|MAKE|sp|UP_GOOD|sp|MAKE|sp|UP"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "GOOD MAKE UP",
+    "category": "Good Make Up",
     "page": "Makeup with natural ingredients",
     "page_url": "https://www.sephora.es/maquillaje-natural/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_GOOD|sp|MAKE|sp|UP_Makeup|sp|with|sp|natural|sp|ingredients"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "GOOD MAKE UP",
+    "category": "Good Make Up",
     "page": "vegan makeup",
     "page_url": "https://www.sephora.es/maquillaje-vegano/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_GOOD|sp|MAKE|sp|UP_vegan|sp|makeup"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatment",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "MAKEUP REMOVER",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/desmaquillante-c7633/",
     "file_name": "Spain_Sephora_ES_TREATMENT_MAKEUP|sp|REMOVER_MAKEUP|sp|REMOVER"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatment",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "lotion & toner",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/desmaquillante/locion-tonico-c7681/",
     "file_name": "Spain_Sephora_ES_TREATMENT_MAKEUP|sp|REMOVER_lotion|sp||as||sp|toner"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatment",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "facial cleansing foam",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/desmaquillante/espuma-limpiadora-facial-c361/",
     "file_name": "Spain_Sephora_ES_TREATMENT_MAKEUP|sp|REMOVER_facial|sp|cleansing|sp|foam"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatment",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "eye make-up remover",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/desmaquillante/desmaquillante-ojos-c369/",
     "file_name": "Spain_Sephora_ES_TREATMENT_MAKEUP|sp|REMOVER_eye|sp|make|h|up|sp|remover"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatment",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "micellar water",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/desmaquillante/agua-micelar-c299907/",
     "file_name": "Spain_Sephora_ES_TREATMENT_MAKEUP|sp|REMOVER_micellar|sp|water"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatment",
-    "category": "MAKEUP REMOVER",
+    "category": "Make Up Remover",
     "page": "Cleansing wipes",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/desmaquillante/toallitas-desmaquillantes-c299912/",
     "file_name": "Spain_Sephora_ES_TREATMENT_MAKEUP|sp|REMOVER_Cleansing|sp|wipes"
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.sephora.es/todos-los-productos/cuerpo-c304/",
     "file_name": "Spain_Sephora_ES_BODY_BODY_BODY"
@@ -2920,7 +2920,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "New",
-    "category": "New Makeup",
+    "category": "Make Up",
     "page": "New Makeup",
     "page_url": "https://www.sephora.es/nuevo/novedades/maquillaje-nc302/",
     "file_name": "Spain_Sephora_ES_NEW_New|sp|Makeup_New|sp|Makeup"

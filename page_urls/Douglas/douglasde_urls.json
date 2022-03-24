@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.de/de/c/parfum/01",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_PERFUME_PERFUME"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfume",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.douglas.de/de/c/sale/parfum/0501",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_SALE_SALE"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "lips",
+    "category": "Lips",
     "page": "lips",
     "page_url": "https://www.douglas.de/de/c/make-up/lippen/0302",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_lips"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "lips",
+    "category": "Lips",
     "page": "lipsticks",
     "page_url": "https://www.douglas.de/de/c/make-up/lippen/lippenstifte/030201",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_lipsticks"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "lips",
+    "category": "Lips",
     "page": "Lipgloss",
     "page_url": "https://www.douglas.de/de/c/make-up/lippen/lipgloss/030202",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lipgloss"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "lips",
+    "category": "Lips",
     "page": "Lip-Balm",
     "page_url": "https://www.douglas.de/de/c/make-up/lippen/lip-balm/030206",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lip|h|Balm"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "lips",
+    "category": "Lips",
     "page": "Lipliner",
     "page_url": "https://www.douglas.de/de/c/make-up/lippen/lipliner/030203",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lipliner"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "lips",
+    "category": "Lips",
     "page": "Lip-Plumper",
     "page_url": "https://www.douglas.de/de/c/make-up/lippen/lip-plumper/030207",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lip|h|Plumper"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "lips",
+    "category": "Lips",
     "page": "\u00bbAll Categories",
     "page_url": "https://www.douglas.de/de/c/make-up/lippen/0302",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_\u00bbAll|sp|Categories"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.douglas.de/de/c/sale/make-up/0510",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_SALE_SALE"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.de/de/c/gesicht/12",
     "file_name": "Germany_DOUGLAS_DE_FACE_FACE_FACE"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.de/de/c/koerper/13",
     "file_name": "Germany_DOUGLAS_DE_BODY_BODY_BODY"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.douglas.de/de/c/sale/haare/0512",
     "file_name": "Germany_DOUGLAS_DE_HAIR_SALE_SALE"
@@ -3272,7 +3272,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.douglas.de/de/c/sale/05",
     "file_name": "Germany_DOUGLAS_DE_SALE_SALE_SALE"

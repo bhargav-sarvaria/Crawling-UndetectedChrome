@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "NEW IN",
+    "category": "New",
     "page": "NEW IN",
     "page_url": "https://www.selfridges.com/GB/en/cat/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_NEW|sp|IN_NEW|sp|IN"
@@ -126,7 +126,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Spring accessories",
+    "category": "Spring Accessories",
     "page": "Spring accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+SPRINGACCS",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Spring|sp|accessories_Spring|sp|accessories"
@@ -137,7 +137,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Trending: health and wellness",
+    "category": "Wellbeing",
     "page": "Trending: health and wellness",
     "page_url": "https://www.selfridges.com/GB/en/cat/foodhall/health-wellbeing/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Trending|cln||sp|health|sp|and|sp|wellness_Trending|cln||sp|health|sp|and|sp|wellness"
@@ -148,43 +148,10 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Transeasonal wardrobe",
-    "page": "Transeasonal wardrobe",
-    "page_url": "https://www.selfridges.com/GB/en/cat/womens/trans-seasonal-clothing/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Transeasonal|sp|wardrobe_Transeasonal|sp|wardrobe"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "New",
-    "category": "Men's Spring wardrobe",
+    "category": "Mens Spring wardrobe",
     "page": "Men's Spring wardrobe",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=edit+mw+transeasonal&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Men|sq|s|sp|Spring|sp|wardrobe_Men|sq|s|sp|Spring|sp|wardrobe"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "New",
-    "category": "Spring fragrance",
-    "page": "Spring fragrance",
-    "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+BE+SPRINGFRAGRANCE&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Spring|sp|fragrance_Spring|sp|fragrance"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "New",
-    "category": "New in: Self-Portrait",
-    "page": "New in: Self-Portrait",
-    "page_url": "https://www.selfridges.com/GB/en/cat/self-portrait/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_New|sp|in|cln||sp|Self|h|Portrait_New|sp|in|cln||sp|Self|h|Portrait"
   },
   {
     "country": "United Kingdom",
@@ -203,21 +170,10 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_New|sp|this|sp|week_New|sp|this|sp|week"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Women",
-    "category": "Up to 50% off Sweaty Betty",
-    "page": "Up to 50% off Sweaty Betty",
-    "page_url": "https://www.selfridges.com/GB/en/cat/womens/on_sale/sweaty-betty/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Up|sp|to|sp|50%|sp|off|sp|Sweaty|sp|Betty_Up|sp|to|sp|50%|sp|off|sp|Sweaty|sp|Betty"
   },
   {
     "country": "United Kingdom",
@@ -236,7 +192,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Gifts for her",
+    "category": "Gifts",
     "page": "Gifts for her",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-for-her/?app=EDIT+GIFTSFORHER&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Gifts|sp|for|sp|her_Gifts|sp|for|sp|her"
@@ -258,7 +214,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Designer new in",
+    "category": "Designer New",
     "page": "Designer new in",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+WW+DESIGNERNEWIN&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Designer|sp|new|sp|in_Designer|sp|new|sp|in"
@@ -269,7 +225,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Transeasonal heroes",
+    "category": "Transeasonal",
     "page": "Transeasonal heroes",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/trans-seasonal-clothing/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Transeasonal|sp|heroes_Transeasonal|sp|heroes"
@@ -280,7 +236,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Casual tailoring",
+    "category": "Casual Tailoring",
     "page": "Casual tailoring",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=edit+ww+casualtailoring&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Casual|sp|tailoring_Casual|sp|tailoring"
@@ -313,7 +269,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Seasonal reductions",
+    "category": "Seasonal Reductions",
     "page": "Seasonal reductions",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/on_sale/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Seasonal|sp|reductions_Seasonal|sp|reductions"
@@ -324,7 +280,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "All clothing",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_All|sp|clothing"
@@ -335,7 +291,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Dresses",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/dresses/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Dresses"
@@ -346,7 +302,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Tops",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/tops/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Tops"
@@ -357,7 +313,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Coats & jackets",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/coats-jackets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Coats|sp||as||sp|jackets"
@@ -368,7 +324,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Knitwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/knitwear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Knitwear"
@@ -379,7 +335,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Nightwear & lingerie",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/nightwear-lingerie/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Nightwear|sp||as||sp|lingerie"
@@ -390,7 +346,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Sportswear",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/sportswear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Sportswear"
@@ -401,7 +357,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Skiwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/sportswear/ski-wear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Skiwear"
@@ -412,7 +368,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Trousers",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/trousers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Trousers"
@@ -423,7 +379,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Jeans",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/jeans/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Jeans"
@@ -434,7 +390,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Skirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/skirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Skirts"
@@ -445,7 +401,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Jumpsuits & playsuits",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/jumpsuits-playsuits/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Jumpsuits|sp||as||sp|playsuits"
@@ -456,7 +412,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Denim",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/denim/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Denim"
@@ -467,7 +423,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Swimwear & beachwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/swimwear-beachwear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Swimwear|sp||as||sp|beachwear"
@@ -478,7 +434,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Shirts & blouses",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/tops/shirts-blouses/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Shirts|sp||as||sp|blouses"
@@ -489,7 +445,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Summer dresses",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/dresses/summer/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Summer|sp|dresses"
@@ -500,7 +456,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "T-shirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/tops/t-shirts-vests/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_T|h|shirts"
@@ -511,7 +467,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Hoodies & sweatshirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/tops/hoodies-sweatshirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Hoodies|sp||as||sp|sweatshirts"
@@ -522,7 +478,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Shorts",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/trousers/shorts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Shorts"
@@ -533,7 +489,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Socks",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/clothing/nightwear-lingerie/lingerie/hosiery/socks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Socks"
@@ -544,7 +500,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All bags",
+    "category": "Bags",
     "page": "All bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/womens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_All|sp|bags"
@@ -555,7 +511,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Cross-body bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/womens/cross-body-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Cross|h|body|sp|bags"
@@ -566,7 +522,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Shoulder bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/womens/shoulder-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Shoulder|sp|bags"
@@ -577,7 +533,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Tote bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/womens/tote-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Tote|sp|bags"
@@ -588,7 +544,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Backpacks",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/womens/backpacks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Backpacks"
@@ -599,7 +555,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Clutch bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/womens/clutch-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Clutch|sp|bags"
@@ -610,7 +566,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "All shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_All|sp|shoes"
@@ -621,7 +577,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Trainers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/trainers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Trainers"
@@ -632,7 +588,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Heels",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/heels/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Heels"
@@ -643,7 +599,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Boots",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/boots/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Boots"
@@ -654,7 +610,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Slippers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/flats/slippers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Slippers"
@@ -665,7 +621,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Flats",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/flats/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Flats"
@@ -676,7 +632,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Evening shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/evening-shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Evening|sp|shoes"
@@ -687,7 +643,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Sandals",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/sandals",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Sandals"
@@ -698,7 +654,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Bridal shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/wedding-shop/bridalwear/shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Bridal|sp|shoes"
@@ -709,7 +665,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "All accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_All|sp|accessories"
@@ -720,7 +676,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Scarves",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/scarves/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Scarves"
@@ -731,7 +687,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Gloves",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/gloves/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Gloves"
@@ -742,7 +698,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Hats",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/hats/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Hats"
@@ -753,7 +709,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Face coverings",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/face-coverings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Face|sp|coverings"
@@ -764,7 +720,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Purses & pouches",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/purses-and-pouches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Purses|sp||as||sp|pouches"
@@ -775,7 +731,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Cardholders",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/purses-and-pouches/cardholders/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Cardholders"
@@ -786,7 +742,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Fine jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Fine|sp|jewellery"
@@ -797,7 +753,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Fashion jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fashion-jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Fashion|sp|jewellery"
@@ -808,7 +764,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Watches"
@@ -819,7 +775,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Hair accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/hair-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Hair|sp|accessories"
@@ -830,7 +786,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Eyewear",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/eyewear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Eyewear"
@@ -841,7 +797,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Tech accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/tech-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Tech|sp|accessories"
@@ -852,7 +808,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Belts",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/belts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Belts"
@@ -863,7 +819,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Umbrellas",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/umbrellas/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Umbrellas"
@@ -874,7 +830,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Sunglasses",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/sunglasses/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Sunglasses"
@@ -896,7 +852,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Trending: loungewear",
+    "category": "Loungewear",
     "page": "Trending: loungewear",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=edit+ww+loungewear&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Trending|cln||sp|loungewear_Trending|cln||sp|loungewear"
@@ -911,17 +867,6 @@
     "page": "SUPERSELF: the feel-good edit",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/?freeText=edit+superself&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Women",
-    "category": "Brand new: AMIRI",
-    "page": "Brand new: AMIRI",
-    "page_url": "https://www.selfridges.com/GB/en/cat/amiri/womens/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Brand|sp|new|cln||sp|AMIRI_Brand|sp|new|cln||sp|AMIRI"
   },
   {
     "country": "United Kingdom",
@@ -951,7 +896,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|this|sp|week_New|sp|this|sp|week"
@@ -973,7 +918,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "Gifts for him",
+    "category": "Gifts",
     "page": "Gifts for him",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-for-men/?app=EDIT+GIFTS+FOR+HIM&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Gifts|sp|for|sp|him_Gifts|sp|for|sp|him"
@@ -988,17 +933,6 @@
     "page": "Streetwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/streetwear/?app=EDIT+MW+STREETNEWIN&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Streetwear_Streetwear"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Men",
-    "category": "Your spring-ready wardrobe",
-    "page": "Your spring-ready wardrobe",
-    "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=edit+mw+transeasonal&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Your|sp|spring|h|ready|sp|wardrobe_Your|sp|spring|h|ready|sp|wardrobe"
   },
   {
     "country": "United Kingdom",
@@ -1028,7 +962,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "Seasonal reductions",
+    "category": "Seasonal Reductions",
     "page": "Seasonal reductions",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/on_sale/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Seasonal|sp|reductions_Seasonal|sp|reductions"
@@ -1039,7 +973,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "All clothing",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_All|sp|clothing"
@@ -1050,7 +984,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Coats & jackets",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/coats-jackets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Coats|sp||as||sp|jackets"
@@ -1061,7 +995,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Tops & t-shirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/tops-t-shirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Tops|sp||as||sp|t|h|shirts"
@@ -1072,7 +1006,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Shirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/shirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Shirts"
@@ -1083,7 +1017,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Sweats",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/sweats/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Sweats"
@@ -1094,7 +1028,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Knitwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/knitwear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Knitwear"
@@ -1105,7 +1039,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Trousers & shorts",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/trousers-shorts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Trousers|sp||as||sp|shorts"
@@ -1116,7 +1050,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Jeans",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/jeans/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Jeans"
@@ -1127,7 +1061,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Underwear & socks",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/underwear-socks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Underwear|sp||as||sp|socks"
@@ -1138,7 +1072,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Nightwear & loungewear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/nightwear-loungewear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Nightwear|sp||as||sp|loungewear"
@@ -1149,7 +1083,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Blazers",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/blazers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Blazers"
@@ -1160,7 +1094,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Suits & tailoring",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/suits-tailoring/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Suits|sp||as||sp|tailoring"
@@ -1171,7 +1105,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Sportswear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/sportswear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Sportswear"
@@ -1182,7 +1116,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Swimwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/swimwear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Swimwear"
@@ -1193,7 +1127,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All clothing",
+    "category": "Clothing",
     "page": "Skiwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/ski-wear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Skiwear"
@@ -1204,7 +1138,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "All shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_All|sp|shoes"
@@ -1215,7 +1149,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Trainers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/trainers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Trainers"
@@ -1226,7 +1160,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Boots",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/boots/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Boots"
@@ -1237,7 +1171,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Slippers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/shoes/slippers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Slippers"
@@ -1248,7 +1182,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Shoes"
@@ -1259,7 +1193,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Sliders",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/sandals/sliders-flip-flops/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Sliders"
@@ -1270,7 +1204,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Loafers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/loafers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Loafers"
@@ -1281,7 +1215,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All shoes",
+    "category": "Shoes",
     "page": "Sandals",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/sandals/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Sandals"
@@ -1292,7 +1226,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All bags",
+    "category": "Bags",
     "page": "All bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/mens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_All|sp|bags"
@@ -1303,7 +1237,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Backpacks",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/mens/backpacks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Backpacks"
@@ -1314,7 +1248,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Messenger bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/mens/messenger-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Messenger|sp|bags"
@@ -1325,7 +1259,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Tote bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/mens/tote-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Tote|sp|bags"
@@ -1336,7 +1270,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Briefcases",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/mens/briefcases/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Briefcases"
@@ -1347,7 +1281,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Belt bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/mens/belt-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Belt|sp|bags"
@@ -1358,7 +1292,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All bags",
+    "category": "Bags",
     "page": "Travel bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/mens/travel-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Travel|sp|bags"
@@ -1369,7 +1303,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "All accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_All|sp|accessories"
@@ -1380,7 +1314,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Men's grooming",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Men|sq|s|sp|grooming"
@@ -1391,7 +1325,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Wallets",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/wallets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Wallets"
@@ -1402,7 +1336,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Cardholders",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/wallets/cardholders/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Cardholders"
@@ -1413,7 +1347,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Belts",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/belts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Belts"
@@ -1424,7 +1358,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Sunglasses",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/sunglasses/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Sunglasses"
@@ -1435,7 +1369,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Jewellery"
@@ -1446,7 +1380,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Hats",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/hats/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Hats"
@@ -1457,7 +1391,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Watches"
@@ -1468,7 +1402,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Cufflinks",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/cufflinks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Cufflinks"
@@ -1479,7 +1413,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Ties",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/ties/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Ties"
@@ -1490,7 +1424,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Pocket squares",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/pocket-squares/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Pocket|sp|squares"
@@ -1501,7 +1435,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Eyewear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/glasses/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Eyewear"
@@ -1512,7 +1446,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Lifestyle accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/lifestyle-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Lifestyle|sp|accessories"
@@ -1523,7 +1457,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Face coverings",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/face-coverings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Face|sp|coverings"
@@ -1534,7 +1468,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Scarves",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/scarves/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Scarves"
@@ -1545,7 +1479,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Umbrellas",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/umbrellas/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Umbrellas"
@@ -1556,7 +1490,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "All accessories",
+    "category": "Accessories",
     "page": "Gloves",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/gloves/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Gloves"
@@ -1567,7 +1501,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "Workwear reinvented",
+    "category": "Workwear",
     "page": "Workwear reinvented",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+MW+WORKWEAR&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Workwear|sp|reinvented_Workwear|sp|reinvented"
@@ -1578,7 +1512,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "Trending: loungewear",
+    "category": "Loungewear",
     "page": "Trending: loungewear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/?freeText=edit+loungewear&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Trending|cln||sp|loungewear_Trending|cln||sp|loungewear"
@@ -1589,7 +1523,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "New season: accessories",
+    "category": "Accessories",
     "page": "New season: accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|season|cln||sp|accessories_New|sp|season|cln||sp|accessories"
@@ -1600,7 +1534,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "New in: swimwear",
+    "category": "Swimwear",
     "page": "New in: swimwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/swimwear/?fh_sort_by=newest",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|in|cln||sp|swimwear_New|sp|in|cln||sp|swimwear"
@@ -1611,7 +1545,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "New in: streetwear",
+    "category": "Streetware",
     "page": "New in: streetwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/streetwear/?app=EDIT+MW+STREETNEWIN&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|in|cln||sp|streetwear_New|sp|in|cln||sp|streetwear"
@@ -1655,7 +1589,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_New|sp|this|sp|week_New|sp|this|sp|week"
@@ -2095,7 +2029,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "SHOES",
+    "category": "Shoes",
     "page": "SHOES",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_SHOES_SHOES"
@@ -2106,7 +2040,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Shop all shoes",
+    "category": "Shoes",
     "page": "Shop all shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Shop|sp|all|sp|shoes_Shop|sp|all|sp|shoes"
@@ -2117,7 +2051,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_New|sp|this|sp|week_New|sp|this|sp|week"
@@ -2139,7 +2073,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Trainers worth the hype",
+    "category": "Trainers",
     "page": "Trainers worth the hype",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/?freeText=EDIT+SHOES+HYPED+TRAINERS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Trainers|sp|worth|sp|the|sp|hype_Trainers|sp|worth|sp|the|sp|hype"
@@ -2150,7 +2084,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Insta-worthy shoes",
+    "category": "Insta Worthy Shoes",
     "page": "Insta-worthy shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/instaworthy-shoes/?app=EDIT+SHOES+INSTAWORTHY&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Insta|h|worthy|sp|shoes_Insta|h|worthy|sp|shoes"
@@ -2161,7 +2095,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "The ultimate shoes to gift",
+    "category": "Gifts",
     "page": "The ultimate shoes to gift",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/gifting-shoes/?app=EDIT+SHOES+GIFTS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|ultimate|sp|shoes|sp|to|sp|gift_The|sp|ultimate|sp|shoes|sp|to|sp|gift"
@@ -2183,7 +2117,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Seasonal reductions",
+    "category": "Seasonal Reductions",
     "page": "Seasonal reductions",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/on_sale/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Seasonal|sp|reductions_Seasonal|sp|reductions"
@@ -2194,7 +2128,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "All womens",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_All|sp|womens"
@@ -2205,7 +2139,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Trainers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/trainers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Trainers"
@@ -2216,7 +2150,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Heels",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/heels/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Heels"
@@ -2227,7 +2161,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Boots",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/boots/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Boots"
@@ -2238,7 +2172,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Ankle boots",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/boots/ankle-boots/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Ankle|sp|boots"
@@ -2249,7 +2183,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Knee high boots",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/boots/knee-high-boots/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Knee|sp|high|sp|boots"
@@ -2260,7 +2194,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Slippers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/flats/slippers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Slippers"
@@ -2271,7 +2205,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Flats",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/flats/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Flats"
@@ -2282,7 +2216,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Evening shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/evening-shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Evening|sp|shoes"
@@ -2293,7 +2227,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Sandals",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/sandals",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Sandals"
@@ -2304,7 +2238,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Loafers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/flats/loafers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Loafers"
@@ -2315,7 +2249,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Mules",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/mules/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Mules"
@@ -2326,7 +2260,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All womens",
+    "category": "Women",
     "page": "Bridal shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/wedding-shop/bridalwear/shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Bridal|sp|shoes"
@@ -2337,7 +2271,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "All mens",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_All|sp|mens"
@@ -2348,7 +2282,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "Trainers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/trainers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Trainers"
@@ -2359,7 +2293,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "Boots",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/boots/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Boots"
@@ -2370,7 +2304,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "Slippers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/shoes/slippers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Slippers"
@@ -2381,7 +2315,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "Shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/shoes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Shoes"
@@ -2392,7 +2326,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "Sliders",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/sandals/sliders-flip-flops/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Sliders"
@@ -2403,7 +2337,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "Loafers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/loafers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Loafers"
@@ -2414,7 +2348,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All mens",
+    "category": "Men",
     "page": "Sandals",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/sandals/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Sandals"
@@ -2425,7 +2359,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "All kids shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_All|sp|kids|sp|shoes"
@@ -2436,7 +2370,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "Girls",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/girls/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_Girls"
@@ -2447,7 +2381,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "Boys",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/boys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_Boys"
@@ -2458,7 +2392,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "Baby",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/baby/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_Baby"
@@ -2469,7 +2403,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Put a spring in your step",
+    "category": "Spring",
     "page": "Put a spring in your step",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+SHOES+SPRING&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Put|sp|a|sp|spring|sp|in|sp|your|sp|step_Put|sp|a|sp|spring|sp|in|sp|your|sp|step"
@@ -2480,7 +2414,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Every day trainers",
+    "category": "Everyday Trainers",
     "page": "Every day trainers",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+EVERYDAY+TRAINERS",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Every|sp|day|sp|trainers_Every|sp|day|sp|trainers"
@@ -2491,7 +2425,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Wedding guest shoes",
+    "category": "Wedding Guest Shoes",
     "page": "Wedding guest shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+WEDDING+GUEST+SHOES",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Wedding|sp|guest|sp|shoes_Wedding|sp|guest|sp|shoes"
@@ -2502,7 +2436,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Our favourite: heels",
+    "category": "Heels",
     "page": "Our favourite: heels",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/heels/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Our|sp|favourite|cln||sp|heels_Our|sp|favourite|cln||sp|heels"
@@ -2546,7 +2480,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_New|sp|this|sp|week_New|sp|this|sp|week"
@@ -3261,7 +3195,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "KIDS",
+    "category": "Kids",
     "page": "KIDS",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_KIDS_KIDS"
@@ -3272,7 +3206,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "Shop all kids'",
+    "category": "All Kids",
     "page": "Shop all kids'",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Shop|sp|all|sp|kids|sq|_Shop|sp|all|sp|kids|sq|"
@@ -3283,7 +3217,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/newin/?cm_sp=MegaMenu-_-Kids-_-Kids-New-In",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_New|sp|this|sp|week_New|sp|this|sp|week"
@@ -3305,7 +3239,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "Gifts for kids",
+    "category": "Gifts",
     "page": "Gifts for kids",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-for-kids/?app=EDIT+KIDS+GIFTINGCN&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Gifts|sp|for|sp|kids_Gifts|sp|for|sp|kids"
@@ -3316,7 +3250,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "Brilliant new baby gifts",
+    "category": "Gifts",
     "page": "Brilliant new baby gifts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/baby-gifts-hampers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Brilliant|sp|new|sp|baby|sp|gifts_Brilliant|sp|new|sp|baby|sp|gifts"
@@ -3327,18 +3261,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "Discover the world of Batman",
-    "page": "Discover the world of Batman",
-    "page_url": "https://www.selfridges.com/GB/en/cat/shopby-batman/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Discover|sp|the|sp|world|sp|of|sp|Batman_Discover|sp|the|sp|world|sp|of|sp|Batman"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Kids",
-    "category": "Trending: Off-White",
+    "category": "Trending",
     "page": "Trending: Off-White",
     "page_url": "https://www.selfridges.com/GB/en/cat/off-white-c-o-virgil-abloh/kids/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Trending|cln||sp|Off|h|White_Trending|cln||sp|Off|h|White"
@@ -3349,7 +3272,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "All girls (4-16 years)",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_All|sp|girls|sp|(4|h|16|sp|years)"
@@ -3360,7 +3283,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Dresses",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/dresses/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Dresses"
@@ -3371,7 +3294,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Tops & t-shirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/tops-t-shirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Tops|sp||as||sp|t|h|shirts"
@@ -3382,7 +3305,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Trousers & jeans",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/trousers-jeans/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Trousers|sp||as||sp|jeans"
@@ -3393,7 +3316,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Coats & jackets",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/coats-jackets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Coats|sp||as||sp|jackets"
@@ -3404,7 +3327,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Accessories"
@@ -3415,7 +3338,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Sweatshirts & tracksuits",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/sweatshirts-tracksuits/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Sweatshirts|sp||as||sp|tracksuits"
@@ -3426,7 +3349,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Skirts & shorts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/skirts-shorts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Skirts|sp||as||sp|shorts"
@@ -3437,7 +3360,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Pyjamas, underwear & socks",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/pyjamas-underwear-socks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Pyjamas,|sp|underwear|sp||as||sp|socks"
@@ -3448,7 +3371,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All girls (4-16 years)",
+    "category": "Girls 4-16 Years",
     "page": "Knitwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/girls/knitwear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Knitwear"
@@ -3459,7 +3382,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "All boys (4-16 years)",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_All|sp|boys|sp|(4|h|16|sp|years)"
@@ -3470,7 +3393,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Tops & t-shirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/tops-t-shirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Tops|sp||as||sp|t|h|shirts"
@@ -3481,7 +3404,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Trousers & jeans",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/trousers-jeans/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Trousers|sp||as||sp|jeans"
@@ -3492,7 +3415,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Coats & jackets",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/coats-jackets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Coats|sp||as||sp|jackets"
@@ -3503,7 +3426,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Sweatshirts & tracksuits",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/sweatshirts-tracksuits/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Sweatshirts|sp||as||sp|tracksuits"
@@ -3514,7 +3437,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Accessories"
@@ -3525,7 +3448,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Shorts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/shorts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Shorts"
@@ -3536,7 +3459,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Pyjamas, underwear & socks",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/pyjamas-underwear-socks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Pyjamas,|sp|underwear|sp||as||sp|socks"
@@ -3547,7 +3470,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All boys (4-16 years)",
+    "category": "Boys 4-16 Years",
     "page": "Knitwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/boys/knitwear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Knitwear"
@@ -3558,7 +3481,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "All baby (0-36 months)",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_All|sp|baby|sp|(0|h|36|sp|months)"
@@ -3569,7 +3492,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Baby gifts & hampers",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/baby-gifts-hampers/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|gifts|sp||as||sp|hampers"
@@ -3580,7 +3503,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Baby essentials & changing bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/baby-essentials-changing-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|essentials|sp||as||sp|changing|sp|bags"
@@ -3591,7 +3514,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Nursery",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/nursery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Nursery"
@@ -3602,7 +3525,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Baby grows & sleepsuits",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/baby-grows-sleepsuits/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|grows|sp||as||sp|sleepsuits"
@@ -3613,7 +3536,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Tops & t-shirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/tops-t-shirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Tops|sp||as||sp|t|h|shirts"
@@ -3624,7 +3547,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Sweatshirts & tracksuits",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/sweatshirts-tracksuits/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Sweatshirts|sp||as||sp|tracksuits"
@@ -3635,7 +3558,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Dresses & skirts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/dresses-skirts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Dresses|sp||as||sp|skirts"
@@ -3646,7 +3569,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Bottoms",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/bottoms/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Bottoms"
@@ -3657,7 +3580,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Coats & jackets",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/coats-jackets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Coats|sp||as||sp|jackets"
@@ -3668,7 +3591,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Baby accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/baby-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|accessories"
@@ -3679,7 +3602,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All baby (0-36 months)",
+    "category": "Kids 0-3 Years",
     "page": "Knitwear",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/baby/knitwear/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Knitwear"
@@ -3690,7 +3613,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "All kids shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_All|sp|kids|sp|shoes"
@@ -3701,7 +3624,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "Girls",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/girls/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_Girls"
@@ -3712,7 +3635,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "Boys",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/boys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_Boys"
@@ -3723,7 +3646,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All kids shoes",
+    "category": "Shoes",
     "page": "Baby",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/kids/baby/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_Baby"
@@ -3734,7 +3657,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "All toy shop",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_All|sp|toy|sp|shop"
@@ -3745,7 +3668,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Arts & crafts",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/arts-crafts/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Arts|sp||as||sp|crafts"
@@ -3756,7 +3679,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Baby & toddler toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/baby-toddler-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Baby|sp||as||sp|toddler|sp|toys"
@@ -3767,7 +3690,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Books",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/books/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Books"
@@ -3778,7 +3701,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Dolls & doll houses",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/dolls-doll-houses/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Dolls|sp||as||sp|doll|sp|houses"
@@ -3789,7 +3712,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Dress up & role play",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/dress-up-role-play/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Dress|sp|up|sp||as||sp|role|sp|play"
@@ -3800,7 +3723,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Educational toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/educational-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Educational|sp|toys"
@@ -3811,7 +3734,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Electronic toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/electronic-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Electronic|sp|toys"
@@ -3822,7 +3745,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Games & puzzles",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/games-puzzles/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Games|sp||as||sp|puzzles"
@@ -3833,7 +3756,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "LEGO & construction toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/lego-construction-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_LEGO|sp||as||sp|construction|sp|toys"
@@ -3844,7 +3767,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Outdoor & garden toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/outdoor-garden-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Outdoor|sp||as||sp|garden|sp|toys"
@@ -3855,7 +3778,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Pre-school toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/preschool-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Pre|h|school|sp|toys"
@@ -3866,7 +3789,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Ride on Toys & scooters",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/ride-on-cars-bikes-scooters/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Ride|sp|on|sp|Toys|sp||as||sp|scooters"
@@ -3877,7 +3800,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Teddy bears & soft toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/teddy-bears-soft-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Teddy|sp|bears|sp||as||sp|soft|sp|toys"
@@ -3888,7 +3811,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Toy vehicles",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/toy-vehicles/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Toy|sp|vehicles"
@@ -3899,7 +3822,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "All toy shop",
+    "category": "Toys",
     "page": "Wooden toys",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/wooden-toys/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Wooden|sp|toys"
@@ -3910,32 +3833,10 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "Designer accessories",
+    "category": "Designer Accessories",
     "page": "Designer accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+KIDS+DESIGNER+ACCESSORIES&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Designer|sp|accessories_Designer|sp|accessories"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Kids",
-    "category": "Earth-conscious toys",
-    "page": "Earth-conscious toys",
-    "page_url": "https://www.selfridges.com/GB/en/cat/kids/toy-shop/?freeText=project+earth&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Earth|h|conscious|sp|toys_Earth|h|conscious|sp|toys"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Kids",
-    "category": "New in: LEGO",
-    "page": "New in: LEGO",
-    "page_url": "https://www.selfridges.com/GB/en/cat/lego/kids/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_New|sp|in|cln||sp|LEGO_New|sp|in|cln||sp|LEGO"
   },
   {
     "country": "United Kingdom",
@@ -3954,7 +3855,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "HOME & TECH",
+    "category": "Tech",
     "page": "HOME & TECH",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_HOME|sp||as||sp|TECH_HOME|sp||as||sp|TECH"
@@ -3965,7 +3866,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "Shop all home & tech",
+    "category": "Tech",
     "page": "Shop all home & tech",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Shop|sp|all|sp|home|sp||as||sp|tech_Shop|sp|all|sp|home|sp||as||sp|tech"
@@ -3976,7 +3877,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_New|sp|this|sp|week_New|sp|this|sp|week"
@@ -3998,18 +3899,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "Bold styles with Versace",
-    "page": "Bold styles with Versace",
-    "page_url": "https://www.selfridges.com/GB/en/cat/versace/home-tech/home/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Bold|sp|styles|sp|with|sp|Versace_Bold|sp|styles|sp|with|sp|Versace"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Home",
-    "category": "Home re-fresh",
+    "category": "Refresh",
     "page": "Home re-fresh",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+HT+HOMEREFRESH&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Home|sp|re|h|fresh_Home|sp|re|h|fresh"
@@ -4020,7 +3910,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "Gifts for the home",
+    "category": "Gifts",
     "page": "Gifts for the home",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/luxury-home-gifts/?app=EDIT+HT+LUXURYGIFTSFORTHEHOME&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Gifts|sp|for|sp|the|sp|home_Gifts|sp|for|sp|the|sp|home"
@@ -4031,18 +3921,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "Explore: Samsung offers",
-    "page": "Explore: Samsung offers",
-    "page_url": "https://www.selfridges.com/GB/en/cat/samsung/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Explore|cln||sp|Samsung|sp|offers_Explore|cln||sp|Samsung|sp|offers"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Home",
-    "category": "Seasonal reductions",
+    "category": "Seasonal Reductions",
     "page": "Seasonal reductions",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/on_sale/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Seasonal|sp|reductions_Seasonal|sp|reductions"
@@ -4339,7 +4218,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "Our top tech",
+    "category": "Tech",
     "page": "Our top tech",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/technology/?fh_sort_by=bestseller",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Our|sp|top|sp|tech_Our|sp|top|sp|tech"
@@ -4372,7 +4251,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "New in: dinnerware",
+    "category": "Dinnerware",
     "page": "New in: dinnerware",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/home/dining/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_New|sp|in|cln||sp|dinnerware_New|sp|in|cln||sp|dinnerware"
@@ -4394,7 +4273,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "JEWELLERY",
+    "category": "Jewellery",
     "page": "JEWELLERY",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_JEWELLERY_JEWELLERY"
@@ -4405,21 +4284,10 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "New this week",
+    "category": "New",
     "page": "New this week",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_New|sp|this|sp|week_New|sp|this|sp|week"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Jewellery",
-    "category": "20% off - Monica Vinader",
-    "page": "20% off - Monica Vinader",
-    "page_url": "https://www.selfridges.com/GB/en/cat/monica-vinader/jewellery-watches/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_20%|sp|off|sp||h||sp|Monica|sp|Vinader_20%|sp|off|sp||h||sp|Monica|sp|Vinader"
   },
   {
     "country": "United Kingdom",
@@ -4449,7 +4317,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "Spring jewellery & watches",
+    "category": "Watches",
     "page": "Spring jewellery & watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+JW+SPRINGWATCHES",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Spring|sp|jewellery|sp||as||sp|watches_Spring|sp|jewellery|sp||as||sp|watches"
@@ -4460,7 +4328,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "Luxury gifts to treasure",
+    "category": "Luxury Jewellery",
     "page": "Luxury gifts to treasure",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+JW+LUXURY+GIFTS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Luxury|sp|gifts|sp|to|sp|treasure_Luxury|sp|gifts|sp|to|sp|treasure"
@@ -4471,7 +4339,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "Gifts he'll love",
+    "category": "Mens Gifts",
     "page": "Gifts he'll love",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+JW+GIFTSFORHIM&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Gifts|sp|he|sq|ll|sp|love_Gifts|sp|he|sq|ll|sp|love"
@@ -4482,7 +4350,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "Initial jewellery",
+    "category": "Initial Jewellery",
     "page": "Initial jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+JW+ALPHABET&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Initial|sp|jewellery_Initial|sp|jewellery"
@@ -4515,7 +4383,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine jewellery",
+    "category": "Fine Jewellery",
     "page": "All fine jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_All|sp|fine|sp|jewellery"
@@ -4526,7 +4394,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine jewellery",
+    "category": "Fine Jewellery",
     "page": "Earrings",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/earrings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Earrings"
@@ -4537,7 +4405,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine jewellery",
+    "category": "Fine Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/necklaces/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Necklaces"
@@ -4548,7 +4416,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine jewellery",
+    "category": "Fine Jewellery",
     "page": "Rings",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/rings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Rings"
@@ -4559,7 +4427,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine jewellery",
+    "category": "Fine Jewellery",
     "page": "Bracelets",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/bracelets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Bracelets"
@@ -4570,7 +4438,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine jewellery",
+    "category": "Fine Jewellery",
     "page": "Engagement rings",
     "page_url": "https://www.selfridges.com/GB/en/cat/wedding-shop/jewellery/engagement-rings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Engagement|sp|rings"
@@ -4581,7 +4449,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine jewellery",
+    "category": "Fine Jewellery",
     "page": "Wedding",
     "page_url": "https://www.selfridges.com/GB/en/cat/wedding-shop/jewellery/wedding-rings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Wedding"
@@ -4592,7 +4460,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine watches",
+    "category": "Fine Watches",
     "page": "All fine watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|watches_All|sp|fine|sp|watches"
@@ -4603,7 +4471,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine watches",
+    "category": "Fine Watches",
     "page": "Men's fine watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/watches/fine-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|watches_Men|sq|s|sp|fine|sp|watches"
@@ -4614,7 +4482,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fine watches",
+    "category": "Fine Watches",
     "page": "Women's fine watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/watches/fine-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|watches_Women|sq|s|sp|fine|sp|watches"
@@ -4625,7 +4493,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "All fashion jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_All|sp|fashion|sp|jewellery"
@@ -4636,7 +4504,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "Earrings",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/earrings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Earrings"
@@ -4647,7 +4515,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/necklaces/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Necklaces"
@@ -4658,7 +4526,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "Rings",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/rings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Rings"
@@ -4669,7 +4537,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "Bracelets",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/bracelets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Bracelets"
@@ -4680,7 +4548,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "Charms",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/charms/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Charms"
@@ -4691,7 +4559,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "Jewellery boxes",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/jewellery-boxes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Jewellery|sp|boxes"
@@ -4702,7 +4570,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion jewellery",
+    "category": "Fashion Jewellery",
     "page": "Brooches",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/jewellery/brooches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Brooches"
@@ -4713,7 +4581,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion watches",
+    "category": "Fashion Watches",
     "page": "All fashion watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fashion-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|watches_All|sp|fashion|sp|watches"
@@ -4724,7 +4592,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion watches",
+    "category": "Fashion Watches",
     "page": "Men's fashion watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/watches/fashion-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|watches_Men|sq|s|sp|fashion|sp|watches"
@@ -4735,7 +4603,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All fashion watches",
+    "category": "Fashion Watches",
     "page": "Women's fashion watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fashion-watches/womens-fashion-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|watches_Women|sq|s|sp|fashion|sp|watches"
@@ -4746,7 +4614,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All men's jewellery",
+    "category": "Mens Jewellery",
     "page": "All men's jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_All|sp|men|sq|s|sp|jewellery"
@@ -4757,7 +4625,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All men's jewellery",
+    "category": "Mens Jewellery",
     "page": "Bracelets",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/jewellery/bracelets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Bracelets"
@@ -4768,7 +4636,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All men's jewellery",
+    "category": "Mens Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/jewellery/necklaces/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Necklaces"
@@ -4779,7 +4647,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All men's jewellery",
+    "category": "Mens Jewellery",
     "page": "Rings",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/jewellery/rings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Rings"
@@ -4790,7 +4658,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "All men's jewellery",
+    "category": "Mens Jewellery",
     "page": "Earrings",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/accessories/jewellery/earrings/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Earrings"
@@ -4801,18 +4669,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "New in: Savi x Missoma",
-    "page": "New in: Savi x Missoma",
-    "page_url": "https://www.selfridges.com/GB/en/cat/missoma/jewellery-watches/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_New|sp|in|cln||sp|Savi|sp|x|sp|Missoma_New|sp|in|cln||sp|Savi|sp|x|sp|Missoma"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Jewellery",
-    "category": "Love forever: wedding jewellery",
+    "category": "Wedding Jewellery",
     "page": "Love forever: wedding jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/wedding-shop/jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Love|sp|forever|cln||sp|wedding|sp|jewellery_Love|sp|forever|cln||sp|wedding|sp|jewellery"
@@ -4823,21 +4680,10 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "Our favourite: pre-loved jewellery and watches",
+    "category": "Watches",
     "page": "Our favourite: pre-loved jewellery and watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/project-earth-resellfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Our|sp|favourite|cln||sp|pre|h|loved|sp|jewellery|sp|and|sp|watches_Our|sp|favourite|cln||sp|pre|h|loved|sp|jewellery|sp|and|sp|watches"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Jewellery",
-    "category": "Savi x Missoma",
-    "page": "Savi x Missoma",
-    "page_url": "https://www.selfridges.com/GB/en/cat/missoma/jewellery-watches/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Savi|sp|x|sp|Missoma_Savi|sp|x|sp|Missoma"
   },
   {
     "country": "United Kingdom",

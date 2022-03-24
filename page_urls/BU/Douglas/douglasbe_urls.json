@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.be/nl/c/parfum/01",
     "file_name": "Belgium_DOUGLAS_BE_PERFUME_PERFUME_PERFUME"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.douglas.be/nl/c/make-up/ogen/0303",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_EYES_EYES"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye shadow",
     "page_url": "https://www.douglas.be/nl/c/make-up/ogen/oogschaduw/030302",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_EYES_Eye|sp|shadow"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.douglas.be/nl/c/make-up/ogen/mascara/030301",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_EYES_Mascara"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eye pencil",
     "page_url": "https://www.douglas.be/nl/c/make-up/ogen/oogpotlood/030305",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_EYES_eye|sp|pencil"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Sets & paletten",
     "page_url": "https://www.douglas.be/nl/c/make-up/ogen/sets-paletten/030307",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_EYES_Sets|sp||as||sp|paletten"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "artificial eyelashes",
     "page_url": "https://www.douglas.be/nl/c/make-up/ogen/kunstwimpers/030309",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_EYES_artificial|sp|eyelashes"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": ">> All categories",
     "page_url": "https://www.douglas.be/nl/c/make-up/ogen/0303",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_EYES_>>|sp|All|sp|categories"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.douglas.be/nl/c/make-up/lippen/0302",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_LIPS_LIPS"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipstick",
     "page_url": "https://www.douglas.be/nl/c/make-up/lippen/lipstick/030201",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_LIPS_Lipstick"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipgloss",
     "page_url": "https://www.douglas.be/nl/c/make-up/lippen/lipgloss/030202",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_LIPS_Lipgloss"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lip balm",
     "page_url": "https://www.douglas.be/nl/c/make-up/lippen/lippenbalsem/030206",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_LIPS_lip|sp|balm"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lipliner",
     "page_url": "https://www.douglas.be/nl/c/make-up/lippen/lipliner/030203",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_LIPS_Lipliner"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Lip primer",
     "page_url": "https://www.douglas.be/nl/c/make-up/lippen/lip-plumper/030207",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_LIPS_Lip|sp|primer"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": ">> All categories",
     "page_url": "https://www.douglas.be/nl/c/make-up/lippen/0302",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_LIPS_>>|sp|All|sp|categories"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/0304",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_NAILS"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/nagellak/030401",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_Nail|sp|polish"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "nail care",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/nagelverzorging/030402",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_nail|sp|care"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Artificial Nails & Nail Decoration",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/kunstnagels-nageldecoratie/030405",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_Artificial|sp|Nails|sp||as||sp|Nail|sp|Decoration"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polish remover",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/nagellakremover/030407",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_Nail|sp|polish|sp|remover"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Sets",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/sets/030404",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_Sets"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": ">> All categories",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/0304",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_>>|sp|All|sp|categories"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.be/nl/c/lichaam/13",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY_BODY"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/1302",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "body lotion",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/bodylotion/130202",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_body|sp|lotion"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorant",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/deodorant/130201",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_Deodorant"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Bodyspray",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/bodyspray/130203",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_Bodyspray"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Bodybutter",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/bodybutter/130205",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_Bodybutter"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "body oil",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/lichaamsolie/130204",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_body|sp|oil"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": ">> All categories",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/1302",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_>>|sp|All|sp|categories"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "OUTLET",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.be/nl/c/sale/geuren/0501",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_PERFUME_PERFUME"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "OUTLET",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.be/nl/c/sale/lichaam/0504",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_BODY_BODY"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.be/nl/c/nieuw/geuren/0901",
     "file_name": "Belgium_DOUGLAS_BE_NEW_PERFUME_PERFUME"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.be/nl/c/nieuw/lichaam/0913",
     "file_name": "Belgium_DOUGLAS_BE_NEW_BODY_BODY"

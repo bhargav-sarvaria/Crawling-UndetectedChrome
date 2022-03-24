@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.it/Make-up/Viso/index_0301.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_FACE_FACE"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Makeup Primers & Fixers",
     "page_url": "https://www.douglas.it/Make-up/Viso/Primer-%26-Fissanti-Trucco/index_030106.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_FACE_Makeup|sp|Primers|sp||as||sp|Fixers"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Face Highlighters",
     "page_url": "https://www.douglas.it/Make-up/Viso/Illuminanti-Viso/index_030110.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_FACE_Face|sp|Highlighters"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Correctors",
     "page_url": "https://www.douglas.it/Make-up/Viso/Correttori/index_030101.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_FACE_Correctors"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Make-up/Viso/index_0301.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_FACE_\"|sp|All|sp|the|sp|categories"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.douglas.it/Make-up/Occhi/index_0303.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_EYES_EYES"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascara",
     "page_url": "https://www.douglas.it/Make-up/Occhi/Mascara/index_030301.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_EYES_Mascara"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadows",
     "page_url": "https://www.douglas.it/Make-up/Occhi/Ombretti/index_030302.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_EYES_Eyeshadows"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeliner",
     "page_url": "https://www.douglas.it/Make-up/Occhi/Eyeliner/index_030304.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_EYES_Eyeliner"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Make-up/Occhi/index_0303.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_EYES_\"|sp|All|sp|the|sp|categories"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "LIP",
     "page_url": "https://www.douglas.it/Make-up/Labbra/index_0302.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_LIP_LIP"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lipsticks",
     "page_url": "https://www.douglas.it/Make-up/Labbra/Rossetti/index_030201.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_LIP_Lipsticks"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip gloss / Gloss",
     "page_url": "https://www.douglas.it/Make-up/Labbra/Lucidalabbra-Gloss/index_030202.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_LIP_Lip|sp|gloss|sp||fs||sp|Gloss"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "Lip Contour",
     "page_url": "https://www.douglas.it/Make-up/Labbra/Contorno-Labbra/index_030203.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_LIP_Lip|sp|Contour"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "LIP",
+    "category": "Lips",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Make-up/Labbra/index_0302.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_LIP_\"|sp|All|sp|the|sp|categories"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.douglas.it/Make-up/Unghie/index_0304.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_NAILS_NAILS"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Enamels",
     "page_url": "https://www.douglas.it/Make-up/Unghie/Smalti/index_030401.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_NAILS_Enamels"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Treatment",
     "page_url": "https://www.douglas.it/Make-up/Unghie/Trattamento/index_030402.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_NAILS_Treatment"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Make-up/Unghie/index_0304.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_NAILS_\"|sp|All|sp|the|sp|categories"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.it/Trattamento/Viso/index_0201.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_FACE_FACE"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "FACE",
+    "category": "Face",
     "page": "Facial cleaning",
     "page_url": "https://www.douglas.it/Trattamento/Viso/Pulizia-Viso/index_020101.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_FACE_Facial|sp|cleaning"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "FACE",
+    "category": "Face",
     "page": "Face exfoliants",
     "page_url": "https://www.douglas.it/Trattamento/Viso/Esfolianti-Viso/index_020124.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_FACE_Face|sp|exfoliants"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "FACE",
+    "category": "Face",
     "page": "Tonic",
     "page_url": "https://www.douglas.it/Trattamento/Viso/Tonico/index_020116.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_FACE_Tonic"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "FACE",
+    "category": "Face",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Trattamento/Viso/index_0201.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_FACE_\"|sp|All|sp|the|sp|categories"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.it/Trattamento/Corpo/index_0202.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_BODY_BODY"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "BODY",
+    "category": "Body",
     "page": "Cleansing",
     "page_url": "https://www.douglas.it/Trattamento/Corpo/Detergenza/index_020201.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_BODY_Cleansing"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "BODY",
+    "category": "Body",
     "page": "Body exfoliants",
     "page_url": "https://www.douglas.it/Trattamento/Corpo/Esfolianti-Corpo/index_020203.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_BODY_Body|sp|exfoliants"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "BODY",
+    "category": "Body",
     "page": "Deodorants",
     "page_url": "https://www.douglas.it/Trattamento/Corpo/Deodoranti/index_020205.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_BODY_Deodorants"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "BODY",
+    "category": "Body",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Trattamento/Corpo/index_0202.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_BODY_\"|sp|All|sp|the|sp|categories"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "HANDS & FEET",
     "page_url": "https://www.douglas.it/Trattamento/Mani-%26-Piedi/index_0207.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_HANDS|sp||as||sp|FEET_HANDS|sp||as||sp|FEET"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Hands",
     "page_url": "https://www.douglas.it/Trattamento/Mani-%26-Piedi/Mani/index_020701.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_HANDS|sp||as||sp|FEET_Hands"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Feet",
     "page_url": "https://www.douglas.it/Trattamento/Mani-%26-Piedi/Piedi/index_020702.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_HANDS|sp||as||sp|FEET_Feet"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "Sanitizers",
     "page_url": "https://www.douglas.it/Trattamento/Mani-%26-Piedi/Igienizzanti/index_020703.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_HANDS|sp||as||sp|FEET_Sanitizers"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatment",
-    "category": "HANDS & FEET",
+    "category": "Hands & Feet",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Trattamento/Mani-%26-Piedi/index_0207.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_HANDS|sp||as||sp|FEET_\"|sp|All|sp|the|sp|categories"

@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/01",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_PERFUME_PERFUME"
@@ -192,7 +192,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/0101",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Perfume kits",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/zestawy-perfum/010111",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Perfume|sp|kits"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Deodorants",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/dezodoranty/010105",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Deodorants"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Women's perfumes",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/perfumy/010106",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Women|sq|s|sp|perfumes"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Body lotions",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/pielegnacja-ciala/010108",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Body|sp|lotions"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "Shower gels",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/zele-pod-prysznic/010107",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Shower|sp|gels"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfume",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/0101",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/03",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_MAKEUP_MAKEUP"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-twarzy/0301",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_FACE_FACE"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Sleepers",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-twarzy/podklady/030104",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_FACE_Sleepers"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Correctors",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-twarzy/korektory/030101",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_FACE_Correctors"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "Powders",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-twarzy/pudry/030102",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_FACE_Powders"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-twarzy/0301",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_FACE_FACE"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-oczu/0303",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_EYES_EYES"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Mascaras",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-oczu/tusze-do-rzes/030301",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_EYES_Mascaras"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyeshadow",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-oczu/cienie-do-powiek/030302",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_EYES_Eyeshadow"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eyebrow pencils",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-brwi/kredka-do-brwi/030902",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_EYES_Eyebrow|sp|pencils"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/makijaz-oczu/0303",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_EYES_EYES"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/0304",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_NAILS"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail conditioners",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/odzywki-do-paznokci/030402",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_Nail|sp|conditioners"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail polishes",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/lakiery-do-paznokci/030401",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_Nail|sp|polishes"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "Nail art",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/stylizacja-paznokci/030405",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_Nail|sp|art"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/0304",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_NAILS"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.pl/pl/c/twarz/12",
     "file_name": "Poland_DOUGLAS_PL_FACE_FACE_FACE"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.pl/pl/c/cialo/13",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY_BODY"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/1302",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body lotions",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/balsamy-do-ciala/130202",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_Body|sp|lotions"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Deodorants",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/dezodoranty/130201",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_Deodorants"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Body Mists",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/mgielki-do-ciala/130203",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_Body|sp|Mists"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/1302",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "BATHROOM",
+    "category": "Bathroom",
     "page": "BATHROOM",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/lazienka/1506",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_BATHROOM_BATHROOM"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "BATHROOM",
+    "category": "Bathroom",
     "page": "Towels",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/lazienka/reczniki/150601",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_BATHROOM_Towels"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "BATHROOM",
+    "category": "Bathroom",
     "page": "Mirrors",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/lazienka/lusterka/150603",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_BATHROOM_Mirrors"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "BATHROOM",
+    "category": "Bathroom",
     "page": "BATHROOM",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/lazienka/1506",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_BATHROOM_BATHROOM"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "SALE",
+    "category": "Sale",
     "page": "SALE",
     "page_url": "https://www.douglas.pl/pl/c/promocje/05",
     "file_name": "Poland_DOUGLAS_PL_SALE_SALE_SALE"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "WOMEN'S PERFUME",
+    "category": "Womens Perfume",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/promocje/perfumy/0501",
     "file_name": "Poland_DOUGLAS_PL_SALE_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.pl/pl/c/promocje/makijaz/0510",
     "file_name": "Poland_DOUGLAS_PL_SALE_MAKEUP_MAKEUP"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.pl/pl/c/promocje/twarz/0502",
     "file_name": "Poland_DOUGLAS_PL_SALE_FACE_FACE"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.pl/pl/c/promocje/cialo/0504",
     "file_name": "Poland_DOUGLAS_PL_SALE_BODY_BODY"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/09",
     "file_name": "Poland_DOUGLAS_PL_NEWS_NEWS_NEWS"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "PERFUME",
+    "category": "Perfume",
     "page": "PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/perfumy/0901",
     "file_name": "Poland_DOUGLAS_PL_NEWS_PERFUME_PERFUME"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "MAKEUP",
+    "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/makijaz/0903",
     "file_name": "Poland_DOUGLAS_PL_NEWS_MAKEUP_MAKEUP"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "FACE",
+    "category": "Face",
     "page": "FACE",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/twarz/0912",
     "file_name": "Poland_DOUGLAS_PL_NEWS_FACE_FACE"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/cialo/0913",
     "file_name": "Poland_DOUGLAS_PL_NEWS_BODY_BODY"

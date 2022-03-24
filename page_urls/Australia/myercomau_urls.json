@@ -38,17 +38,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Warlukurlangu Artists x Myer",
-    "page": "Warlukurlangu Artists x Myer",
-    "page_url": "https://www.myer.com.au/c/new-in/warlukurlangu-artists",
-    "file_name": "Australia_Myer_New_Warlukurlangu|sp|Artists|sp|x|sp|Myer_Warlukurlangu|sp|Artists|sp|x|sp|Myer"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "New",
     "category": "Women",
     "page": "Women",
     "page_url": "https://www.myer.com.au/c/new-in/women-709562--1",
@@ -313,7 +302,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Sport",
+    "category": "Sports",
     "page": "Sport",
     "page_url": "https://www.myer.com.au/c/new-in/sport-new-in",
     "file_name": "Australia_Myer_New_Sport_Sport"
@@ -324,7 +313,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Sport",
+    "category": "Sports",
     "page": "New Activewear",
     "page_url": "https://www.myer.com.au/c/new-in/sport-new-in/new-in-sport-active",
     "file_name": "Australia_Myer_New_Sport_New|sp|Activewear"
@@ -335,7 +324,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Sport",
+    "category": "Sports",
     "page": "New Fitness & Gym Equipment",
     "page_url": "https://www.myer.com.au/c/new-in/sport-new-in/new-in-gym-equipment",
     "file_name": "Australia_Myer_New_Sport_New|sp|Fitness|sp||as||sp|Gym|sp|Equipment"
@@ -346,7 +335,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Sport",
+    "category": "Sports",
     "page": "New Recovery & Wellness",
     "page_url": "https://www.myer.com.au/c/new-in/sport-new-in/new-in-recovery--wellness",
     "file_name": "Australia_Myer_New_Sport_New|sp|Recovery|sp||as||sp|Wellness"
@@ -357,7 +346,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Sport",
+    "category": "Sports",
     "page": "New Fan Gear",
     "page_url": "https://www.myer.com.au/c/new-in/sport-new-in/new-in-fan--gear",
     "file_name": "Australia_Myer_New_Sport_New|sp|Fan|sp|Gear"
@@ -368,7 +357,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Sport",
+    "category": "Sports",
     "page": "New Bikes & Scooters",
     "page_url": "https://www.myer.com.au/c/new-in/sport-new-in/new-in-bikes-scooters",
     "file_name": "Australia_Myer_New_Sport_New|sp|Bikes|sp||as||sp|Scooters"
@@ -379,7 +368,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Sport",
+    "category": "Sports",
     "page": "New Sport & Play",
     "page_url": "https://www.myer.com.au/c/new-in/sport-new-in/new-in-sport--play",
     "file_name": "Australia_Myer_New_Sport_New|sp|Sport|sp||as||sp|Play"
@@ -500,7 +489,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Women's Mid Season Sale",
+    "category": "Womens Mid Season Sale",
     "page": "Women's Mid Season Sale",
     "page_url": "https://www.myer.com.au/c/women/womens-sale--1",
     "file_name": "Australia_Myer_Women_Women|sq|s|sp|Mid|sp|Season|sp|Sale_Women|sq|s|sp|Mid|sp|Season|sp|Sale"
@@ -544,7 +533,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/women/women-occassions",
     "file_name": "Australia_Myer_Women_Now|sp|Trending_Now|sp|Trending"
@@ -555,7 +544,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Multi-Buy Offers",
+    "category": "Multi Buy Offers",
     "page": "Multi-Buy Offers",
     "page_url": "https://www.myer.com.au/c/women/women-multi-buys",
     "file_name": "Australia_Myer_Women_Multi|h|Buy|sp|Offers_Multi|h|Buy|sp|Offers"
@@ -808,7 +797,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Lingerie & Sleepwear",
     "page_url": "https://www.myer.com.au/c/women/lingerie",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Lingerie|sp||as||sp|Sleepwear"
@@ -819,7 +808,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Bras",
     "page_url": "https://www.myer.com.au/c/women/lingerie/bras",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Bras"
@@ -830,7 +819,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Briefs",
     "page_url": "https://www.myer.com.au/c/women/lingerie/briefs",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Briefs"
@@ -841,7 +830,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Sleepwear & Robes",
     "page_url": "https://www.myer.com.au/c/women/lingerie/sleepwear-robes",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Sleepwear|sp||as||sp|Robes"
@@ -852,7 +841,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Shapewear",
     "page_url": "https://www.myer.com.au/c/women/lingerie/shapewear-accessories",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Shapewear"
@@ -863,7 +852,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Hosiery & Socks",
     "page_url": "https://www.myer.com.au/c/women/lingerie/hosiery-socks",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Hosiery|sp||as||sp|Socks"
@@ -874,7 +863,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Camisoles & Slips",
     "page_url": "https://www.myer.com.au/c/women/lingerie/camisoles-slips",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Camisoles|sp||as||sp|Slips"
@@ -885,7 +874,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Lingerie Sets & Bodysuits",
     "page_url": "https://www.myer.com.au/c/women/lingerie/lingerie-sets-1",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Lingerie|sp|Sets|sp||as||sp|Bodysuits"
@@ -896,7 +885,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Thermals",
     "page_url": "https://www.myer.com.au/c/women/lingerie/thermals",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Thermals"
@@ -907,7 +896,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Lingerie & Sleepwear",
+    "category": "Lingerie",
     "page": "Accessories",
     "page_url": "https://www.myer.com.au/c/women/lingerie/corsets---accessories",
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Accessories"
@@ -1281,7 +1270,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Men",
-    "category": "Men's Mid Season Sale",
+    "category": "Sale",
     "page": "Men's Mid Season Sale",
     "page_url": "https://www.myer.com.au/c/men/mens-sale--1",
     "file_name": "Australia_Myer_Men_Men|sq|s|sp|Mid|sp|Season|sp|Sale_Men|sq|s|sp|Mid|sp|Season|sp|Sale"
@@ -1336,7 +1325,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Men",
-    "category": "Multi-Buy Offers",
+    "category": "Multi Buy Offers",
     "page": "Multi-Buy Offers",
     "page_url": "https://www.myer.com.au/c/men/multi-buy-offers",
     "file_name": "Australia_Myer_Men_Multi|h|Buy|sp|Offers_Multi|h|Buy|sp|Offers"
@@ -1347,7 +1336,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Men",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/men/inspiration",
     "file_name": "Australia_Myer_Men_Now|sp|Trending_Now|sp|Trending"
@@ -1952,7 +1941,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-trends",
     "file_name": "Australia_Myer_Beauty_Now|sp|Trending_Now|sp|Trending"
@@ -2041,9 +2030,9 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Top Brands",
-    "page": "Est\u00e9e Lauder",
+    "page": "Estee Lauder",
     "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/featured-brand-estee-lauder",
-    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Est\u00e9e|sp|Lauder"
+    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Estee|sp|Lauder"
   },
   {
     "country": "Australia",
@@ -2535,8 +2524,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Books, Stationery & Gifting",
-    "page": "Books, Stationery & Gifting",
+    "category": "Books & Stationery",
+    "page": "Books & Stationery",
     "page_url": "https://www.myer.com.au/c/home/stationery-1",
     "file_name": "Australia_Myer_Home_Books,|sp|Stationery|sp||as||sp|Gifting_Books,|sp|Stationery|sp||as||sp|Gifting"
   },
@@ -2568,7 +2557,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Luggage & Travel Goods",
+    "category": "Travel Goods",
     "page": "Luggage & Travel Goods",
     "page_url": "https://www.myer.com.au/c/home/luggage-travel-goods",
     "file_name": "Australia_Myer_Home_Luggage|sp||as||sp|Travel|sp|Goods_Luggage|sp||as||sp|Travel|sp|Goods"
@@ -2579,7 +2568,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/home/home-inspiration",
     "file_name": "Australia_Myer_Home_Now|sp|Trending_Now|sp|Trending"
@@ -2953,10 +2942,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
-    "page": "Home D\u00e9cor",
+    "category": "Decor",
+    "page": "Home Decor",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Home|sp|D\u00e9cor"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Home|sp|Decor"
   },
   {
     "country": "Australia",
@@ -2964,10 +2953,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Photo Frames & Albums",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/photo-frames-albums",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Photo|sp|Frames|sp||as||sp|Albums"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Photo|sp|Frames|sp||as||sp|Albums"
   },
   {
     "country": "Australia",
@@ -2975,10 +2964,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Candles & Home Fragrance",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/home-fragrance--",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Candles|sp||as||sp|Home|sp|Fragrance"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Candles|sp||as||sp|Home|sp|Fragrance"
   },
   {
     "country": "Australia",
@@ -2986,10 +2975,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Botanicals, Artificial Flowers & Planters",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/botanicals-artificial-flowers",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Botanicals,|sp|Artificial|sp|Flowers|sp||as||sp|Planters"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Botanicals,|sp|Artificial|sp|Flowers|sp||as||sp|Planters"
   },
   {
     "country": "Australia",
@@ -2997,10 +2986,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Vases & Planters",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/vases",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Vases|sp||as||sp|Planters"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Vases|sp||as||sp|Planters"
   },
   {
     "country": "Australia",
@@ -3008,10 +2997,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Cushions & Throws",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/cushions",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Cushions|sp||as||sp|Throws"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Cushions|sp||as||sp|Throws"
   },
   {
     "country": "Australia",
@@ -3019,10 +3008,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Baskets & Storage",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/baskets---storage",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Baskets|sp||as||sp|Storage"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Baskets|sp||as||sp|Storage"
   },
   {
     "country": "Australia",
@@ -3030,10 +3019,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Wall Art, Mirrors & Clocks",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/wall-art--1",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Wall|sp|Art,|sp|Mirrors|sp||as||sp|Clocks"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Wall|sp|Art,|sp|Mirrors|sp||as||sp|Clocks"
   },
   {
     "country": "Australia",
@@ -3041,10 +3030,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Lighting",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/lighting-1",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Lighting"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Lighting"
   },
   {
     "country": "Australia",
@@ -3052,10 +3041,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Decor",
     "page": "Rugs",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/rugs--1",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Rugs"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Rugs"
   },
   {
     "country": "Australia",
@@ -3144,17 +3133,6 @@
     "page": "All Sport",
     "page_url": "https://www.myer.com.au/c/sport",
     "file_name": "Australia_Myer_Sport_All|sp|Sport_All|sp|Sport"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Sports",
-    "category": "Sport Mid Season Sale",
-    "page": "Sport Mid Season Sale",
-    "page_url": "https://www.myer.com.au/c/sport/sport-sale--1",
-    "file_name": "Australia_Myer_Sport_Sport|sp|Mid|sp|Season|sp|Sale_Sport|sp|Mid|sp|Season|sp|Sale"
   },
   {
     "country": "Australia",
@@ -3547,7 +3525,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Kids Mid Season Sale",
+    "category": "Sale",
     "page": "Kids Mid Season Sale",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-sale--1",
     "file_name": "Australia_Myer_Kids_Kids|sp|Mid|sp|Season|sp|Sale_Kids|sp|Mid|sp|Season|sp|Sale"
@@ -3569,7 +3547,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Tween (8-16 years)",
+    "category": "Tween 8-16 Years",
     "page": "Tween (8-16 years)",
     "page_url": "https://www.myer.com.au/c/kidsbaby/tween",
     "file_name": "Australia_Myer_Kids_Tween|sp|(8|h|16|sp|years)_Tween|sp|(8|h|16|sp|years)"
@@ -3624,7 +3602,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Multi-Buy Offers",
+    "category": "Multi Buy Offers",
     "page": "Multi-Buy Offers",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-essentials",
     "file_name": "Australia_Myer_Kids_Multi|h|Buy|sp|Offers_Multi|h|Buy|sp|Offers"
@@ -3635,7 +3613,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-trends",
     "file_name": "Australia_Myer_Kids_Now|sp|Trending_Now|sp|Trending"
@@ -3646,7 +3624,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Babywear (0-2 years)",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Babywear|sp|(0|h|2|sp|years)"
@@ -3657,7 +3635,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Coveralls & Rompers",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/coveralls-rompers",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Coveralls|sp||as||sp|Rompers"
@@ -3668,7 +3646,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Dresses",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/dresses-732726-1",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Dresses"
@@ -3679,7 +3657,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Sets",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/sets-747611-1",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Sets"
@@ -3690,7 +3668,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Shirts & T-Shirts",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/kids-babywear-t-shirts",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Shirts|sp||as||sp|T|h|Shirts"
@@ -3701,7 +3679,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Bottoms",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/bottoms-babywear",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Bottoms"
@@ -3712,7 +3690,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Baby Swimwear",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/swim-794606-1",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Baby|sp|Swimwear"
@@ -3723,7 +3701,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Baby Sleepwear",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/baby-sleepwear",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Baby|sp|Sleepwear"
@@ -3734,7 +3712,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Baby Shoes",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/kids-babywear-shoes",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Baby|sp|Shoes"
@@ -3745,7 +3723,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Knitwear & Sweat Tops",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/knitwear-sweat-tops-babywear",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Knitwear|sp||as||sp|Sweat|sp|Tops"
@@ -3756,7 +3734,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Coats & Jackets",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/coats-jackets-732728-1",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Coats|sp||as||sp|Jackets"
@@ -3767,7 +3745,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Babywear (0-2 years)",
+    "category": "Babywear 0-2 Years",
     "page": "Underwear, Socks & Tights",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-babywear/baby-underwear-socks",
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Underwear,|sp|Socks|sp||as||sp|Tights"
@@ -3778,7 +3756,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Girls (3-16 years)",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|(3|h|16|sp|years)"
@@ -3789,7 +3767,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Dresses & Playsuits",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/dresses-playsuits-girls",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Dresses|sp||as||sp|Playsuits"
@@ -3800,7 +3778,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Tops & T-Shirts",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/kids-girls-tops-tees",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Tops|sp||as||sp|T|h|Shirts"
@@ -3811,7 +3789,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Skirts & Shorts",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/girls-skirts-short",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Skirts|sp||as||sp|Shorts"
@@ -3822,7 +3800,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Girls Swimwear",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/kids-girls-swim",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|Swimwear"
@@ -3833,7 +3811,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Girls Sleepwear",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/girls-sleepwear-sleep",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|Sleepwear"
@@ -3844,7 +3822,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Girls Shoes",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/kids-girls-shoes",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|Shoes"
@@ -3855,7 +3833,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Knitwear & Sweat Tops",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/knitwear-sweat-tops-girls",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Knitwear|sp||as||sp|Sweat|sp|Tops"
@@ -3866,7 +3844,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Coats & Jackets",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/kids-girls-coats-jackets",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Coats|sp||as||sp|Jackets"
@@ -3877,7 +3855,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Pants",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/kids-girls-pants",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Pants"
@@ -3888,7 +3866,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Girls (3-16 years)",
+    "category": "Girls 3-16 Years",
     "page": "Underwear, Socks & Tights",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-girls/girls-underwear-socks",
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Underwear,|sp|Socks|sp||as||sp|Tights"
@@ -3899,7 +3877,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Boys (3-16 years)",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|(3|h|16|sp|years)"
@@ -3910,7 +3888,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "T-Shirts & Polos",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/kids-boys-shirts-tshirts",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_T|h|Shirts|sp||as||sp|Polos"
@@ -3921,7 +3899,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Shorts",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/kids-boys-shorts",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Shorts"
@@ -3932,7 +3910,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Shirts",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/shirts-826097-1",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Shirts"
@@ -3943,7 +3921,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Boys Sleepwear",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/boys-sleepwear-sleep",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|Sleepwear"
@@ -3954,7 +3932,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Boys Swimwear",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/kids-boys-swim",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|Swimwear"
@@ -3965,7 +3943,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Boys Shoes",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/kids-boys-shoes",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|Shoes"
@@ -3976,7 +3954,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Pants",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/kids-boys-pants",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Pants"
@@ -3987,7 +3965,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Knitwear & Sweat Tops",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/knitwear-sweat-tops-boys",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Knitwear|sp||as||sp|Sweat|sp|Tops"
@@ -3998,7 +3976,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Coats & Jackets",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/kids-boys-coats-jackets",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Coats|sp||as||sp|Jackets"
@@ -4009,7 +3987,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Boys (3-16 years)",
+    "category": "Boys 3-16 Years",
     "page": "Underwear & Socks",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-boys/boys-underwear-socks",
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Underwear|sp||as||sp|Socks"

@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.pt/novidades/todas-as-novidades/maquilhagem-nc302/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_NEWS_NEWS"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "EYES",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos-c343/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_EYES"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "palettes",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos/paletas-c258701/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_palettes"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyelash mask",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos/mascara-de-pestanas-c366/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_eyelash|sp|mask"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "shadows",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos/sombras-c363/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_shadows"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "eyeliner",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos/eyeliner-c7667/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_eyeliner"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "Eye pencil",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos/lapis-de-olhos-c365/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_Eye|sp|pencil"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "primer",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos/primer-c109101/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_primer"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "EYES",
+    "category": "Eyes",
     "page": "false eyelashes",
     "page_url": "https://www.sephora.pt/maquilhagem/olhos/pestanas-posticas-c7668/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_false|sp|eyelashes"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "LIPS",
     "page_url": "https://www.sephora.pt/maquilhagem/labios-c344/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_LIPS"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "eyeliners",
     "page_url": "https://www.sephora.pt/maquilhagem/labios/delineadores-c373/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_eyeliners"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "lipsticks",
     "page_url": "https://www.sephora.pt/maquilhagem/labios/batons-c371/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_lipsticks"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "balms",
     "page_url": "https://www.sephora.pt/maquilhagem/labios/balsamos-c7669/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_balms"
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "LIPS",
+    "category": "Lips",
     "page": "Gloss",
     "page_url": "https://www.sephora.pt/maquilhagem/labios/gloss-c372/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_Gloss"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "NAILS",
+    "category": "Nails",
     "page": "NAILS",
     "page_url": "https://www.sephora.pt/maquilhagem/unhas-c345/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_NAILS_NAILS"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatment",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.pt/novidades/todas-as-novidades/tratamento-nc303/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_NEWS_NEWS"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatment",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "MASKS",
     "page_url": "https://www.sephora.pt/tratamento/mascaras-c7685/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_MASKS"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatment",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Cream Mask",
     "page_url": "https://www.sephora.pt/tratamento/mascaras/mascara-em-creme-c313704/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_Cream|sp|Mask"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatment",
-    "category": "MASKS",
+    "category": "Masks",
     "page": "Fabric Mask",
     "page_url": "https://www.sephora.pt/tratamento/mascaras/mascara-de-tecido-c313703/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_Fabric|sp|Mask"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfume",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.pt/novidades/todas-as-novidades/perfumes-nc301/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_NEWS_NEWS"
@@ -1557,9 +1557,9 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfume",
     "category": "OLFACTORY NOTES",
-    "page": "Poudr\u00e9 perfume",
+    "page": "Poudre perfume",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas/perfume-poudre-c297824/",
-    "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Poudr\u00e9|sp|perfume"
+    "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Poudre|sp|perfume"
   },
   {
     "country": "Portugal",
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.pt/novidades/todas-as-novidades/cabelo-nc307/",
     "file_name": "Portugal_Sephora_PT_HAIR_NEWS_NEWS"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY",
+    "category": "Body",
     "page": "BODY",
     "page_url": "https://www.sephora.pt/corpo-c304/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY_BODY"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.pt/novidades/todas-as-novidades/corpo-nc304/",
     "file_name": "Portugal_Sephora_PT_BODY_NEWS_NEWS"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo-c298002/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_BODY|sp|CARE"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Creams & Lotions",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/cremes-locoes-c426/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Creams|sp||as||sp|Lotions"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Hands",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/maos-c431/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Hands"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Exfoliators & Peels",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/esfoliantes-peelings-c482/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Exfoliators|sp||as||sp|Peels"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Feet",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/pes-c7752/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Feet"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "oils",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/oleos-c479/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_oils"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "mists",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/brumas-c432/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_mists"
@@ -2348,7 +2348,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "Moisturizing Milk",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/leite-hidratante-c298003/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Moisturizing|sp|Milk"
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "neckline and bust",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/decote-e-busto-c430/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_neckline|sp|and|sp|bust"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY CARE",
+    "category": "Body Care",
     "page": "deodorants",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/desodorizantes-c429/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_deodorants"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "SUN CARE",
     "page_url": "https://www.sephora.pt/corpo/cuidados-com-o-sol-c7784/",
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_SUN|sp|CARE"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "Self-tanning & Bronzers",
     "page_url": "https://www.sephora.pt/corpo/cuidados-com-o-sol/autobronzeadores-bronzeadores-c7786/",
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_Self|h|tanning|sp||as||sp|Bronzers"
@@ -2414,7 +2414,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "sunscreens",
     "page_url": "https://www.sephora.pt/corpo/cuidados-com-o-sol/protetores-solares-c7785/",
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_sunscreens"
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "SUN CARE",
+    "category": "Sun Care",
     "page": "after sun",
     "page_url": "https://www.sephora.pt/corpo/cuidados-com-o-sol/after-sun-c7783/",
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_after|sp|sun"
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "New",
-    "category": "NEWS",
+    "category": "New",
     "page": "NEWS",
     "page_url": "https://www.sephora.pt/new-products.html",
     "file_name": "Portugal_Sephora_PT_NEWS_NEWS_NEWS"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "GOOD FOR",
-    "category": "Vegan Makeup",
+    "category": "Vegan",
     "page": "Vegan Makeup",
     "page_url": "https://www.sephora.pt/good-for-makeup-maquilhagem-vegan/",
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Vegan|sp|Makeup_Vegan|sp|Makeup"
