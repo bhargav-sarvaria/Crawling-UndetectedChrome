@@ -10,6 +10,8 @@ proxies_file = './chrome/proxies/proxies.txt'
 extension_folder = './chrome/extensions/'
 TOTAL_PROXIES = 50
 
+PREFS = {'profile.default_content_setting_values': {'images': 2, 'plugins': 2, 'popups': 2, 'geolocation': 1, 'notifications': 2, 'auto_select_certificate': 2, 'media_stream': 2, 'ppapi_broker': 2,  'app_banner': 2, 'site_engagement': 2 } }
+
 class Driver:
     def __init__(self):
         self.proxy_index = 0
@@ -38,6 +40,8 @@ class Driver:
             opt.add_argument("--disable-notifications")
             opt.add_argument("--disable-media-stream")
             opt.add_argument("--enable-strict-powerful-feature-restrictions")
+            opt.add_experimental_option("prefs", PREFS)
+
             if use_proxy:
                 proxy = self.getProxy()
                 opt.add_argument('--proxy-server=%s' % proxy)
@@ -58,7 +62,7 @@ class Driver:
             else:
                 opt.add_argument(extensions)
 
-            driver = uc.Chrome(options = opt, use_subprocess=True)
+            driver = uc.ChromeWithPrefs(options = opt, use_subprocess=True)
             driver.set_page_load_timeout(10)
 
             if hoxx:
@@ -110,4 +114,4 @@ class Driver:
             return driver
         except Exception as e:
             print(e)
-        return None
+        return None   
