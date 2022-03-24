@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.it/Make-up/index_03.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.it/Make-up/Accessori/index_0310.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_ACCESSORIES_ACCESSORIES"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Face",
     "page_url": "https://www.douglas.it/Make-up/Accessori/Viso/index_031001.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_ACCESSORIES_Face"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Eyes",
     "page_url": "https://www.douglas.it/Make-up/Accessori/Occhi/index_031002.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_ACCESSORIES_Eyes"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Lip",
     "page_url": "https://www.douglas.it/Make-up/Accessori/Labbra/index_031003.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_ACCESSORIES_Lip"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Make-up/Accessori/index_0310.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_ACCESSORIES_\"|sp|All|sp|the|sp|categories"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.it/Capelli/index_18.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR_HAIR"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.it/Capelli/Cura-dei-Capelli/index_1802.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.douglas.it/Capelli/Cura-dei-Capelli/Shampoo/index_180201.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|CARE_Shampoo"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Balm & Creams",
     "page_url": "https://www.douglas.it/Capelli/Cura-dei-Capelli/Balsamo-%26-Creme/index_180211.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|CARE_Balm|sp||as||sp|Creams"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Wraps & Masks",
     "page_url": "https://www.douglas.it/Capelli/Cura-dei-Capelli/Impacchi-%26-Maschere/index_180212.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|CARE_Wraps|sp||as||sp|Masks"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Capelli/Cura-dei-Capelli/index_1802.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|CARE_\"|sp|All|sp|the|sp|categories"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.douglas.it/Capelli/Styling/index_1803.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING_STYLING"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Gels & Waxes",
     "page_url": "https://www.douglas.it/Capelli/Styling/Gel-%26-Cere/index_180308.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING_Gels|sp||as||sp|Waxes"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Mousse",
     "page_url": "https://www.douglas.it/Capelli/Styling/Mousse/index_180300.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING_Mousse"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Hair creams",
     "page_url": "https://www.douglas.it/Capelli/Styling/Creme-Capelli/index_180301.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING_Hair|sp|creams"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Capelli/Styling/index_1803.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING_\"|sp|All|sp|the|sp|categories"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Accessories",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.it/Accessori/index_35.html",
     "file_name": "Italy_DOUGLAS_IT_ACCESSORIES_ACCESSORIES_ACCESSORIES"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Announcements",
-    "category": "ANNOUNCEMENTS",
+    "category": "Announcements",
     "page": "ANNOUNCEMENTS",
     "page_url": "https://www.douglas.it/Novit%C3%A0/index_09.html",
     "file_name": "Italy_DOUGLAS_IT_ANNOUNCEMENTS_ANNOUNCEMENTS_ANNOUNCEMENTS"

@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "visit skincare",
     "page_url": "https://www.boots.com/beauty/skincare",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_visit|sp|skincare"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "all skincare",
     "page_url": "https://www.boots.com/beauty/skincare/skincare-all-skincare",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_all|sp|skincare"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "vegan skincare",
     "page_url": "https://www.boots.com/beauty/skincare/vegan-skincare-products",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_vegan|sp|skincare"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "new in skincare",
     "page_url": "https://www.boots.com/beauty/skincare/new-in-skincare",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_new|sp|in|sp|skincare"
@@ -2678,7 +2678,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "facial skincare",
     "page_url": "https://www.boots.com/beauty/skincare/facial-skincare",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_facial|sp|skincare"
@@ -2689,7 +2689,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "body skincare",
     "page_url": "https://www.boots.com/beauty/skincare/body-skincare",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_body|sp|skincare"
@@ -2700,7 +2700,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "fake & gradual tan",
     "page_url": "https://www.boots.com/beauty/skincare/fake-gradual-tan",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_fake|sp||as||sp|gradual|sp|tan"
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "female hair removal",
     "page_url": "https://www.boots.com/beauty/skincare/skincare-female-hair-removal",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_female|sp|hair|sp|removal"
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "expert skincare & treatments",
     "page_url": "https://www.boots.com/beauty/skincare/expert-skincare-",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_expert|sp|skincare|sp||as||sp|treatments"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "men's skincare & body",
     "page_url": "https://www.boots.com/beauty/skincare/skincare-body",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_skincare_men|sq|s|sp|skincare|sp||as||sp|body"
@@ -7023,7 +7023,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "visit skincare",
     "page_url": "https://www.boots.com/toiletries/skincare",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_visit|sp|skincare"
@@ -7034,7 +7034,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "all skincare",
     "page_url": "https://www.boots.com/toiletries/skincare/skincare-all-skincare",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_all|sp|skincare"
@@ -7045,7 +7045,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "vegan skincare",
     "page_url": "https://www.boots.com/toiletries/skincare/vegan-skincare-products",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_vegan|sp|skincare"
@@ -7056,7 +7056,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "new in skincare",
     "page_url": "https://www.boots.com/toiletries/skincare/new-in-skincare",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_new|sp|in|sp|skincare"
@@ -7067,7 +7067,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "facial skincare",
     "page_url": "https://www.boots.com/toiletries/skincare/facial-skincare",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_facial|sp|skincare"
@@ -7078,7 +7078,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "body skincare",
     "page_url": "https://www.boots.com/toiletries/skincare/body-skincare",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_body|sp|skincare"
@@ -7089,7 +7089,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "fake & gradual tan",
     "page_url": "https://www.boots.com/toiletries/skincare/fake-gradual-tan",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_fake|sp||as||sp|gradual|sp|tan"
@@ -7100,7 +7100,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "female hair removal",
     "page_url": "https://www.boots.com/toiletries/skincare/skincare-female-hair-removal",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_female|sp|hair|sp|removal"
@@ -7111,7 +7111,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "expert skincare & treatments",
     "page_url": "https://www.boots.com/toiletries/skincare/expert-skincare-",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_expert|sp|skincare|sp||as||sp|treatments"
@@ -7122,7 +7122,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
-    "category": "skincare",
+    "category": "Skincare",
     "page": "men's skincare & body",
     "page_url": "https://www.boots.com/toiletries/skincare/skincare-body",
     "file_name": "United|sp|Kingdom_Boots_toiletries_skincare_men|sq|s|sp|skincare|sp||as||sp|body"

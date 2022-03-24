@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.sephora.pt/maquilhagem-c302/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.pt/cabelo-c307/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_HAIR"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.pt/cabelo/cabelos-c299914/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_HAIR"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "masks",
     "page_url": "https://www.sephora.pt/cabelo/cabelos/mascaras-c299915/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_masks"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Shampoo & Balms",
     "page_url": "https://www.sephora.pt/cabelo/cabelos/shampoo-balsamos-c447/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Shampoo|sp||as||sp|Balms"
@@ -1820,7 +1820,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Treatment",
     "page_url": "https://www.sephora.pt/cabelo/cabelos/tratamento-c448/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Treatment"
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Be careful without going through water",
     "page_url": "https://www.sephora.pt/cabelo/cabelos/cuidado-sem-passar-por-agua-c406/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Be|sp|careful|sp|without|sp|going|sp|through|sp|water"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "dry shampoo",
     "page_url": "https://www.sephora.pt/cabelo/cabelos/champo-seco-c7762/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_dry|sp|shampoo"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Hair Perfumes",
     "page_url": "https://www.sephora.pt/cabelo/cabelos/perfumes-de-cabelo-c299916/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Hair|sp|Perfumes"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.pt/cabelo/acessorios-c453/",
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_ACCESSORIES"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "brushes & combs",
     "page_url": "https://www.sephora.pt/cabelo/acessorios/escovas-pentes-c471/",
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_brushes|sp||as||sp|combs"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "shower cap",
     "page_url": "https://www.sephora.pt/cabelo/acessorios/touca-de-banho-c285802/",
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_shower|sp|cap"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.sephora.pt/cabelo/styling-c454/",
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_STYLING"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Spray",
     "page_url": "https://www.sephora.pt/cabelo/styling/spray-c7767/",
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Spray"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Cream",
     "page_url": "https://www.sephora.pt/cabelo/styling/creme-c299917/",
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Cream"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Gel",
     "page_url": "https://www.sephora.pt/cabelo/styling/gel-c522/",
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Gel"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Mousse",
     "page_url": "https://www.sephora.pt/cabelo/styling/mousse-c7768/",
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Mousse"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.sephora.pt/corpo/casa-c214801/",
     "file_name": "Portugal_Sephora_PT_BODY_HOME_HOME"

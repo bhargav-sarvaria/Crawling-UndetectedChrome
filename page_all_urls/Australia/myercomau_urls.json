@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/women/women-occassions",
     "file_name": "Australia_Myer_Women_Now|sp|Trending_Now|sp|Trending"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Accessories & Watches",
     "page_url": "https://www.myer.com.au/c/women/women-accessories",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Accessories|sp||as||sp|Watches"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Watches & Jewellery",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/watches-jewellery",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Watches|sp||as||sp|Jewellery"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Sunglasses",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/womens-sunglasses",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Sunglasses"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Hats",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/women-hats",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Hats"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Fascinators & Hair Accessories",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/fascinators-racing-hats",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Fascinators|sp||as||sp|Hair|sp|Accessories"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Scarves, Gloves & Wraps",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/scarves-wraps",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Scarves,|sp|Gloves|sp||as||sp|Wraps"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Belts",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/belts",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Belts"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Face Masks",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/face-masks",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Face|sp|Masks"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Umbrellas",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/umbrellas",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Umbrellas"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Phone Cases & Accessories",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/phone-cases--1",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Phone|sp|Cases|sp||as||sp|Accessories"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Accessories & Watches",
+    "category": "Accessories",
     "page": "Reading Glasses",
     "page_url": "https://www.myer.com.au/c/women/women-accessories/reading-glasses",
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Reading|sp|Glasses"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Men",
-    "category": "Men's Grooming & Cologne",
+    "category": "Mens Grooming",
     "page": "Men's Grooming & Cologne",
     "page_url": "https://www.myer.com.au/c/men/grooming-men",
     "file_name": "Australia_Myer_Men_Men|sq|s|sp|Grooming|sp||as||sp|Cologne_Men|sq|s|sp|Grooming|sp||as||sp|Cologne"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Men",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/men/inspiration",
     "file_name": "Australia_Myer_Men_Now|sp|Trending_Now|sp|Trending"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Men's Grooming & Cologne",
+    "category": "Mens Grooming",
     "page": "Men's Grooming & Cologne",
     "page_url": "https://www.myer.com.au/c/beauty/all-mens-grooming",
     "file_name": "Australia_Myer_Beauty_Men|sq|s|sp|Grooming|sp||as||sp|Cologne_Men|sq|s|sp|Grooming|sp||as||sp|Cologne"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Hair Care",
+    "category": "Haircare",
     "page": "Hair Care",
     "page_url": "https://www.myer.com.au/c/beauty/hair-care",
     "file_name": "Australia_Myer_Beauty_Hair|sp|Care_Hair|sp|Care"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Best Sellers",
+    "category": "Bestsellers",
     "page": "Best Sellers",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-best-sellers",
     "file_name": "Australia_Myer_Beauty_Best|sp|Sellers_Best|sp|Sellers"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-trends",
     "file_name": "Australia_Myer_Beauty_Now|sp|Trending_Now|sp|Trending"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup",
     "page_url": "https://www.myer.com.au/c/beauty/makeup",
     "file_name": "Australia_Myer_Beauty_Makeup_Makeup"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.myer.com.au/c/beauty/makeup/lips",
     "file_name": "Australia_Myer_Beauty_Makeup_Lips"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Face",
     "page_url": "https://www.myer.com.au/c/beauty/makeup/face",
     "file_name": "Australia_Myer_Beauty_Makeup_Face"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.myer.com.au/c/beauty/makeup/eyes",
     "file_name": "Australia_Myer_Beauty_Makeup_Eyes"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyebrows",
     "page_url": "https://www.myer.com.au/c/beauty/makeup/brows",
     "file_name": "Australia_Myer_Beauty_Makeup_Eyebrows"
@@ -2348,7 +2348,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Nails",
     "page_url": "https://www.myer.com.au/c/beauty/makeup/nails",
     "file_name": "Australia_Myer_Beauty_Makeup_Nails"
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Brushes, Bags & Tools",
     "page_url": "https://www.myer.com.au/c/beauty/makeup/makeup-tools-accessories",
     "file_name": "Australia_Myer_Beauty_Makeup_Brushes,|sp|Bags|sp||as||sp|Tools"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Palettes & Sets",
     "page_url": "https://www.myer.com.au/c/beauty/makeup/palettes",
     "file_name": "Australia_Myer_Beauty_Makeup_Palettes|sp||as||sp|Sets"
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Gift|sp|Sets"
@@ -2436,7 +2436,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Women's Fragrance Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets/gift-sets-womens-fragrance",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Women|sq|s|sp|Fragrance|sp|Gift|sp|Sets"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Men's Grooming & Fragrance Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets/gift-sets-mens-fragrance",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Men|sq|s|sp|Grooming|sp||as||sp|Fragrance|sp|Gift|sp|Sets"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Skincare Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets/gift-sets-skincare",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Skincare|sp|Gift|sp|Sets"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Make Up Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets/gift-sets-make-up",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Make|sp|Up|sp|Gift|sp|Sets"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Candles & Home Fragrance Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets/gift-sets-home-fragrance",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Candles|sp||as||sp|Home|sp|Fragrance|sp|Gift|sp|Sets"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Bath & Body Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets/gift-sets-bath-body",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Bath|sp||as||sp|Body|sp|Gift|sp|Sets"
@@ -2579,7 +2579,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/home/home-inspiration",
     "file_name": "Australia_Myer_Home_Now|sp|Trending_Now|sp|Trending"
@@ -3635,7 +3635,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Kids",
-    "category": "Now Trending",
+    "category": "Trending",
     "page": "Now Trending",
     "page_url": "https://www.myer.com.au/c/kidsbaby/kids-trends",
     "file_name": "Australia_Myer_Kids_Now|sp|Trending_Now|sp|Trending"
@@ -4878,7 +4878,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts by Interest",
+    "category": "By Interest",
     "page": "Gifts by Interest",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-for-the-family--1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|by|sp|Interest_Gifts|sp|by|sp|Interest"
@@ -4955,7 +4955,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Gifts by Price",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-by-price",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|by|sp|Price"
@@ -4966,7 +4966,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Gifts for Him",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Gifts|sp|for|sp|Him"
@@ -4977,7 +4977,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Accessories Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/accessories-765559-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Accessories|sp|Gifts"
@@ -4988,7 +4988,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Cologne & Grooming Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/grooming--1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Cologne|sp||as||sp|Grooming|sp|Gifts"
@@ -4999,7 +4999,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Home & Tech Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/home-entertainment--1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Home|sp||as||sp|Tech|sp|Gifts"
@@ -5010,7 +5010,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Toys & Novelty Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/novelty-toys-gifts-for-him",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Toys|sp||as||sp|Novelty|sp|Gifts"
@@ -5021,7 +5021,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Eating & Drinking Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/gifts-eating-drinking",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Eating|sp||as||sp|Drinking|sp|Gifts"
@@ -5032,7 +5032,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Underwear, Sleepwear & Socks Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/underwear-socks-765557-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Underwear,|sp|Sleepwear|sp||as||sp|Socks|sp|Gifts"
@@ -5043,7 +5043,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Him",
+    "category": "For Him",
     "page": "Health & Wellness Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/health-fitness-gifts-for-him",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Health|sp||as||sp|Wellness|sp|Gifts"
@@ -5054,7 +5054,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Gifts for Her",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Gifts|sp|for|sp|Her"
@@ -5065,7 +5065,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Perfume & Beauty Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/beauty-763051-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Perfume|sp||as||sp|Beauty|sp|Gifts"
@@ -5076,7 +5076,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Lingerie & Sleepwear Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/sleepwear-lingerie",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Lingerie|sp||as||sp|Sleepwear|sp|Gifts"
@@ -5087,7 +5087,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Health & Wellness Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/health-wellness",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Health|sp||as||sp|Wellness|sp|Gifts"
@@ -5098,7 +5098,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Home & Tech Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/home-entertaining",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Home|sp||as||sp|Tech|sp|Gifts"
@@ -5109,7 +5109,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Watches & Accessories Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/accessories-gifts",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Watches|sp||as||sp|Accessories|sp|Gifts"
@@ -5120,7 +5120,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Candles & Home Fragrance Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/candles-home-fragrances-763055-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Candles|sp||as||sp|Home|sp|Fragrance|sp|Gifts"
@@ -5131,7 +5131,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Her",
+    "category": "For Her",
     "page": "Handbags & Wallets Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/handbags-wallets-gifts",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Handbags|sp||as||sp|Wallets|sp|Gifts"
@@ -5142,7 +5142,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Gifts for Kids",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-kids",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Gifts|sp|for|sp|Kids"
@@ -5153,7 +5153,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Toy Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-kids/gifts-kids-toys",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Toy|sp|Gifts"
@@ -5164,7 +5164,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Girls (3-16 years) Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-kids/gifts-kids-girls",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Girls|sp|(3|h|16|sp|years)|sp|Gifts"
@@ -5175,7 +5175,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Boys (3-16 years) Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-kids/gifts-kids-boys",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Boys|sp|(3|h|16|sp|years)|sp|Gifts"
@@ -5186,7 +5186,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Baby (0-2 years) Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-kids/gifts-kids-baby",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Baby|sp|(0|h|2|sp|years)|sp|Gifts"
@@ -5197,7 +5197,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Nursery Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-kids/gift-kids-nursery",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Nursery|sp|Gifts"

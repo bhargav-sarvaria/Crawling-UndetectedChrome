@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje-c302/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatment",
-    "category": "GIFT IDEAS",
+    "category": "Gifts",
     "page": "GIFT IDEAS",
     "page_url": "https://www.sephora.es/tratamiento/ideas-de-regalo-ideas-regalo-tratamiento/",
     "file_name": "Spain_Sephora_ES_TREATMENT_GIFT|sp|IDEAS_GIFT|sp|IDEAS"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "FRAGRANCE",
+    "category": "Fragrance",
     "page": "FRAGRANCE",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume-c301/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_FRAGRANCE_FRAGRANCE"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello-c307/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR_HAIR"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello-c299914/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair mask",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello/mascarilla-cabello-c299915/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_hair|sp|mask"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello/champu-c447/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_Shampoo"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioner",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello/acondicionador-c448/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_Conditioner"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Care without rinsing",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello/cuidado-sin-aclarado-c406/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_Care|sp|without|sp|rinsing"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair oil",
     "page_url": "https://www.sephora.es/c369703/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_hair|sp|oil"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "dry shampoo",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello/champu-seco-c7762/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_dry|sp|shampoo"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair perfume",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello/perfume-cabello-c299916/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_hair|sp|perfume"

@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.sephora.de/shop/koerper-bad/home-c214801/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_HOME_HOME"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.de/shop/haare-c307/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR_HAIR"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.de/shop/haare/accessoires-c453/",
     "file_name": "Germany_Sephora_DE_HAIR_ACCESSORIES_ACCESSORIES"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "hair straighteners and curling irons",
     "page_url": "https://www.sephora.de/shop/haare/accessoires/glaetteisen-und-lockenstab-c5231/",
     "file_name": "Germany_Sephora_DE_HAIR_ACCESSORIES_hair|sp|straighteners|sp|and|sp|curling|sp|irons"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "hair dryer",
     "page_url": "https://www.sephora.de/shop/haare/accessoires/haartrockner-c7744/",
     "file_name": "Germany_Sephora_DE_HAIR_ACCESSORIES_hair|sp|dryer"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "towels",
     "page_url": "https://www.sephora.de/shop/haare/accessoires/handtuecher-c285802/",
     "file_name": "Germany_Sephora_DE_HAIR_ACCESSORIES_towels"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Brushes & Combs",
     "page_url": "https://www.sephora.de/shop/haare/accessoires/buersten-kaemme-c471/",
     "file_name": "Germany_Sephora_DE_HAIR_ACCESSORIES_Brushes|sp||as||sp|Combs"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "hair accessories",
     "page_url": "https://www.sephora.de/shop/haare/accessoires/haar-accessoires-c472/",
     "file_name": "Germany_Sephora_DE_HAIR_ACCESSORIES_hair|sp|accessories"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege-c299914/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Leave-in treatment",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/leave-in-behandlung-c406/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_Leave|h|in|sp|treatment"
@@ -2678,7 +2678,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "shampoo",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/shampoo-c447/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_shampoo"
@@ -2689,7 +2689,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair conditioner",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/conditioner-c448/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_hair|sp|conditioner"
@@ -2700,7 +2700,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair mask",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/haarmaske-c299915/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_hair|sp|mask"
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair perfume",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/haarparfuem-c299916/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_hair|sp|perfume"
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair oil",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/haar-oel-c369703/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_hair|sp|oil"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair color",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/haarfarbe-c523/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_Hair|sp|color"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "dry shampoo",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/trockenshampoo-c7762/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_dry|sp|shampoo"

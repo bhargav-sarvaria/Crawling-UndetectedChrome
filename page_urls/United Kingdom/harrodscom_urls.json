@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "All Accessories",
     "page_url": "https://www.harrods.com/en-gb/shopping/women-accessories?icid=megamenu_shop_women_accessories_all-accessories",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_All|sp|Accessories"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Bags",
     "page_url": "https://www.harrods.com/en-gb/shopping/women-bags?icid=megamenu_shop_women_accessories_bags",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_Bags"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Belts",
     "page_url": "https://www.harrods.com/en-gb/shopping/women-accessories-belts?icid=megamenu_shop_women_accessories_belts",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_Belts"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Hats",
     "page_url": "https://www.harrods.com/en-gb/shopping/women-accessories-hats?icid=megamenu_shop_women_accessories_hats",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_Hats"
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Luggage",
     "page_url": "https://www.harrods.com/en-gb/shopping/luggage?icid=megamenu_shop_women_accessories_luggage",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_Luggage"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Scarves",
     "page_url": "https://www.harrods.com/en-gb/shopping/women-accessories-scarves?icid=megamenu_shop_women_accessories_scarves",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_Scarves"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Sunglasses",
     "page_url": "https://www.harrods.com/en-gb/shopping/women-accessories-sunglasses?icid=megamenu_shop_women_accessories_sunglasses",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_Sunglasses"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Wallets & Purses",
     "page_url": "https://www.harrods.com/en-gb/shopping/women-accessories-wallets-purses?icid=megamenu_shop_women_accessories_wallets-purses",
     "file_name": "United|sp|Kingdom_Harrods_Women_ACCESSORIES_Wallets|sp||as||sp|Purses"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Bestsellers",
     "page_url": "https://www.harrods.com/en-gb/sets/women-bestsellers?icid=megamenu_shop_women_edits-inspiration_bestsellers",
     "file_name": "United|sp|Kingdom_Harrods_Women_EDITS|sp||as||sp|INSPIRATION_Bestsellers"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "2022 Fashion Staples",
     "page_url": "https://www.harrods.com/en-gb/stories/capsule-wardrobe-fashion-staples?icid=megamenu_shop_women_edits-inspiration_2022-fashion-staples",
     "file_name": "United|sp|Kingdom_Harrods_Women_EDITS|sp||as||sp|INSPIRATION_2022|sp|Fashion|sp|Staples"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Spring/Summer 2022",
     "page_url": "https://www.harrods.com/en-gb/stories/ss22-womens-new-season?icid=megamenu_shop_women_edits-inspiration_spring%252Fsummer-2022",
     "file_name": "United|sp|Kingdom_Harrods_Women_EDITS|sp||as||sp|INSPIRATION_Spring|fs|Summer|sp|2022"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "The Wedding Hub",
     "page_url": "https://www.harrods.com/en-gb/the-wedding-boutique?icid=megamenu_shop_women_edits-inspiration_the-wedding-hub",
     "file_name": "United|sp|Kingdom_Harrods_Women_EDITS|sp||as||sp|INSPIRATION_The|sp|Wedding|sp|Hub"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "The Denim Boutique",
     "page_url": "https://www.harrods.com/en-gb/the-denim-boutique?icid=megamenu_shop_women_edits-inspiration_the-denim-boutique",
     "file_name": "United|sp|Kingdom_Harrods_Women_EDITS|sp||as||sp|INSPIRATION_The|sp|Denim|sp|Boutique"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Clothes Care",
     "page_url": "https://www.harrods.com/en-gb/clothes-care?icid=megamenu_shop_women_edits-inspiration_clothes-care",
     "file_name": "United|sp|Kingdom_Harrods_Women_EDITS|sp||as||sp|INSPIRATION_Clothes|sp|Care"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Women",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Forever Bags to Invest In",
     "page_url": "https://www.harrods.com/en-gb/stories/forever-bags-the-brands-to-invest-in?icid=megamenu_shop_women_edits-inspiration_forever-bags-to-invest-in",
     "file_name": "United|sp|Kingdom_Harrods_Women_EDITS|sp||as||sp|INSPIRATION_Forever|sp|Bags|sp|to|sp|Invest|sp|In"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "All Accessories",
     "page_url": "https://www.harrods.com/en-gb/shopping/men-accessories?icid=megamenu_shop_men_accessories_all-accessories",
     "file_name": "United|sp|Kingdom_Harrods_Men_ACCESSORIES_All|sp|Accessories"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Bags",
     "page_url": "https://www.harrods.com/en-gb/shopping/men-bags?icid=megamenu_shop_men_accessories_bags",
     "file_name": "United|sp|Kingdom_Harrods_Men_ACCESSORIES_Bags"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Belts",
     "page_url": "https://www.harrods.com/en-gb/shopping/men-accessories-belts?icid=megamenu_shop_men_accessories_belts",
     "file_name": "United|sp|Kingdom_Harrods_Men_ACCESSORIES_Belts"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cufflinks",
     "page_url": "https://www.harrods.com/en-gb/shopping/men-accessories-cufflinks?icid=megamenu_shop_men_accessories_cufflinks",
     "file_name": "United|sp|Kingdom_Harrods_Men_ACCESSORIES_Cufflinks"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Sunglasses",
     "page_url": "https://www.harrods.com/en-gb/shopping/men-accessories-sunglasses?icid=megamenu_shop_men_accessories_sunglasses",
     "file_name": "United|sp|Kingdom_Harrods_Men_ACCESSORIES_Sunglasses"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Ties",
     "page_url": "https://www.harrods.com/en-gb/shopping/men-accessories-ties?icid=megamenu_shop_men_accessories_ties",
     "file_name": "United|sp|Kingdom_Harrods_Men_ACCESSORIES_Ties"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Wallets",
     "page_url": "https://www.harrods.com/en-gb/shopping/men-accessories-wallets?icid=megamenu_shop_men_accessories_wallets",
     "file_name": "United|sp|Kingdom_Harrods_Men_ACCESSORIES_Wallets"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Bestsellers",
     "page_url": "https://www.harrods.com/en-gb/sets/men-bestsellers?icid=megamenu_shop_men_edits-inspiration_bestsellers",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_Bestsellers"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Exclusives",
     "page_url": "https://www.harrods.com/en-gb/sets/men-exclusives?icid=megamenu_shop_men_edits-inspiration_exclusives",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_Exclusives"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Spring/Summer 2022",
     "page_url": "https://www.harrods.com/en-gb/stories/ss22-mens-new-season?icid=megamenu_shop_men_edits-inspiration_spring%252Fsummer-2022",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_Spring|fs|Summer|sp|2022"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Men\u2019s Style Staples",
     "page_url": "https://www.harrods.com/en-gb/stories/mens-style-resolutions-new-year?icid=megamenu_shop_men_edits-inspiration_men%25E2%2580%2599s-style-staples",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_Men\u2019s|sp|Style|sp|Staples"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Clothes Care",
     "page_url": "https://www.harrods.com/en-gb/clothes-care?icid=megamenu_shop_men_edits-inspiration_clothes-care",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_Clothes|sp|Care"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "The Tailoring Boutique",
     "page_url": "https://www.harrods.com/en-gb/the-tailoring-boutique?icid=megamenu_shop_men_edits-inspiration_the-tailoring-boutique",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_The|sp|Tailoring|sp|Boutique"
@@ -874,7 +874,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Need to Know: Men\u2019s Denim",
     "page_url": "https://www.harrods.com/en-gb/stories/need-to-know-mens-jeans?icid=megamenu_shop_men_edits-inspiration_need-to-know%253A-men%25E2%2580%2599s-denim",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_Need|sp|to|sp|Know|cln||sp|Men\u2019s|sp|Denim"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Men",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Men\u2019s Skiwear",
     "page_url": "https://www.harrods.com/en-gb/sets/men-skiwear?icid=megamenu_shop_men_edits-inspiration_men%25E2%2580%2599s-skiwear",
     "file_name": "United|sp|Kingdom_Harrods_Men_EDITS|sp||as||sp|INSPIRATION_Men\u2019s|sp|Skiwear"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Kids",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Exclusives",
     "page_url": "https://www.harrods.com/en-gb/sets/kids-exclusives?icid=megamenu_shop_kids_edits-inspiration_exclusives",
     "file_name": "United|sp|Kingdom_Harrods_Kids_EDITS|sp||as||sp|INSPIRATION_Exclusives"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Kids",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Gifts for Kids",
     "page_url": "https://www.harrods.com/en-gb/sets/gifts-kids?icid=megamenu_shop_kids_edits-inspiration_gifts-for-kids",
     "file_name": "United|sp|Kingdom_Harrods_Kids_EDITS|sp||as||sp|INSPIRATION_Gifts|sp|for|sp|Kids"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Kids",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Gifts for Babies",
     "page_url": "https://www.harrods.com/en-gb/sets/gifts-baby?icid=megamenu_shop_kids_edits-inspiration_gifts-for-babies",
     "file_name": "United|sp|Kingdom_Harrods_Kids_EDITS|sp||as||sp|INSPIRATION_Gifts|sp|for|sp|Babies"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Kids",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Occasionwear",
     "page_url": "https://www.harrods.com/en-gb/sets/kids-occasionwear?icid=megamenu_shop_kids_edits-inspiration_occasionwear",
     "file_name": "United|sp|Kingdom_Harrods_Kids_EDITS|sp||as||sp|INSPIRATION_Occasionwear"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "BEAUTY",
+    "category": "Beauty",
     "page": "View All Beauty",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty?icid=megamenu_shop_beauty_beauty_view-all-beauty",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BEAUTY_View|sp|All|sp|Beauty"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "FRAGRANCE",
+    "category": "Fragrance",
     "page": "All Fragrance",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-perfume?icid=megamenu_shop_beauty_fragrance_all-fragrance",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_FRAGRANCE_All|sp|Fragrance"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "FRAGRANCE",
+    "category": "Fragrance",
     "page": "Womens Perfume",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-perfume-womens-perfume?icid=megamenu_shop_beauty_fragrance_womens-perfume",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_FRAGRANCE_Womens|sp|Perfume"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "FRAGRANCE",
+    "category": "Fragrance",
     "page": "Mens Fragrance",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-perfume-mens-perfume?icid=megamenu_shop_beauty_fragrance_mens-fragrance",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_FRAGRANCE_Mens|sp|Fragrance"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "FRAGRANCE",
+    "category": "Fragrance",
     "page": "Candles",
     "page_url": "https://www.harrods.com/en-gb/shopping/home-furniture-home-accessories-candles?icid=megamenu_shop_beauty_fragrance_candles",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_FRAGRANCE_Candles"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "All Skincare",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare?icid=megamenu_shop_beauty_skincare_all-skincare",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_All|sp|Skincare"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Moisturisers",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare-moisturisers?icid=megamenu_shop_beauty_skincare_moisturisers",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Moisturisers"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Serums",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare-serums?icid=megamenu_shop_beauty_skincare_serums",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Serums"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Anti-Ageing Skincare",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare-anti-ageing-skincare?icid=megamenu_shop_beauty_skincare_anti-ageing-skincare",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Anti|h|Ageing|sp|Skincare"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Cleansers",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare-cleansers?icid=megamenu_shop_beauty_skincare_cleansers",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Cleansers"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Toners",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare-toners?icid=megamenu_shop_beauty_skincare_toners",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Toners"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Eye Care",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare-eye-care?icid=megamenu_shop_beauty_skincare_eye-care",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Eye|sp|Care"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Face Masks & Treatments",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-skincare-face-masks-treatments?icid=megamenu_shop_beauty_skincare_face-masks-treatments",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Face|sp|Masks|sp||as||sp|Treatments"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "Suncare & Self-Tanning",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body-suncare-self-tanning?icid=megamenu_shop_beauty_skincare_suncare-self-tanning",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_SKINCARE_Suncare|sp||as||sp|Self|h|Tanning"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "All Make-up",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-make-up?icid=megamenu_shop_beauty_make-up_all-make-up",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_MAKE|h|UP_All|sp|Make|h|up"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-make-up-eyes?icid=megamenu_shop_beauty_make-up_eyes",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_MAKE|h|UP_Eyes"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Face",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-make-up-face?icid=megamenu_shop_beauty_make-up_face",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_MAKE|h|UP_Face"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-make-up-lips?icid=megamenu_shop_beauty_make-up_lips",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_MAKE|h|UP_Lips"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Make-up Brushes & Tools",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-make-up-make-up-brushes-tools?icid=megamenu_shop_beauty_make-up_make-up-brushes-tools",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_MAKE|h|UP_Make|h|up|sp|Brushes|sp||as||sp|Tools"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "BATH & BODY",
+    "category": "Bath & Body",
     "page": "All Bath & Body",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body?icid=megamenu_shop_beauty_bath-body_all-bath-body",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_All|sp|Bath|sp||as||sp|Body"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "BATH & BODY",
+    "category": "Bath & Body",
     "page": "Bath & Shower",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body-bath-shower?icid=megamenu_shop_beauty_bath-body_bath-shower",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Bath|sp||as||sp|Shower"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "BATH & BODY",
+    "category": "Bath & Body",
     "page": "Body Care",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body-body-care?icid=megamenu_shop_beauty_bath-body_body-care",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Body|sp|Care"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "BATH & BODY",
+    "category": "Bath & Body",
     "page": "Haircare",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-haircare?icid=megamenu_shop_beauty_bath-body_haircare",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Haircare"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "BATH & BODY",
+    "category": "Bath & Body",
     "page": "Wellbeing",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body-wellbeing?icid=megamenu_shop_beauty_bath-body_wellbeing",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Wellbeing"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "MENS GROOMING",
+    "category": "Mens Grooming",
     "page": "All Mens Grooming",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-mens-grooming?icid=megamenu_shop_beauty_mens-grooming_all-mens-grooming",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_MENS|sp|GROOMING_All|sp|Mens|sp|Grooming"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "EDITS",
+    "category": "Edits",
     "page": "New Arrivals",
     "page_url": "https://www.harrods.com/en-gb/sets/beauty-just-in?icid=megamenu_shop_beauty_edits_new-arrivals",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_EDITS_New|sp|Arrivals"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "EDITS",
+    "category": "Edits",
     "page": "Back in Stock",
     "page_url": "https://www.harrods.com/en-gb/sets/beauty-back-in-stock?icid=megamenu_shop_beauty_edits_back-in-stock",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_EDITS_Back|sp|in|sp|Stock"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "EDITS",
+    "category": "Edits",
     "page": "Bestsellers",
     "page_url": "https://www.harrods.com/en-gb/sets/beauty-bestsellers?icid=megamenu_shop_beauty_edits_bestsellers",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_EDITS_Bestsellers"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "EDITS",
+    "category": "Edits",
     "page": "Exclusives",
     "page_url": "https://www.harrods.com/en-gb/sets/beauty-exclusives?icid=megamenu_shop_beauty_edits_exclusives",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_EDITS_Exclusives"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "EDITS",
+    "category": "Edits",
     "page": "The Best of H beauty",
     "page_url": "https://www.harrods.com/en-gb/sets/edit-best-of-h-beauty?icid=megamenu_shop_beauty_edits_the-best-of-h-beauty",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_EDITS_The|sp|Best|sp|of|sp|H|sp|beauty"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "EDITS",
+    "category": "Edits",
     "page": "Beauty Gifts",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-beauty-gift-sets?icid=megamenu_shop_beauty_edits_beauty-gifts",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_EDITS_Beauty|sp|Gifts"
@@ -1754,7 +1754,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Beauty Buyers' Top 20",
     "page_url": "https://www.harrods.com/en-gb/stories/beauty-buyers-top-20?icid=megamenu_shop_beauty_inspiration_beauty-buyers%27-top-20",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_INSPIRATION_Beauty|sp|Buyers|sq||sp|Top|sp|20"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Home",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Homeware Brands To Know",
     "page_url": "https://www.harrods.com/en-gb/stories/home-brands-to-know?icid=megamenu_shop_home-furniture_edits-inspiration_homeware-brands-to-know",
     "file_name": "United|sp|Kingdom_Harrods_Home|sp||as||sp|Furniture_EDITS|sp||as||sp|INSPIRATION_Homeware|sp|Brands|sp|To|sp|Know"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Home",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "The Glassware Guide",
     "page_url": "https://www.harrods.com/en-gb/stories/6-glasses-every-home-bar-needs?icid=megamenu_shop_home-furniture_edits-inspiration_the-glassware-guide",
     "file_name": "United|sp|Kingdom_Harrods_Home|sp||as||sp|Furniture_EDITS|sp||as||sp|INSPIRATION_The|sp|Glassware|sp|Guide"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Home",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Home Interior Trends To Know",
     "page_url": "https://www.harrods.com/en-gb/stories/the-interiors-trends-to-know?icid=megamenu_shop_home-furniture_edits-inspiration_home-interior-trends-to-know",
     "file_name": "United|sp|Kingdom_Harrods_Home|sp||as||sp|Furniture_EDITS|sp||as||sp|INSPIRATION_Home|sp|Interior|sp|Trends|sp|To|sp|Know"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Home",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "Entertaining At Home",
     "page_url": "https://www.harrods.com/en-gb/stories/tips-home-entertaining?icid=megamenu_shop_home-furniture_edits-inspiration_entertaining-at-home",
     "file_name": "United|sp|Kingdom_Harrods_Home|sp||as||sp|Furniture_EDITS|sp||as||sp|INSPIRATION_Entertaining|sp|At|sp|Home"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "HAMPERS",
+    "category": "Hampers",
     "page": "Gift Baskets",
     "page_url": "https://www.harrods.com/en-gb/shopping/hampers-gift-boxes?icid=megamenu_shop_food-drinks_hampers_gift-baskets",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_HAMPERS_Gift|sp|Baskets"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "FOOD",
+    "category": "Food",
     "page": "All Food",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-food?icid=megamenu_shop_food-drinks_food_all-food",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_FOOD_All|sp|Food"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "FOOD",
+    "category": "Food",
     "page": "Bestsellers",
     "page_url": "https://www.harrods.com/en-gb/sets/food-wine-bestsellers?icid=megamenu_shop_food-drinks_food_bestsellers",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_FOOD_Bestsellers"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "FOOD",
+    "category": "Food",
     "page": "Chocolate",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-food-chocolates?icid=megamenu_shop_food-drinks_food_chocolate",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_FOOD_Chocolate"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "FOOD",
+    "category": "Food",
     "page": "Easter Eggs",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-food-wine-gifts-easter-gifts?icid=megamenu_shop_food-drinks_food_easter-eggs",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_FOOD_Easter|sp|Eggs"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "FOOD",
+    "category": "Food",
     "page": "Biscuits & Cakes",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-food-biscuits-cakes?icid=megamenu_shop_food-drinks_food_biscuits-cakes",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_FOOD_Biscuits|sp||as||sp|Cakes"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "FOOD",
+    "category": "Food",
     "page": "Honey",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-food-honey?icid=megamenu_shop_food-drinks_food_honey",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_FOOD_Honey"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "FOOD",
+    "category": "Food",
     "page": "Pantry Staples",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-food-pantry-staples?icid=megamenu_shop_food-drinks_food_pantry-staples",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_FOOD_Pantry|sp|Staples"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "DRINKS",
+    "category": "Drinks",
     "page": "All Drinks",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-drinks?icid=megamenu_shop_food-drinks_drinks_all-drinks",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_DRINKS_All|sp|Drinks"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "DRINKS",
+    "category": "Drinks",
     "page": "Tea",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-drinks-tea?icid=megamenu_shop_food-drinks_drinks_tea",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_DRINKS_Tea"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "DRINKS",
+    "category": "Drinks",
     "page": "Coffee",
     "page_url": "https://www.harrods.com/en-gb/shopping/food-wine-drinks-coffee?icid=megamenu_shop_food-drinks_drinks_coffee",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_DRINKS_Coffee"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "GIFTS",
+    "category": "Gifts",
     "page": "Gifts for Foodies",
     "page_url": "https://www.harrods.com/en-gb/sets/gifts-for-foodies?icid=megamenu_shop_food-drinks_gifts_gifts-for-foodies",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_GIFTS_Gifts|sp|for|sp|Foodies"
@@ -2348,7 +2348,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "GIFTS",
+    "category": "Gifts",
     "page": "Easter Gifts",
     "page_url": "https://www.harrods.com/en-gb/sets/easter-gifts?categories=137570&pageindex=1&icid=megamenu_shop_food-drinks_gifts_easter-gifts",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_GIFTS_Easter|sp|Gifts"
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "HEALTH & WELLBEING",
+    "category": "Wellbeing",
     "page": "All Health & Wellbeing",
     "page_url": "https://www.harrods.com/en-gb/shopping/health-wellbeing?icid=megamenu_shop_food-drinks_health-wellbeing_all-health-wellbeing",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_HEALTH|sp||as||sp|WELLBEING_All|sp|Health|sp||as||sp|Wellbeing"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "HEALTH & WELLBEING",
+    "category": "Wellbeing",
     "page": "Vitamins & Supplements",
     "page_url": "https://www.harrods.com/en-gb/shopping/health-wellbeing-Vitamins-Supplements?icid=megamenu_shop_food-drinks_health-wellbeing_vitamins-supplements",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_HEALTH|sp||as||sp|WELLBEING_Vitamins|sp||as||sp|Supplements"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "HEALTH & WELLBEING",
+    "category": "Wellbeing",
     "page": "Natural Remedies",
     "page_url": "https://www.harrods.com/en-gb/shopping/health-wellbeing-Natural-Remedies?icid=megamenu_shop_food-drinks_health-wellbeing_natural-remedies",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_HEALTH|sp||as||sp|WELLBEING_Natural|sp|Remedies"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "HEALTH & WELLBEING",
+    "category": "Wellbeing",
     "page": "Travel Health",
     "page_url": "https://www.harrods.com/en-gb/shopping/health-wellbeing-Travel-Health?icid=megamenu_shop_food-drinks_health-wellbeing_travel-health",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_HEALTH|sp||as||sp|WELLBEING_Travel|sp|Health"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Food & Drinks",
-    "category": "EDITS & INSPIRATION",
+    "category": "Inspiration",
     "page": "The Ultimate Cheeseboard",
     "page_url": "https://www.harrods.com/en-gb/stories/the-ultimate-cheeseboard?icid=megamenu_shop_food-drinks_edits-inspiration_the-ultimate-cheeseboard",
     "file_name": "United|sp|Kingdom_Harrods_Food|sp||as||sp|Drinks_EDITS|sp||as||sp|INSPIRATION_The|sp|Ultimate|sp|Cheeseboard"

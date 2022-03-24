@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "All Skin Care",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/skin-care?id=30078&cm_sp=us_hdr-_-beauty-_-30078_all-skin-care_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_All|sp|Skin|sp|Care"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Bath & Body",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/bath-and-body?id=58499&cm_sp=us_hdr-_-beauty-_-58499_bath-%26-body_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Bath|sp||as||sp|Body"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Cleansers",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/facial-cleansers?id=30582&cm_sp=us_hdr-_-beauty-_-30582_cleansers_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Cleansers"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Eye Creams & Treatments",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/eye-cream?id=30558&cm_sp=us_hdr-_-beauty-_-30558_eye-creams-%26-treatments_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Eye|sp|Creams|sp||as||sp|Treatments"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Moisturizers",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/moisturizer?id=30585&cm_sp=us_hdr-_-beauty-_-30585_moisturizers_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Moisturizers"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Serums",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/serum?id=50363&cm_sp=us_hdr-_-beauty-_-50363_serums_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Serums"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Sun Care",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/sun-care?id=61581&cm_sp=us_hdr-_-beauty-_-61581_sun-care_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Sun|sp|Care"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Tools & Devices",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/skincare-tools?id=30565&cm_sp=us_hdr-_-beauty-_-30565_tools-%26-devices_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Tools|sp||as||sp|Devices"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "All Makeup",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/makeup?id=30077&cm_sp=us_hdr-_-beauty-_-30077_all-makeup_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_All|sp|Makeup"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Blush",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/blush?id=30537&cm_sp=us_hdr-_-beauty-_-30537_blush_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Blush"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Brushes & Tools",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/makeup-brushes-and-makeup-bags?id=56285&cm_sp=us_hdr-_-beauty-_-56285_brushes-%26-tools_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Brushes|sp||as||sp|Tools"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eye Shadow",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/eyeshadow?id=30534&cm_sp=us_hdr-_-beauty-_-30534_eye-shadow_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Eye|sp|Shadow"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyebrows",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/eyebrows?id=30761&cm_sp=us_hdr-_-beauty-_-30761_eyebrows_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Eyebrows"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyeliner",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/eyeliner?id=30533&cm_sp=us_hdr-_-beauty-_-30533_eyeliner_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Eyeliner"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Foundation",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/foundation?id=53451&cm_sp=us_hdr-_-beauty-_-53451_foundation_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Foundation"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lip Balm & Treatment",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/lip-treatment?id=30763&cm_sp=us_hdr-_-beauty-_-30763_lip-balm-%26-treatment_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Lip|sp|Balm|sp||as||sp|Treatment"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lipstick",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/lipstick?id=30555&cm_sp=us_hdr-_-beauty-_-30555_lipstick_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Lipstick"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Mascara & Lashes",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/mascara?id=53452&cm_sp=us_hdr-_-beauty-_-53452_mascara-%26-lashes_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Mascara|sp||as||sp|Lashes"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Hair Care",
+    "category": "Haircare",
     "page": "All Hair Care",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/hair-care-products?id=60600&cm_sp=us_hdr-_-beauty-_-60600_all-hair-care_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_All|sp|Hair|sp|Care"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Hair Care",
+    "category": "Haircare",
     "page": "Hair Tools & Brushes",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/hair-tools?id=159549&cm_sp=us_hdr-_-beauty-_-159549_hair-tools-%26-brushes_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_Hair|sp|Tools|sp||as||sp|Brushes"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Hair Care",
+    "category": "Haircare",
     "page": "Shampoo & Conditioner",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/shampoo-conditioner?id=159548&cm_sp=us_hdr-_-beauty-_-159548_shampoo-%26-conditioner_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_Shampoo|sp||as||sp|Conditioner"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
-    "category": "Hair Care",
+    "category": "Haircare",
     "page": "Styling & Treatment",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/hair-styling-products?id=159547&cm_sp=us_hdr-_-beauty-_-159547_styling-%26-treatment_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_Styling|sp||as||sp|Treatment"
@@ -4757,7 +4757,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Gifts $25 & Under",
     "page_url": "https://www.macys.com/shop/gift-guide/gifts-25-under?id=119244&cm_sp=us_hdr-_-gifts-_-119244_gifts-%2425-%26-under_COL1",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Gifts|sp||dol|25|sp||as||sp|Under"
@@ -4768,7 +4768,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Gifts $50 & Under",
     "page_url": "https://www.macys.com/shop/gift-guide/gifts-50-under?id=119245&cm_sp=us_hdr-_-gifts-_-119245_gifts-%2450-%26-under_COL1",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Gifts|sp||dol|50|sp||as||sp|Under"
@@ -4779,7 +4779,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Gifts $100 & Under",
     "page_url": "https://www.macys.com/shop/gift-guide/gifts-100-under?id=119246&cm_sp=us_hdr-_-gifts-_-119246_gifts-%24100-%26-under_COL1",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Gifts|sp||dol|100|sp||as||sp|Under"
@@ -4790,7 +4790,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Luxe Gifts",
     "page_url": "https://www.macys.com/shop/gift-guide/luxe-gifts?id=253858&cm_sp=us_hdr-_-gifts-_-253858_luxe-gifts_COL1",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Luxe|sp|Gifts"
@@ -4944,7 +4944,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Shop All Toys R Us",
     "page_url": "https://www.macys.com/s/toys-r-us/?cm_sp=us_hdr-_-gifts-_-shop-all-toys-r-us_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_Shop|sp|All|sp|Toys|sp|R|sp|Us"
@@ -4955,7 +4955,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "0-12 Months",
     "page_url": "https://www.macys.com/shop/for-the-home/all-toys/Age_range_toys/0-12%20months?id=260274&cm_sp=us_hdr-_-gifts-_-0-12-months_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_0|h|12|sp|Months"
@@ -4966,7 +4966,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "12-24 Months",
     "page_url": "https://www.macys.com/shop/for-the-home/all-toys/Age_range_toys/12-24%20months?id=260274&cm_sp=us_hdr-_-gifts-_-12-24-months_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_12|h|24|sp|Months"
@@ -4977,7 +4977,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "2 Years",
     "page_url": "https://www.macys.com/shop/for-the-home/all-toys/Age_range_toys/2%20years?id=260274&cm_sp=us_hdr-_-gifts-_-2-years_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_2|sp|Years"
@@ -4988,7 +4988,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "3-4 Years",
     "page_url": "https://www.macys.com/shop/for-the-home/all-toys/Age_range_toys/3-4%20years?id=260274&cm_sp=us_hdr-_-gifts-_-3-4-years_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_3|h|4|sp|Years"
@@ -4999,7 +4999,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "5-7 Years",
     "page_url": "https://www.macys.com/shop/for-the-home/all-toys/Age_range_toys/5-7%20years?id=260274&cm_sp=us_hdr-_-gifts-_-5-7-years_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_5|h|7|sp|Years"
@@ -5010,7 +5010,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "8-10 Years",
     "page_url": "https://www.macys.com/shop/for-the-home/all-toys/Age_range_toys/8-10%20years?id=260274&cm_sp=us_hdr-_-gifts-_-8-10-years_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_8|h|10|sp|Years"
@@ -5021,7 +5021,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "11 & Up",
     "page_url": "https://www.macys.com/shop/for-the-home/all-toys/Age_range_toys/11-14%20years?id=260274&cm_sp=us_hdr-_-gifts-_-11-%26-up_COL3",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_11|sp||as||sp|Up"

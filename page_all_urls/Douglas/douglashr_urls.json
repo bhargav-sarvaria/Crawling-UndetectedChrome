@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_ACCESSORIES"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Eyelash curlers",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/uvijaci-za-trepavice/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Eyelash|sp|curlers"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Tweezers",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/pincete/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Tweezers"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Eyebrow scissors",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/skare-za-obrve/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Eyebrow|sp|scissors"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Sharpened",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/siljila/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Sharpened"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cosmetic mirrors",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/kozmeticka-ogledala/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Cosmetic|sp|mirrors"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Makeup sponges",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/spuzvice-za-sminkanje/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Makeup|sp|sponges"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cosmetic bags",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/kozmeticke-torbice/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Cosmetic|sp|bags"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cosmetic boxes",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/kozmeticke-kutije/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Cosmetic|sp|boxes"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Blotting Paper",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/blotting-paper/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_Blotting|sp|Paper"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "\u201cAll categories",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_\u201cAll|sp|categories"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot peeling",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/piling-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|peeling"
@@ -2579,7 +2579,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot creams",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/kreme-za-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|creams"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot masks",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/maske-za-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|masks"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot sprays",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/sprejevi-za-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|sprays"
@@ -2766,7 +2766,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_ACCESSORIES"
@@ -2777,7 +2777,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Care accessories",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/pribor-za-njegu/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Care|sp|accessories"
@@ -2788,7 +2788,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Nail care accessories",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/pribor-za-njegu-noktiju/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Nail|sp|care|sp|accessories"
@@ -2799,7 +2799,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Replacement brushes",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/zamjenske-cetkice/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Replacement|sp|brushes"
@@ -2810,7 +2810,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Exfoliating gloves",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/rukavice-za-piling/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Exfoliating|sp|gloves"
@@ -2821,7 +2821,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Self-tanning gloves",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/rukavice-za-samotamnjenje/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Self|h|tanning|sp|gloves"
@@ -2832,7 +2832,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Washing gloves",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/rukavice-za-pranje/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Washing|sp|gloves"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Sponges",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/spuzve/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Sponges"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.hr/c/kosa/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR_HAIR"
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoos",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/samponi/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Shampoos"
@@ -2887,7 +2887,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoos",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/suhi-samponi/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Dry|sp|shampoos"
@@ -2898,7 +2898,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair conditioners",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/regeneratori-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Hair|sp|conditioners"
@@ -2909,7 +2909,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Leave-in regenerators",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/regeneratori-bez-ispiranja/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Leave|h|in|sp|regenerators"
@@ -2920,7 +2920,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair masks",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/maske-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Hair|sp|masks"
@@ -2931,7 +2931,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair oils and serums",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/ulja-i-serumi-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Hair|sp|oils|sp|and|sp|serums"
@@ -2942,7 +2942,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Scalp care",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/njega-vlasista/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Scalp|sp|care"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair tonics",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/tonici-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Hair|sp|tonics"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Sun protection",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/zastita-od-sunca/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Sun|sp|protection"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair care kits",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/setovi-za-njegu-kose/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Hair|sp|care|sp|kits"
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair mousse",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/pjene-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Hair|sp|mousse"
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair gels",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/gelovi-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Hair|sp|gels"
@@ -3019,7 +3019,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Wax and hair creams",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/vosak-i-kreme-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Wax|sp|and|sp|hair|sp|creams"
@@ -3030,7 +3030,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair sprays",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/lakovi-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Hair|sp|sprays"
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Shaping sprays",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/sprejevi-za-oblikovanje/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Shaping|sp|sprays"
@@ -3052,7 +3052,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Styling creams",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/kreme-za-oblikovanje/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Styling|sp|creams"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair powders",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/puderi-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Hair|sp|powders"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Protect hair from heat",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/zastita-kose-od-topline/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_Protect|sp|hair|sp|from|sp|heat"
@@ -3514,7 +3514,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/pribor/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_ACCESSORIES"
@@ -3525,7 +3525,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Face masks",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/pribor/maske-za-lice/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_Face|sp|masks"
@@ -3536,7 +3536,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/dom/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_HOME_HOME"
@@ -3547,7 +3547,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "HOME",
+    "category": "Home",
     "page": "Candles",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/dom/svijece/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_HOME_Candles"
@@ -3558,7 +3558,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "HOME",
+    "category": "Home",
     "page": "Scents for home",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/dom/mirisi-za-dom/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_HOME_Scents|sp|for|sp|home"
@@ -3569,7 +3569,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "HOME",
+    "category": "Home",
     "page": "Decorations",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/dom/dekoracije/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_HOME_Decorations"

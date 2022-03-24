@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Skin",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "SKINCARE",
     "page_url": "https://www.sephora.cz/produkty/pece-o-plet-c303/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SKINCARE_SKINCARE_SKINCARE"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy-c299914/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoos",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy/sampony-c447/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_Shampoos"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioners",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy/kondicionery-c448/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_Conditioners"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair masks",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy/masky-na-vlasy-c299915/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_Hair|sp|masks"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair colors",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy/barvy-na-vlasy-c523/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_Hair|sp|colors"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoos",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy/suche-sampony-c7762/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_Dry|sp|shampoos"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair scent",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy/vune-do-vlasu-c299916/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_Hair|sp|scent"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.sephora.cz/produkty/vlasy/styling-c454/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_STYLING_STYLING"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Sprays",
     "page_url": "https://www.sephora.cz/produkty/vlasy/styling/spreje-c7767/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_STYLING_Sprays"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Foams",
     "page_url": "https://www.sephora.cz/produkty/vlasy/styling/peny-c7768/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_STYLING_Foams"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Gely",
     "page_url": "https://www.sephora.cz/produkty/vlasy/styling/gely-c522/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_STYLING_Gely"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Waxes",
     "page_url": "https://www.sephora.cz/produkty/vlasy/styling/vosky-c226/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_STYLING_Waxes"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Creams",
     "page_url": "https://www.sephora.cz/produkty/vlasy/styling/kremy-c299917/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_STYLING_Creams"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.cz/produkty/vlasy/doplnky-c453/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_ACCESSORIES_ACCESSORIES"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Combs",
     "page_url": "https://www.sephora.cz/produkty/vlasy/doplnky/hrebeny-c471/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_ACCESSORIES_Combs"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Irons, hair poles, hair dryers",
     "page_url": "https://www.sephora.cz/produkty/vlasy/doplnky/zehlicky--kulmy-na-vlasy--feny-c5231/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_ACCESSORIES_Irons,|sp|hair|sp|poles,|sp|hair|sp|dryers"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Hair towels",
     "page_url": "https://www.sephora.cz/produkty/vlasy/doplnky/vlasove-rucniky-c285802/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_ACCESSORIES_Hair|sp|towels"
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Exclusive",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "SKINCARE",
     "page_url": "https://www.sephora.cz/exkluzivni-pece-o-plet/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_EXCLUSIVELY_SKINCARE_SKINCARE"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Exclusive",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.cz/exkluzivni-pece-o-vlasy/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_EXCLUSIVELY_HAIR_HAIR"
@@ -2898,7 +2898,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "BEAUTY TO GO",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.cz/beauty-to-go/doplnky-mini-doplnky/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BEAUTY|sp|TO|sp|GO_ACCESSORIES_ACCESSORIES"

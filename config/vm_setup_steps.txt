@@ -24,4 +24,4 @@ sudo ./config/setup_chrome.sh
 crontab -e
 
 0 7 * * * cd /home/labsbhargav/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py 'United States' 1 >>  ./file.log
-30 6 * * * cd /home/labsbhargav/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py India 1 >>  ./file.log
+40 7 * * * cd /home/labsbhargav/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py EU 1 >>  ./file.log

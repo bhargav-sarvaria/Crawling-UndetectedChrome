@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Make Up",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup",
     "page_url": "https://www.ulta.com/shop/makeup",
     "file_name": "United|sp|States_Ulta_Makeup_Makeup_Makeup"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "New",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup",
     "page_url": "https://www.ulta.com/new-beauty-products?N=6Z26y1",
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Makeup_Makeup"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "New",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Skin Care",
     "page_url": "https://www.ulta.com/new-beauty-products?N=6Z2707",
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Skin|sp|Care_Skin|sp|Care"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Skin Care",
     "page_url": "https://www.ulta.com/shop/skin-care",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Skin|sp|Care_Skin|sp|Care"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Men",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Skin Care",
     "page_url": "https://www.ulta.com/men-skin-care?N=27ck",
     "file_name": "United|sp|States_Ulta_Men_Skin|sp|Care_Skin|sp|Care"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Men",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Face Wash",
     "page_url": "https://www.ulta.com/men-skin-care-face-wash?N=27cl",
     "file_name": "United|sp|States_Ulta_Men_Skin|sp|Care_Face|sp|Wash"
@@ -2755,7 +2755,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Men",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Moisturizers & Treatments",
     "page_url": "https://www.ulta.com/men-skin-care-moisturizers-treatments?N=27cm",
     "file_name": "United|sp|States_Ulta_Men_Skin|sp|Care_Moisturizers|sp||as||sp|Treatments"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup",
     "page_url": "https://www.ulta.com/ulta-collection-makeup?N=26vs",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Makeup"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Face",
     "page_url": "https://www.ulta.com/ulta-collection-makeup-face?N=26vv",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Face"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.ulta.com/ulta-collection-makeup-eyes?N=26vt",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Eyes"
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.ulta.com/ulta-collection-makeup-lips?N=26vu",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Lips"
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Nails",
     "page_url": "https://www.ulta.com/ulta-collection-makeup-nails?N=279p",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Nails"
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup Brushes & Tools",
     "page_url": "https://www.ulta.com/ulta-collection-makeup-brushes-tools?N=l2rqrk",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools"

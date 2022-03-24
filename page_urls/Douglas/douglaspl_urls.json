@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.pl/pl/c/cialo/dla-mezczyzn/1309",
     "file_name": "Poland_DOUGLAS_PL_BODY_MEN_MEN"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "Body care",
     "page_url": "https://www.douglas.pl/pl/c/cialo/dla-mezczyzn/pielegnacja-ciala/130901",
     "file_name": "Poland_DOUGLAS_PL_BODY_MEN_Body|sp|care"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "Body scrub",
     "page_url": "https://www.douglas.pl/pl/c/cialo/dla-mezczyzn/kapiel/130902",
     "file_name": "Poland_DOUGLAS_PL_BODY_MEN_Body|sp|scrub"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "Kits",
     "page_url": "https://www.douglas.pl/pl/c/cialo/dla-mezczyzn/zestawy/130904",
     "file_name": "Poland_DOUGLAS_PL_BODY_MEN_Kits"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.pl/pl/c/cialo/dla-mezczyzn/1309",
     "file_name": "Poland_DOUGLAS_PL_BODY_MEN_MEN"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/1307",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot creams",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/kremy-do-stop/130701",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_Foot|sp|creams"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot scrub",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/peeling-do-stop/130703",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_Foot|sp|scrub"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/1307",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/14",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR_HAIR"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/1401",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoos",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/szampony/140101",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_Shampoos"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoos",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/suche-szampony/140102",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_Dry|sp|shampoos"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair conditioner",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/odzywki-do-wlosow/140103",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_Hair|sp|conditioner"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/1401",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/stylizacja-wlosow/1402",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair mousses",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/stylizacja-wlosow/pianki-do-wlosow/140201",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|STYLING_Hair|sp|mousses"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair thermal protection",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/stylizacja-wlosow/termoochrona-wlosow/140202",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|STYLING_Hair|sp|thermal|sp|protection"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair gels",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/stylizacja-wlosow/zele-do-wlosow/140203",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|STYLING_Hair|sp|gels"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/stylizacja-wlosow/1402",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/dla-mezczyzn/1408",
     "file_name": "Poland_DOUGLAS_PL_HAIR_MEN_MEN"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "Shampoos",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/dla-mezczyzn/szampony/140801",
     "file_name": "Poland_DOUGLAS_PL_HAIR_MEN_Shampoos"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "hair care",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/dla-mezczyzn/pielegnacja-wlosow/140803",
     "file_name": "Poland_DOUGLAS_PL_HAIR_MEN_hair|sp|care"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "Hair styling",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/dla-mezczyzn/stylizacja-wlosow/140802",
     "file_name": "Poland_DOUGLAS_PL_HAIR_MEN_Hair|sp|styling"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/dla-mezczyzn/1408",
     "file_name": "Poland_DOUGLAS_PL_HAIR_MEN_MEN"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.pl/pl/c/promocje/wlosy/0512",
     "file_name": "Poland_DOUGLAS_PL_SALE_HAIR_HAIR"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/wlosy/0904",
     "file_name": "Poland_DOUGLAS_PL_NEWS_HAIR_HAIR"

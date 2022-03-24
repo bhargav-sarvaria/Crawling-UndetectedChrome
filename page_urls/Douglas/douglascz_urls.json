@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy-419998258/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot creams",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/kremy-na-nohy-419998259/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Foot|sp|creams"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot sprays",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/spreje-na-nohy-419998260/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Foot|sp|sprays"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Foot masks",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/masky-na-nohy-419998261/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Foot|sp|masks"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Hardened skin removers",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/odstranovace-ztvrdle-kuze-419998262/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Hardened|sp|skin|sp|removers"
@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.cz/c/vlasy-4019/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR_HAIR"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy-401906/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Rinse-free conditioners",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/bezoplachove-kondicionery-419998292/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Rinse|h|free|sp|conditioners"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Scalp care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/pece-o-pokozku-hlavy-419998293/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Scalp|sp|care"
@@ -2678,7 +2678,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair lotions and tonics",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/vlasove-vody-a-tonika-419998294/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Hair|sp|lotions|sp|and|sp|tonics"
@@ -2689,7 +2689,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Sun protection",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/ochrana-vlasu-proti-slunci-419998295/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Sun|sp|protection"
@@ -2700,7 +2700,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoos",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/sampony-40190601/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Shampoos"
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoos",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/suche-sampony-40190603/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Dry|sp|shampoos"
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioners",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/kondicionery-40190606/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Conditioners"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair masks",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/masky-na-vlasy-40190605/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Hair|sp|masks"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair oils",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/oleje-na-vlasy-40190602/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Hair|sp|oils"
@@ -2755,7 +2755,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair treatments",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/kury-na-vlasy-419997736/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Hair|sp|treatments"
@@ -2766,7 +2766,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy-401907/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -2777,7 +2777,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Thermal hair protection",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/termoochrana-na-vlasy-419998296/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Thermal|sp|hair|sp|protection"
@@ -2788,7 +2788,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair straighteners",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/zehlicky-na-vlasy-419998297/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Hair|sp|straighteners"
@@ -2799,7 +2799,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair mousse",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/peny-na-vlasy-40190701/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Hair|sp|mousse"
@@ -2810,7 +2810,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair sprays and sprays",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/laky-a-spreje-na-vlasy-40190703/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Hair|sp|sprays|sp|and|sp|sprays"
@@ -2821,7 +2821,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair gels",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/gely-na-vlasy-40190704/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Hair|sp|gels"
@@ -2832,7 +2832,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair perfumes",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/vlasove-parfemy-40190705/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Hair|sp|perfumes"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Waxes and hair creams",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/vosky-a-kremy-na-vlasy-40190706/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Waxes|sp|and|sp|hair|sp|creams"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair colouring",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy/barveni-vlasu-419997763/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_Hair|sp|colouring"
@@ -3140,7 +3140,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.douglas.cz/c/home-419997511/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_HOME_HOME"
@@ -3338,7 +3338,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.cz/c/novinky/vlasy-400805/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_NEWS_HAIR_HAIR"
@@ -3888,7 +3888,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.cz/c/bestsellery/vlasy-419997871/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_HAIR_HAIR"
@@ -3899,7 +3899,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BESTSELLERS",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.douglas.cz/c/bestsellery/home-419997872/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_HOME_HOME"
@@ -3965,7 +3965,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "CLEAN BEAUTY",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.cz/c/clean-beauty/vlasy-419998459/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_CLEAN|sp|BEAUTY_HAIR_HAIR"

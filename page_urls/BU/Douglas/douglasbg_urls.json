@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://douglas.bg/kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR_HAIR"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry hair",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa/suha-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_Dry|sp|hair"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "For brilliance",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa/za-bliasak?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_For|sp|brilliance"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Straight hair",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa/prava-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_Straight|sp|hair"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "For volume",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa/za-obem?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_For|sp|volume"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "All categories",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_All|sp|categories"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://douglas.bg/kosa/stajling?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_STYLING_STYLING"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Volume",
     "page_url": "https://douglas.bg/kosa/stajling/obem?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_STYLING_Volume"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Fixation",
     "page_url": "https://douglas.bg/kosa/stajling/fiksacija?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_STYLING_Fixation"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Straight hair",
     "page_url": "https://douglas.bg/kosa/stajling/obem?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_STYLING_Straight|sp|hair"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Curls",
     "page_url": "https://douglas.bg/kosa/stajling/k-drici?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_STYLING_Curls"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "All categories",
     "page_url": "https://douglas.bg/kosa/stajling?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_STYLING_All|sp|categories"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://douglas.bg/aksesoari?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_ACCESSORIES_ACCESSORIES"

@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://douglas.es/c/maquillaje",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://douglas.es/c/cabello",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR_HAIR"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "shampoos",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado/champus",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_shampoos"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "conditioners",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado/acondicionadores",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_conditioners"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Lotions and Ampoules",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado/lociones_y_ampollas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_Lotions|sp|and|sp|Ampoules"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Masks",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_Masks"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_See|sp|all|sp|categories"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "shampoos",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado/champus",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_shampoos"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "conditioners",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado/acondicionadores",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_conditioners"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Masks",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_Masks"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Serums and Oils",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado/serum_y_aceites",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_Serums|sp|and|sp|Oils"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_See|sp|all|sp|categories"
@@ -2755,7 +2755,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://douglas.es/c/hombre/cuidado_cabello",
     "file_name": "Spain_DOUGLAS_ES_MAN_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2766,7 +2766,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "shampoos",
     "page_url": "https://douglas.es/c/hombre/cuidado_cabello/champus",
     "file_name": "Spain_DOUGLAS_ES_MAN_HAIR|sp|CARE_shampoos"
@@ -2777,7 +2777,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Treatment Shampoos",
     "page_url": "https://douglas.es/c/hombre/cuidado_cabello/champus_tratamiento",
     "file_name": "Spain_DOUGLAS_ES_MAN_HAIR|sp|CARE_Treatment|sp|Shampoos"
@@ -3591,7 +3591,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://douglas.es/c/hogar",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOME_HOME"

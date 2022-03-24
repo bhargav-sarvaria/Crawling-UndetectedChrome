@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "TREATMENTS",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente-c7639/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_TREATMENTS"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Anti-wrinkle treatment",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/tratamente-antirid-c7636/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Anti|h|wrinkle|sp|treatment"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Hydration & nourishment",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/hidratare-hranire-c7634/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Hydration|sp||as||sp|nourishment"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Mattifying cream",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/crema-matifianta-c7686/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Mattifying|sp|cream"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Treatment against imperfections",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/tratament-impotriva-imperfectiunilor-c441/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Treatment|sp|against|sp|imperfections"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Redness treatment",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/tratament-roseata-ten-c7706/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Redness|sp|treatment"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Sensitive skin",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/piele-sensibila-c7700/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Sensitive|sp|skin"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Lifting & firmness",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/lifting-fermitate-c7871/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Lifting|sp||as||sp|firmness"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Depigmentation",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/depigmentare-c411/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Depigmentation"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Shine & anti-fatigue treatments",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/tratamente/tratamente-stralucire-anti-oboseala-c414/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_TREATMENTS_Shine|sp||as||sp|anti|h|fatigue|sp|treatments"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "BATH & SHOWER",
     "page_url": "https://www.sephora.ro/shop/baie-corp/baie-dus-c473/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BATH|sp||as||sp|SHOWER_BATH|sp||as||sp|SHOWER"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Shower gel",
     "page_url": "https://www.sephora.ro/shop/baie-corp/baie-dus/gel-de-dus-c485/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BATH|sp||as||sp|SHOWER_Shower|sp|gel"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Bath salts, pearls & cubes",
     "page_url": "https://www.sephora.ro/shop/baie-corp/baie-dus/saruri--perle-cuburi-de-baie-c484/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BATH|sp||as||sp|SHOWER_Bath|sp|salts,|sp|pearls|sp||as||sp|cubes"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Soap",
     "page_url": "https://www.sephora.ro/shop/baie-corp/baie-dus/sapun-c486/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BATH|sp||as||sp|SHOWER_Soap"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Bath oil",
     "page_url": "https://www.sephora.ro/shop/baie-corp/baie-dus/ulei-de-baie-c483/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_BATH|sp||as||sp|SHOWER_Bath|sp|oil"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.ro/shop/par-c307/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR_HAIR"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par-c299914/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/sampon-c447/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Shampoo"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Balm",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/balsam-c448/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Balm"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair mask",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/masca-de-par-c299915/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Hair|sp|mask"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Treatment leave in",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/tratamente-leave-in-c406/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Treatment|sp|leave|sp|in"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair oil",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/ulei-de-par-c369703/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Hair|sp|oil"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dyed hair",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/par-vopsit-c523/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Dyed|sp|hair"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoo",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/sampon-uscat-c7762/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Dry|sp|shampoo"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair scent",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par/parfum-de-par-c299916/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_Hair|sp|scent"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.sephora.ro/shop/par/styling-c454/",
     "file_name": "Romania_Sephora_RO_HAIR_STYLING_STYLING"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Spray",
     "page_url": "https://www.sephora.ro/shop/par/styling/spray-c7767/",
     "file_name": "Romania_Sephora_RO_HAIR_STYLING_Spray"
@@ -2414,7 +2414,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Cream",
     "page_url": "https://www.sephora.ro/shop/par/styling/crema-c299917/",
     "file_name": "Romania_Sephora_RO_HAIR_STYLING_Cream"
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Wax",
     "page_url": "https://www.sephora.ro/shop/par/styling/ceara-c226/",
     "file_name": "Romania_Sephora_RO_HAIR_STYLING_Wax"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "HAIR CARE SETS",
+    "category": "Haircare Sets",
     "page": "HAIR CARE SETS",
     "page_url": "https://www.sephora.ro/shop/par/seturi-ingrijire-par-c261201/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE|sp|SETS_HAIR|sp|CARE|sp|SETS"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Gifts",
-    "category": "GIFTS",
+    "category": "Gifts",
     "page": "GIFTS",
     "page_url": "https://www.sephora.ro/idei-cadouri.html",
     "file_name": "Romania_Sephora_RO_GIFTS_GIFTS_GIFTS"

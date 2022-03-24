@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.nl/nl/c/make-up/03",
     "file_name": "Netherlands_DOUGLAS_NL_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/1210",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_MEN"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
-    "category": "MEN",
+    "category": "Men",
     "page": "Facial care",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/gezichtsverzorging/121002",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_Facial|sp|care"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
-    "category": "MEN",
+    "category": "Men",
     "page": "To shave",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/scheren/121003",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_To|sp|shave"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
-    "category": "MEN",
+    "category": "Men",
     "page": "facial cleansing",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/gezichtsreiniging/121001",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_facial|sp|cleansing"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
-    "category": "MEN",
+    "category": "Men",
     "page": "beard care",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/baardverzorging/121004",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_beard|sp|care"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
-    "category": "MEN",
+    "category": "Men",
     "page": "Facial care sets",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/sets/121005",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_Facial|sp|care|sp|sets"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/1210",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_MEN"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/voetverzorging/1307",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "foot cream",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/voetverzorging/voetencreme/130701",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_FOOT|sp|CARE_foot|sp|cream"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "foot bath",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/voetverzorging/voetenbad/130702",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_FOOT|sp|CARE_foot|sp|bath"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "foot scrub",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/voetverzorging/voetscrub/130703",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_FOOT|sp|CARE_foot|sp|scrub"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/voetverzorging/1307",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/heren/1309",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_MEN_MEN"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "body care",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/heren/lichaamsverzorging/130901",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_MEN_body|sp|care"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "body cleansing",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/heren/lichaamsreiniging/130902",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_MEN_body|sp|cleansing"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
-    "category": "MEN",
+    "category": "Men",
     "page": "Sets",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/heren/sets/130904",
     "file_name": "Netherlands_DOUGLAS_NL_BODY_MEN_Sets"
@@ -2228,7 +2228,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.nl/nl/c/haren/14",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR_HAIR"
@@ -2239,7 +2239,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/1401",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2250,7 +2250,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/shampoo/140101",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_Shampoo"
@@ -2261,7 +2261,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "dry shampoo",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/droogshampoo/140102",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_dry|sp|shampoo"
@@ -2272,7 +2272,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioner",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/conditioner/140103",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_Conditioner"
@@ -2283,7 +2283,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair masks",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/haarmaskers/140105",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_hair|sp|masks"
@@ -2294,7 +2294,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair Serum & Oil",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/haarserum-en-olie/140106",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_Hair|sp|Serum|sp||as||sp|Oil"
@@ -2305,7 +2305,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Scalp care",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/hoofdhuidverzorging/140107",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_Scalp|sp|care"
@@ -2316,7 +2316,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Haartonic",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/haartonic/140108",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_Haartonic"
@@ -2327,7 +2327,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Sun Care & Protection",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/zonverzorging-en-bescherming/140109",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_Sun|sp|Care|sp||as||sp|Protection"
@@ -2338,7 +2338,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/1401",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2349,7 +2349,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/1402",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_STYLING"
@@ -2360,7 +2360,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Mousse",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/mousse/140201",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_Mousse"
@@ -2371,7 +2371,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Heat protection",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/hittebescherming/140202",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_Heat|sp|protection"
@@ -2382,7 +2382,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Gel",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/haargel/140203",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_Gel"
@@ -2393,7 +2393,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Wax",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/wax/140204",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_Wax"
@@ -2404,7 +2404,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "hairspray",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/haarlak/140205",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_hairspray"
@@ -2415,7 +2415,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Styling prices",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/stylingsprays/140206",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_Styling|sp|prices"
@@ -2426,7 +2426,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Styling creams",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/stylingcremes/140207",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_Styling|sp|creams"
@@ -2437,7 +2437,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Volumepoeder",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/volumepoeder/140208",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_Volumepoeder"
@@ -2448,7 +2448,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarstyling/1402",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_STYLING_STYLING"
@@ -2514,7 +2514,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.nl/nl/c/haren/heren/1408",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_MEN_MEN"
@@ -2525,7 +2525,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "Shampoo",
     "page_url": "https://www.douglas.nl/nl/c/haren/heren/shampoo/140801",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_MEN_Shampoo"
@@ -2536,7 +2536,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "Hairstyling",
     "page_url": "https://www.douglas.nl/nl/c/haren/heren/styling/140802",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_MEN_Hairstyling"
@@ -2547,7 +2547,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "hair care",
     "page_url": "https://www.douglas.nl/nl/c/haren/heren/verzorging/140803",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_MEN_hair|sp|care"
@@ -2558,7 +2558,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.douglas.nl/nl/c/haren/heren/1408",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_MEN_MEN"
@@ -2888,7 +2888,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/accessoires/1503",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_ACCESSORIES"
@@ -2899,7 +2899,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cloths & scarves",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/accessoires/doeken-en-sjaals/150301",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_Cloths|sp||as||sp|scarves"
@@ -2910,7 +2910,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/accessoires/1503",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_ACCESSORIES"

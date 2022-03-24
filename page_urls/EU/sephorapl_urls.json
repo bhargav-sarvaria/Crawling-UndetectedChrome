@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy-c307/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR_HAIR"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow-c299914/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Masks",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow/maski-c299915/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_Masks"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair perfume",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow/perfumy-do-wlosow-c299916/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_Hair|sp|perfume"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "No rinsing",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow/bez-splukiwania-c406/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_No|sp|rinsing"
@@ -2579,7 +2579,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoos",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow/szampony-c447/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_Shampoos"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioners",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow/odzywki-c448/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_Conditioners"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Coloring",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow/koloryzacja-c523/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_Coloring"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoos",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow/suche-szampony-c7762/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_Dry|sp|shampoos"
@@ -2799,7 +2799,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/stylizacja-wlosow-c454/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -2810,7 +2810,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Waxes",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/stylizacja-wlosow/woski-c226/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|STYLING_Waxes"
@@ -2821,7 +2821,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Creams",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/stylizacja-wlosow/kremy-c299917/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|STYLING_Creams"
@@ -2832,7 +2832,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Gels",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/stylizacja-wlosow/zele-c522/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|STYLING_Gels"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Varnishes",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/stylizacja-wlosow/lakiery-c7767/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|STYLING_Varnishes"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Foams",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/stylizacja-wlosow/pianki-c7768/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|STYLING_Foams"
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/akcesoria-c453/",
     "file_name": "Poland_Sephora_PL_HAIR_ACCESSORIES_ACCESSORIES"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Caps and towels",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/akcesoria/czepki-i-reczniki-c285802/",
     "file_name": "Poland_Sephora_PL_HAIR_ACCESSORIES_Caps|sp|and|sp|towels"
@@ -2887,7 +2887,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Brushes and combs",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/akcesoria/szczotki-i-grzebienie-c471/",
     "file_name": "Poland_Sephora_PL_HAIR_ACCESSORIES_Brushes|sp|and|sp|combs"
@@ -2898,7 +2898,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cufflinks and rubber bands",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/akcesoria/spinki-i-gumki-c472/",
     "file_name": "Poland_Sephora_PL_HAIR_ACCESSORIES_Cufflinks|sp|and|sp|rubber|sp|bands"
@@ -2920,7 +2920,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/wlosy-c496/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR_HAIR"
@@ -2931,7 +2931,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Compaction",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/wlosy/zageszczanie-c243101/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR_Compaction"
@@ -2942,7 +2942,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "hair care",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/wlosy/pielegnacja-wlosow-c297832/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR_hair|sp|care"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Shampoo",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/wlosy/szampon-c514/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR_Shampoo"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Stylization",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/wlosy/stylizacja-c516/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR_Stylization"
@@ -3096,7 +3096,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Sale",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup",
     "page_url": "https://www.sephora.pl/wyprzedaz-makijaz/",
     "file_name": "Poland_Sephora_PL_SALE_Makeup_Makeup"

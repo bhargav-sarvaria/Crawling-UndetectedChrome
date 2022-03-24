@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "View all Makeup",
     "page_url": "https://www.johnlewis.com/browse/beauty/makeup/_/N-7nre",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_View|sp|all|sp|Makeup"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Foundations",
     "page_url": "https://www.johnlewis.com/browse/beauty/makeup/foundations/_/N-7nreZ1yzjnw0",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Foundations"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Concealers",
     "page_url": "https://www.johnlewis.com/browse/beauty/makeup/concealers/_/N-7nreZ1yzjnwh",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Concealers"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyeshadows",
     "page_url": "https://www.johnlewis.com/browse/beauty/makeup/eyeshadows/_/N-7nreZ1yzjnwd",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Eyeshadows"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Mascaras",
     "page_url": "https://www.johnlewis.com/browse/beauty/makeup/mascaras/_/N-7nreZ1yzjnvx",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Mascaras"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lipsticks",
     "page_url": "https://www.johnlewis.com/browse/beauty/makeup/lipsticks/_/N-7nreZ1yzjnw9",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Lipsticks"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Nail Polish & Care",
     "page_url": "https://www.johnlewis.com/browse/beauty/nail-make-up/_/N-a62",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Nail|sp|Polish|sp||as||sp|Care"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Gifts under \u00a320",
     "page_url": "https://www.johnlewis.com/browse/gifts/gifts-under-20/_/N-7ns0",
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|\u00a320"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Gifts under \u00a350",
     "page_url": "https://www.johnlewis.com/browse/gifts/gifts-for-under-50/_/N-7m56",
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|\u00a350"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Gifts",
-    "category": "Gifts by Price",
+    "category": "By Price",
     "page": "Gifts under \u00a3100",
     "page_url": "https://www.johnlewis.com/browse/gifts/gifts-under-100/_/N-7nrz",
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|\u00a3100"

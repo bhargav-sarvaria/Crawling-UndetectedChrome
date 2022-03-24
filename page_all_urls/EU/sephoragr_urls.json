@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "WOMEN",
     "page_url": "https://www.sephora.gr/shop/aromata/gunaikeia-c309/",
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_WOMEN"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "Eau de Parfum",
     "page_url": "https://www.sephora.gr/shop/aromata/gunaikeia/eau-de-parfum-c297810/",
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Eau|sp|de|sp|Parfum"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "Eau de Toilette",
     "page_url": "https://www.sephora.gr/shop/aromata/gunaikeia/eau-de-toilette-c297809/",
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Eau|sp|de|sp|Toilette"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "Bathroom & House",
     "page_url": "https://www.sephora.gr/shop/aromata/gunaikeia/mpanio-soma-c297814/",
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Bathroom|sp||as||sp|House"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "Fragrance Essence",
     "page_url": "https://www.sephora.gr/shop/aromata/gunaikeia/fragrance-essence-c297811/",
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Fragrance|sp|Essence"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "Mist hair",
     "page_url": "https://www.sephora.gr/shop/aromata/gunaikeia/mist-mallion-c297815/",
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Mist|sp|hair"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika-c310/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_MEN"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "MEN",
+    "category": "Men",
     "page": "Eau de Toilette",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika/eau-de-toilette-c297817/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Eau|sp|de|sp|Toilette"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "MEN",
+    "category": "Men",
     "page": "Eau de Parfum",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika/eau-de-parfum-c297818/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Eau|sp|de|sp|Parfum"
@@ -874,7 +874,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "MEN",
+    "category": "Men",
     "page": "Cologne",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika/cologne-c297819/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Cologne"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "MEN",
+    "category": "Men",
     "page": "Deodorant",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika/aposmhtiko-c297820/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Deodorant"
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "MEN",
+    "category": "Men",
     "page": "Bath and Shower",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika/mpanio-kai-ntous-c297821/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Bath|sp|and|sp|Shower"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfume",
-    "category": "MEN",
+    "category": "Men",
     "page": "Shaving and After Shave Care",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika/xurisma-kai-peripoihsh-meta-to-xurisma-c297822/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Shaving|sp|and|sp|After|sp|Shave|sp|Care"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.sephora.gr/shop/soma/spiti-c214801/",
     "file_name": "Greece_Sephora_GR_BODY_HOME_HOME"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.gr/shop/mallia-c307/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_HAIR"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "SHAMPOO & CONDITIONER",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner-c299914/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_SHAMPOO|sp||as||sp|CONDITIONER"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Shampoo",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/sampouan-c447/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Shampoo"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Conditioner",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/conditioner-c448/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Conditioner"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Hair mask",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/maska-mallion-c299915/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Hair|sp|mask"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Leave-in Conditioner",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/leave-in-conditioner-c406/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Leave|h|in|sp|Conditioner"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Hair Oil",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/ladi-mallion-c369703/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Hair|sp|Oil"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Dyed hair",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/bammena-mallia-c523/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Dyed|sp|hair"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Dry Shampoo",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/dry-shampoo-c7762/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Dry|sp|Shampoo"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Mist hair",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner/mist-mallion-c299916/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Mist|sp|hair"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.gr/shop/mallia/mallia-c496/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_HAIR"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Shampoo",
     "page_url": "https://www.sephora.gr/shop/mallia/mallia/sampouan-c514/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Shampoo"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Styling and Shaping",
     "page_url": "https://www.sephora.gr/shop/mallia/mallia/styling-kai-formarisma-c516/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Styling|sp|and|sp|Shaping"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Hair's caring",
     "page_url": "https://www.sephora.gr/shop/mallia/mallia/peripoihsh-mallion-c297832/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Hair|sq|s|sp|caring"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Hair thickening powder",
     "page_url": "https://www.sephora.gr/shop/mallia/mallia/poudra-puknoshs-mallion-c243101/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Hair|sp|thickening|sp|powder"
@@ -2777,7 +2777,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Gifts",
-    "category": "GIFTS",
+    "category": "Gifts",
     "page": "GIFTS",
     "page_url": "https://www.sephora.gr/idei-cadouri.html",
     "file_name": "Greece_Sephora_GR_GIFTS_GIFTS_GIFTS"

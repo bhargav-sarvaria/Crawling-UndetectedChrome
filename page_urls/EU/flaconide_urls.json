@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.flaconi.de/haarpflege/",
     "file_name": "Germany_Flaconi_HAIR_HAIR_HAIR"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.flaconi.de/haarstyling/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_STYLING"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "hairspray",
     "page_url": "https://www.flaconi.de/haarspray/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_hairspray"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "mousse",
     "page_url": "https://www.flaconi.de/schaumfestiger/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_mousse"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Styling Cream & Lotion",
     "page_url": "https://www.flaconi.de/stylingcreme-lotion/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_Styling|sp|Cream|sp||as||sp|Lotion"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "styling spray",
     "page_url": "https://www.flaconi.de/stylingspray/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_styling|sp|spray"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Hair Wax & Gel",
     "page_url": "https://www.flaconi.de/haarwachs-gel/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_Hair|sp|Wax|sp||as||sp|Gel"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "dry shampoo",
     "page_url": "https://www.flaconi.de/trockenshampoo/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_dry|sp|shampoo"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "heat protection",
     "page_url": "https://www.flaconi.de/hitzeschutz/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_heat|sp|protection"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Hair color",
     "page_url": "https://www.flaconi.de/haarfarbe/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_Hair|sp|color"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "hair styling set",
     "page_url": "https://www.flaconi.de/haarstylingset/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_hair|sp|styling|sp|set"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "TOOLS & ACCESSORIES",
     "page_url": "https://www.flaconi.de/haarstyling-zubehoer/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_TOOLS|sp||as||sp|ACCESSORIES"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "flat iron",
     "page_url": "https://www.flaconi.de/glaetteisen/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_flat|sp|iron"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "hair dryer",
     "page_url": "https://www.flaconi.de/haartrockner/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_hair|sp|dryer"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "curling iron",
     "page_url": "https://www.flaconi.de/lockenstab/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_curling|sp|iron"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "hairbrushes",
     "page_url": "https://www.flaconi.de/haarbuersten/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_hairbrushes"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "No Tangle brush",
     "page_url": "https://www.flaconi.de/no-tangle-buersten/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_No|sp|Tangle|sp|brush"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "combs",
     "page_url": "https://www.flaconi.de/kamm/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_combs"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "hair accessories",
     "page_url": "https://www.flaconi.de/haar-accessoires/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_hair|sp|accessories"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "hair ties",
     "page_url": "https://www.flaconi.de/haargummi/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_hair|sp|ties"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "hair clips",
     "page_url": "https://www.flaconi.de/haarspangen/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_hair|sp|clips"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TOOLS & ACCESSORIES",
+    "category": "Tools & Accessories",
     "page": "hair accessories",
     "page_url": "https://www.flaconi.de/haarschmuck/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_hair|sp|accessories"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.flaconi.de/naturkosmetik-haare/",
     "file_name": "Germany_Flaconi_NATURE_HAIR_HAIR"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "shampoo",
     "page_url": "https://www.flaconi.de/naturkosmetik-shampoo/",
     "file_name": "Germany_Flaconi_NATURE_HAIR_shampoo"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "hair conditioner",
     "page_url": "https://www.flaconi.de/naturkosmetik-conditioner/",
     "file_name": "Germany_Flaconi_NATURE_HAIR_hair|sp|conditioner"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "intensive care",
     "page_url": "https://www.flaconi.de/naturkosmetik-haar-intensivpflege/",
     "file_name": "Germany_Flaconi_NATURE_HAIR_intensive|sp|care"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "styling",
     "page_url": "https://www.flaconi.de/naturkosmetik-haarstyling/",
     "file_name": "Germany_Flaconi_NATURE_HAIR_styling"
@@ -3019,7 +3019,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.flaconi.de/premium-haarpflege/",
     "file_name": "Germany_Flaconi_PREMIUM_HAIR_HAIR"
@@ -3030,7 +3030,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Wash & care",
     "page_url": "https://www.flaconi.de/premium-waschen-pflegen/",
     "file_name": "Germany_Flaconi_PREMIUM_HAIR_Wash|sp||as||sp|care"
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "styling",
     "page_url": "https://www.flaconi.de/premium-styling/",
     "file_name": "Germany_Flaconi_PREMIUM_HAIR_styling"
@@ -3316,7 +3316,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.flaconi.de/neuheiten-haare/",
     "file_name": "Germany_Flaconi_NEW_HAIR_HAIR"
@@ -3327,7 +3327,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Innersense Organic Beauty",
     "page_url": "https://www.flaconi.de/innersense-organic-beauty/",
     "file_name": "Germany_Flaconi_NEW_HAIR_Innersense|sp|Organic|sp|Beauty"
@@ -3338,7 +3338,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Philip B",
     "page_url": "https://www.flaconi.de/philip-b/",
     "file_name": "Germany_Flaconi_NEW_HAIR_Philip|sp|B"
@@ -3349,7 +3349,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "PUFFIN BEAUTY",
     "page_url": "https://www.flaconi.de/puffin-beauty/",
     "file_name": "Germany_Flaconi_NEW_HAIR_PUFFIN|sp|BEAUTY"
@@ -3360,7 +3360,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Bedhead by TIGI",
     "page_url": "https://www.flaconi.de/bed-head-by-tigi/",
     "file_name": "Germany_Flaconi_NEW_HAIR_Bedhead|sp|by|sp|TIGI"
@@ -3371,7 +3371,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Lador",
     "page_url": "https://www.flaconi.de/lador/",
     "file_name": "Germany_Flaconi_NEW_HAIR_Lador"
@@ -3382,7 +3382,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Bumble and bumble",
     "page_url": "https://www.flaconi.de/bumble-and-bumble/",
     "file_name": "Germany_Flaconi_NEW_HAIR_Bumble|sp|and|sp|bumble"
@@ -3393,7 +3393,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "boucleme",
     "page_url": "https://www.flaconi.de/boucleme/",
     "file_name": "Germany_Flaconi_NEW_HAIR_boucleme"
@@ -3404,7 +3404,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "weDo Professional",
     "page_url": "https://www.flaconi.de/wedo-professional/",
     "file_name": "Germany_Flaconi_NEW_HAIR_weDo|sp|Professional"
@@ -3415,7 +3415,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "aveda",
     "page_url": "https://www.flaconi.de/aveda/",
     "file_name": "Germany_Flaconi_NEW_HAIR_aveda"
@@ -3426,7 +3426,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Grow Gorgeous",
     "page_url": "https://www.flaconi.de/grow-gorgeous/",
     "file_name": "Germany_Flaconi_NEW_HAIR_Grow|sp|Gorgeous"
@@ -3712,7 +3712,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.flaconi.de/sale-haarpflege/",
     "file_name": "Germany_Flaconi_SALE_HAIR_HAIR"
@@ -3723,7 +3723,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Wash & care",
     "page_url": "https://www.flaconi.de/sale-waschen-und-pflegen/",
     "file_name": "Germany_Flaconi_SALE_HAIR_Wash|sp||as||sp|care"
@@ -3734,7 +3734,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "hair styling",
     "page_url": "https://www.flaconi.de/sale-haarstyling/",
     "file_name": "Germany_Flaconi_SALE_HAIR_hair|sp|styling"

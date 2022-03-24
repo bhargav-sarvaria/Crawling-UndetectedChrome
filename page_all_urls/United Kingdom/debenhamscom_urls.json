@@ -114,28 +114,6 @@
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Exclusive",
-    "category": "Maine",
-    "page": "Maine",
-    "page_url": "https://www.debenhams.com/category/brands-maine-new-england",
-    "file_name": "United|sp|Kingdom_Debenhams_Exclusives_Maine_Maine"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Exclusive",
-    "category": "Mantaray",
-    "page": "Mantaray",
-    "page_url": "https://www.debenhams.com/category/brands-mantaray",
-    "file_name": "United|sp|Kingdom_Debenhams_Exclusives_Mantaray_Mantaray"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
     "category": "All Beauty",
     "page": "All Beauty",
@@ -148,7 +126,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Gift Sets",
     "page_url": "https://www.debenhams.com/category/beauty-gift-sets",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Gift|sp|Sets"
@@ -159,7 +137,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Make Up Gift Sets",
     "page_url": "https://www.debenhams.com/category/beauty-make-up-gift-sets",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Make|sp|Up|sp|Gift|sp|Sets"
@@ -170,7 +148,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Skincare Gifts Sets",
     "page_url": "https://www.debenhams.com/category/beauty-skin-care-gift-sets",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Skincare|sp|Gifts|sp|Sets"
@@ -181,7 +159,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Gift Sets",
+    "category": "Gifts",
     "page": "Fragrance Gift Sets",
     "page_url": "https://www.debenhams.com/category/beauty-fragrance-gift-sets",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Fragrance|sp|Gift|sp|Sets"
@@ -236,7 +214,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup",
     "page_url": "https://www.debenhams.com/category/beauty-make-up",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Makeup"
@@ -247,7 +225,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Face",
     "page_url": "https://www.debenhams.com/category/beauty-make-up-face",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Face"
@@ -258,7 +236,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyebrows",
     "page_url": "https://www.debenhams.com/category/beauty-make-up-eyebrows",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Eyebrows"
@@ -269,7 +247,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.debenhams.com/category/beauty-make-up-eyes",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Eyes"
@@ -280,7 +258,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.debenhams.com/category/beauty-make-up-lips",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Lips"
@@ -291,7 +269,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lashes",
     "page_url": "https://www.debenhams.com/category/beauty-make-up-lashes",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Lashes"
@@ -302,7 +280,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Nails",
     "page_url": "https://www.debenhams.com/category/beauty-nails",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Nails"
@@ -313,7 +291,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Tools & Brushes",
     "page_url": "https://www.debenhams.com/category/beauty-make-up-tools-brushes",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Tools|sp||as||sp|Brushes"
@@ -500,7 +478,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Beauty Best Sellers",
+    "category": "Bestsellers",
     "page": "Beauty Best Sellers",
     "page_url": "https://www.debenhams.com/category/beauty-brands-best-sellers",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Beauty|sp|Best|sp|Sellers_Beauty|sp|Best|sp|Sellers"
@@ -2887,7 +2865,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Kids",
-    "category": "Gifts for Kids",
+    "category": "For Kids",
     "page": "Gifts for Kids",
     "page_url": "https://www.debenhams.com/category/gifts-gifts-for-kids",
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Gifts|sp|for|sp|Kids_Gifts|sp|for|sp|Kids"

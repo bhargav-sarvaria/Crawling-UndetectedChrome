@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Women",
-    "category": "Best Sellers",
+    "category": "Bestsellers",
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/womens-apparel/shop-all?id=1006685&cm_sp=NAVIGATION-_-TOP_NAV-_-1006685-Best-Sellers-Shop-All",
     "file_name": "United|sp|States_Bloomingdales_WOMEN_Best|sp|Sellers_Shop|sp|All"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "Best Sellers",
+    "category": "Bestsellers",
     "page": "Shop Now",
     "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories/shop-now?id=1044359&cm_sp=NAVIGATION-_-TOP_NAV-_-1044359-Best-Sellers-Shop-Now",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Best|sp|Sellers_Shop|sp|Now"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "BEAUTY",
+    "category": "Beauty",
     "page": "BEAUTY",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty?id=2921&cm_sp=NAVIGATION-_-TOP_NAV-_-BEAUTY-n-n",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_BEAUTY_BEAUTY"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Best Sellers",
+    "category": "Bestsellers",
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/best-sellers?id=1033759&cm_sp=NAVIGATION-_-TOP_NAV-_-1033759-Best-Sellers-Shop-All",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Best|sp|Sellers_Shop|sp|All"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Skin Care",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/skincare?id=14812&cm_sp=NAVIGATION-_-TOP_NAV-_-14812-BEAUTY-Skin-Care",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Skin|sp|Care"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Cleansers & Exfoliants",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/facial-cleansers-exfoliants?id=1005915&cm_sp=NAVIGATION-_-TOP_NAV-_-1005915-Skin-Care-Cleansers-%26-Exfoliants",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Cleansers|sp||as||sp|Exfoliants"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Eye Treatments",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/eye-cream-treatment?id=1005922&cm_sp=NAVIGATION-_-TOP_NAV-_-1005922-Skin-Care-Eye-Treatments",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Eye|sp|Treatments"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Masks & Peels",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/facial-masks-peels?id=1005923&cm_sp=NAVIGATION-_-TOP_NAV-_-1005923-Skin-Care-Masks-%26-Peels",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Masks|sp||as||sp|Peels"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Moisturizers",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/face-moisturizer?id=1005884&cm_sp=NAVIGATION-_-TOP_NAV-_-1005884-Skin-Care-Moisturizers",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Moisturizers"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Serums & Face Oils",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/face-serum-oil?id=1005924&cm_sp=NAVIGATION-_-TOP_NAV-_-1005924-Skin-Care-Serums-%26-Face-Oils",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Serums|sp||as||sp|Face|sp|Oils"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Toners & Essences",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/toners-essences?id=1067359&cm_sp=NAVIGATION-_-TOP_NAV-_-1067359-Skin-Care-Toners-%26-Essences",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Toners|sp||as||sp|Essences"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Skin Care",
+    "category": "Skincare",
     "page": "Trending Ingredient: Hyaluronic Acid",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/trending-ingredient-hyaluronic-acid?id=1149059&cm_sp=NAVIGATION-_-TOP_NAV-_-1149059-Skin-Care-Trending-Ingredient:-Hyaluronic-Acid",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Skin|sp|Care_Trending|sp|Ingredient|cln||sp|Hyaluronic|sp|Acid"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Makeup",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/high-end-makeup-brands?id=14720&cm_sp=NAVIGATION-_-TOP_NAV-_-14720-BEAUTY-Makeup",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Makeup_Makeup"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Face",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/face-makeup?id=14721&cm_sp=NAVIGATION-_-TOP_NAV-_-14721-Makeup-Face",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Makeup_Face"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/eye-makeup?id=14797&cm_sp=NAVIGATION-_-TOP_NAV-_-14797-Makeup-Eyes",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Makeup_Eyes"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
-    "category": "Makeup",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/lip-makeup?id=14806&cm_sp=NAVIGATION-_-TOP_NAV-_-14806-Makeup-Lips",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Makeup_Lips"
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Men",
-    "category": "Best Sellers",
+    "category": "Bestsellers",
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/mens/best-sellers?id=1019059&cm_sp=NAVIGATION-_-TOP_NAV-_-1019059-Best-Sellers-Shop-All",
     "file_name": "United|sp|States_Bloomingdales_MEN_Best|sp|Sellers_Shop|sp|All"
@@ -3679,7 +3679,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "Best Sellers",
+    "category": "Bestsellers",
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/kids/shop-all?id=1044059&cm_sp=NAVIGATION-_-TOP_NAV-_-1044059-Best-Sellers-Shop-All",
     "file_name": "United|sp|States_Bloomingdales_KIDS_Best|sp|Sellers_Shop|sp|All"
@@ -3778,7 +3778,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.bloomingdales.com/shop/home?id=3865&cm_sp=NAVIGATION-_-TOP_NAV-_-HOME-n-n",
     "file_name": "United|sp|States_Bloomingdales_HOME_HOME_HOME"

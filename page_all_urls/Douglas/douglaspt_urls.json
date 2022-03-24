@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Perfume",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "FRAGRANCES",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_FRAGRANCES_FRAGRANCES"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Perfume",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Fresh Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-frescos/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_FRAGRANCES_Fresh|sp|Perfumes"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Perfume",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Fruity Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-frutados/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_FRAGRANCES_Fruity|sp|Perfumes"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Perfume",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Woody Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-amadeirados/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_FRAGRANCES_Woody|sp|Perfumes"
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Perfume",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Floral Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-florais/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_FRAGRANCES_Floral|sp|Perfumes"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Perfume",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "oriental perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-orientais/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_FRAGRANCES_oriental|sp|perfumes"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.pt/c/maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -2470,7 +2470,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.pt/c/corpo/cuidados-com-os-pes/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -2481,7 +2481,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "foot cream",
     "page_url": "https://www.douglas.pt/c/corpo/cuidados-com-os-pes/creme-para-os-pes/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_FOOT|sp|CARE_foot|sp|cream"
@@ -2492,7 +2492,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "foot mask",
     "page_url": "https://www.douglas.pt/c/corpo/cuidados-com-os-pes/mascara-para-pes/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_FOOT|sp|CARE_foot|sp|mask"
@@ -2657,7 +2657,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.pt/c/corpo/acessorios/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_ACCESSORIES_ACCESSORIES"
@@ -2668,7 +2668,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Manicure accessories",
     "page_url": "https://www.douglas.pt/c/corpo/acessorios/acessorios-para-manicure/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_ACCESSORIES_Manicure|sp|accessories"
@@ -2679,7 +2679,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "exfoliating glove",
     "page_url": "https://www.douglas.pt/c/corpo/acessorios/luva-esfoliante/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_ACCESSORIES_exfoliating|sp|glove"
@@ -2690,7 +2690,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Self Tanning Glove",
     "page_url": "https://www.douglas.pt/c/corpo/acessorios/luva-autobronzeadora/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_ACCESSORIES_Self|sp|Tanning|sp|Glove"
@@ -2701,7 +2701,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "body sponge",
     "page_url": "https://www.douglas.pt/c/corpo/acessorios/esponja-para-corpo/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_ACCESSORIES_body|sp|sponge"
@@ -2712,7 +2712,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Care Accessories",
     "page_url": "https://www.douglas.pt/c/corpo/acessorios/acessorios-de-cuidado/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_ACCESSORIES_Care|sp|Accessories"
@@ -2734,7 +2734,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.pt/c/cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR_HAIR"
@@ -2899,7 +2899,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2910,7 +2910,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair Ampoules",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/ampolas-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Hair|sp|Ampoules"
@@ -2921,7 +2921,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioner",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/condicionador/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Conditioner"
@@ -2932,7 +2932,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Leave-In Conditioner",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/leave-in-condicionador/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Leave|h|In|sp|Conditioner"
@@ -2943,7 +2943,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair mask",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/mascara-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Hair|sp|mask"
@@ -2954,7 +2954,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair Serum",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/serum-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Hair|sp|Serum"
@@ -2965,7 +2965,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/shampoo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Shampoo"
@@ -2976,7 +2976,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoo",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/shampoo-seco/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Dry|sp|shampoo"
@@ -2987,7 +2987,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Scalp treatments",
     "page_url": "https://www.douglas.pt/c/cabelo/cuidados-com-o-cabelo/tratamentos-para-couro-cabeludo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|CARE_Scalp|sp|treatments"
@@ -3185,7 +3185,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.douglas.pt/c/cabelo/styling-do-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -3196,7 +3196,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "hair lacquer",
     "page_url": "https://www.douglas.pt/c/cabelo/styling-do-cabelo/laca-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|STYLING_hair|sp|lacquer"
@@ -3207,7 +3207,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair Perfume",
     "page_url": "https://www.douglas.pt/c/cabelo/styling-do-cabelo/perfume-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|STYLING_Hair|sp|Perfume"
@@ -3218,7 +3218,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "hair powder",
     "page_url": "https://www.douglas.pt/c/cabelo/styling-do-cabelo/po-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|STYLING_hair|sp|powder"
@@ -3229,7 +3229,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Thermal protectors for hair",
     "page_url": "https://www.douglas.pt/c/cabelo/styling-do-cabelo/protetores-termicos-para-cabelos/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|STYLING_Thermal|sp|protectors|sp|for|sp|hair"
@@ -3240,7 +3240,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "hair spray",
     "page_url": "https://www.douglas.pt/c/cabelo/styling-do-cabelo/spray-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_HAIR_HAIR|sp|STYLING_hair|sp|spray"
@@ -3295,7 +3295,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_MAKE|h|UP"
@@ -3306,7 +3306,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Face Makeup",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Face|sp|Makeup"
@@ -3317,7 +3317,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "eye makeup",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-de-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_eye|sp|makeup"
@@ -3328,7 +3328,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Lip Makeup",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-de-labios/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Lip|sp|Makeup"
@@ -3339,7 +3339,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Nail products",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/produtos-para-unhas/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Nail|sp|products"
@@ -3350,7 +3350,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Makeup for Eyebrows",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Makeup|sp|for|sp|Eyebrows"
@@ -3361,7 +3361,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Makeup Accessories",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/acessorios-de-maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Makeup|sp|Accessories"
@@ -3372,7 +3372,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Brushes make-up",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/pinceis-de-maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Brushes|sp|make|h|up"
@@ -3614,7 +3614,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.pt/c/promocoes/cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_HAIR_HAIR"
@@ -3625,7 +3625,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "hair care",
     "page_url": "https://www.douglas.pt/c/promocoes/cabelo/cuidados-com-o-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_HAIR_hair|sp|care"
@@ -3636,7 +3636,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Hair acessories",
     "page_url": "https://www.douglas.pt/c/promocoes/cabelo/acessorios-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_HAIR_Hair|sp|acessories"
@@ -3702,7 +3702,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_MAKE|h|UP"
@@ -3713,7 +3713,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Face Makeup",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Face|sp|Makeup"
@@ -3724,7 +3724,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "eye makeup",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-de-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_eye|sp|makeup"
@@ -3735,7 +3735,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Lip Makeup",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-de-labios/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Lip|sp|Makeup"
@@ -3746,7 +3746,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Nail products",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/produtos-para-unhas/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Nail|sp|products"
@@ -3757,7 +3757,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Makeup for Eyebrows",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Makeup|sp|for|sp|Eyebrows"
@@ -3768,7 +3768,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Makeup Accessories",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/acessorios-de-maquillhagem/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Makeup|sp|Accessories"
@@ -3779,7 +3779,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "Brushes make-up",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/pinceis-de-maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Brushes|sp|make|h|up"
@@ -3977,7 +3977,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.pt/c/novidades/cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_HAIR_HAIR"
@@ -3988,7 +3988,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "hair care",
     "page_url": "https://www.douglas.pt/c/novidades/cabelo/cuidados-com-o-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_HAIR_hair|sp|care"
@@ -3999,7 +3999,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "Hair Styling",
     "page_url": "https://www.douglas.pt/c/novidades/cabelo/styling-do-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_HAIR_Hair|sp|Styling"

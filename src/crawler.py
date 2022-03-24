@@ -139,8 +139,8 @@ class Crawler:
                     
                     source = BeautifulSoup(d.page_source, 'html.parser')
                     
-                    threading.Thread(target = self.parsePage, args=(source,page_config,device,)).start()      
-                    # self.parsePage(source,page_config, device)
+                    # threading.Thread(target = self.parsePage, args=(source,page_config,device,)).start()      
+                    self.parsePage(source,page_config, device)
 
                 except Exception as e:
                     page_config['message'] = 'processConfig exception'

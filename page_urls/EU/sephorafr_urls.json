@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.fr/shop/cheveux-c307/",
     "file_name": "France_Sephora_FR_HAIR_HAIR_HAIR"
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux-c299914/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/shampoing-c447/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_Shampoo"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioner",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/apres-shampoing-c448/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_Conditioner"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair mask",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/masque-cheveux-c299915/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_Hair|sp|mask"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Leave-in treatment",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/soin-sans-rincage-c406/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_Leave|h|in|sp|treatment"
@@ -2414,7 +2414,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "hair oil",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/huile-cheveux-c369703/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_hair|sp|oil"
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair coloring",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/coloration-cheveux-c523/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_Hair|sp|coloring"
@@ -2436,7 +2436,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoo",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/shampoing-sec-c7762/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_Dry|sp|shampoo"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair perfume",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux/parfum-cheveux-c299916/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_Hair|sp|perfume"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.fr/shop/cheveux/accessoires-c453/",
     "file_name": "France_Sephora_FR_HAIR_ACCESSORIES_ACCESSORIES"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Straightener & curler",
     "page_url": "https://www.sephora.fr/shop/cheveux/accessoires/lisseur-et-boucleur-c5231/",
     "file_name": "France_Sephora_FR_HAIR_ACCESSORIES_Straightener|sp||as||sp|curler"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Hair dryer",
     "page_url": "https://www.sephora.fr/shop/cheveux/accessoires/seche-cheveux-c7744/",
     "file_name": "France_Sephora_FR_HAIR_ACCESSORIES_Hair|sp|dryer"
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Gifts",
-    "category": "GIFTS",
+    "category": "Gifts",
     "page": "GIFTS",
     "page_url": "https://www.sephora.fr/idees-cadeaux.html",
     "file_name": "France_Sephora_FR_GIFTS_GIFTS_GIFTS"

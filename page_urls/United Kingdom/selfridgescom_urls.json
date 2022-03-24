@@ -192,7 +192,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/self-portrait/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|now_Shop|sp|now"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/womens-bestsellers/?app=EDIT+WOMENS+BESTSELLERS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_The|sp|bestsellers_The|sp|bestsellers"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Our exclusives",
+    "category": "Exclusive",
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/exclusive-to-selfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Our|sp|exclusives_Our|sp|exclusives"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "SUPERSELF: the feel-good edit",
+    "category": "Superself",
     "page": "SUPERSELF: the feel-good edit",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/?freeText=edit+superself&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/amiri/womens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Shop|sp|now_Shop|sp|now"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_MEN_MEN"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/mens-bestsellers/?app=EDIT+MW+BESTSELLERS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_The|sp|bestsellers_The|sp|bestsellers"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "Our exclusives",
+    "category": "Exclusive",
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/exclusive-to-selfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Our|sp|exclusives_Our|sp|exclusives"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/streetwear/?app=EDIT+MW+STREETNEWIN&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Shop|sp|now_Shop|sp|now"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "BAGS",
+    "category": "Bags",
     "page": "BAGS",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_BAGS_BAGS"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "Shop all Bags",
+    "category": "Bags",
     "page": "Shop all Bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Shop|sp|all|sp|Bags_Shop|sp|all|sp|Bags"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "The project earth edit",
+    "category": "Project Earth",
     "page": "The project earth edit",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/?freeText=project+earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|project|sp|earth|sp|edit_The|sp|project|sp|earth|sp|edit"
@@ -1677,21 +1677,10 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/bags-bestsellers/?app=EDIT+BAGS+BESTSELLERSCCE18&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|bestsellers_The|sp|bestsellers"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Bags",
-    "category": "New brights",
-    "page": "New brights",
-    "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+BAGSBRIGHT",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_New|sp|brights_New|sp|brights"
   },
   {
     "country": "United Kingdom",
@@ -1710,7 +1699,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "The most-wanted accessories gifts",
+    "category": "Most Wanted",
     "page": "The most-wanted accessories gifts",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/?freeText=EDIT+BAGSGIFTING&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|most|h|wanted|sp|accessories|sp|gifts_The|sp|most|h|wanted|sp|accessories|sp|gifts"
@@ -1721,7 +1710,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "Our exclusives",
+    "category": "Exclusive",
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/exclusive-to-selfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Our|sp|exclusives_Our|sp|exclusives"
@@ -2084,18 +2073,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "New in: Marc Jacobs",
-    "page": "New in: Marc Jacobs",
-    "page_url": "https://www.selfridges.com/GB/en/cat/marc-jacobs/bags/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_New|sp|in|cln||sp|Marc|sp|Jacobs_New|sp|in|cln||sp|Marc|sp|Jacobs"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Bags",
-    "category": "Resellfridges - Shop pre-loved & archive",
+    "category": "Project Earth",
     "page": "Resellfridges - Shop pre-loved & archive",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/project-earth-resellfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Resellfridges|sp||h||sp|Shop|sp|pre|h|loved|sp||as||sp|archive_Resellfridges|sp||h||sp|Shop|sp|pre|h|loved|sp||as||sp|archive"
@@ -2106,18 +2084,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "Just landed: Marc Jacobs bags",
-    "page": "Just landed: Marc Jacobs bags",
-    "page_url": "https://www.selfridges.com/GB/en/cat/marc-jacobs/bags/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Just|sp|landed|cln||sp|Marc|sp|Jacobs|sp|bags_Just|sp|landed|cln||sp|Marc|sp|Jacobs|sp|bags"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Bags",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/marc-jacobs/bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Shop|sp|now_Shop|sp|now"
@@ -2161,7 +2128,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/shoes-bestsellers/?app=EDIT+SHOES+BESTSELLERS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|bestsellers_The|sp|bestsellers"
@@ -2546,7 +2513,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/heels/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Shop|sp|now_Shop|sp|now"
@@ -2557,7 +2524,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "BEAUTY",
+    "category": "Beauty",
     "page": "BEAUTY",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_BEAUTY_BEAUTY"
@@ -2568,7 +2535,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Shop all beauty",
+    "category": "All Beauty",
     "page": "Shop all beauty",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Shop|sp|all|sp|beauty_Shop|sp|all|sp|beauty"
@@ -2590,7 +2557,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Earth-conscious beauty",
+    "category": "Earth Conscious Beauty",
     "page": "Earth-conscious beauty",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/?freeText=project%20earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Earth|h|conscious|sp|beauty_Earth|h|conscious|sp|beauty"
@@ -2601,7 +2568,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Brilliant beauty gifts",
+    "category": "Gifts",
     "page": "Brilliant beauty gifts",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/?freeText=edit+beauty+topbeautygifts&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Brilliant|sp|beauty|sp|gifts_Brilliant|sp|beauty|sp|gifts"
@@ -2612,7 +2579,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Our exclusives",
+    "category": "Exclusive",
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/?freeText=EDIT+BE+EXCLCCE&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Our|sp|exclusives_Our|sp|exclusives"
@@ -2623,7 +2590,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/?freeText=edit+beauty+bestsellers&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_The|sp|bestsellers_The|sp|bestsellers"
@@ -2645,7 +2612,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "All skincare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_All|sp|skincare"
@@ -2656,7 +2623,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Moisturisers",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/moisturiser/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Moisturisers"
@@ -2667,7 +2634,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Cleansers",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/cleanser/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Cleansers"
@@ -2678,7 +2645,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Toners",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/toners/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Toners"
@@ -2689,7 +2656,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Serums",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/serums/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Serums"
@@ -2700,7 +2667,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Masks",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/masks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Masks"
@@ -2711,7 +2678,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Treatments",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/treatments/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Treatments"
@@ -2722,7 +2689,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Exfoliator",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/exfoliator/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Exfoliator"
@@ -2733,7 +2700,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Skincare tools",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/skincare-tools/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Skincare|sp|tools"
@@ -2744,7 +2711,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Eye cream",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/eye-cream/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Eye|sp|cream"
@@ -2755,7 +2722,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All skincare",
+    "category": "Skincare",
     "page": "Oils",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/oils/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Oils"
@@ -2766,7 +2733,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "All make-up",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_All|sp|make|h|up"
@@ -2777,7 +2744,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Complexion",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/complexion/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Complexion"
@@ -2788,7 +2755,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/eyes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Eyes"
@@ -2799,7 +2766,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Eyebrows",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/eyebrows/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Eyebrows"
@@ -2810,7 +2777,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/lips/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Lips"
@@ -2821,7 +2788,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Palettes",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/palettes/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Palettes"
@@ -2832,7 +2799,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Make-up brushes & tools",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/make-up-brushes-tools/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Make|h|up|sp|brushes|sp||as||sp|tools"
@@ -2843,7 +2810,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Primer & setting spray",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/primer-setting-spray/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Primer|sp||as||sp|setting|sp|spray"
@@ -2854,7 +2821,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All make-up",
+    "category": "Make Up",
     "page": "Nails",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/make-up/nails/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Nails"
@@ -2865,7 +2832,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All fragrance",
+    "category": "Fragrance",
     "page": "All fragrance",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/fragrance/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_All|sp|fragrance"
@@ -2876,7 +2843,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All fragrance",
+    "category": "Fragrance",
     "page": "Women's perfume",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/fragrance/womens-perfume/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_Women|sq|s|sp|perfume"
@@ -2887,7 +2854,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All fragrance",
+    "category": "Fragrance",
     "page": "Men's aftershave",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/fragrance/mens-aftershave/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_Men|sq|s|sp|aftershave"
@@ -2898,7 +2865,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All fragrance",
+    "category": "Fragrance",
     "page": "Discovery sets",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/fragrance/discovery-sets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_Discovery|sp|sets"
@@ -2909,7 +2876,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All beauty gift sets",
+    "category": "Gifts",
     "page": "All beauty gift sets",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/beauty-gift-sets/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_All|sp|beauty|sp|gift|sp|sets"
@@ -2920,7 +2887,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All beauty gift sets",
+    "category": "Gifts",
     "page": "Make Up",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/beauty-gift-sets/make-up/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Make|sp|Up"
@@ -2931,7 +2898,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All beauty gift sets",
+    "category": "Gifts",
     "page": "Skincare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/beauty-gift-sets/body-skincare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Skincare"
@@ -2942,7 +2909,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All beauty gift sets",
+    "category": "Gifts",
     "page": "Perfume",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/beauty-gift-sets/perfume/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Perfume"
@@ -2953,7 +2920,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All beauty gift sets",
+    "category": "Gifts",
     "page": "Men's gift sets",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/beauty-gift-sets/mens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Men|sq|s|sp|gift|sp|sets"
@@ -2964,7 +2931,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All beauty gift sets",
+    "category": "Gifts",
     "page": "Travel",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/beauty-gift-sets/travel/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Travel"
@@ -2975,7 +2942,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All haircare",
+    "category": "Haircare",
     "page": "All haircare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/haircare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_All|sp|haircare"
@@ -2986,7 +2953,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All haircare",
+    "category": "Haircare",
     "page": "Hair electricals",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/haircare/hair-electricals/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Hair|sp|electricals"
@@ -2997,7 +2964,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All haircare",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/haircare/shampoo/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Shampoo"
@@ -3008,7 +2975,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All haircare",
+    "category": "Haircare",
     "page": "Conditioner",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/haircare/conditioner/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Conditioner"
@@ -3019,7 +2986,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All haircare",
+    "category": "Haircare",
     "page": "Treatments",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/haircare/treatments/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Treatments"
@@ -3030,7 +2997,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All haircare",
+    "category": "Haircare",
     "page": "Styling",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/haircare/styling/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Styling"
@@ -3041,7 +3008,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All bodycare",
+    "category": "Bath & Body",
     "page": "All bodycare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/bodycare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_All|sp|bodycare"
@@ -3052,7 +3019,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All bodycare",
+    "category": "Bath & Body",
     "page": "Body",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/bodycare/body/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_Body"
@@ -3063,7 +3030,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All bodycare",
+    "category": "Bath & Body",
     "page": "Bath & shower",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/bodycare/bath-shower/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_Bath|sp||as||sp|shower"
@@ -3074,7 +3041,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All mens grooming",
+    "category": "Mens Grooming",
     "page": "All mens grooming",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_All|sp|mens|sp|grooming"
@@ -3085,7 +3052,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All mens grooming",
+    "category": "Mens Grooming",
     "page": "Shave",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/shave/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Shave"
@@ -3096,7 +3063,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All mens grooming",
+    "category": "Mens Grooming",
     "page": "Haircare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/haircare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Haircare"
@@ -3107,7 +3074,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All mens grooming",
+    "category": "Mens Grooming",
     "page": "Skincare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/skincare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Skincare"
@@ -3118,7 +3085,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All mens grooming",
+    "category": "Mens Grooming",
     "page": "Bodycare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/bodycare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Bodycare"
@@ -3129,7 +3096,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All mens grooming",
+    "category": "Mens Grooming",
     "page": "Aftershave",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/aftershave/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Aftershave"
@@ -3140,7 +3107,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All health & wellbeing",
+    "category": "Wellbeing",
     "page": "All health & wellbeing",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/health-wellbeing/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_All|sp|health|sp||as||sp|wellbeing"
@@ -3151,7 +3118,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All health & wellbeing",
+    "category": "Wellbeing",
     "page": "Vitamins & supplements",
     "page_url": "https://www.selfridges.com/GB/en/cat/foodhall/health-wellbeing/vitamins-supplements/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_Vitamins|sp||as||sp|supplements"
@@ -3162,7 +3129,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All health & wellbeing",
+    "category": "Wellbeing",
     "page": "Body, wellbeing & accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/health-wellbeing/body-wellbeing-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_Body,|sp|wellbeing|sp||as||sp|accessories"
@@ -3173,7 +3140,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All health & wellbeing",
+    "category": "Wellbeing",
     "page": "CBD",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/health-wellbeing/cbd/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_CBD"
@@ -3184,7 +3151,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All travel size beauty",
+    "category": "Travel Size Beauty",
     "page": "All travel size beauty",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/travel-size-beauty/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|travel|sp|size|sp|beauty_All|sp|travel|sp|size|sp|beauty"
@@ -3195,7 +3162,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All suncare & tanning",
+    "category": "Suncare",
     "page": "All suncare & tanning",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/suncare-tanning/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|suncare|sp||as||sp|tanning_All|sp|suncare|sp||as||sp|tanning"
@@ -3206,7 +3173,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All suncare & tanning",
+    "category": "Suncare",
     "page": "Suncare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/suncare-tanning/suncare",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|suncare|sp||as||sp|tanning_Suncare"
@@ -3217,7 +3184,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "All suncare & tanning",
+    "category": "Suncare",
     "page": "Tanning",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/suncare-tanning/tanning/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|suncare|sp||as||sp|tanning_Tanning"
@@ -3228,7 +3195,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Trending: health & wellbeing",
+    "category": "Wellbeing",
     "page": "Trending: health & wellbeing",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/health-wellbeing/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Trending|cln||sp|health|sp||as||sp|wellbeing_Trending|cln||sp|health|sp||as||sp|wellbeing"
@@ -3239,7 +3206,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Vegan beauty",
+    "category": "Vegan",
     "page": "Vegan beauty",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/project-earth-vegan/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Vegan|sp|beauty_Vegan|sp|beauty"
@@ -3250,7 +3217,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Gift set savings",
+    "category": "Gifts",
     "page": "Gift set savings",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/displayflag-gift2dset2dsaving/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Gift|sp|set|sp|savings_Gift|sp|set|sp|savings"
@@ -3261,7 +3228,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "SUPERSELF: the feel-good edit",
+    "category": "Superself",
     "page": "SUPERSELF: the feel-good edit",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/?freeText=edit+superself&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit"
@@ -3283,7 +3250,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/hermes/beauty/make-up/complexion/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Shop|sp|now_Shop|sp|now"
@@ -3327,7 +3294,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/?fh_sort_by=bestseller",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_The|sp|bestsellers_The|sp|bestsellers"
@@ -3976,7 +3943,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Kids",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/lego/kids/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Shop|sp|now_Shop|sp|now"
@@ -4020,7 +3987,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/home/?fh_sort_by=bestseller",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_The|sp|bestsellers_The|sp|bestsellers"
@@ -4394,7 +4361,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "SUPERSELF: the feel-good edit",
+    "category": "Superself",
     "page": "SUPERSELF: the feel-good edit",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/?freeText=edit+superself&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit"
@@ -4416,7 +4383,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/home/dining/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Shop|sp|now_Shop|sp|now"
@@ -4471,7 +4438,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "The bestsellers",
+    "category": "Bestsellers",
     "page": "The bestsellers",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+JW+BESTSELLERS&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_The|sp|bestsellers_The|sp|bestsellers"
@@ -4537,7 +4504,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "Our exclusives",
+    "category": "Exclusive",
     "page": "Our exclusives",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/exclusive-to-selfridges/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Our|sp|exclusives_Our|sp|exclusives"
@@ -4878,7 +4845,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/missoma/jewellery-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Shop|sp|now_Shop|sp|now"
@@ -4959,105 +4926,6 @@
     "page": "Under \u00a3250",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-under-250/?app=EDIT+GIFTS+UNDER+250&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|\u00a3250"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Shop all Mother's Day gifts",
-    "page_url": "https://www.selfridges.com/GB/en/cat/gifts/mothers-day/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Shop|sp|all|sp|Mother|sq|s|sp|Day|sp|gifts"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Mother's Day cards",
-    "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/home/stationery/invitations-cards/mothers-day/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Mother|sq|s|sp|Day|sp|cards"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Flowers",
-    "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=Edit+mothersdayflowers&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Flowers"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Champagne & sparkling wine",
-    "page_url": "https://www.selfridges.com/GB/en/cat/foodhall/wines-spirits/champagne-sparkling-wine/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Champagne|sp||as||sp|sparkling|sp|wine"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Chocolate & confectionary",
-    "page_url": "https://www.selfridges.com/GB/en/cat/foodhall/chocolate-confectionery/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Chocolate|sp||as||sp|confectionary"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Personalised gifts",
-    "page_url": "https://www.selfridges.com/GB/en/cat/personalise-me/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Personalised|sp|gifts"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Beauty gifts",
-    "page_url": "https://www.selfridges.com/GB/en/cat/beauty/?freeText=edit+beauty+topbeautygifts&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Beauty|sp|gifts"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Candles",
-    "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/home/candles-home-fragrance/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Candles"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Mothers Day",
-    "page": "Fine jewellery",
-    "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mothers|sp|Day_Fine|sp|jewellery"
   },
   {
     "country": "United Kingdom",
@@ -5362,18 +5230,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Gifts",
-    "category": "Mother's Day gifts",
-    "page": "Mother's Day gifts",
-    "page_url": "https://www.selfridges.com/GB/en/cat/gifts/mothers-day/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Mother|sq|s|sp|Day|sp|gifts_Mother|sq|s|sp|Day|sp|gifts"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Gifts",
-    "category": "Shop now",
+    "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/mothers-day/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_Shop|sp|now_Shop|sp|now"

@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.hu/c/smink/kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ACCESSORIES_ACCESSORIES"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Make-up bags, toiletries",
     "page_url": "https://www.douglas.hu/c/smink/kiegeszitok/sminktaskak-neszesszerek/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ACCESSORIES_Make|h|up|sp|bags,|sp|toiletries"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Invite",
     "page_url": "https://www.douglas.hu/c/smink/kiegeszitok/ajak/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ACCESSORIES_Invite"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Eye",
     "page_url": "https://www.douglas.hu/c/smink/kiegeszitok/szem/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ACCESSORIES_Eye"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Arc",
     "page_url": "https://www.douglas.hu/c/smink/kiegeszitok/arc/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ACCESSORIES_Arc"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Nail",
     "page_url": "https://www.douglas.hu/c/smink/kiegeszitok/korom/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ACCESSORIES_Nail"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Sets",
     "page_url": "https://www.douglas.hu/c/smink/kiegeszitok/szettek/",
     "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ACCESSORIES_Sets"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/sampon/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_Shampoo"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoo",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/szarazsampon/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_Dry|sp|shampoo"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair conditioner & conditioner",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/hajbalzsam-kondicionalo/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_Hair|sp|conditioner|sp||as||sp|conditioner"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Does not require rinsing",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/oblitest-nem-igenylo/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_Does|sp|not|sp|require|sp|rinsing"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair treatment & mask",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/hajkezeles-maszk/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_Hair|sp|treatment|sp||as||sp|mask"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Scalp care",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/fejbor-apolas/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_Scalp|sp|care"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Spray & Permet",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/spray-permet/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Spray|sp||as||sp|Permet"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Jelly & foam & cream",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/zsele-hab-krem/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Jelly|sp||as||sp|foam|sp||as||sp|cream"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Combs",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/fesuk/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Combs"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Accessories",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Accessories"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Curling iron",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/hajsutovas/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Curling|sp|iron"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair straightener",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/hajvasalo/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Hair|sp|straightener"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair curler",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/hajgondorito/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Hair|sp|curler"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair clipper / beard trimmer",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/hajvagoszakallvago/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Hair|sp|clipper|sp||fs||sp|beard|sp|trimmer"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Hair dryer",
     "page_url": "https://www.douglas.hu/c/haj/hajformazas/hajszarito/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|STYLING_Hair|sp|dryer"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "FRAGRANCES",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/illatositok/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_FRAGRANCES_FRAGRANCES"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Illatgyertya",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/illatositok/illatgyertya/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_FRAGRANCES_Illatgyertya"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Aroma diffuser",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/illatositok/aroma-diffuzor/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_FRAGRANCES_Aroma|sp|diffuser"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Home perfume",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/illatositok/lakasparfum/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_FRAGRANCES_Home|sp|perfume"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "Car perfume",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/illatositok/autoillatosito/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_FRAGRANCES_Car|sp|perfume"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Accessories",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.hu/c/kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_ACCESSORIES_ACCESSORIES_ACCESSORIES"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Accessories",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.hu/c/kiegeszitok/kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_ACCESSORIES_ACCESSORIES_ACCESSORIES"

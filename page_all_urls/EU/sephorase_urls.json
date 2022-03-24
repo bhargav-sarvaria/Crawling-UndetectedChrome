@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "INSPIRATION",
     "page_url": "https://www.sephora.se/shop/makeup-c302/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_INSPIRATION_INSPIRATION"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Mascara Guide",
     "page_url": "https://www.sephora.se/mascara-buying-guide.html",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_INSPIRATION_Mascara|sp|Guide"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "All Eyes On Me Magazine",
     "page_url": "https://www.sephora.se/sephora-magazine-all-eyes-on-me.html",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_INSPIRATION_All|sp|Eyes|sp|On|sp|Me|sp|Magazine"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Brow Guide",
     "page_url": "https://www.sephora.se/brow-guide.html",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_INSPIRATION_Brow|sp|Guide"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Palette Stories",
     "page_url": "https://www.sephora.se/palette-stories_SC.html",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_INSPIRATION_Palette|sp|Stories"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "SKINCARE",
     "page_url": "https://www.sephora.se/shop/hudvard-c303/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_SKINCARE_SKINCARE"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.se/shop/hudvard/tillbehor-c7649/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_ACCESSORIES_ACCESSORIES"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cleaning brushes",
     "page_url": "https://www.sephora.se/shop/hudvard/tillbehor/rengoringsborstar-c7733/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_ACCESSORIES_Cleaning|sp|brushes"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Tools",
     "page_url": "https://www.sephora.se/shop/hudvard/tillbehor/redskaber-c7653/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_ACCESSORIES_Tools"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Tweezers",
     "page_url": "https://www.sephora.se/shop/hudvard/tillbehor/pincetter-c541/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_ACCESSORIES_Tweezers"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Toiletries",
     "page_url": "https://www.sephora.se/shop/hudvard/tillbehor/necessarer-c297829/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_ACCESSORIES_Toiletries"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Empty containers",
     "page_url": "https://www.sephora.se/shop/hudvard/tillbehor/tomma-behallare-c297831/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_ACCESSORIES_Empty|sp|containers"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "INSPIRATION",
     "page_url": "https://www.sephora.se/shop/hudvard-c303/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_INSPIRATION_INSPIRATION"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "#SKINCAREBUZZ",
     "page_url": "https://www.sephora.se/skincare-buzz-scandinavia.html",
     "file_name": "Sweden_Sephora_SE_SKINCARE_INSPIRATION_#SKINCAREBUZZ"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Night Rituals",
     "page_url": "https://www.sephora.se/night-ritual-scandinavia.html",
     "file_name": "Sweden_Sephora_SE_SKINCARE_INSPIRATION_Night|sp|Rituals"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Beauty for Men",
     "page_url": "https://www.sephora.se/beauty-for-men-SC.html",
     "file_name": "Sweden_Sephora_SE_SKINCARE_INSPIRATION_Beauty|sp|for|sp|Men"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/tillbehor-c7652/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_ACCESSORIES_ACCESSORIES"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Perfume",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "INSPIRATION",
     "page_url": "https://www.sephora.se/shop/parfym-c301/",
     "file_name": "Sweden_Sephora_SE_PERFUME_INSPIRATION_INSPIRATION"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Perfume",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Perfume Guide",
     "page_url": "https://www.sephora.se/buying-guide-fragrance_SC.html",
     "file_name": "Sweden_Sephora_SE_PERFUME_INSPIRATION_Perfume|sp|Guide"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Perfume",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Niche perfumer",
     "page_url": "https://www.sephora.se/niche-fragrances.html",
     "file_name": "Sweden_Sephora_SE_PERFUME_INSPIRATION_Niche|sp|perfumer"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.se/shop/har-c307/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR_HAIR"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.sephora.se/shop/har/harvard-c299914/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -2623,7 +2623,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.sephora.se/shop/har/harvard/schampo-c447/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Shampoo"
@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioner",
     "page_url": "https://www.sephora.se/shop/har/harvard/conditioner-c448/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Conditioner"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair mask",
     "page_url": "https://www.sephora.se/shop/har/harvard/harmask-c299915/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Hair|sp|mask"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair treatment",
     "page_url": "https://www.sephora.se/shop/har/harvard/harkur-c406/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Hair|sp|treatment"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair oil",
     "page_url": "https://www.sephora.se/shop/har/harvard/harolja-c369703/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Hair|sp|oil"
@@ -2678,7 +2678,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair color",
     "page_url": "https://www.sephora.se/shop/har/harvard/harfarg-c523/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Hair|sp|color"
@@ -2689,7 +2689,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Dry shampoo",
     "page_url": "https://www.sephora.se/shop/har/harvard/torrschampo-c7762/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Dry|sp|shampoo"
@@ -2700,7 +2700,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Hair Mist",
     "page_url": "https://www.sephora.se/shop/har/harvard/har-mist-c299916/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Hair|sp|Mist"
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.sephora.se/shop/har/styling-c454/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_STYLING"
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Spray",
     "page_url": "https://www.sephora.se/shop/har/styling/spray-c7767/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_Spray"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Cream",
     "page_url": "https://www.sephora.se/shop/har/styling/kram-c299917/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_Cream"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Salt water spray",
     "page_url": "https://www.sephora.se/shop/har/styling/saltvandsspray-c7769/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_Salt|sp|water|sp|spray"
@@ -2755,7 +2755,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Mousse",
     "page_url": "https://www.sephora.se/shop/har/styling/mousse-c7768/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_Mousse"
@@ -2766,7 +2766,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Gel",
     "page_url": "https://www.sephora.se/shop/har/styling/gel-c522/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_Gel"
@@ -2777,7 +2777,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Wax",
     "page_url": "https://www.sephora.se/shop/har/styling/vax-c226/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_Wax"
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "INSPIRATION",
     "page_url": "https://www.sephora.se/shop/har-c307/",
     "file_name": "Sweden_Sephora_SE_HAIR_INSPIRATION_INSPIRATION"
@@ -3162,7 +3162,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "INSPIRATION",
+    "category": "Inspiration",
     "page": "Hair Care Guide",
     "page_url": "https://www.sephora.se/guide-haircare-SC.html",
     "file_name": "Sweden_Sephora_SE_HAIR_INSPIRATION_Hair|sp|Care|sp|Guide"

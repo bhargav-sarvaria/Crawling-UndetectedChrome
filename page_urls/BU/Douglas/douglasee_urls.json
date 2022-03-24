@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Sponges / sponges",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Aksessuaarid/Kasnad-svammid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Sponges|sp||fs||sp|sponges"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Brushes / brushes",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Aksessuaarid/Pintslid-harjad/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Brushes|sp||fs||sp|brushes"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Sharpeners",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Aksessuaarid/Teritajad/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Sharpeners"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Manicure / pedicure accessories",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Aksessuaarid/Manikuuri-pedikuuritarvikud/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Manicure|sp||fs||sp|pedicure|sp|accessories"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Cosmetic bags",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Aksessuaarid/Kosmeetikakotid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Cosmetic|sp|bags"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "accessories",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Aksessuaarid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_accessories"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "HAIR CARE",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "HAIR CARE",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Hair combs",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/aksessuaarid/Juuksekammid/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_ACCESSORIES_Hair|sp|combs"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "HAIR CARE",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Hair bands and clips",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/aksessuaarid/Juuksekummid-ja-klambrid/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_ACCESSORIES_Hair|sp|bands|sp|and|sp|clips"

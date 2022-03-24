@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "SKINCARE",
+    "category": "Skincare",
     "page": "SKINCARE",
     "page_url": "https://www.sephora.com.au/categories/skincare",
     "file_name": "Australia_Sephora_AU_SKINCARE_SKINCARE_SKINCARE"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "MOISTURISER",
     "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser",
     "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_MOISTURISER"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "MOISTURISER",
     "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser",
     "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_MOISTURISER"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "Day Moisturiser",
     "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser/day-moisturiser",
     "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_Day|sp|Moisturiser"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "Night Cream",
     "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser/night-cream",
     "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_Night|sp|Cream"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "Facial Mist",
     "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser/facial-mist",
     "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_Facial|sp|Mist"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "Neck & Decollete Cream",
     "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser/neck-and-decollete-cream",
     "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_Neck|sp||as||sp|Decollete|sp|Cream"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.com.au/categories/hair",
     "file_name": "Australia_Sephora_AU_HAIR_HAIR_HAIR"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "SHAMPOO & CONDITIONER",
     "page_url": "https://www.sephora.com.au/categories/hair/shampoo-and-conditioner",
     "file_name": "Australia_Sephora_AU_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_SHAMPOO|sp||as||sp|CONDITIONER"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "SHAMPOO & CONDITIONER",
     "page_url": "https://www.sephora.com.au/categories/hair/shampoo-and-conditioner",
     "file_name": "Australia_Sephora_AU_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_SHAMPOO|sp||as||sp|CONDITIONER"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Shampoo",
     "page_url": "https://www.sephora.com.au/categories/hair/shampoo-and-conditioner/shampoo",
     "file_name": "Australia_Sephora_AU_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Shampoo"
@@ -874,7 +874,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Dry Shampoo",
     "page_url": "https://www.sephora.com.au/categories/hair/shampoo-and-conditioner/dry-shampoo",
     "file_name": "Australia_Sephora_AU_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Dry|sp|Shampoo"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Conditioner",
     "page_url": "https://www.sephora.com.au/categories/hair/shampoo-and-conditioner/conditioner",
     "file_name": "Australia_Sephora_AU_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Conditioner"
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "SHAMPOO & CONDITIONER",
+    "category": "Shampoo & Conditioner",
     "page": "Leave-In Conditioner",
     "page_url": "https://www.sephora.com.au/categories/hair/shampoo-and-conditioner/leave-in-conditioner",
     "file_name": "Australia_Sephora_AU_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Leave|h|In|sp|Conditioner"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.sephora.com.au/categories/hair/styling",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_STYLING"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "STYLING",
     "page_url": "https://www.sephora.com.au/categories/hair/styling",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_STYLING"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Heat Protection",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/heat-protection",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Heat|sp|Protection"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Hair Spray",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/hair-spray",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Hair|sp|Spray"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Hair Cream",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/hair-cream",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Hair|sp|Cream"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Mousse",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/mousse",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Mousse"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Pomade, Wax & Gel",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/pomade-wax-and-gel",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Pomade,|sp|Wax|sp||as||sp|Gel"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Texturiser",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/texturiser",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Texturiser"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Volumiser",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/volumiser",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Volumiser"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "STYLING",
+    "category": "Styling",
     "page": "Hair Colour",
     "page_url": "https://www.sephora.com.au/categories/hair/styling/hair-colour",
     "file_name": "Australia_Sephora_AU_HAIR_STYLING_Hair|sp|Colour"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "TREATMENTS",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_TREATMENTS"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "TREATMENTS",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_TREATMENTS"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Hair Masks",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments/hair-masks",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_Hair|sp|Masks"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Hair Serum",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments/hair-serum",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_Hair|sp|Serum"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Hair Oil",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments/hair-oil",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_Hair|sp|Oil"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Hair Loss Treatment",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments/hair-loss-treatment",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_Hair|sp|Loss|sp|Treatment"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Scalp Treatment",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments/scalp-treatment",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_Scalp|sp|Treatment"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "HAIR CARE SETS",
+    "category": "Haircare Sets",
     "page": "HAIR CARE SETS",
     "page_url": "https://www.sephora.com.au/categories/hair/hair-care-sets",
     "file_name": "Australia_Sephora_AU_HAIR_HAIR|sp|CARE|sp|SETS_HAIR|sp|CARE|sp|SETS"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
-    "category": "HAIR CARE SETS",
+    "category": "Haircare Sets",
     "page": "HAIR CARE SETS",
     "page_url": "https://www.sephora.com.au/categories/hair/hair-care-sets",
     "file_name": "Australia_Sephora_AU_HAIR_HAIR|sp|CARE|sp|SETS_HAIR|sp|CARE|sp|SETS"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & BODY",
+    "category": "Bath & Body",
     "page": "BATH & BODY",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|BODY_BATH|sp||as||sp|BODY"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "BATH & SHOWER",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_BATH|sp||as||sp|SHOWER"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "BATH & SHOWER",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_BATH|sp||as||sp|SHOWER"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Body Wash",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower/body-wash",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_Body|sp|Wash"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Bath Soak",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower/bath-soak",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_Bath|sp|Soak"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Body Exfoliator",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower/body-exfoliator",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_Body|sp|Exfoliator"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Hand Wash",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower/hand-wash",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_Hand|sp|Wash"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Bath & Shower Sets",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/bath-and-shower/bath-and-shower-sets",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|SHOWER_Bath|sp||as||sp|Shower|sp|Sets"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "MOISTURISER",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/moisturiser",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_MOISTURISER_MOISTURISER"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "MOISTURISER",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/moisturiser",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_MOISTURISER_MOISTURISER"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "Body",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/moisturiser/body",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_MOISTURISER_Body"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "Hand Cream",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/moisturiser/hand-cream",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_MOISTURISER_Hand|sp|Cream"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "MOISTURISER",
+    "category": "Moisturiser",
     "page": "Foot Cream",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/moisturiser/foot-cream",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_MOISTURISER_Foot|sp|Cream"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "GROOMING",
+    "category": "Grooming",
     "page": "GROOMING",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/grooming",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_GROOMING_GROOMING"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "GROOMING",
+    "category": "Grooming",
     "page": "GROOMING",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/grooming",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_GROOMING_GROOMING"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "GROOMING",
+    "category": "Grooming",
     "page": "Deodorant",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/grooming/deodorant",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_GROOMING_Deodorant"
@@ -1754,7 +1754,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "GROOMING",
+    "category": "Grooming",
     "page": "Hair Removal",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/grooming/hair-removal",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_GROOMING_Hair|sp|Removal"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "TREATMENTS",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_TREATMENTS"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "TREATMENTS",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_TREATMENTS"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Sleep",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments/sleep",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_Sleep"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "TREATMENTS",
+    "category": "Treatments",
     "page": "Beauty Support Supplements",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments/beauty-support-supplements",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_Beauty|sp|Support|sp|Supplements"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "SUNCARE",
+    "category": "Suncare",
     "page": "SUNCARE",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/suncare",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_SUNCARE_SUNCARE"
@@ -1820,7 +1820,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "SUNCARE",
+    "category": "Suncare",
     "page": "SUNCARE",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/suncare",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_SUNCARE_SUNCARE"
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "SUNCARE",
+    "category": "Suncare",
     "page": "Sun Protection",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/suncare/sun-protection",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_SUNCARE_Sun|sp|Protection"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "SUNCARE",
+    "category": "Suncare",
     "page": "Self Tanner",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/suncare/self-tanner",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_SUNCARE_Self|sp|Tanner"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "SUNCARE",
+    "category": "Suncare",
     "page": "After Sun Care",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/suncare/after-sun-care",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_SUNCARE_After|sp|Sun|sp|Care"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "FRAGRANCES",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/fragrances",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_FRAGRANCES_FRAGRANCES"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
-    "category": "FRAGRANCES",
+    "category": "Fragrance",
     "page": "FRAGRANCES",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/fragrances",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_FRAGRANCES_FRAGRANCES"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Fragrance",
-    "category": "FRAGRANCE",
+    "category": "Fragrance",
     "page": "FRAGRANCE",
     "page_url": "https://www.sephora.com.au/categories/fragrance",
     "file_name": "Australia_Sephora_AU_FRAGRANCE_FRAGRANCE_FRAGRANCE"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Fragrance",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "WOMEN",
     "page_url": "https://www.sephora.com.au/categories/fragrance/women",
     "file_name": "Australia_Sephora_AU_FRAGRANCE_WOMEN_WOMEN"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Fragrance",
-    "category": "WOMEN",
+    "category": "Women",
     "page": "WOMEN",
     "page_url": "https://www.sephora.com.au/categories/fragrance/women",
     "file_name": "Australia_Sephora_AU_FRAGRANCE_WOMEN_WOMEN"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Fragrance",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.sephora.com.au/categories/fragrance/men",
     "file_name": "Australia_Sephora_AU_FRAGRANCE_MEN_MEN"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Fragrance",
-    "category": "MEN",
+    "category": "Men",
     "page": "MEN",
     "page_url": "https://www.sephora.com.au/categories/fragrance/men",
     "file_name": "Australia_Sephora_AU_FRAGRANCE_MEN_MEN"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Fragrance",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.sephora.com.au/categories/fragrance/home",
     "file_name": "Australia_Sephora_AU_FRAGRANCE_HOME_HOME"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Fragrance",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.sephora.com.au/categories/fragrance/home",
     "file_name": "Australia_Sephora_AU_FRAGRANCE_HOME_HOME"
@@ -1962,8 +1962,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN",
+    "department": "Clean",
+    "category": "Clean",
     "page": "CLEAN",
     "page_url": "https://www.sephora.com.au/categories/clean",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN_CLEAN"
@@ -1973,8 +1973,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN SKINCARE",
+    "department": "Clean",
+    "category": "Skincare",
     "page": "CLEAN SKINCARE",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-skincare",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|SKINCARE_CLEAN|sp|SKINCARE"
@@ -1984,8 +1984,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN SKINCARE",
+    "department": "Clean",
+    "category": "Skincare",
     "page": "CLEAN SKINCARE",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-skincare",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|SKINCARE_CLEAN|sp|SKINCARE"
@@ -1995,8 +1995,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN SKINCARE",
+    "department": "Clean",
+    "category": "Skincare",
     "page": "Cleanser & Exfoliator",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-skincare/cleanser-and-exfoliator",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|SKINCARE_Cleanser|sp||as||sp|Exfoliator"
@@ -2006,8 +2006,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN SKINCARE",
+    "department": "Clean",
+    "category": "Skincare",
     "page": "Toner",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-skincare/toner",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|SKINCARE_Toner"
@@ -2017,8 +2017,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN SKINCARE",
+    "department": "Clean",
+    "category": "Skincare",
     "page": "Moisturiser",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-skincare/moisturiser",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|SKINCARE_Moisturiser"
@@ -2028,8 +2028,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN SKINCARE",
+    "department": "Clean",
+    "category": "Skincare",
     "page": "Masks & Treatments",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-skincare/masks-and-treatments",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|SKINCARE_Masks|sp||as||sp|Treatments"
@@ -2039,8 +2039,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN SKINCARE",
+    "department": "Clean",
+    "category": "Skincare",
     "page": "Sun Care",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-skincare/sun-care",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|SKINCARE_Sun|sp|Care"
@@ -2050,8 +2050,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN MAKEUP",
+    "department": "Clean",
+    "category": "Make Up",
     "page": "CLEAN MAKEUP",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-makeup",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|MAKEUP_CLEAN|sp|MAKEUP"
@@ -2061,8 +2061,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN MAKEUP",
+    "department": "Clean",
+    "category": "Make Up",
     "page": "CLEAN MAKEUP",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-makeup",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|MAKEUP_CLEAN|sp|MAKEUP"
@@ -2072,8 +2072,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN MAKEUP",
+    "department": "Clean",
+    "category": "Make Up",
     "page": "Face",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-makeup/face",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|MAKEUP_Face"
@@ -2083,8 +2083,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN MAKEUP",
+    "department": "Clean",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-makeup/eyes",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|MAKEUP_Eyes"
@@ -2094,8 +2094,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN MAKEUP",
+    "department": "Clean",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-makeup/lips",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|MAKEUP_Lips"
@@ -2105,8 +2105,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN MAKEUP",
+    "department": "Clean",
+    "category": "Make Up",
     "page": "Makeup Remover",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-makeup/makeup-remover",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|MAKEUP_Makeup|sp|Remover"
@@ -2116,8 +2116,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN HAIR",
+    "department": "Clean",
+    "category": "Hair",
     "page": "CLEAN HAIR",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-hair",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|HAIR_CLEAN|sp|HAIR"
@@ -2127,8 +2127,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN HAIR",
+    "department": "Clean",
+    "category": "Hair",
     "page": "CLEAN HAIR",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-hair",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|HAIR_CLEAN|sp|HAIR"
@@ -2138,8 +2138,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN HAIR",
+    "department": "Clean",
+    "category": "Hair",
     "page": "Shampoo & Conditioner",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-hair/shampoo-and-conditioner",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|HAIR_Shampoo|sp||as||sp|Conditioner"
@@ -2149,8 +2149,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN HAIR",
+    "department": "Clean",
+    "category": "Hair",
     "page": "Styling",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-hair/styling",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|HAIR_Styling"
@@ -2160,8 +2160,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN HAIR",
+    "department": "Clean",
+    "category": "Hair",
     "page": "Treatments",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-hair/treatments",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|HAIR_Treatments"
@@ -2171,8 +2171,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN BATH & BODY",
+    "department": "Clean",
+    "category": "Bath & Body",
     "page": "CLEAN BATH & BODY",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-bath-and-body",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|BATH|sp||as||sp|BODY_CLEAN|sp|BATH|sp||as||sp|BODY"
@@ -2182,8 +2182,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN BATH & BODY",
+    "department": "Clean",
+    "category": "Bath & Body",
     "page": "CLEAN BATH & BODY",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-bath-and-body",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|BATH|sp||as||sp|BODY_CLEAN|sp|BATH|sp||as||sp|BODY"
@@ -2193,8 +2193,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN BATH & BODY",
+    "department": "Clean",
+    "category": "Bath & Body",
     "page": "Bath & Shower",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-bath-and-body/bath-and-shower",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|BATH|sp||as||sp|BODY_Bath|sp||as||sp|Shower"
@@ -2204,8 +2204,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN BATH & BODY",
+    "department": "Clean",
+    "category": "Bath & Body",
     "page": "Moisturiser",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-bath-and-body/moisturiser",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|BATH|sp||as||sp|BODY_Moisturiser"
@@ -2215,8 +2215,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN BATH & BODY",
+    "department": "Clean",
+    "category": "Bath & Body",
     "page": "Grooming",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-bath-and-body/grooming",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|BATH|sp||as||sp|BODY_Grooming"
@@ -2226,8 +2226,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN BATH & BODY",
+    "department": "Clean",
+    "category": "Bath & Body",
     "page": "Treatments",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-bath-and-body/treatments",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|BATH|sp||as||sp|BODY_Treatments"
@@ -2237,8 +2237,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN BATH & BODY",
+    "department": "Clean",
+    "category": "Bath & Body",
     "page": "Suncare",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-bath-and-body/suncare",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|BATH|sp||as||sp|BODY_Suncare"
@@ -2248,8 +2248,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN FRAGRANCE",
+    "department": "Clean",
+    "category": "Fragrance",
     "page": "CLEAN FRAGRANCE",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-fragrance",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|FRAGRANCE_CLEAN|sp|FRAGRANCE"
@@ -2259,8 +2259,8 @@
     "retailer": "Sephora_AU",
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
-    "department": "CLEAN",
-    "category": "CLEAN FRAGRANCE",
+    "department": "Clean",
+    "category": "Fragrance",
     "page": "CLEAN FRAGRANCE",
     "page_url": "https://www.sephora.com.au/categories/clean/clean-fragrance",
     "file_name": "Australia_Sephora_AU_CLEAN_CLEAN|sp|FRAGRANCE_CLEAN|sp|FRAGRANCE"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Gifts",
-    "category": "GIFTS",
+    "category": "Gifts",
     "page": "GIFTS",
     "page_url": "https://www.sephora.com.au/categories/gifts",
     "file_name": "Australia_Sephora_AU_GIFTS_GIFTS_GIFTS"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Gifts",
-    "category": "GIFT IDEAS",
+    "category": "Gifts",
     "page": "GIFT IDEAS",
     "page_url": "https://www.sephora.com.au/categories/gifts/gift-ideas",
     "file_name": "Australia_Sephora_AU_GIFTS_GIFT|sp|IDEAS_GIFT|sp|IDEAS"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Gifts",
-    "category": "GIFT IDEAS",
+    "category": "Gifts",
     "page": "GIFT IDEAS",
     "page_url": "https://www.sephora.com.au/categories/gifts/gift-ideas",
     "file_name": "Australia_Sephora_AU_GIFTS_GIFT|sp|IDEAS_GIFT|sp|IDEAS"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Gifts",
-    "category": "GIFT IDEAS",
+    "category": "Gifts",
     "page": "For Her",
     "page_url": "https://www.sephora.com.au/categories/gifts/gift-ideas/for-her",
     "file_name": "Australia_Sephora_AU_GIFTS_GIFT|sp|IDEAS_For|sp|Her"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Gifts",
-    "category": "GIFT IDEAS",
+    "category": "Gifts",
     "page": "For Him",
     "page_url": "https://www.sephora.com.au/categories/gifts/gift-ideas/for-him",
     "file_name": "Australia_Sephora_AU_GIFTS_GIFT|sp|IDEAS_For|sp|Him"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Gifts",
-    "category": "EXCLUSIVES",
+    "category": "Exclusive",
     "page": "EXCLUSIVES",
     "page_url": "https://www.sephora.com.au/categories/gifts/exclusives",
     "file_name": "Australia_Sephora_AU_GIFTS_EXCLUSIVES_EXCLUSIVES"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Gifts",
-    "category": "EXCLUSIVES",
+    "category": "Exclusive",
     "page": "EXCLUSIVES",
     "page_url": "https://www.sephora.com.au/categories/gifts/exclusives",
     "file_name": "Australia_Sephora_AU_GIFTS_EXCLUSIVES_EXCLUSIVES"

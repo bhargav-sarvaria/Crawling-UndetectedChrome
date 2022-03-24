@@ -5,7 +5,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up-c302/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
-    "category": "ANNOUNCEMENTS",
+    "category": "Announcements",
     "page": "ANNOUNCEMENTS",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/novit%C3%A0-c302-novita/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_ANNOUNCEMENTS_ANNOUNCEMENTS"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfume",
-    "category": "ANNOUNCEMENTS",
+    "category": "Announcements",
     "page": "ANNOUNCEMENTS",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi/novit%C3%A0-c301-novita/",
     "file_name": "Italy_Sephora_IT_PERFUMES_ANNOUNCEMENTS_ANNOUNCEMENTS"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "ANNOUNCEMENTS",
+    "category": "Announcements",
     "page": "ANNOUNCEMENTS",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/novit%C3%A0-c303-novita/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_ANNOUNCEMENTS_ANNOUNCEMENTS"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "ANNOUNCEMENTS",
+    "category": "Announcements",
     "page": "ANNOUNCEMENTS",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/novit%C3%A0-c304-novita/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_ANNOUNCEMENTS_ANNOUNCEMENTS"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "BATH & SHOWER",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/bagno-e-doccia-c473/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BATH|sp||as||sp|SHOWER_BATH|sp||as||sp|SHOWER"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Shower gel",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/bagno-e-doccia/gel-doccia-c485/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BATH|sp||as||sp|SHOWER_Shower|sp|gel"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Soap",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/bagno-e-doccia/sapone-c486/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BATH|sp||as||sp|SHOWER_Soap"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Bath oil",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/bagno-e-doccia/olio-da-bagno-c483/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BATH|sp||as||sp|SHOWER_Bath|sp|oil"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "BATH & SHOWER",
+    "category": "Bath & Shower",
     "page": "Salts, Pearls and Bath Cubes",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/bagno-e-doccia/sali%2C-perle-e-cubi-da-bagno-c484/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BATH|sp||as||sp|SHOWER_Salts,|sp|Pearls|sp|and|sp|Bath|sp|Cubes"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "HOME",
+    "category": "Home",
     "page": "HOME",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/casa-c214801/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_HOME_HOME"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli-c307/",
     "file_name": "Italy_Sephora_IT_HAIR_HAIR_HAIR"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "ANNOUNCEMENTS",
+    "category": "Announcements",
     "page": "ANNOUNCEMENTS",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/novit%C3%A0-c307-novita/",
     "file_name": "Italy_Sephora_IT_HAIR_ANNOUNCEMENTS_ANNOUNCEMENTS"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/accessori-c453/",
     "file_name": "Italy_Sephora_IT_HAIR_ACCESSORIES_ACCESSORIES"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Brushes & Combs",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/accessori/spazzole-e-pettini-c471/",
     "file_name": "Italy_Sephora_IT_HAIR_ACCESSORIES_Brushes|sp||as||sp|Combs"
@@ -2623,7 +2623,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Straighteners & Curlers",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/accessori/piastre-e-arricciacapelli-c5231/",
     "file_name": "Italy_Sephora_IT_HAIR_ACCESSORIES_Straighteners|sp||as||sp|Curlers"
@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Hair cutter",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/accessori/tagliacapelli-c272103/",
     "file_name": "Italy_Sephora_IT_HAIR_ACCESSORIES_Hair|sp|cutter"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Hairdryer",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/accessori/asciugacapelli-c7744/",
     "file_name": "Italy_Sephora_IT_HAIR_ACCESSORIES_Hairdryer"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Turbans and towels",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/accessori/turbanti-e-asciugamani-c285802/",
     "file_name": "Italy_Sephora_IT_HAIR_ACCESSORIES_Turbans|sp|and|sp|towels"

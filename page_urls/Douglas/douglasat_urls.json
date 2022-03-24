@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.at/de/c/make-up/03",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "FOOT CARE",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/1307",
     "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "foot cream",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/fusscreme/130701",
     "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_foot|sp|cream"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "Fu\u00dfpeeling",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/fusspeeling/130703",
     "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_Fu\u00dfpeeling"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": "footbath",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/fussbad/130702",
     "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_footbath"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "FOOT CARE",
+    "category": "Foot Care",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/1307",
     "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.at/de/c/haare/14",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR_HAIR"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "HAIR CARE",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/1401",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Shampoo",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/shampoo/140101",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_Shampoo"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "dry shampoo",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/trockenshampoo/140102",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_dry|sp|shampoo"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": "Conditioner",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/conditioner/140103",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_Conditioner"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR CARE",
+    "category": "Haircare",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/1401",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "HAIR STYLING",
     "page_url": "https://www.douglas.at/de/c/haare/haarstyling/1402",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "mousse",
     "page_url": "https://www.douglas.at/de/c/haare/haarstyling/schaumfestiger/140201",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|STYLING_mousse"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "heat protection",
     "page_url": "https://www.douglas.at/de/c/haare/haarstyling/hitzeschutz/140202",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|STYLING_heat|sp|protection"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": "Haargel",
     "page_url": "https://www.douglas.at/de/c/haare/haarstyling/haargel/140203",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|STYLING_Haargel"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HAIR STYLING",
+    "category": "Hair Styling",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/haarstyling/1402",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|STYLING_>>|sp|All|sp|in|sp|Kategorien"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "ACCESSORIES",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/accessoires/1503",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_ACCESSORIES"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": "Shawls & Scarves",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/accessoires/tuecher-schals/150301",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_Shawls|sp||as||sp|Scarves"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "ACCESSORIES",
+    "category": "Accessories",
     "page": ">> All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/accessoires/1503",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_>>|sp|All|sp|in|sp|Kategorien"

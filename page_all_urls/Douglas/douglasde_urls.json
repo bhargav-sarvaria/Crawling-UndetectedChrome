@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "MAKE-UP",
+    "category": "Make Up",
     "page": "MAKE-UP",
     "page_url": "https://www.douglas.de/de/c/make-up/03",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "HAIR",
+    "category": "Hair",
     "page": "HAIR",
     "page_url": "https://www.douglas.de/de/c/haare/14",
     "file_name": "Germany_DOUGLAS_DE_HAIR_HAIR_HAIR"
