@@ -180,7 +180,12 @@ class Crawler:
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
             if os.path.exists(filname):
                 os.remove(filname)
-                print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
+                try:
+                    with open("file.log", "a") as myfile:
+                        myfile.write('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
+                except:
+                    print()
+                # print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
         except Exception as e:
             page_config['message'] = 'parsePage exception'
             mongo.addErrorDocument(self.crawl_folder, page_config)
