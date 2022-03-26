@@ -10,7 +10,7 @@ proxies_file = './chrome/proxies/proxies.txt'
 extension_folder = './chrome/extensions/'
 TOTAL_PROXIES = 50
 
-PREFS = {'profile.default_content_setting_values': {'images': 2, 'plugins': 2, 'popups': 2, 'geolocation': 1, 'notifications': 2, 'auto_select_certificate': 2, 'media_stream': 2, 'ppapi_broker': 2,  'app_banner': 2, 'site_engagement': 2 } }
+PREFS = {'profile.default_content_setting_values': {'cookies': 2, 'images': 2, 'plugins': 2, 'popups': 2, 'geolocation': 2, 'notifications': 2, 'auto_select_certificate': 2, 'fullscreen': 2,'mouselock': 2, 'mixed_script': 2, 'media_stream': 2, 'media_stream_mic': 2, 'media_stream_camera': 2, 'protocol_handlers': 2, 'ppapi_broker': 2, 'automatic_downloads': 2, 'midi_sysex': 2, 'push_messaging': 2, 'ssl_cert_decisions': 2, 'metro_switch_to_desktop': 2, 'protected_media_identifier': 2, 'app_banner': 2, 'site_engagement': 2, 'durable_storage': 2} }
 
 class Driver:
     def __init__(self):
@@ -30,15 +30,10 @@ class Driver:
     ):
         try:
             opt = uc.ChromeOptions()
-            # opt.add_argument("--no-sandbox")
             opt.add_argument("--disable-dev-shm-usage")
             opt.add_argument("--start-maximized")
             opt.add_argument("--disable-infobars")
             opt.add_argument("--disable-gpu")
-            opt.add_argument("--blink-settings=imagesEnabled=false")
-            opt.add_argument("--disable-geolocation")
-            opt.add_argument("--disable-notifications")
-            opt.add_argument("--disable-media-stream")
             opt.add_argument("--enable-strict-powerful-feature-restrictions")
             opt.add_experimental_option("prefs", PREFS)
 
@@ -53,14 +48,11 @@ class Driver:
             else:
                 opt.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36")
             
-            extensions = '--load-extension='+extension_folder+'CSS-Block,'+extension_folder+'GIF-blocker'
             if hoxx:
-                extensions = extensions + ','+extension_folder+'hoxx'
+                opt.add_argument('--load-extension='+extension_folder+'hoxx')
 
             if os.environ['HEADLESS'] == '1':
                 opt.add_argument("--headless")
-            else:
-                opt.add_argument(extensions)
 
             driver = uc.ChromeWithPrefs(options = opt, use_subprocess=True)
             driver.set_page_load_timeout(10)
