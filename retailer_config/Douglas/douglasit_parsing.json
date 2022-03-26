@@ -11,7 +11,7 @@
     },
     {
       "field": "country",
-      "field_name": "Countryˀˀˀ",
+      "field_name": "Country",
       "selectors": [{ "type": "config_value", "value": "country" }]
     },
     {
