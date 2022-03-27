@@ -72,9 +72,9 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "BRANDS",
     "category": "TOP MARKETS",
-    "page": "Chlo\u00e9",
+    "page": "Chloe",
     "page_url": "https://www.douglas.at/de/b/chloe/b0519",
-    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Chlo\u00e9"
+    "file_name": "Austria_DOUGLAS_AT_BRANDS_TOP|sp|MARKETS_Chloe"
   },
   {
     "country": "Austria",
@@ -202,9 +202,9 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "Perfume",
-    "page": "PERFUME",
+    "department": "Perfumes",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://www.douglas.at/de/c/parfum/01",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_PERFUME_PERFUME"
   },
@@ -213,97 +213,97 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
-    "page": "DAMEND\u00dcFTE",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
+    "page": "Womens Frangrance",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/0101",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_DAMEND\u00dcFTE"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_DAMENDuFTE"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
     "page": "women's perfume",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/parfum/010106",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_women|sq|s|sp|perfume"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_women|sq|s|sp|perfume"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
     "page": "Fragrance sets",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/duftsets/010111",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_Fragrance|sp|sets"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_Fragrance|sp|sets"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
     "page": "personal hygiene",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/koerperpflege/010108",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_personal|sp|hygiene"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_personal|sp|hygiene"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
     "page": "shower care",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/duschpflege/010107",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_shower|sp|care"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_shower|sp|care"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
     "page": "Deodorants",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/deodorants/010105",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_Deodorants"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_Deodorants"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
     "page": "Parfumzerst\u00e4uber",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/parfuemzerstaeuber/010102",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_Parfumzerst\u00e4uber"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_Parfumzerst\u00e4uber"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "DAMEND\u00dcFTE",
-    "page": ">> All in Kategorien",
+    "department": "Perfumes",
+    "category": "Womens Frangrance",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/0101",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMEND\u00dcFTE_>>|sp|All|sp|in|sp|Kategorien"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_>>|sp|All|sp|in|sp|Kategorien"
   },
   {
     "country": "Austria",
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
-    "page": "MEN'S FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
+    "page": "Mens Fragrance",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/0102",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_MEN|sq|S|sp|FRAGRANCES"
   },
@@ -312,8 +312,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
     "page": "men's perfume",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/parfum/010205",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_men|sq|s|sp|perfume"
@@ -323,8 +323,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
     "page": "shower care",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/duschpflege/010208",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_shower|sp|care"
@@ -334,8 +334,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
     "page": "After Shave",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/after-shave/010206",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_After|sp|Shave"
@@ -345,8 +345,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
     "page": "Deodorants",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/deodorants/010207",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_Deodorants"
@@ -356,8 +356,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
     "page": "men's body care",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/koerperpflege/010209",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_men|sq|s|sp|body|sp|care"
@@ -367,8 +367,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
     "page": "Fragrance sets",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/duftsets/010212",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_Fragrance|sp|sets"
@@ -378,9 +378,9 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "MEN'S FRAGRANCES",
-    "page": ">> All in Kategorien",
+    "department": "Perfumes",
+    "category": "Mens Fragrance",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/0102",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -389,9 +389,9 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "UNISEX FRAGRANCES",
-    "page": "UNISEX FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Unisex Fragrance",
+    "page": "Unisex Fragrance",
     "page_url": "https://www.douglas.at/de/c/parfum/unisex-duefte/0103",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_UNISEX|sp|FRAGRANCES_UNISEX|sp|FRAGRANCES"
   },
@@ -400,8 +400,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "UNISEX FRAGRANCES",
+    "department": "Perfumes",
+    "category": "Unisex Fragrance",
     "page": "Unisex Perfume",
     "page_url": "https://www.douglas.at/de/c/parfum/unisex-duefte/unisex-parfum/010301",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_UNISEX|sp|FRAGRANCES_Unisex|sp|Perfume"
@@ -411,9 +411,9 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "NICHE SCENTS",
-    "page": "NICHE SCENTS",
+    "department": "Perfumes",
+    "category": "Niche Scents",
+    "page": "Niche Scents",
     "page_url": "https://www.douglas.at/de/c/parfum/nischenduefte/0105",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_NICHE|sp|SCENTS_NICHE|sp|SCENTS"
   },
@@ -422,8 +422,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "NICHE SCENTS",
+    "department": "Perfumes",
+    "category": "Niche Scents",
     "page": "Niche fragrances for men",
     "page_url": "https://www.douglas.at/de/c/parfum/nischenduefte/nischenduefte-fuer-herren/010502",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_NICHE|sp|SCENTS_Niche|sp|fragrances|sp|for|sp|men"
@@ -433,8 +433,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "NICHE SCENTS",
+    "department": "Perfumes",
+    "category": "Niche Scents",
     "page": "Niche fragrances for women",
     "page_url": "https://www.douglas.at/de/c/parfum/nischenduefte/nischenduefte-fuer-damen/010501",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_NICHE|sp|SCENTS_Niche|sp|fragrances|sp|for|sp|women"
@@ -444,8 +444,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "BEAUTY STORYS",
+    "department": "Perfumes",
+    "category": "Stories",
     "page": "BEAUTY STORYS",
     "page_url": "https://www.douglas.at/de/c/parfum/beauty-storys/0120",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_BEAUTY|sp|STORYS_BEAUTY|sp|STORYS"
@@ -455,8 +455,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "BEAUTY STORYS",
+    "department": "Perfumes",
+    "category": "Stories",
     "page": "All about: Patschuli Parf\u00fcm",
     "page_url": "https://www.douglas.at/de/c/parfum/beauty-storys/all-about-patchouli-parfum/012013",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_BEAUTY|sp|STORYS_All|sp|about|cln||sp|Patschuli|sp|Parf\u00fcm"
@@ -466,8 +466,8 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "BEAUTY STORYS",
+    "department": "Perfumes",
+    "category": "Stories",
     "page": "All About: Extraordinary Flacons",
     "page_url": "https://www.douglas.at/de/c/parfum/beauty-storys/all-about-parfum-flakons/012021",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_BEAUTY|sp|STORYS_All|sp|About|cln||sp|Extraordinary|sp|Flacons"
@@ -477,9 +477,9 @@
     "retailer": "DOUGLAS_AT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Perfume",
-    "category": "BEAUTY STORYS",
-    "page": ">> All in Beauty Storys",
+    "department": "Perfumes",
+    "category": "Stories",
+    "page": "All in Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/parfum/beauty-storys/0120",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_BEAUTY|sp|STORYS_>>|sp|All|sp|in|sp|Beauty|sp|Storys"
   },
@@ -545,7 +545,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Skin",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/teint/0301",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_COMPLEXION_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -556,7 +556,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Eyes",
-    "page": "EYES",
+    "page": "Eyes",
     "page_url": "https://www.douglas.at/de/c/make-up/augen/0303",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_EYES"
   },
@@ -600,7 +600,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Eyes",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/augen/0303",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -611,7 +611,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Lips",
-    "page": "LIPS",
+    "page": "Lips",
     "page_url": "https://www.douglas.at/de/c/make-up/lippen/0302",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_LIPS_LIPS"
   },
@@ -655,7 +655,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Lips",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/lippen/0302",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_LIPS_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -710,7 +710,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Nails",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/0304",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -720,8 +720,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "ACCESORIES",
-    "page": "ACCESORIES",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.douglas.at/de/c/make-up/zubehoer/0308",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_ACCESORIES_ACCESORIES"
   },
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "ACCESORIES",
+    "category": "Accessories",
     "page": "tweezers",
     "page_url": "https://www.douglas.at/de/c/make-up/zubehoer/pinzette/030807",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_ACCESORIES_tweezers"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "ACCESORIES",
+    "category": "Accessories",
     "page": "Nail files",
     "page_url": "https://www.douglas.at/de/c/make-up/zubehoer/nagelfeile/030819",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_ACCESORIES_Nail|sp|files"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "ACCESORIES",
+    "category": "Accessories",
     "page": "makeup sponges",
     "page_url": "https://www.douglas.at/de/c/make-up/zubehoer/make-up-schwaemme/030812",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_ACCESORIES_makeup|sp|sponges"
@@ -764,8 +764,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "ACCESORIES",
-    "page": ">> All in Kategorien",
+    "category": "Accessories",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/zubehoer/0308",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_ACCESORIES_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -775,8 +775,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "PAINT BRUSH",
-    "page": "PAINT BRUSH",
+    "category": "Paint Brush",
+    "page": "Paint Brush",
     "page_url": "https://www.douglas.at/de/c/make-up/pinsel/0307",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_PAINT|sp|BRUSH_PAINT|sp|BRUSH"
   },
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "PAINT BRUSH",
+    "category": "Paint Brush",
     "page": "eyeshadow brush",
     "page_url": "https://www.douglas.at/de/c/make-up/pinsel/lidschattenpinsel/030705",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_PAINT|sp|BRUSH_eyeshadow|sp|brush"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "PAINT BRUSH",
+    "category": "Paint Brush",
     "page": "Powder brush",
     "page_url": "https://www.douglas.at/de/c/make-up/pinsel/puderpinsel/030702",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_PAINT|sp|BRUSH_Powder|sp|brush"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "PAINT BRUSH",
+    "category": "Paint Brush",
     "page": "Foundationpinsel",
     "page_url": "https://www.douglas.at/de/c/make-up/pinsel/foundationpinsel/030701",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_PAINT|sp|BRUSH_Foundationpinsel"
@@ -819,8 +819,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "PAINT BRUSH",
-    "page": ">> All in Kategorien",
+    "category": "Paint Brush",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/pinsel/0307",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_PAINT|sp|BRUSH_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -830,8 +830,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "BEAUTY STORIES",
-    "page": "BEAUTY STORIES",
+    "category": "Beauty Stories",
+    "page": "Beauty Stories",
     "page_url": "https://www.douglas.at/de/c/make-up/beauty-storys/0320",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_BEAUTY|sp|STORIES_BEAUTY|sp|STORIES"
   },
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "BEAUTY STORIES",
+    "category": "Beauty Stories",
     "page": "Beauty Talk: Day to Night Look",
     "page_url": "https://www.douglas.at/de/c/make-up/beauty-storys/beauty-talk-day-to-night-look/032087",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_BEAUTY|sp|STORIES_Beauty|sp|Talk|cln||sp|Day|sp|to|sp|Night|sp|Look"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "BEAUTY STORIES",
+    "category": "Beauty Stories",
     "page": "All about: Pinsel",
     "page_url": "https://www.douglas.at/de/c/make-up/beauty-storys/all-about-pinsel/032037",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_BEAUTY|sp|STORIES_All|sp|about|cln||sp|Pinsel"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "BEAUTY STORIES",
+    "category": "Beauty Stories",
     "page": "How to: Soft Smokey Eyes",
     "page_url": "https://www.douglas.at/de/c/herbst/herbst-special/270701",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_BEAUTY|sp|STORIES_How|sp|to|cln||sp|Soft|sp|Smokey|sp|Eyes"
@@ -874,8 +874,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "BEAUTY STORIES",
-    "page": ">> Alle Beauty Storys",
+    "category": "Beauty Stories",
+    "page": "Alle Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/make-up/beauty-storys/0320",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_BEAUTY|sp|STORIES_>>|sp|Alle|sp|Beauty|sp|Storys"
   },
@@ -885,8 +885,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "HIGHLIGHTS",
-    "page": "HIGHLIGHTS",
+    "category": "Highlights",
+    "page": "Highlights",
     "page_url": "https://www.douglas.at/",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_HIGHLIGHTS_HIGHLIGHTS"
   },
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
-    "category": "HIGHLIGHTS",
+    "category": "Highlights",
     "page": "Natural Beauty Make-up",
     "page_url": "https://www.douglas.at/de/c/natural-beauty/make-up/8005",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_HIGHLIGHTS_Natural|sp|Beauty|sp|Make|h|up"
@@ -918,8 +918,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CARE",
-    "page": "FACIAL CARE",
+    "category": "Facial Care",
+    "page": "Facial Care",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtspflege/1205",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CARE_FACIAL|sp|CARE"
   },
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CARE",
+    "category": "Facial Care",
     "page": "face cream",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtspflege/gesichtscreme/120501",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CARE_face|sp|cream"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CARE",
+    "category": "Facial Care",
     "page": "facial spray",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtspflege/gesichtsspray/120502",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CARE_facial|sp|spray"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CARE",
+    "category": "Facial Care",
     "page": "facial oil",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtspflege/gesichtsoel/120503",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CARE_facial|sp|oil"
@@ -962,8 +962,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CARE",
-    "page": ">> All in Kategorien",
+    "category": "Facial Care",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtspflege/1205",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -973,8 +973,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
-    "page": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
+    "page": "Facial Cleaning",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsreinigung/1201",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CLEANSING_FACIAL|sp|CLEANSING"
   },
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "cleaning gel",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsreinigung/reinigungsgel/120101",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CLEANSING_cleaning|sp|gel"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "cleaning foam",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsreinigung/reinigungsschaum/120102",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CLEANSING_cleaning|sp|foam"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "cleansing milk",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsreinigung/reinigungsmilch/120103",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CLEANSING_cleansing|sp|milk"
@@ -1017,8 +1017,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
-    "page": ">> All in Kategorien",
+    "category": "Facial Cleaning",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsreinigung/1201",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACIAL|sp|CLEANSING_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1028,8 +1028,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACE MASKS",
-    "page": "FACE MASKS",
+    "category": "Face Masks",
+    "page": "Face Masks",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsmasken/1203",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACE|sp|MASKS_FACE|sp|MASKS"
   },
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACE MASKS",
+    "category": "Face Masks",
     "page": "Activated Charcoal Masks",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsmasken/aktivkohle-masken/120301",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACE|sp|MASKS_Activated|sp|Charcoal|sp|Masks"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACE MASKS",
+    "category": "Face Masks",
     "page": "Tuchmasken",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsmasken/tuchmasken/120302",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACE|sp|MASKS_Tuchmasken"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACE MASKS",
+    "category": "Face Masks",
     "page": "mud masks",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsmasken/schlammmasken/120303",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACE|sp|MASKS_mud|sp|masks"
@@ -1072,8 +1072,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "FACE MASKS",
-    "page": ">> All in Kategorien",
+    "category": "Face Masks",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/gesichtsmasken/1203",
     "file_name": "Austria_DOUGLAS_AT_FACE_FACE|sp|MASKS_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1128,7 +1128,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "SUN & PROTECTION",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/sonne-schutz/1209",
     "file_name": "Austria_DOUGLAS_AT_FACE_SUN|sp||as||sp|PROTECTION_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1183,7 +1183,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "Eye Care",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/augenpflege/1204",
     "file_name": "Austria_DOUGLAS_AT_FACE_EYE|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1205,7 +1205,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "MEN'S",
-    "page": "facial cleansing",
+    "page": "Facial Cleaning",
     "page_url": "https://www.douglas.at/de/c/gesicht/herren/gesichtsreinigung/121001",
     "file_name": "Austria_DOUGLAS_AT_FACE_MEN|sq|S_facial|sp|cleansing"
   },
@@ -1216,7 +1216,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "MEN'S",
-    "page": "facial care",
+    "page": "Facial Care",
     "page_url": "https://www.douglas.at/de/c/gesicht/herren/gesichtspflege/121002",
     "file_name": "Austria_DOUGLAS_AT_FACE_MEN|sq|S_facial|sp|care"
   },
@@ -1238,7 +1238,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "MEN'S",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/herren/1210",
     "file_name": "Austria_DOUGLAS_AT_FACE_MEN|sq|S_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1248,8 +1248,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "HIGHLIGHTS",
-    "page": "HIGHLIGHTS",
+    "category": "Highlights",
+    "page": "Highlights",
     "page_url": "https://www.douglas.at/",
     "file_name": "Austria_DOUGLAS_AT_FACE_HIGHLIGHTS_HIGHLIGHTS"
   },
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "HIGHLIGHTS",
+    "category": "Highlights",
     "page": "Bless you",
     "page_url": "https://www.douglas.at/de/c/gesundheit/07",
     "file_name": "Austria_DOUGLAS_AT_FACE_HIGHLIGHTS_Bless|sp|you"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "HIGHLIGHTS",
+    "category": "Highlights",
     "page": "Natural beauty facial care",
     "page_url": "https://www.douglas.at/de/c/natural-beauty/gesicht/8001",
     "file_name": "Austria_DOUGLAS_AT_FACE_HIGHLIGHTS_Natural|sp|beauty|sp|facial|sp|care"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/gesicht/beauty-storys/1221",
     "file_name": "Austria_DOUGLAS_AT_FACE_Beauty|sp|Storys_Beauty|sp|Storys"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "Beauty Trend: Adaptogene",
     "page_url": "https://www.douglas.at/de/c/gesicht/beauty-storys/beauty-trend-ashwagandha-und-weitere-adaptogene/122160",
     "file_name": "Austria_DOUGLAS_AT_FACE_Beauty|sp|Storys_Beauty|sp|Trend|cln||sp|Adaptogene"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "All About: Maskne",
     "page_url": "https://www.douglas.at/de/c/gesicht/beauty-storys/all-about-maskne/122145",
     "file_name": "Austria_DOUGLAS_AT_FACE_Beauty|sp|Storys_All|sp|About|cln||sp|Maskne"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "Beauty Vocab: Skinimalism",
     "page_url": "https://www.douglas.at/de/c/gesicht/beauty-storys/beauty-trend-skinimalism/122165",
     "file_name": "Austria_DOUGLAS_AT_FACE_Beauty|sp|Storys_Beauty|sp|Vocab|cln||sp|Skinimalism"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "All about: eye care",
     "page_url": "https://www.douglas.at/de/c/gesicht/beauty-storys/all-about-augenpflege-helden/122166",
     "file_name": "Austria_DOUGLAS_AT_FACE_Beauty|sp|Storys_All|sp|about|cln||sp|eye|sp|care"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "All about: facial care for men",
     "page_url": "https://www.douglas.at/de/c/gesicht/beauty-storys/all-about-herrenpflege/122162",
     "file_name": "Austria_DOUGLAS_AT_FACE_Beauty|sp|Storys_All|sp|about|cln||sp|facial|sp|care|sp|for|sp|men"
@@ -1347,8 +1347,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
-    "category": "Beauty Storys",
-    "page": ">> All in Beauty Storys",
+    "category": "Stories",
+    "page": "All in Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/gesicht/beauty-storys/1221",
     "file_name": "Austria_DOUGLAS_AT_FACE_Beauty|sp|Storys_>>|sp|All|sp|in|sp|Beauty|sp|Storys"
   },
@@ -1414,7 +1414,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "PERSONAL HYGIENE",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/koerper/koerperpflege/1302",
     "file_name": "Austria_DOUGLAS_AT_BODY_PERSONAL|sp|HYGIENE_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1469,7 +1469,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "BODY CLEANING",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/koerper/koerperreinigung/1301",
     "file_name": "Austria_DOUGLAS_AT_BODY_BODY|sp|CLEANING_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1524,7 +1524,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "SUN & PROTECTION",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/koerper/sonne-schutz/1308",
     "file_name": "Austria_DOUGLAS_AT_BODY_SUN|sp||as||sp|PROTECTION_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1579,7 +1579,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "MEN'S",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/koerper/herren/1309",
     "file_name": "Austria_DOUGLAS_AT_BODY_MEN|sq|S_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1634,7 +1634,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "HAND CARE",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/koerper/handpflege/1305",
     "file_name": "Austria_DOUGLAS_AT_BODY_HAND|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1689,7 +1689,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "Foot Care",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/1307",
     "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/koerper/beauty-storys/1320",
     "file_name": "Austria_DOUGLAS_AT_BODY_Beauty|sp|Storys_Beauty|sp|Storys"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "All about: self-tanner",
     "page_url": "https://www.douglas.at/de/c/koerper/beauty-storys/all-about-selbstbraeuner/132014",
     "file_name": "Austria_DOUGLAS_AT_BODY_Beauty|sp|Storys_All|sp|about|cln||sp|self|h|tanner"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "All about: Handpflege",
     "page_url": "https://www.douglas.at/de/c/koerper/beauty-storys/all-about-handpflege/132009",
     "file_name": "Austria_DOUGLAS_AT_BODY_Beauty|sp|Storys_All|sp|about|cln||sp|Handpflege"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "All about: Wellness",
     "page_url": "https://www.douglas.at/de/c/koerper/beauty-storys/all-about-wellness/132001",
     "file_name": "Austria_DOUGLAS_AT_BODY_Beauty|sp|Storys_All|sp|about|cln||sp|Wellness"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "Beauty Storys",
+    "category": "Stories",
     "page": "Get inspired: luxury for your home",
     "page_url": "https://www.douglas.at/de/c/koerper/beauty-storys/get-inspired-luxus-fuer-zuhause/132006",
     "file_name": "Austria_DOUGLAS_AT_BODY_Beauty|sp|Storys_Get|sp|inspired|cln||sp|luxury|sp|for|sp|your|sp|home"
@@ -1754,8 +1754,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "Beauty Storys",
-    "page": ">> All in Beauty Storys",
+    "category": "Stories",
+    "page": "All in Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/koerper/beauty-storys/1320",
     "file_name": "Austria_DOUGLAS_AT_BODY_Beauty|sp|Storys_>>|sp|All|sp|in|sp|Beauty|sp|Storys"
   },
@@ -1765,8 +1765,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "HIGHLIGHTS",
-    "page": "HIGHLIGHTS",
+    "category": "Highlights",
+    "page": "Highlights",
     "page_url": "https://www.douglas.at/",
     "file_name": "Austria_DOUGLAS_AT_BODY_HIGHLIGHTS_HIGHLIGHTS"
   },
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "HIGHLIGHTS",
+    "category": "Highlights",
     "page": "Bless you",
     "page_url": "https://www.douglas.at/de/c/gesundheit/07",
     "file_name": "Austria_DOUGLAS_AT_BODY_HIGHLIGHTS_Bless|sp|you"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
-    "category": "HIGHLIGHTS",
+    "category": "Highlights",
     "page": "Natural beauty body care",
     "page_url": "https://www.douglas.at/de/c/natural-beauty/koerper/8002",
     "file_name": "Austria_DOUGLAS_AT_BODY_HIGHLIGHTS_Natural|sp|beauty|sp|body|sp|care"
@@ -1854,7 +1854,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "Haircare",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/1401",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1909,7 +1909,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "Hair Styling",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/haarstyling/1402",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|STYLING_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -1964,7 +1964,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "STYLING TOOLS",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/styling-tools/1403",
     "file_name": "Austria_DOUGLAS_AT_HAIR_STYLING|sp|TOOLS_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2019,7 +2019,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "BRUSHES & COMBS",
-    "page": ">> All categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.at/de/c/haare/buersten-kaemme/1404",
     "file_name": "Austria_DOUGLAS_AT_HAIR_BRUSHES|sp||as||sp|COMBS_>>|sp|All|sp|categories"
   },
@@ -2063,7 +2063,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "HAIR COLOURS",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/haarfarben/1405",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|COLOURS_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2118,7 +2118,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "HAIR ACCESSORIES",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/haar-accessoires/1406",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|ACCESSORIES_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2173,7 +2173,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "MEN'S",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/herren/1408",
     "file_name": "Austria_DOUGLAS_AT_HAIR_MEN|sq|S_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2228,7 +2228,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "BY HAIR TYPE",
-    "page": ">> All categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.at/de/c/haare/nach-haartyp/1409",
     "file_name": "Austria_DOUGLAS_AT_HAIR_BY|sp|HAIR|sp|TYPE_>>|sp|All|sp|categories"
   },
@@ -2238,8 +2238,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HIGHLIGHTS",
-    "page": "HIGHLIGHTS",
+    "category": "Highlights",
+    "page": "Highlights",
     "page_url": "https://www.douglas.at/",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HIGHLIGHTS_HIGHLIGHTS"
   },
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "HIGHLIGHTS",
+    "category": "Highlights",
     "page": "Natural Beauty Haare",
     "page_url": "https://www.douglas.at/de/c/natural-beauty/haare/8003",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HIGHLIGHTS_Natural|sp|Beauty|sp|Haare"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "BEAUTY STORYS",
+    "category": "Stories",
     "page": "BEAUTY STORYS",
     "page_url": "https://www.douglas.at/de/c/haare/beauty-storys/1411",
     "file_name": "Austria_DOUGLAS_AT_HAIR_BEAUTY|sp|STORYS_BEAUTY|sp|STORYS"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "BEAUTY STORYS",
+    "category": "Stories",
     "page": "Get inspired: Haircare in Japanese",
     "page_url": "https://www.douglas.at/de/c/haare/beauty-storys/get-inspired-japanese-hair-care-secrets/141139",
     "file_name": "Austria_DOUGLAS_AT_HAIR_BEAUTY|sp|STORYS_Get|sp|inspired|cln||sp|Haircare|sp|in|sp|Japanese"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "BEAUTY STORYS",
+    "category": "Stories",
     "page": "Get inspired: Volume Blow Dry",
     "page_url": "https://www.douglas.at/de/c/haare/beauty-storys/letstalkhaircareblow-dry/141121",
     "file_name": "Austria_DOUGLAS_AT_HAIR_BEAUTY|sp|STORYS_Get|sp|inspired|cln||sp|Volume|sp|Blow|sp|Dry"
@@ -2293,8 +2293,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
-    "category": "BEAUTY STORYS",
-    "page": ">> All in Beauty Storys",
+    "category": "Stories",
+    "page": "All in Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/haare/beauty-storys/1411",
     "file_name": "Austria_DOUGLAS_AT_HAIR_BEAUTY|sp|STORYS_>>|sp|All|sp|in|sp|Beauty|sp|Storys"
   },
@@ -2360,7 +2360,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
     "category": "JEWELRY",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/schmuck/1502",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_JEWELRY_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2393,7 +2393,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
     "category": "Accessories",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/accessoires/1503",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2448,7 +2448,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
     "category": "RESIDE",
-    "page": ">> All in Kategorien",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/wohnen/1505",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_RESIDE_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2458,8 +2458,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BAD",
-    "page": "BAD",
+    "category": "Bath",
+    "page": "Bath",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/bad/1506",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BAD_BAD"
   },
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BAD",
+    "category": "Bath",
     "page": "towels",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/bad/handtuecher/150601",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BAD_towels"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BAD",
+    "category": "Bath",
     "page": "bath mats",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/bad/badematten/150602",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BAD_bath|sp|mats"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BAD",
+    "category": "Bath",
     "page": "makeup mirror",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/bad/kosmetikspiegel/150603",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BAD_makeup|sp|mirror"
@@ -2502,8 +2502,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BAD",
-    "page": ">> All in Kategorien",
+    "category": "Bath",
+    "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/bad/1506",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BAD_>>|sp|All|sp|in|sp|Kategorien"
   },
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BEAUTY STORYS",
+    "category": "Stories",
     "page": "BEAUTY STORYS",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/beauty-storys/1511",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BEAUTY|sp|STORYS_BEAUTY|sp|STORYS"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BEAUTY STORYS",
+    "category": "Stories",
     "page": "Get inspired: Home-Spa",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/beauty-storys/get-inspired-spa-ambiente-fuer-zu-hause/151106",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BEAUTY|sp|STORYS_Get|sp|inspired|cln||sp|Home|h|Spa"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BEAUTY STORYS",
+    "category": "Stories",
     "page": "All about: Taschen",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/beauty-storys/all-about-taschen/151102",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BEAUTY|sp|STORYS_All|sp|about|cln||sp|Taschen"
@@ -2568,8 +2568,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "BEAUTY STORYS",
-    "page": ">> All in Beauty Storys",
+    "category": "Stories",
+    "page": "All in Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/beauty-storys/1511",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_BEAUTY|sp|STORYS_>>|sp|All|sp|in|sp|Beauty|sp|Storys"
   },
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Sale",
-    "category": "face",
+    "category": "Face",
     "page": "face",
     "page_url": "https://www.douglas.at/de/c/sale/gesicht/0502",
     "file_name": "Austria_DOUGLAS_AT_SALE_face_face"
@@ -2711,8 +2711,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "New",
-    "category": "care",
-    "page": "care",
+    "category": "Care",
+    "page": "Care",
     "page_url": "https://www.douglas.at/de/c/neuheiten/pflege/0902",
     "file_name": "Austria_DOUGLAS_AT_NEW_care_care"
   },
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "New",
-    "category": "face",
+    "category": "Face",
     "page": "face",
     "page_url": "https://www.douglas.at/de/c/neuheiten/gesicht/0912",
     "file_name": "Austria_DOUGLAS_AT_NEW_face_face"

@@ -2238,8 +2238,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
-    "page": "Perfume",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance",
     "file_name": "Australia_Myer_Beauty_Perfume_Perfume"
   },
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
+    "category": "Perfumes",
     "page": "Women's Perfume",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/womens-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Women|sq|s|sp|Perfume"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
+    "category": "Perfumes",
     "page": "Men's Cologne & Aftershave",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/mens-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Men|sq|s|sp|Cologne|sp||as||sp|Aftershave"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
+    "category": "Perfumes",
     "page": "Libertine Parfumerie",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/niche-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Libertine|sp|Parfumerie"

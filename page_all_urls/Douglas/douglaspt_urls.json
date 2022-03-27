@@ -92,9 +92,9 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "PERFUMES",
-    "page": "PERFUMES",
+    "department": "Perfumes",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_PERFUMES_PERFUMES"
   },
@@ -103,9 +103,9 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
-    "page": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
+    "page": "Womens Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_WOMEN|sq|S|sp|PERFUMES"
   },
@@ -114,8 +114,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "Perfume box",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/coffret-perfume/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Perfume|sp|box"
@@ -125,9 +125,9 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
-    "page": "Women's Perfumes",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
+    "page": "Womens Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/perfumes-femininos/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Women|sq|s|sp|Perfumes"
   },
@@ -136,8 +136,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "Exclusive Women's Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/perfumes-exclusivos-femininos/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Exclusive|sp|Women|sq|s|sp|Perfumes"
@@ -147,8 +147,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "Hair Perfume",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/perfume-para-cabelo/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Hair|sp|Perfume"
@@ -158,8 +158,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "body creams",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/cremes-de-corpo/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_body|sp|creams"
@@ -169,8 +169,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "deodorants",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/desodorizantes/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_deodorants"
@@ -180,8 +180,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "Shower gel",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/gel-de-banho/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Shower|sp|gel"
@@ -191,8 +191,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "Body oil",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/oleo-corporal/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Body|sp|oil"
@@ -202,8 +202,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "WOMEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Womens Perfumes",
     "page": "Spray Corporal",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-mulher/spray-corporal/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Spray|sp|Corporal"
@@ -213,9 +213,9 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
-    "page": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
+    "page": "Mens Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_MEN|sq|S|sp|PERFUMES"
   },
@@ -224,8 +224,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
     "page": "Sets for Men",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/coffrets-para-homem/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_Sets|sp|for|sp|Men"
@@ -235,8 +235,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
     "page": "Male Fragrances",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/perfumes-masculinos/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_Male|sp|Fragrances"
@@ -246,8 +246,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
     "page": "Exclusive Men's Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/perfumes-exclusivos-masculinos/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_Exclusive|sp|Men|sq|s|sp|Perfumes"
@@ -257,8 +257,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
     "page": "deodorants",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/desodorizantes/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_deodorants"
@@ -268,8 +268,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
     "page": "Shower gel",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/gel-de-banho/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_Shower|sp|gel"
@@ -279,8 +279,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
     "page": "After-Shave",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/after-shave/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_After|h|Shave"
@@ -290,8 +290,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "MEN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Mens Perfumes",
     "page": "body creams",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-homem/cremes-de-corpo/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_MEN|sq|S|sp|PERFUMES_body|sp|creams"
@@ -301,9 +301,9 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "UNISEX PERFUMES",
-    "page": "UNISEX PERFUMES",
+    "department": "Perfumes",
+    "category": "Unisex Perfumes",
+    "page": "Unisex Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-unisexo/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_UNISEX|sp|PERFUMES_UNISEX|sp|PERFUMES"
   },
@@ -312,9 +312,9 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "NICHE PERFUMES",
-    "page": "NICHE PERFUMES",
+    "department": "Perfumes",
+    "category": "Niche Perfumes",
+    "page": "Niche Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-de-nicho/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_NICHE|sp|PERFUMES_NICHE|sp|PERFUMES"
   },
@@ -323,8 +323,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "NICHE PERFUMES",
+    "department": "Perfumes",
+    "category": "Niche Perfumes",
     "page": "Male Niche Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-de-nicho/perfumes-de-nicho-masculino/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_NICHE|sp|PERFUMES_Male|sp|Niche|sp|Perfumes"
@@ -334,8 +334,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "CHILDREN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Kids",
     "page": "CHILDREN'S PERFUMES",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-para-crianca/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_CHILDREN|sq|S|sp|PERFUMES_CHILDREN|sq|S|sp|PERFUMES"
@@ -345,8 +345,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "CHILDREN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Kids",
     "page": "Children's safe",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-para-crianca/coffret-para-crianca/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_CHILDREN|sq|S|sp|PERFUMES_Children|sq|s|sp|safe"
@@ -356,8 +356,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "CHILDREN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Kids",
     "page": "Baby, Boy & Girl Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-para-crianca/perfumes-para-bebe-menino-menina/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_CHILDREN|sq|S|sp|PERFUMES_Baby,|sp|Boy|sp||as||sp|Girl|sp|Perfumes"
@@ -367,8 +367,8 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
-    "category": "CHILDREN'S PERFUMES",
+    "department": "Perfumes",
+    "category": "Kids",
     "page": "Children's Shampoo & Shower Gel",
     "page_url": "https://www.douglas.pt/c/perfumes/perfumes-para-crianca/shampoo-gel-de-banho-infantil/",
     "file_name": "Portugal_DOUGLAS_PT_PERFUMES_CHILDREN|sq|S|sp|PERFUMES_Children|sq|s|sp|Shampoo|sp||as||sp|Shower|sp|Gel"
@@ -378,7 +378,7 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
+    "department": "Perfumes",
     "category": "Fragrance",
     "page": "FRAGRANCES",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/",
@@ -389,7 +389,7 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
+    "department": "Perfumes",
     "category": "Fragrance",
     "page": "Fresh Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-frescos/",
@@ -400,7 +400,7 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
+    "department": "Perfumes",
     "category": "Fragrance",
     "page": "Fruity Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-frutados/",
@@ -411,7 +411,7 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
+    "department": "Perfumes",
     "category": "Fragrance",
     "page": "Woody Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-amadeirados/",
@@ -422,7 +422,7 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
+    "department": "Perfumes",
     "category": "Fragrance",
     "page": "Floral Perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-florais/",
@@ -433,7 +433,7 @@
     "retailer": "DOUGLAS_PT",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Perfume",
+    "department": "Perfumes",
     "category": "Fragrance",
     "page": "oriental perfumes",
     "page_url": "https://www.douglas.pt/c/perfumes/fragrancias/perfumes-orientais/",
@@ -456,8 +456,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
-    "page": "FACE MAKEUP",
+    "category": "Face Make Up",
+    "page": "Face Make Up",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_FACE|sp|MAKEUP"
   },
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Makeup Foundations",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/bases-maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Makeup|sp|Foundations"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "BB Cream & CC Cream",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/bb-cream-cc-cream/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_BB|sp|Cream|sp||as||sp|CC|sp|Cream"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Blushes",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/blushes/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Blushes"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Bronzer",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/bronzer/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Bronzer"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Makeup Boxes",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/coffrets-de-maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Makeup|sp|Boxes"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Contour Palette / Contour Makeup",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/paleta-de-contorno-contorno-maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Contour|sp|Palette|sp||fs||sp|Contour|sp|Makeup"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Face Concealers",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/corretores-para-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Face|sp|Concealers"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Make-up Remover for Face",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/desmaquilhante-para-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Make|h|up|sp|Remover|sp|for|sp|Face"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Face Illuminators",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/iluminadores-para-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Face|sp|Illuminators"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Makeup Fixers",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/fixadores-de-maquilhagem/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Makeup|sp|Fixers"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Face powder",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/pos-para-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_Face|sp|powder"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "\" All categories",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_FACE|sp|MAKEUP_\"|sp|All|sp|categories"
@@ -599,8 +599,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
-    "page": "EYE MAKEUP",
+    "category": "Eye Make Up",
+    "page": "Eye Make Up",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_EYE|sp|MAKEUP"
   },
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Eyeliner",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/eyeliner/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_Eyeliner"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Make-up Remover for Eyes",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/desmaquilhante-para-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_Make|h|up|sp|Remover|sp|for|sp|Eyes"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Eye pencil",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/lapis-de-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_Eye|sp|pencil"
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Mask",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/mascara/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_Mask"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Shadow Palettes and Coffrets",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/paletas-de-sombras-e-coffrets/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_Shadow|sp|Palettes|sp|and|sp|Coffrets"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "false eyelashes",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/pestanas-posticas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_false|sp|eyelashes"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "eye primer",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/primer-para-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_eye|sp|primer"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "eye shadows",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-olhos/sombras-para-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_EYE|sp|MAKEUP_eye|sp|shadows"
@@ -698,8 +698,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
-    "page": "LIP MAKEUP",
+    "category": "Lip Make Up",
+    "page": "Lip Make Up",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_LIP|sp|MAKEUP"
   },
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "Lipstick",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/batom/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_Lipstick"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "Lip Balm",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/lip-balm/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_Lip|sp|Balm"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "Lip Gloss",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/lip-gloss/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_Lip|sp|Gloss"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "Lip Liner",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/lip-liner/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_Lip|sp|Liner"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "Lip Plumper",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/lip-plumper/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_Lip|sp|Plumper"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "Scrub for Lips",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/esfoliante-para-labios/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_Scrub|sp|for|sp|Lips"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "Lip Sets",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/sets-para-labios/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_Lip|sp|Sets"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "LIP MAKEUP",
+    "category": "Lip Make Up",
     "page": "lip primer",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-de-labios/primer-para-labios/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_LIP|sp|MAKEUP_lip|sp|primer"
@@ -797,8 +797,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "MAKEUP FOR EYEBROWS",
-    "page": "MAKEUP FOR EYEBROWS",
+    "category": "Eyebrows",
+    "page": "Eyebrows",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_MAKEUP|sp|FOR|sp|EYEBROWS_MAKEUP|sp|FOR|sp|EYEBROWS"
   },
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "MAKEUP FOR EYEBROWS",
+    "category": "Eyebrows",
     "page": "Eyebrow Gel",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-para-sobrancelhas/gel-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_MAKEUP|sp|FOR|sp|EYEBROWS_Eyebrow|sp|Gel"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "MAKEUP FOR EYEBROWS",
+    "category": "Eyebrows",
     "page": "eyebrow pencil",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-para-sobrancelhas/lapis-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_MAKEUP|sp|FOR|sp|EYEBROWS_eyebrow|sp|pencil"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "MAKEUP FOR EYEBROWS",
+    "category": "Eyebrows",
     "page": "Powder for eyebrows",
     "page_url": "https://www.douglas.pt/c/maquilhagem/maquilhagem-para-sobrancelhas/po-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_MAKEUP|sp|FOR|sp|EYEBROWS_Powder|sp|for|sp|eyebrows"
@@ -841,8 +841,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
-    "page": "NAIL PRODUCTS",
+    "category": "Nails",
+    "page": "Nails",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_NAIL|sp|PRODUCTS"
   },
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "Varnish Sets",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/conjuntos-de-vernizes/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_Varnish|sp|Sets"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "varnishes",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/vernizes/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_varnishes"
@@ -874,7 +874,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "Base Coat",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/base-coat/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_Base|sp|Coat"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "Top Coat",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/top-coat/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_Top|sp|Coat"
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "Clear Varnish",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/verniz-transparente/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_Clear|sp|Varnish"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "nail polish remover",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/removedor-de-verniz/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_nail|sp|polish|sp|remover"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "Nail Fortifier",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/fortificante-para-unhas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_Nail|sp|Fortifier"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Make Up",
-    "category": "NAIL PRODUCTS",
+    "category": "Nails",
     "page": "Nail care",
     "page_url": "https://www.douglas.pt/c/maquilhagem/produtos-para-unhas/cuidados-com-as-unhas/",
     "file_name": "Portugal_DOUGLAS_PT_MAKE|h|UP_NAIL|sp|PRODUCTS_Nail|sp|care"
@@ -1206,7 +1206,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.pt/c/rosto/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE_FACE"
   },
@@ -1216,8 +1216,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
-    "page": "FACE CARE",
+    "category": "Face Care",
+    "page": "Face Care",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_FACE|sp|CARE"
   },
@@ -1227,7 +1227,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "Booster",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/booster/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Booster"
@@ -1238,7 +1238,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "Face cream",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/creme-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Face|sp|cream"
@@ -1249,7 +1249,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "eyebrow care",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/cuidados-de-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_eyebrow|sp|care"
@@ -1260,7 +1260,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "Wrinkle Cream",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/creme-antirrugas/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Wrinkle|sp|Cream"
@@ -1271,7 +1271,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "day creams",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/cremes-de-dia/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_day|sp|creams"
@@ -1282,7 +1282,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "night cream",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/creme-de-noite/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_night|sp|cream"
@@ -1293,7 +1293,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "Facial mask",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/mascara-facial/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Facial|sp|mask"
@@ -1304,7 +1304,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "cream with color",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/creme-com-cor/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_cream|sp|with|sp|color"
@@ -1315,7 +1315,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "Face Oil",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/oleo-facial/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Face|sp|Oil"
@@ -1326,7 +1326,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "Face Mist",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/face-mist/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Face|sp|Mist"
@@ -1337,7 +1337,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "Neck Firming Cream",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/creme-refirmante-de-pescoco/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Neck|sp|Firming|sp|Cream"
@@ -1348,7 +1348,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE CARE",
+    "category": "Face Care",
     "page": "\" All categories",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_\"|sp|All|sp|categories"
@@ -1546,8 +1546,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE SERUM",
-    "page": "FACE SERUM",
+    "category": "Face Serums",
+    "page": "Face Serums",
     "page_url": "https://www.douglas.pt/c/rosto/serum-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_FACE|sp|SERUM"
   },
@@ -1557,7 +1557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE SERUM",
+    "category": "Face Serums",
     "page": "Moisturizing Serum",
     "page_url": "https://www.douglas.pt/c/rosto/serum-de-rosto/serum-hidratante/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_Moisturizing|sp|Serum"
@@ -1568,7 +1568,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE SERUM",
+    "category": "Face Serums",
     "page": "Anti-Aging Serum",
     "page_url": "https://www.douglas.pt/c/rosto/serum-de-rosto/serum-antienvelhecimento/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_Anti|h|Aging|sp|Serum"
@@ -1579,10 +1579,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE SERUM",
-    "page": "Hyaluronic Acid S\u00e9rum",
+    "category": "Face Serums",
+    "page": "Hyaluronic Acid Serum",
     "page_url": "https://www.douglas.pt/c/rosto/serum-de-rosto/hyaluronic-acid-serum/",
-    "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_Hyaluronic|sp|Acid|sp|S\u00e9rum"
+    "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_Hyaluronic|sp|Acid|sp|Serum"
   },
   {
     "country": "Portugal",
@@ -1590,7 +1590,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE SERUM",
+    "category": "Face Serums",
     "page": "Face Ampoules",
     "page_url": "https://www.douglas.pt/c/rosto/serum-de-rosto/ampolas-para-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_Face|sp|Ampoules"
@@ -1601,7 +1601,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE SERUM",
+    "category": "Face Serums",
     "page": "Collagen Serum",
     "page_url": "https://www.douglas.pt/c/rosto/serum-de-rosto/serum-colagenio/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_Collagen|sp|Serum"
@@ -1612,7 +1612,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
-    "category": "FACE SERUM",
+    "category": "Face Serums",
     "page": "Vitamin C Serum",
     "page_url": "https://www.douglas.pt/c/rosto/serum-de-rosto/vitamin-c-serum/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|SERUM_Vitamin|sp|C|sp|Serum"
@@ -2207,9 +2207,9 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
     "category": "CARES WITH THE BODY",
-    "page": "Cream for neck and d\u00e9collet\u00e9",
+    "page": "Cream for neck and decolletage",
     "page_url": "https://www.douglas.pt/c/corpo/cuidados-com-o-corpo/creme-para-pescoco-e-decote/",
-    "file_name": "Portugal_DOUGLAS_PT_BODY_CARES|sp|WITH|sp|THE|sp|BODY_Cream|sp|for|sp|neck|sp|and|sp|d\u00e9collet\u00e9"
+    "file_name": "Portugal_DOUGLAS_PT_BODY_CARES|sp|WITH|sp|THE|sp|BODY_Cream|sp|for|sp|neck|sp|and|sp|decolletage"
   },
   {
     "country": "Portugal",
@@ -2339,7 +2339,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Body",
     "category": "SOLAR",
-    "page": "sunscreen",
+    "page": "Sunscreen",
     "page_url": "https://www.douglas.pt/c/corpo/solares/protetor-solares/",
     "file_name": "Portugal_DOUGLAS_PT_BODY_SOLAR_sunscreen"
   },
@@ -3262,8 +3262,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "PERFUMES",
-    "page": "PERFUMES",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://www.douglas.pt/c/promocoes/perfumes/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_PERFUMES_PERFUMES"
   },
@@ -3273,8 +3273,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "PERFUMES",
-    "page": "Women's Perfumes",
+    "category": "Perfumes",
+    "page": "Womens Perfumes",
     "page_url": "https://www.douglas.pt/c/promocoes/perfumes/perfumes-mulher/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_PERFUMES_Women|sq|s|sp|Perfumes"
   },
@@ -3284,8 +3284,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
-    "category": "PERFUMES",
-    "page": "Men's Perfumes",
+    "category": "Perfumes",
+    "page": "Mens Perfumes",
     "page_url": "https://www.douglas.pt/c/promocoes/perfumes/perfumes-homem/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_PERFUMES_Men|sq|s|sp|Perfumes"
   },
@@ -3307,7 +3307,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
     "category": "Make Up",
-    "page": "Face Makeup",
+    "page": "Face Make Up",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Face|sp|Makeup"
   },
@@ -3318,7 +3318,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
     "category": "Make Up",
-    "page": "eye makeup",
+    "page": "Eye Make Up",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-de-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_eye|sp|makeup"
   },
@@ -3329,7 +3329,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
     "category": "Make Up",
-    "page": "Lip Makeup",
+    "page": "Lip Make Up",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-de-labios/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Lip|sp|Makeup"
   },
@@ -3340,7 +3340,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
     "category": "Make Up",
-    "page": "Nail products",
+    "page": "Nails",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/produtos-para-unhas/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Nail|sp|products"
   },
@@ -3351,7 +3351,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
     "category": "Make Up",
-    "page": "Makeup for Eyebrows",
+    "page": "Eyebrows",
     "page_url": "https://www.douglas.pt/c/promocoes/maquilhagem/maquilhagem-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_MAKE|h|UP_Makeup|sp|for|sp|Eyebrows"
   },
@@ -3384,7 +3384,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.pt/c/promocoes/rosto/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_FACE_FACE"
   },
@@ -3417,7 +3417,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "PROMOTIONS",
     "category": "Face",
-    "page": "face serum",
+    "page": "Face Serums",
     "page_url": "https://www.douglas.pt/c/promocoes/rosto/serum-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_PROMOTIONS_FACE_face|sp|serum"
   },
@@ -3669,8 +3669,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "PERFUMES",
-    "page": "PERFUMES",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://www.douglas.pt/c/novidades/perfumes/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_PERFUMES_PERFUMES"
   },
@@ -3680,8 +3680,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "PERFUMES",
-    "page": "Women's Perfumes",
+    "category": "Perfumes",
+    "page": "Womens Perfumes",
     "page_url": "https://www.douglas.pt/c/novidades/perfumes/perfumes-mulher/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_PERFUMES_Women|sq|s|sp|Perfumes"
   },
@@ -3691,8 +3691,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
-    "category": "PERFUMES",
-    "page": "Men's Perfumes",
+    "category": "Perfumes",
+    "page": "Mens Perfumes",
     "page_url": "https://www.douglas.pt/c/novidades/perfumes/perfumes-homem/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_PERFUMES_Men|sq|s|sp|Perfumes"
   },
@@ -3714,7 +3714,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
     "category": "Make Up",
-    "page": "Face Makeup",
+    "page": "Face Make Up",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Face|sp|Makeup"
   },
@@ -3725,7 +3725,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
     "category": "Make Up",
-    "page": "eye makeup",
+    "page": "Eye Make Up",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-de-olhos/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_eye|sp|makeup"
   },
@@ -3736,7 +3736,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
     "category": "Make Up",
-    "page": "Lip Makeup",
+    "page": "Lip Make Up",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-de-labios/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Lip|sp|Makeup"
   },
@@ -3747,7 +3747,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
     "category": "Make Up",
-    "page": "Nail products",
+    "page": "Nails",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/produtos-para-unhas/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Nail|sp|products"
   },
@@ -3758,7 +3758,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
     "category": "Make Up",
-    "page": "Makeup for Eyebrows",
+    "page": "Eyebrows",
     "page_url": "https://www.douglas.pt/c/novidades/maquilhagem/maquilhagem-para-sobrancelhas/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_MAKE|h|UP_Makeup|sp|for|sp|Eyebrows"
   },
@@ -3791,7 +3791,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.pt/c/novidades/rosto/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_FACE_FACE"
   },
@@ -3824,7 +3824,7 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "New",
     "category": "Face",
-    "page": "face serum",
+    "page": "Face Serums",
     "page_url": "https://www.douglas.pt/c/novidades/rosto/serum-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_NEWS_FACE_face|sp|serum"
   },

@@ -61,7 +61,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "last chance to buy",
     "category": "sale",
-    "page": "baby",
+    "page": "Baby",
     "page_url": "https://www.boots.com/last-chance-to-buy/sale/baby-child-sale",
     "file_name": "United|sp|Kingdom_Boots_last|sp|chance|sp|to|sp|buy_sale_baby"
   },
@@ -1645,7 +1645,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
     "category": "incontinence",
-    "page": "unisex",
+    "page": "Unisex",
     "page_url": "https://www.boots.com/health-pharmacy/incontinence/unisex-1",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_incontinence_unisex"
   },
@@ -2525,7 +2525,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "make-up",
-    "page": "eyes",
+    "page": "Eyes",
     "page_url": "https://www.boots.com/beauty/makeup/eyes",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_eyes"
   },
@@ -2536,7 +2536,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "make-up",
-    "page": "lips",
+    "page": "Lips",
     "page_url": "https://www.boots.com/beauty/makeup/lips",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_lips"
   },
@@ -2569,7 +2569,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "make-up",
-    "page": "brushes & sponges",
+    "page": "Brushes & Sponges",
     "page_url": "https://www.boots.com/beauty/makeup/brushes-sponges",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_brushes|sp||as||sp|sponges"
   },
@@ -2591,7 +2591,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "make-up",
-    "page": "palettes",
+    "page": "Palettes",
     "page_url": "https://www.boots.com/beauty/makeup/palettes",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_palettes"
   },
@@ -2602,7 +2602,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "make-up",
-    "page": "make-up remover",
+    "page": "Make Up Removers",
     "page_url": "https://www.boots.com/beauty/makeup/make-up-remover-",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_make|h|up|sp|remover"
   },
@@ -2943,7 +2943,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "accessories",
-    "page": "brushes & sponges",
+    "page": "Brushes & Sponges",
     "page_url": "https://www.boots.com/beauty/beauty-accessories/brushes-sponges",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_accessories_brushes|sp||as||sp|sponges"
   },
@@ -3108,7 +3108,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "top 10",
-    "page": "palettes",
+    "page": "Palettes",
     "page_url": "https://www.boots.com/beauty/recommended/top-palettes",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_top|sp|10_palettes"
   },
@@ -3163,7 +3163,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "top 10",
-    "page": "face masks",
+    "page": "Face Masks",
     "page_url": "https://www.boots.com/beauty/recommended/top-face-masks",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_top|sp|10_face|sp|masks"
   },
@@ -3305,7 +3305,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "fragrance",
-    "category": "perfume",
+    "category": "Perfumes",
     "page": "visit perfume",
     "page_url": "https://www.boots.com/fragrance/perfume",
     "file_name": "United|sp|Kingdom_Boots_fragrance_perfume_visit|sp|perfume"
@@ -3316,7 +3316,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "fragrance",
-    "category": "perfume",
+    "category": "Perfumes",
     "page": "all perfumes",
     "page_url": "https://www.boots.com/fragrance/perfume/all-perfume",
     "file_name": "United|sp|Kingdom_Boots_fragrance_perfume_all|sp|perfumes"
@@ -3327,7 +3327,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "fragrance",
-    "category": "perfume",
+    "category": "Perfumes",
     "page": "perfume gift sets",
     "page_url": "https://www.boots.com/fragrance/perfume/perfume-gift-sets",
     "file_name": "United|sp|Kingdom_Boots_fragrance_perfume_perfume|sp|gift|sp|sets"
@@ -3338,7 +3338,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "fragrance",
-    "category": "perfume",
+    "category": "Perfumes",
     "page": "body mists",
     "page_url": "https://www.boots.com/fragrance/perfume/body-mists-",
     "file_name": "United|sp|Kingdom_Boots_fragrance_perfume_body|sp|mists"
@@ -3349,7 +3349,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "fragrance",
-    "category": "perfume",
+    "category": "Perfumes",
     "page": "scented bath & body",
     "page_url": "https://www.boots.com/fragrance/perfume/scented-bath-shower",
     "file_name": "United|sp|Kingdom_Boots_fragrance_perfume_scented|sp|bath|sp||as||sp|body"

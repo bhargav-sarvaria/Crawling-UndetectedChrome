@@ -171,7 +171,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
     "category": "Eyes",
-    "page": "EYES",
+    "page": "Eyes",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_EYES"
   },
@@ -182,7 +182,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
     "category": "Eyes",
-    "page": "EYES",
+    "page": "Eyes",
     "page_url": "https://www.sephora.com.au/categories/makeup/eyes",
     "file_name": "Australia_Sephora_AU_MAKEUP_EYES_EYES"
   },
@@ -281,7 +281,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
     "category": "Lips",
-    "page": "LIPS",
+    "page": "Lips",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_LIPS"
   },
@@ -292,7 +292,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
     "category": "Lips",
-    "page": "LIPS",
+    "page": "Lips",
     "page_url": "https://www.sephora.com.au/categories/makeup/lips",
     "file_name": "Australia_Sephora_AU_MAKEUP_LIPS_LIPS"
   },
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "Make Up Remover",
+    "category": "Make Up Removers",
     "page": "MAKEUP REMOVER",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_MAKEUP|sp|REMOVER"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "Make Up Remover",
+    "category": "Make Up Removers",
     "page": "MAKEUP REMOVER",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_MAKEUP|sp|REMOVER"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "Make Up Remover",
+    "category": "Make Up Removers",
     "page": "Eyes & Lips",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover/eyes-and-lips",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_Eyes|sp||as||sp|Lips"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Make Up",
-    "category": "Make Up Remover",
+    "category": "Make Up Removers",
     "page": "Face",
     "page_url": "https://www.sephora.com.au/categories/makeup/makeup-remover/face",
     "file_name": "Australia_Sephora_AU_MAKEUP_MAKEUP|sp|REMOVER_Face"
@@ -666,9 +666,9 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Skin",
     "category": "Moisturiser",
-    "page": "Neck & Decollete Cream",
-    "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser/neck-and-decollete-cream",
-    "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_Neck|sp||as||sp|Decollete|sp|Cream"
+    "page": "Neck & decolletage Cream",
+    "page_url": "https://www.sephora.com.au/categories/skincare/moisturiser/neck-and-decolletage-cream",
+    "file_name": "Australia_Sephora_AU_SKINCARE_MOISTURISER_Neck|sp||as||sp|decolletage|sp|Cream"
   },
   {
     "country": "Australia",
@@ -1018,7 +1018,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
     "category": "Treatments",
-    "page": "TREATMENTS",
+    "page": "Treatments",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_TREATMENTS"
   },
@@ -1029,7 +1029,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Hair",
     "category": "Treatments",
-    "page": "TREATMENTS",
+    "page": "Treatments",
     "page_url": "https://www.sephora.com.au/categories/hair/treatments",
     "file_name": "Australia_Sephora_AU_HAIR_TREATMENTS_TREATMENTS"
   },
@@ -1766,7 +1766,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
     "category": "Treatments",
-    "page": "TREATMENTS",
+    "page": "Treatments",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_TREATMENTS"
   },
@@ -1777,7 +1777,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
     "category": "Treatments",
-    "page": "TREATMENTS",
+    "page": "Treatments",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body/treatments",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_TREATMENTS_TREATMENTS"
   },

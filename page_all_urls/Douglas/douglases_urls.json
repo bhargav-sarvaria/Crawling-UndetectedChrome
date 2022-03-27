@@ -4,9 +4,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "PERFUMES",
-    "page": "PERFUMES",
+    "department": "Perfumes",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/perfumes",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_PERFUMES_PERFUMES"
   },
@@ -15,9 +15,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "FEMININE",
-    "page": "FEMININE",
+    "department": "Perfumes",
+    "category": "Womens Fragrance",
+    "page": "Womens Fragrance",
     "page_url": "https://douglas.es/c/perfumes/mujer",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_FEMININE_FEMININE"
   },
@@ -26,9 +26,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "FEMININE",
-    "page": "Perfume",
+    "department": "Perfumes",
+    "category": "Womens Fragrance",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/perfumes/mujer/eau_de_parfum",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_FEMININE_Perfume"
   },
@@ -37,8 +37,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "FEMININE",
+    "department": "Perfumes",
+    "category": "Womens Fragrance",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/perfumes/mujer/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_FEMININE_Cologne"
@@ -48,8 +48,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "FEMININE",
+    "department": "Perfumes",
+    "category": "Womens Fragrance",
     "page": "Fresh water",
     "page_url": "https://douglas.es/c/perfumes/mujer/eau_fraiche",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_FEMININE_Fresh|sp|water"
@@ -59,8 +59,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "FEMININE",
+    "department": "Perfumes",
+    "category": "Womens Fragrance",
     "page": "fragrances",
     "page_url": "https://douglas.es/c/perfumes/mujer/colonia",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_FEMININE_fragrances"
@@ -70,8 +70,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "FEMININE",
+    "department": "Perfumes",
+    "category": "Womens Fragrance",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/perfumes/mujer",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_FEMININE_See|sp|all|sp|categories"
@@ -81,9 +81,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "MALE",
-    "page": "MALE",
+    "department": "Perfumes",
+    "category": "Men",
+    "page": "Men",
     "page_url": "https://douglas.es/c/perfumes/hombre",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_MALE_MALE"
   },
@@ -92,9 +92,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "MALE",
-    "page": "Perfume",
+    "department": "Perfumes",
+    "category": "Men",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/perfumes/hombre/eau_de_parfum",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_MALE_Perfume"
   },
@@ -103,8 +103,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "MALE",
+    "department": "Perfumes",
+    "category": "Men",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/perfumes/hombre/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_MALE_Cologne"
@@ -114,8 +114,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "MALE",
+    "department": "Perfumes",
+    "category": "Men",
     "page": "After Shave",
     "page_url": "https://douglas.es/c/perfumes/hombre/after_shave",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_MALE_After|sp|Shave"
@@ -125,8 +125,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "MALE",
+    "department": "Perfumes",
+    "category": "Men",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/perfumes/hombre",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_MALE_See|sp|all|sp|categories"
@@ -136,9 +136,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "UNISEX",
-    "page": "UNISEX",
+    "department": "Perfumes",
+    "category": "Unisex",
+    "page": "Unisex",
     "page_url": "https://douglas.es/c/perfumes/unisex",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_UNISEX"
   },
@@ -147,9 +147,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "UNISEX",
-    "page": "Perfume",
+    "department": "Perfumes",
+    "category": "Unisex",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/perfumes/unisex/eau_de_parfum",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_Perfume"
   },
@@ -158,8 +158,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "UNISEX",
+    "department": "Perfumes",
+    "category": "Unisex",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/perfumes/unisex/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_Cologne"
@@ -169,8 +169,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "UNISEX",
+    "department": "Perfumes",
+    "category": "Unisex",
     "page": "Fresh water",
     "page_url": "https://douglas.es/c/perfumes/unisex/eau_fraiche",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_Fresh|sp|water"
@@ -180,8 +180,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "UNISEX",
+    "department": "Perfumes",
+    "category": "Unisex",
     "page": "fragrances",
     "page_url": "https://douglas.es/c/perfumes/unisex/colonia",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_fragrances"
@@ -191,8 +191,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "UNISEX",
+    "department": "Perfumes",
+    "category": "Unisex",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/perfumes/unisex",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_See|sp|all|sp|categories"
@@ -202,8 +202,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "CHILDISH",
+    "department": "Perfumes",
+    "category": "Childish",
     "page": "CHILDISH",
     "page_url": "https://douglas.es/c/perfumes/infantil",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_CHILDISH_CHILDISH"
@@ -213,8 +213,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "CHILDISH",
+    "department": "Perfumes",
+    "category": "Childish",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/perfumes/infantil/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_CHILDISH_Cologne"
@@ -224,8 +224,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "CHILDISH",
+    "department": "Perfumes",
+    "category": "Childish",
     "page": "Body Mist",
     "page_url": "https://douglas.es/c/perfumes/infantil/body_mist",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_CHILDISH_Body|sp|Mist"
@@ -235,8 +235,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "CHILDISH",
+    "department": "Perfumes",
+    "category": "Childish",
     "page": "Colonia",
     "page_url": "https://douglas.es/c/perfumes/infantil/colonia",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_CHILDISH_Colonia"
@@ -246,9 +246,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "NICHE",
-    "page": "NICHE",
+    "department": "Perfumes",
+    "category": "Niche",
+    "page": "Niche",
     "page_url": "https://douglas.es/c/perfumes/nicho",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_NICHE_NICHE"
   },
@@ -257,9 +257,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "NICHE",
-    "page": "Feminine",
+    "department": "Perfumes",
+    "category": "Niche",
+    "page": "Womens Fragrance",
     "page_url": "https://douglas.es/c/perfumes/nicho/mujer",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_NICHE_Feminine"
   },
@@ -268,9 +268,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "NICHE",
-    "page": "Male",
+    "department": "Perfumes",
+    "category": "Niche",
+    "page": "Men",
     "page_url": "https://douglas.es/c/perfumes/nicho/hombre",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_NICHE_Male"
   },
@@ -279,8 +279,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "NICHE",
+    "department": "Perfumes",
+    "category": "Niche",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/perfumes/nicho/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_NICHE_Cologne"
@@ -290,9 +290,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "NICHE",
-    "page": "Perfume",
+    "department": "Perfumes",
+    "category": "Niche",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/perfumes/nicho/eau_de_parfum",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_NICHE_Perfume"
   },
@@ -301,8 +301,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "NICHE",
+    "department": "Perfumes",
+    "category": "Niche",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/perfumes/nicho",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_NICHE_See|sp|all|sp|categories"
@@ -312,9 +312,9 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "BABY",
-    "page": "BABY",
+    "department": "Perfumes",
+    "category": "Baby",
+    "page": "Baby",
     "page_url": "https://douglas.es/c/perfumes/bebe",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_BABY_BABY"
   },
@@ -323,8 +323,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "BABY",
+    "department": "Perfumes",
+    "category": "Baby",
     "page": "Colonia",
     "page_url": "https://douglas.es/c/perfumes/bebe/colonia",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_BABY_Colonia"
@@ -334,8 +334,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "BABY",
+    "department": "Perfumes",
+    "category": "Baby",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/perfumes/bebe/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_BABY_Cologne"
@@ -345,8 +345,8 @@
     "retailer": "DOUGLAS_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfume",
-    "category": "BABY",
+    "department": "Perfumes",
+    "category": "Baby",
     "page": "Fresh water",
     "page_url": "https://douglas.es/c/perfumes/bebe/eau_fraiche",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_BABY_Fresh|sp|water"
@@ -357,8 +357,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL",
-    "page": "FACIAL",
+    "category": "Facial",
+    "page": "Facial",
     "page_url": "https://douglas.es/c/tratamiento_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL_FACIAL"
   },
@@ -368,8 +368,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CREAMS",
-    "page": "FACIAL CREAMS",
+    "category": "Facial Creams",
+    "page": "Facial Creams",
     "page_url": "https://douglas.es/c/tratamiento_facial/cremas",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CREAMS_FACIAL|sp|CREAMS"
   },
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CREAMS",
+    "category": "Facial Creams",
     "page": "Day Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/cremas/cuidado_dia",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CREAMS_Day|sp|Care"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CREAMS",
+    "category": "Facial Creams",
     "page": "Night Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/cremas/cuidado_noche",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CREAMS_Night|sp|Care"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CREAMS",
+    "category": "Facial Creams",
     "page": "BB-CC Cream",
     "page_url": "https://douglas.es/c/tratamiento_facial/cremas/bb_cc_cream",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CREAMS_BB|h|CC|sp|Cream"
@@ -412,10 +412,10 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "NECK AND D\u00c9COLLETAGE CARE",
-    "page": "NECK AND D\u00c9COLLETAGE CARE",
+    "category": "Neck & Decolletage Care",
+    "page": "Neck & Decolletage Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote",
-    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|D\u00c9COLLETAGE|sp|CARE_NECK|sp|AND|sp|D\u00c9COLLETAGE|sp|CARE"
+    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE"
   },
   {
     "country": "Spain",
@@ -423,10 +423,10 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "NECK AND D\u00c9COLLETAGE CARE",
+    "category": "Neck & Decolletage Care",
     "page": "Day Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote/cuidado_dia",
-    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|D\u00c9COLLETAGE|sp|CARE_Day|sp|Care"
+    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_Day|sp|Care"
   },
   {
     "country": "Spain",
@@ -434,10 +434,10 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "NECK AND D\u00c9COLLETAGE CARE",
+    "category": "Neck & Decolletage Care",
     "page": "Night Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote/cuidado_noche",
-    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|D\u00c9COLLETAGE|sp|CARE_Night|sp|Care"
+    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_Night|sp|Care"
   },
   {
     "country": "Spain",
@@ -445,10 +445,10 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "NECK AND D\u00c9COLLETAGE CARE",
+    "category": "Neck & Decolletage Care",
     "page": "Serum",
     "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote/serum",
-    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|D\u00c9COLLETAGE|sp|CARE_Serum"
+    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_Serum"
   },
   {
     "country": "Spain",
@@ -456,10 +456,10 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "NECK AND D\u00c9COLLETAGE CARE",
+    "category": "Neck & Decolletage Care",
     "page": "Masks",
     "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote/mascarillas",
-    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|D\u00c9COLLETAGE|sp|CARE_Masks"
+    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_Masks"
   },
   {
     "country": "Spain",
@@ -467,8 +467,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
-    "page": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
+    "page": "Facial Cleaning",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_FACIAL|sp|CLEANSING"
   },
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing milk",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/leche_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|milk"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing Gel",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/gel_limpiador",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|Gel"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing Foam",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/espuma_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|Foam"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing Balm",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/balsamo_limpiador",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|Balm"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_See|sp|all|sp|categories"
@@ -533,8 +533,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL TREATMENTS",
-    "page": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
+    "page": "Facial Treatments",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|TREATMENTS_FACIAL|sp|TREATMENTS"
   },
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "Serum",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_facial/serum",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|TREATMENTS_Serum"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "blisters",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_facial/ampollas",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|TREATMENTS_blisters"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "facial oils",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_facial/aceites_faciales",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|TREATMENTS_facial|sp|oils"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "Day Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_facial/cuidado_dia",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|TREATMENTS_Day|sp|Care"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|TREATMENTS_See|sp|all|sp|categories"
@@ -599,8 +599,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "EYE CONTOUR",
-    "page": "EYE CONTOUR",
+    "category": "Eye Contour",
+    "page": "Eye Contour",
     "page_url": "https://douglas.es/c/tratamiento_facial/contorno_de_ojos",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_EYE|sp|CONTOUR_EYE|sp|CONTOUR"
   },
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "EYE CONTOUR",
+    "category": "Eye Contour",
     "page": "Day Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/contorno_de_ojos/cuidado_dia",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_EYE|sp|CONTOUR_Day|sp|Care"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "EYE CONTOUR",
+    "category": "Eye Contour",
     "page": "Other Treatments",
     "page_url": "https://douglas.es/c/tratamiento_facial/contorno_de_ojos/otros",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_EYE|sp|CONTOUR_Other|sp|Treatments"
@@ -632,8 +632,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "LIP TREATMENT",
-    "page": "LIP TREATMENT",
+    "category": "Lip Treatment",
+    "page": "Lip Treatment",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_de_labios",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_LIP|sp|TREATMENT_LIP|sp|TREATMENT"
   },
@@ -643,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "LIP TREATMENT",
+    "category": "Lip Treatment",
     "page": "lip care",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_de_labios/tratamiento_de_labios",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_LIP|sp|TREATMENT_lip|sp|care"
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "LIP TREATMENT",
+    "category": "Lip Treatment",
     "page": "Other Treatments",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_de_labios/otros",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_LIP|sp|TREATMENT_Other|sp|Treatments"
@@ -665,8 +665,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SCRUBS AND MASKS",
-    "page": "SCRUBS AND MASKS",
+    "category": "Scrubs & Masks",
+    "page": "Scrubs & Masks",
     "page_url": "https://douglas.es/c/tratamiento_facial/exfoliantes_y_mascarillas",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SCRUBS|sp|AND|sp|MASKS_SCRUBS|sp|AND|sp|MASKS"
   },
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SCRUBS AND MASKS",
+    "category": "Scrubs & Masks",
     "page": "Masks",
     "page_url": "https://douglas.es/c/tratamiento_facial/exfoliantes_y_mascarillas/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SCRUBS|sp|AND|sp|MASKS_Masks"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SCRUBS AND MASKS",
+    "category": "Scrubs & Masks",
     "page": "scrubs",
     "page_url": "https://douglas.es/c/tratamiento_facial/exfoliantes_y_mascarillas/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SCRUBS|sp|AND|sp|MASKS_scrubs"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SCRUBS AND MASKS",
+    "category": "Scrubs & Masks",
     "page": "Other Treatments",
     "page_url": "https://douglas.es/c/tratamiento_facial/exfoliantes_y_mascarillas/otros",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SCRUBS|sp|AND|sp|MASKS_Other|sp|Treatments"
@@ -709,8 +709,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL ACCESSORIES",
-    "page": "FACIAL ACCESSORIES",
+    "category": "Facial Accessories",
+    "page": "Facial Accessories",
     "page_url": "https://douglas.es/c/tratamiento_facial/accesorios",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|ACCESSORIES_FACIAL|sp|ACCESSORIES"
   },
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL ACCESSORIES",
+    "category": "Facial Accessories",
     "page": "Facial Devices",
     "page_url": "https://douglas.es/c/tratamiento_facial/accesorios/dispositivos_faciales",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|ACCESSORIES_Facial|sp|Devices"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "FACIAL ACCESSORIES",
+    "category": "Facial Accessories",
     "page": "Sponges and facial brushes",
     "page_url": "https://douglas.es/c/tratamiento_facial/accesorios/esponjas_y_cepillos_faciales",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|ACCESSORIES_Sponges|sp|and|sp|facial|sp|brushes"
@@ -742,8 +742,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SUNSCREENS",
-    "page": "SUNSCREENS",
+    "category": "Sunscreen",
+    "page": "Sunscreen",
     "page_url": "https://douglas.es/c/tratamiento_facial/protector_solar",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SUNSCREENS_SUNSCREENS"
   },
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "face protection",
     "page_url": "https://douglas.es/c/tratamiento_facial/protector_solar/protector_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SUNSCREENS_face|sp|protection"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "Aftersun facial",
     "page_url": "https://douglas.es/c/tratamiento_facial/protector_solar/aftersun_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SUNSCREENS_Aftersun|sp|facial"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "self-tanners",
     "page_url": "https://douglas.es/c/tratamiento_facial/protector_solar/autobronceadores",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SUNSCREENS_self|h|tanners"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "Others",
     "page_url": "https://douglas.es/c/tratamiento_facial/protector_solar/otros",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SUNSCREENS_Others"
@@ -874,8 +874,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SUNSCREENS",
-    "page": "SUNSCREENS",
+    "category": "Sunscreen",
+    "page": "Sunscreen",
     "page_url": "https://douglas.es/c/tratamiento_corporal/protector_solar",
     "file_name": "Spain_DOUGLAS_ES_BODY_SUNSCREENS_SUNSCREENS"
   },
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "body protection",
     "page_url": "https://douglas.es/c/tratamiento_corporal/protector_solar/protector_corporal",
     "file_name": "Spain_DOUGLAS_ES_BODY_SUNSCREENS_body|sp|protection"
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "self-tanners",
     "page_url": "https://douglas.es/c/tratamiento_corporal/protector_solar/autobronceadores",
     "file_name": "Spain_DOUGLAS_ES_BODY_SUNSCREENS_self|h|tanners"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "Aftersun",
     "page_url": "https://douglas.es/c/tratamiento_corporal/protector_solar/aftersun",
     "file_name": "Spain_DOUGLAS_ES_BODY_SUNSCREENS_Aftersun"
@@ -1050,8 +1050,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
-    "page": "FACE MAKEUP",
+    "category": "Face Make Up",
+    "page": "Face Make Up",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_rostro",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_FACE|sp|MAKEUP_FACE|sp|MAKEUP"
   },
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Primer",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_rostro/primer",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_FACE|sp|MAKEUP_Primer"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Makeup base",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_rostro/base_de_maquillaje",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_FACE|sp|MAKEUP_Makeup|sp|base"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Correctors and Illuminators",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_rostro/correctores_e_iluminadores",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_FACE|sp|MAKEUP_Correctors|sp|and|sp|Illuminators"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "Compact Powders",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_rostro/polvos_compactos",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_FACE|sp|MAKEUP_Compact|sp|Powders"
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "FACE MAKEUP",
+    "category": "Face Make Up",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_rostro",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_FACE|sp|MAKEUP_See|sp|all|sp|categories"
@@ -1116,8 +1116,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
-    "page": "EYE MAKEUP",
+    "category": "Eye Make Up",
+    "page": "Eye Make Up",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_ojos",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_EYE|sp|MAKEUP_EYE|sp|MAKEUP"
   },
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Primer",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_ojos/primer",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_EYE|sp|MAKEUP_Primer"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Eyeshadow",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_ojos/sombras",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_EYE|sp|MAKEUP_Eyeshadow"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Mascara",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_ojos/mascara_de_pestanas",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_EYE|sp|MAKEUP_Mascara"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "Eyeliner",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_ojos/eyeliner",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_EYE|sp|MAKEUP_Eyeliner"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "EYE MAKEUP",
+    "category": "Eye Make Up",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_ojos",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_EYE|sp|MAKEUP_See|sp|all|sp|categories"
@@ -1248,8 +1248,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP PALETTES",
-    "page": "MAKEUP PALETTES",
+    "category": "Make Up Palettes",
+    "page": "Make Up Palettes",
     "page_url": "https://douglas.es/c/maquillaje/paletas",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|PALETTES_MAKEUP|sp|PALETTES"
   },
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP PALETTES",
+    "category": "Make Up Palettes",
     "page": "Multi-Purpose Palette",
     "page_url": "https://douglas.es/c/maquillaje/paletas/multi_usos",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|PALETTES_Multi|h|Purpose|sp|Palette"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP PALETTES",
+    "category": "Make Up Palettes",
     "page": "Eyes Palette",
     "page_url": "https://douglas.es/c/maquillaje/paletas/ojos",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|PALETTES_Eyes|sp|Palette"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP PALETTES",
+    "category": "Make Up Palettes",
     "page": "Face Palette",
     "page_url": "https://douglas.es/c/maquillaje/paletas/rostro",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|PALETTES_Face|sp|Palette"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP PALETTES",
+    "category": "Make Up Palettes",
     "page": "Lips Palette",
     "page_url": "https://douglas.es/c/maquillaje/paletas/labios",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|PALETTES_Lips|sp|Palette"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP PALETTES",
+    "category": "Make Up Palettes",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/maquillaje/paletas",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|PALETTES_See|sp|all|sp|categories"
@@ -2359,8 +2359,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "MAN",
-    "page": "MAN",
+    "category": "Men",
+    "page": "Men",
     "page_url": "https://douglas.es/c/hombre",
     "file_name": "Spain_DOUGLAS_ES_MAN_MAN_MAN"
   },
@@ -2370,8 +2370,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "PERFUMES",
-    "page": "PERFUMES",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/hombre/perfumes",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUMES_PERFUMES"
   },
@@ -2381,8 +2381,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "PERFUMES",
-    "page": "Perfume",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/hombre/perfumes/eau_de_parfum",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUMES_Perfume"
   },
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "PERFUMES",
+    "category": "Perfumes",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/hombre/perfumes/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUMES_Cologne"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "PERFUMES",
+    "category": "Perfumes",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/hombre/perfumes",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUMES_See|sp|all|sp|categories"
@@ -2426,7 +2426,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
     "category": "PERFUME CASES",
-    "page": "Perfume",
+    "page": "Perfumes",
     "page_url": "https://douglas.es/c/hombre/estuche/eau_de_parfum",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUME|sp|CASES_Perfume"
   },
@@ -2546,8 +2546,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "FACIAL CREAMS",
-    "page": "FACIAL CREAMS",
+    "category": "Facial Creams",
+    "page": "Facial Creams",
     "page_url": "https://douglas.es/c/hombre/cremas",
     "file_name": "Spain_DOUGLAS_ES_MAN_FACIAL|sp|CREAMS_FACIAL|sp|CREAMS"
   },
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "FACIAL CREAMS",
+    "category": "Facial Creams",
     "page": "Day Facial Care",
     "page_url": "https://douglas.es/c/hombre/cremas/cuidado_dia",
     "file_name": "Spain_DOUGLAS_ES_MAN_FACIAL|sp|CREAMS_Day|sp|Facial|sp|Care"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "FACIAL CREAMS",
+    "category": "Facial Creams",
     "page": "Night Facial Care",
     "page_url": "https://douglas.es/c/hombre/cremas/cuidado_noche",
     "file_name": "Spain_DOUGLAS_ES_MAN_FACIAL|sp|CREAMS_Night|sp|Facial|sp|Care"
@@ -2579,8 +2579,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "EYE CONTOUR",
-    "page": "EYE CONTOUR",
+    "category": "Eye Contour",
+    "page": "Eye Contour",
     "page_url": "https://douglas.es/c/hombre/contorno_de_ojos",
     "file_name": "Spain_DOUGLAS_ES_MAN_EYE|sp|CONTOUR_EYE|sp|CONTOUR"
   },
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "EYE CONTOUR",
+    "category": "Eye Contour",
     "page": "Day Care",
     "page_url": "https://douglas.es/c/hombre/contorno_de_ojos/cuidado_dia",
     "file_name": "Spain_DOUGLAS_ES_MAN_EYE|sp|CONTOUR_Day|sp|Care"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "EYE CONTOUR",
+    "category": "Eye Contour",
     "page": "Serum",
     "page_url": "https://douglas.es/c/hombre/contorno_de_ojos/serum",
     "file_name": "Spain_DOUGLAS_ES_MAN_EYE|sp|CONTOUR_Serum"
@@ -2612,8 +2612,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "FACIAL TREATMENTS",
-    "page": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
+    "page": "Facial Treatments",
     "page_url": "https://douglas.es/c/hombre/tratamiento_facial",
     "file_name": "Spain_DOUGLAS_ES_MAN_FACIAL|sp|TREATMENTS_FACIAL|sp|TREATMENTS"
   },
@@ -2623,7 +2623,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "Serum",
     "page_url": "https://douglas.es/c/hombre/tratamiento_facial/serum",
     "file_name": "Spain_DOUGLAS_ES_MAN_FACIAL|sp|TREATMENTS_Serum"
@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "blisters",
     "page_url": "https://douglas.es/c/hombre/tratamiento_facial/ampollas",
     "file_name": "Spain_DOUGLAS_ES_MAN_FACIAL|sp|TREATMENTS_blisters"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "FACIAL TREATMENTS",
+    "category": "Facial Treatments",
     "page": "Other Treatments",
     "page_url": "https://douglas.es/c/hombre/tratamiento_facial/otros",
     "file_name": "Spain_DOUGLAS_ES_MAN_FACIAL|sp|TREATMENTS_Other|sp|Treatments"
@@ -2788,8 +2788,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SCRUBS AND MASKS",
-    "page": "SCRUBS AND MASKS",
+    "category": "Scrubs & Masks",
+    "page": "Scrubs & Masks",
     "page_url": "https://douglas.es/c/hombre/exfoliantes_y_mascarillas",
     "file_name": "Spain_DOUGLAS_ES_MAN_SCRUBS|sp|AND|sp|MASKS_SCRUBS|sp|AND|sp|MASKS"
   },
@@ -2799,7 +2799,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SCRUBS AND MASKS",
+    "category": "Scrubs & Masks",
     "page": "scrubs",
     "page_url": "https://douglas.es/c/hombre/exfoliantes_y_mascarillas/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_MAN_SCRUBS|sp|AND|sp|MASKS_scrubs"
@@ -2810,7 +2810,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SCRUBS AND MASKS",
+    "category": "Scrubs & Masks",
     "page": "Masks",
     "page_url": "https://douglas.es/c/hombre/exfoliantes_y_mascarillas/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_MAN_SCRUBS|sp|AND|sp|MASKS_Masks"
@@ -2953,8 +2953,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CREAMS",
-    "page": "FACIAL CREAMS",
+    "category": "Facial Creams",
+    "page": "Facial Creams",
     "page_url": "https://douglas.es/c/parafarmacia/cremas",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CREAMS_FACIAL|sp|CREAMS"
   },
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CREAMS",
+    "category": "Facial Creams",
     "page": "Day Facial Care",
     "page_url": "https://douglas.es/c/parafarmacia/cremas/cuidado_dia",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CREAMS_Day|sp|Facial|sp|Care"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CREAMS",
+    "category": "Facial Creams",
     "page": "BB-CC Cream",
     "page_url": "https://douglas.es/c/parafarmacia/cremas/bb_cc_cream",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CREAMS_BB|h|CC|sp|Cream"
@@ -2986,8 +2986,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "EYE CONTOUR",
-    "page": "EYE CONTOUR",
+    "category": "Eye Contour",
+    "page": "Eye Contour",
     "page_url": "https://douglas.es/c/parafarmacia/contorno_de_ojos",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_EYE|sp|CONTOUR_EYE|sp|CONTOUR"
   },
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "EYE CONTOUR",
+    "category": "Eye Contour",
     "page": "Day Care",
     "page_url": "https://douglas.es/c/parafarmacia/contorno_de_ojos/cuidado_dia",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_EYE|sp|CONTOUR_Day|sp|Care"
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "EYE CONTOUR",
+    "category": "Eye Contour",
     "page": "Other Treatments",
     "page_url": "https://douglas.es/c/parafarmacia/contorno_de_ojos/otros",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_EYE|sp|CONTOUR_Other|sp|Treatments"
@@ -3019,8 +3019,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CLEANSING",
-    "page": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
+    "page": "Facial Cleaning",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_FACIAL|sp|CLEANSING"
   },
@@ -3030,7 +3030,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing milk",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/leche_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|milk"
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing Gel",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/gel_limpiador",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|Gel"
@@ -3052,7 +3052,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing Foam",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/espuma_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|Foam"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "Cleansing Oil",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/aceite_limpiador",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|Oil"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "FACIAL CLEANSING",
+    "category": "Facial Cleaning",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_See|sp|all|sp|categories"
@@ -3140,8 +3140,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "SUNSCREENS",
-    "page": "SUNSCREENS",
+    "category": "Sunscreen",
+    "page": "Sunscreen",
     "page_url": "https://douglas.es/c/parafarmacia/protector_solar",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_SUNSCREENS_SUNSCREENS"
   },
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "Face Protection",
     "page_url": "https://douglas.es/c/parafarmacia/protector_solar/protector_facial",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_SUNSCREENS_Face|sp|Protection"
@@ -3162,7 +3162,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "body protection",
     "page_url": "https://douglas.es/c/parafarmacia/protector_solar/protector_corporal",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_SUNSCREENS_body|sp|protection"
@@ -3173,7 +3173,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "Aftersun",
     "page_url": "https://douglas.es/c/parafarmacia/protector_solar/aftersun",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_SUNSCREENS_Aftersun"
@@ -3184,7 +3184,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "PARAPHARMACY",
-    "category": "SUNSCREENS",
+    "category": "Sunscreen",
     "page": "self-tanners",
     "page_url": "https://douglas.es/c/parafarmacia/protector_solar/autobronceadores",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_SUNSCREENS_self|h|tanners"

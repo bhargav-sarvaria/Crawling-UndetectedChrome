@@ -3,7 +3,7 @@ from pyvirtualdisplay import Display
 import os
 import sys
 
-crawler = Crawler(3)
+crawler = Crawler(2)
 if __name__ == '__main__':
     try:
         display = Display(visible=0, size=(1024, 768))

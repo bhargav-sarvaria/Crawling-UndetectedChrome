@@ -2030,9 +2030,9 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Top Brands",
-    "page": "Est\u00e9e Lauder",
+    "page": "Estee Lauder",
     "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/featured-brand-estee-lauder",
-    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Est\u00e9e|sp|Lauder"
+    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Estee|sp|Lauder"
   },
   {
     "country": "Australia",
@@ -2238,8 +2238,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
-    "page": "Perfume",
+    "category": "Perfumes",
+    "page": "Perfumes",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance",
     "file_name": "Australia_Myer_Beauty_Perfume_Perfume"
   },
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
+    "category": "Perfumes",
     "page": "Women's Perfume",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/womens-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Women|sq|s|sp|Perfume"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
+    "category": "Perfumes",
     "page": "Men's Cologne & Aftershave",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/mens-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Men|sq|s|sp|Cologne|sp||as||sp|Aftershave"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Perfume",
+    "category": "Perfumes",
     "page": "Libertine Parfumerie",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/niche-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Libertine|sp|Parfumerie"
@@ -2942,10 +2942,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
-    "page": "Home D\u00e9cor",
+    "category": "Home Decor",
+    "page": "Home Decor",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Home|sp|D\u00e9cor"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Home|sp|Decor"
   },
   {
     "country": "Australia",
@@ -2953,10 +2953,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Photo Frames & Albums",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/photo-frames-albums",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Photo|sp|Frames|sp||as||sp|Albums"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Photo|sp|Frames|sp||as||sp|Albums"
   },
   {
     "country": "Australia",
@@ -2964,10 +2964,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Candles & Home Fragrance",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/home-fragrance--",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Candles|sp||as||sp|Home|sp|Fragrance"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Candles|sp||as||sp|Home|sp|Fragrance"
   },
   {
     "country": "Australia",
@@ -2975,10 +2975,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Botanicals, Artificial Flowers & Planters",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/botanicals-artificial-flowers",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Botanicals,|sp|Artificial|sp|Flowers|sp||as||sp|Planters"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Botanicals,|sp|Artificial|sp|Flowers|sp||as||sp|Planters"
   },
   {
     "country": "Australia",
@@ -2986,10 +2986,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Vases & Planters",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/vases",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Vases|sp||as||sp|Planters"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Vases|sp||as||sp|Planters"
   },
   {
     "country": "Australia",
@@ -2997,10 +2997,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Cushions & Throws",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/cushions",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Cushions|sp||as||sp|Throws"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Cushions|sp||as||sp|Throws"
   },
   {
     "country": "Australia",
@@ -3008,10 +3008,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Baskets & Storage",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/baskets---storage",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Baskets|sp||as||sp|Storage"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Baskets|sp||as||sp|Storage"
   },
   {
     "country": "Australia",
@@ -3019,10 +3019,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Wall Art, Mirrors & Clocks",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/wall-art--1",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Wall|sp|Art,|sp|Mirrors|sp||as||sp|Clocks"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Wall|sp|Art,|sp|Mirrors|sp||as||sp|Clocks"
   },
   {
     "country": "Australia",
@@ -3030,10 +3030,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Lighting",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/lighting-1",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Lighting"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Lighting"
   },
   {
     "country": "Australia",
@@ -3041,10 +3041,10 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Home",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Rugs",
     "page_url": "https://www.myer.com.au/c/home/furniture-home-decor/rugs--1",
-    "file_name": "Australia_Myer_Home_Home|sp|D\u00e9cor_Rugs"
+    "file_name": "Australia_Myer_Home_Home|sp|Decor_Rugs"
   },
   {
     "country": "Australia",

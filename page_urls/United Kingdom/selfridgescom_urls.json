@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Shop all new in",
     "page_url": "https://www.selfridges.com/GB/en/cat/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Shop|sp|all|sp|new|sp|in"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Women\u2019s",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Women\u2019s"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Men\u2019s",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Men\u2019s"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Bags"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Shoes"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Beauty",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Beauty"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Kids",
     "page_url": "https://www.selfridges.com/GB/en/cat/kids/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Kids"
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Home & tech",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Home|sp||as||sp|tech"
@@ -104,7 +104,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Foodhall",
     "page_url": "https://www.selfridges.com/GB/en/cat/foodhall/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Foodhall"
@@ -115,7 +115,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
-    "category": "Shop all new in",
+    "category": "Shop All",
     "page": "Jewellery & Watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/newin/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Jewellery|sp||as||sp|Watches"
@@ -2844,7 +2844,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
     "category": "Gifts",
-    "page": "Perfume",
+    "page": "Perfumes",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/beauty-gift-sets/perfume/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Perfume"
   },

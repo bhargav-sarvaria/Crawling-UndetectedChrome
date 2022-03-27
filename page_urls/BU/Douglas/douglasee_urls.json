@@ -182,7 +182,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "THE FACE",
-    "page": "Face masks",
+    "page": "Face Masks",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/N%C3%A4gu/naomaskid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Face|sp|masks"
   },
@@ -226,9 +226,9 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "THE FACE",
-    "page": "Neck / decollete",
+    "page": "Neck / decolletage",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/N%C3%A4gu/Kael-dekoltee",
-    "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Neck|sp||fs||sp|decollete"
+    "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Neck|sp||fs||sp|decolletage"
   },
   {
     "country": "Estonia",
@@ -622,7 +622,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "BEAUTY CARE EQUIPMENT",
-    "page": "Facial cleansing",
+    "page": "Facial Cleaning",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Iluhooldusseadmed/Naonaha-puhastamine/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BEAUTY|sp|CARE|sp|EQUIPMENT_Facial|sp|cleansing"
   },
@@ -710,7 +710,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
     "category": "FOR WOMEN",
-    "page": "Perfumery",
+    "page": "Perfumes",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Naiste/Parf%C3%BC%C3%BCmpesemisvahendid",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Perfumery"
   },
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "UNISEX",
+    "category": "Unisex",
     "page": "Smells",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/unisex/l%C3%B5hnad/",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_UNISEX_Smells"

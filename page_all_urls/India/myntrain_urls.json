@@ -2590,10 +2590,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
-    "page": "Home D\u00e9cor",
+    "category": "Home Decor",
+    "page": "Home Decor",
     "page_url": "https://www.myntra.com/home-furnishing?f=Categories%3AAir%20Freshener%2CAroma%20Oils%2CArtificial%20Flowers%20and%20Plants%2CBins%2CCandle%20Holders%2CCandles%2CCeiling%20Lamps%2CClocks%2CDecals%20and%20Stickers%2CDecorative%20Bowls%2CDecorative%20Magnets%2CFestive%20Decor%2CFloor%20Lamps%2CFountains%2CGarden%20Accessories%2CHandheld%20Air%20Fresheners%2CHome%20Fragrance%20Set%2CHome%20Fragrances%2CKey%20Holders%2CLaptop%20Table%2CMirrors%2COutdoor%20Lamps%2CPhoto%20Albums%2CPhoto%20Frames%2CPlanters%2CPooja%20Essentials%2CPotpourri%2CShowpieces%2CString%20Lights%2CVase%20Fillers%2CVases%2CWall%20Art%2CWall%20Decor%2CWall%20Lamps%2CWall%20Shelves%2CWater%20Bottle%2CWindchimes",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Home|sp|D\u00e9cor"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Home|sp|Decor"
   },
   {
     "country": "India",
@@ -2601,10 +2601,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Plants & Planters",
     "page_url": "https://www.myntra.com/home-furnishing?f=Categories%3AArtificial%20Flowers%20and%20Plants%2CGarden%20Accessories%2CPlanters",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Plants|sp||as||sp|Planters"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Plants|sp||as||sp|Planters"
   },
   {
     "country": "India",
@@ -2612,10 +2612,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Aromas & Candles",
     "page_url": "https://www.myntra.com/aroma-oil-diffusers-aroma-oils-air-freshener-handheld-air-fresheners-home-fragrances-home-fragrance-set-candles",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Aromas|sp||as||sp|Candles"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Aromas|sp||as||sp|Candles"
   },
   {
     "country": "India",
@@ -2623,10 +2623,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Clocks",
     "page_url": "https://www.myntra.com/clocks",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Clocks"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Clocks"
   },
   {
     "country": "India",
@@ -2634,10 +2634,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Mirrors",
     "page_url": "https://www.myntra.com/mirrors",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Mirrors"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Mirrors"
   },
   {
     "country": "India",
@@ -2645,10 +2645,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
-    "page": "Wall D\u00e9cor",
+    "category": "Home Decor",
+    "page": "Wall Decor",
     "page_url": "https://www.myntra.com/decorhome?f=Categories%3ADecals%20and%20Stickers%2CKey%20Holders%2CPhoto%20Frames%2CWall%20Art%2CWall%20Decor%2CWindchimes",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Wall|sp|D\u00e9cor"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Wall|sp|Decor"
   },
   {
     "country": "India",
@@ -2656,10 +2656,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Festive Decor",
     "page_url": "https://www.myntra.com/home-furnishing?f=Categories%3AFestive%20Decor",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Festive|sp|Decor"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Festive|sp|Decor"
   },
   {
     "country": "India",
@@ -2667,10 +2667,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Pooja Essentials",
     "page_url": "https://www.myntra.com/home-furnishing?f=Categories%3AFestive%20Decor%2CPooja%20Essentials",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Pooja|sp|Essentials"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Pooja|sp|Essentials"
   },
   {
     "country": "India",
@@ -2678,10 +2678,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Wall Shelves",
     "page_url": "https://www.myntra.com/wall-shelves",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Wall|sp|Shelves"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Wall|sp|Shelves"
   },
   {
     "country": "India",
@@ -2689,10 +2689,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Fountains",
     "page_url": "https://www.myntra.com/fountains",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Fountains"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Fountains"
   },
   {
     "country": "India",
@@ -2700,10 +2700,10 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "HOME & LIVING",
-    "category": "Home D\u00e9cor",
+    "category": "Home Decor",
     "page": "Showpieces & Vases",
     "page_url": "https://www.myntra.com/home-decor-showpieces-vases",
-    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|D\u00e9cor_Showpieces|sp||as||sp|Vases"
+    "file_name": "India_Myntra_HOME|sp||as||sp|LIVING_Home|sp|Decor_Showpieces|sp||as||sp|Vases"
   },
   {
     "country": "India",
@@ -3471,7 +3471,7 @@
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
     "category": "Fragrances",
-    "page": "Perfume",
+    "page": "Perfumes",
     "page_url": "https://www.myntra.com/perfumes",
     "file_name": "India_Myntra_BEAUTY_Fragrances_Perfume"
   },

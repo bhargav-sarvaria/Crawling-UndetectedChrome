@@ -512,7 +512,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Make Up",
     "category": "Brushes & Tools",
-    "page": "Makeup Brushes",
+    "page": "Make Up Brushes",
     "page_url": "https://www.ulta.com/tools-brushes-makeup-brushes-tools-makeup-brushes?N=27hp",
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Makeup|sp|Brushes"
   },
@@ -589,7 +589,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Make Up",
     "category": "Make Up Palettes",
-    "page": "Makeup Palettes",
+    "page": "Make Up Palettes",
     "page_url": "https://www.ulta.com/makeup-palettes?N=rulhui",
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Palettes_Makeup|sp|Palettes"
   },
@@ -1369,8 +1369,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Treatment",
-    "page": "Treatment",
+    "category": "Treatments",
+    "page": "Treatments",
     "page_url": "https://www.ulta.com/hair-treatment?N=26xy",
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Treatment"
   },
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Treatment",
+    "category": "Treatments",
     "page": "Oils & Serums",
     "page_url": "https://www.ulta.com/hair-treatment-oils-serums?N=27ft",
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Oils|sp||as||sp|Serums"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Treatment",
+    "category": "Treatments",
     "page": "Masks",
     "page_url": "https://www.ulta.com/hair-treatment-masks?N=27fu",
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Masks"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Treatment",
+    "category": "Treatments",
     "page": "Hair Thinning & Hair Loss",
     "page_url": "https://www.ulta.com/hair-treatment-hair-thinning-hair-loss?N=27fv",
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Hair|sp|Thinning|sp||as||sp|Hair|sp|Loss"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Treatment",
+    "category": "Treatments",
     "page": "Leave-In Treatment",
     "page_url": "https://www.ulta.com/hair-leave-in-treatment?N=27fw",
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Leave|h|In|sp|Treatment"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Treatment",
+    "category": "Treatments",
     "page": "Scalp Care",
     "page_url": "https://www.ulta.com/hair-treatment-scalp-care?N=ofsj8m",
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Scalp|sp|Care"
@@ -1931,7 +1931,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Tools",
     "category": "Brushes & Tools",
-    "page": "Makeup Brushes",
+    "page": "Make Up Brushes",
     "page_url": "https://www.ulta.com/tools-brushes-makeup-brushes-tools-makeup-brushes?N=27hp",
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Makeup|sp|Brushes"
   },
@@ -2151,7 +2151,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
     "category": "Women's Fragrance",
-    "page": "Perfume",
+    "page": "Perfumes",
     "page_url": "https://www.ulta.com/womens-fragrance-perfume?N=26wq",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Perfume"
   },
