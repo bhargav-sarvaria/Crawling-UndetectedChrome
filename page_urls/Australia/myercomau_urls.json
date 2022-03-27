@@ -3404,8 +3404,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
-    "page": "Shop By Activity",
+    "category": "Shop by Activity",
+    "page": "Shop by Activity",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Shop|sp|By|sp|Activity"
   },
@@ -3415,7 +3415,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Running Gear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/running-gear",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Running|sp|Gear"
@@ -3426,7 +3426,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Outdoor Gear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/outdoor-gear",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Outdoor|sp|Gear"
@@ -3437,7 +3437,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Swimming Gear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/swimming-gear",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Swimming|sp|Gear"
@@ -3448,7 +3448,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Cycling Gear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/cycling-gear",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Cycling|sp|Gear"
@@ -3459,7 +3459,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Yoga Gear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/yoga-gear",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Yoga|sp|Gear"
@@ -3470,7 +3470,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Football Gear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/football-gear",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Football|sp|Gear"
@@ -3481,7 +3481,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Tennis Gear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/tennis-gear",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Tennis|sp|Gear"
@@ -3492,7 +3492,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Shop By Activity",
+    "category": "Shop by Activity",
     "page": "Loungewear",
     "page_url": "https://www.myer.com.au/c/sport/shop-by-activity/loungewear-clothing",
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Loungewear"

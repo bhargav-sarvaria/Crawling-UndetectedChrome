@@ -185,7 +185,7 @@ class Crawler:
                         myfile.write('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
                 except:
                     print()
-                # print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
+                print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
         except Exception as e:
             page_config['message'] = 'parsePage exception'
             mongo.addErrorDocument(self.crawl_folder, page_config)

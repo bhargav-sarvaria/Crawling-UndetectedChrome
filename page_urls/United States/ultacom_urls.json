@@ -1435,8 +1435,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
-    "page": "Styling Products",
+    "category": "Styling",
+    "page": "Styling",
     "page_url": "https://www.ulta.com/hair-styling-products?N=26xf",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Styling|sp|Products"
   },
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
+    "category": "Styling",
     "page": "Hairspray",
     "page_url": "https://www.ulta.com/hair-styling-products-hairspray?N=27fx",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Hairspray"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
+    "category": "Styling",
     "page": "Volume & Texture",
     "page_url": "https://www.ulta.com/hair-styling-products-volume-texture?N=27fy",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Volume|sp||as||sp|Texture"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
+    "category": "Styling",
     "page": "Heat Protectant",
     "page_url": "https://www.ulta.com/hair-styling-products-heat-protectant?N=27fz",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Heat|sp|Protectant"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
+    "category": "Styling",
     "page": "Gloss & Shine",
     "page_url": "https://www.ulta.com/hair-styling-products-gloss-shine?N=27g0",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Gloss|sp||as||sp|Shine"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
+    "category": "Styling",
     "page": "Smoothing",
     "page_url": "https://www.ulta.com/hair-styling-products-smoothing?N=27g1",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Smoothing"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
+    "category": "Styling",
     "page": "Curl Enhancing",
     "page_url": "https://www.ulta.com/hair-styling-products-curl-enhancing?N=27g2",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Curl|sp|Enhancing"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Styling Products",
+    "category": "Styling",
     "page": "Wax & Pomade",
     "page_url": "https://www.ulta.com/hair-styling-products-wax-pomade?N=27g3",
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Wax|sp||as||sp|Pomade"

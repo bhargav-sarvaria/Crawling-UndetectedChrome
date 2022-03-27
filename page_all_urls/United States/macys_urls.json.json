@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
-    "category": "Shop By Occasion",
+    "category": "Shop by Occasion",
     "page": "Evening",
     "page_url": "https://www.macys.com/shop/womens-clothing/evening?id=260267&cm_sp=us_hdr-_-women-_-260267_evening_COL4",
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Evening"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
-    "category": "Shop By Occasion",
+    "category": "Shop by Occasion",
     "page": "Outdoor & Camping",
     "page_url": "https://www.macys.com/shop/womens-clothing/outdoor-camping?id=197368&cm_sp=us_hdr-_-women-_-197368_outdoor-%26-camping_COL4",
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Outdoor|sp||as||sp|Camping"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
-    "category": "Shop By Occasion",
+    "category": "Shop by Occasion",
     "page": "Prom",
     "page_url": "https://www.macys.com/shop/junior-clothing/prom-dresses?id=42738&cm_sp=us_hdr-_-women-_-42738_prom_COL4",
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Prom"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
-    "category": "Shop By Occasion",
+    "category": "Shop by Occasion",
     "page": "Vacation",
     "page_url": "https://www.macys.com/shop/womens-clothing/womens-resort-vacation-wear?id=53427&cm_sp=us_hdr-_-women-_-53427_vacation_COL4",
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Vacation"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
-    "category": "Shop By Occasion",
+    "category": "Shop by Occasion",
     "page": "Wear To Work",
     "page_url": "https://www.macys.com/shop/womens-clothing/womens-business-attire?id=39096&cm_sp=us_hdr-_-women-_-39096_wear-to-work_COL4",
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Wear|sp|To|sp|Work"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
-    "category": "Shop By Occasion",
+    "category": "Shop by Occasion",
     "page": "Wedding",
     "page_url": "https://www.macys.com/shop/womens-clothing/wedding?id=260270&cm_sp=us_hdr-_-women-_-260270_wedding_COL4",
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Wedding"

@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
-    "category": "Shop By Fit",
+    "category": "Shop by Fit",
     "page": "Tall",
     "page_url": "https://www.debenhams.com/category/womens-tall",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Fit_Tall"
@@ -1062,7 +1062,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
     "category": "By Collection",
-    "page": "Shop By Collection",
+    "page": "Shop by Collection",
     "page_url": "https://www.debenhams.com/category/womens-collections",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Shop|sp|By|sp|Collection"
   },
@@ -3283,7 +3283,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Lingerie",
-    "category": "Shop By Style",
+    "category": "Shop by Style",
     "page": "Comfort Lingerie",
     "page_url": "https://www.debenhams.com/category/lingerie-collections-cosy",
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Shop|sp|By|sp|Style_Comfort|sp|Lingerie"
@@ -3294,7 +3294,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Lingerie",
-    "category": "Shop By Style",
+    "category": "Shop by Style",
     "page": "Black & White Lingerie",
     "page_url": "https://www.debenhams.com/category/lingerie-black-white",
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Shop|sp|By|sp|Style_Black|sp||as||sp|White|sp|Lingerie"
@@ -3305,7 +3305,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Lingerie",
-    "category": "Shop By Style",
+    "category": "Shop by Style",
     "page": "Lace",
     "page_url": "https://www.debenhams.com/category/womens-lingerie-lace",
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Shop|sp|By|sp|Style_Lace"

@@ -1886,8 +1886,8 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Jewellery",
-    "category": "Shop By Designer",
-    "page": "Shop By Designer",
+    "category": "Shop by Designer",
+    "page": "Shop by Designer",
     "page_url": "https://www.neimanmarcus.com/c/jewelry-accessories-shop-by-designer-cat42120742?navpath=cat000000_cat4870731_cat42120742",
     "file_name": "United|sp|States_Neimanmarcus_JEWELRY|sp||as||sp|ACCESSORIES_Shop|sp|By|sp|Designer_Shop|sp|By|sp|Designer"
   },
