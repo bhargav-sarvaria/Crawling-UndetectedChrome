@@ -173,7 +173,7 @@ class Crawler:
                 return
             df = pd.DataFrame(products_data)
             df = df.reindex(columns=COLUMN_ORDER)
-            df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["",""], regex=True, inplace=True)
+            df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             filname = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
             np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
             gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname;
