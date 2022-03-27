@@ -54,6 +54,7 @@ class Mongo:
 # mongo.printUrls('United Kingdom')
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
+# mongo.deleteAllDocuments('Australia')
 # mongo.deleteAllDocuments('India')
 # mongo.deleteAllDocuments('United States')
 # mongo.deleteAllDocuments('United Kingdom')
