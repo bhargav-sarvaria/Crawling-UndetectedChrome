@@ -3030,17 +3030,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "New",
-    "category": "100BON",
-    "page": "100BON",
-    "page_url": "https://www.sephora.fr/100BO-HubPage.html",
-    "file_name": "France_Sephora_FR_NEWS_100BON_100BON"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "New",
     "category": "D+ FOR CARE",
     "page": "D+ FOR CARE",
     "page_url": "https://www.sephora.fr/marques/de-a-a-z/d--for-care-dplus/",
@@ -3188,17 +3177,6 @@
     "page": "UNBOTTLED",
     "page_url": "https://www.sephora.fr/marques/de-a-a-z/unbottled-unbot/",
     "file_name": "France_Sephora_FR_BRANDS_UNBOTTLED_UNBOTTLED"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "BRANDS",
-    "category": "100BON",
-    "page": "100BON",
-    "page_url": "https://www.sephora.fr/100BO-HubPage.html",
-    "file_name": "France_Sephora_FR_BRANDS_100BON_100BON"
   },
   {
     "country": "France",

@@ -2855,7 +2855,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
     "category": "Baby Care",
-    "page": "BABY CARE",
+    "page": "Baby Care",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado_bebe",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BABY|sp|CARE_BABY|sp|CARE"
   },
@@ -3353,83 +3353,6 @@
     "page": "Douglas Seasonal",
     "page_url": "https://douglas.es/b/douglas_seasonal",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Skin|sp|Focus_Douglas|sp|Seasonal"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Annemarie B\u00f6rlind",
-    "page": "Annemarie B\u00f6rlind",
-    "page_url": "https://douglas.es/b/annemarie_borlind",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Annemarie|sp|B\u00f6rlind_Annemarie|sp|B\u00f6rlind"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Annemarie B\u00f6rlind",
-    "page": "Annemarie B\u00f6rlind",
-    "page_url": "https://douglas.es/b/annemarie_borlind",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Annemarie|sp|B\u00f6rlind_Annemarie|sp|B\u00f6rlind"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Annemarie B\u00f6rlind",
-    "page": "Apples",
-    "page_url": "https://douglas.es/b/alma_k",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Annemarie|sp|B\u00f6rlind_Apples"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Annemarie B\u00f6rlind",
-    "page": "Bullfrog",
-    "page_url": "https://douglas.es/b/bullfrog",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Annemarie|sp|B\u00f6rlind_Bullfrog"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Annemarie B\u00f6rlind",
-    "page": "Chiara Ferragni",
-    "page_url": "https://douglas.es/b/chiara_ferragni",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Annemarie|sp|B\u00f6rlind_Chiara|sp|Ferragni"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Annemarie B\u00f6rlind",
-    "page": "Dermacosmetics",
-    "page_url": "https://douglas.es/b/dermacosmetics",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Annemarie|sp|B\u00f6rlind_Dermacosmetics"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Annemarie B\u00f6rlind",
-    "page": "Eisenberg",
-    "page_url": "https://douglas.es/b/eisenberg",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Annemarie|sp|B\u00f6rlind_Eisenberg"
   },
   {
     "country": "Spain",
@@ -3998,8 +3921,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "AIR FRESHENERS",
-    "page": "AIR FRESHENERS",
+    "category": "Air Freshners",
+    "page": "Air Freshners",
     "page_url": "https://douglas.es/c/hogar/ambientadores",
     "file_name": "Spain_DOUGLAS_ES_HOME_AIR|sp|FRESHENERS_AIR|sp|FRESHENERS"
   },
@@ -4009,7 +3932,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "AIR FRESHENERS",
+    "category": "Air Freshners",
     "page": "Decorative",
     "page_url": "https://douglas.es/c/hogar/ambientadores/decorativos",
     "file_name": "Spain_DOUGLAS_ES_HOME_AIR|sp|FRESHENERS_Decorative"
@@ -4020,7 +3943,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "AIR FRESHENERS",
+    "category": "Air Freshners",
     "page": "electrical",
     "page_url": "https://douglas.es/c/hogar/ambientadores/electricos",
     "file_name": "Spain_DOUGLAS_ES_HOME_AIR|sp|FRESHENERS_electrical"
@@ -4031,7 +3954,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "AIR FRESHENERS",
+    "category": "Air Freshners",
     "page": "Automatic",
     "page_url": "https://douglas.es/c/hogar/ambientadores/automaticos",
     "file_name": "Spain_DOUGLAS_ES_HOME_AIR|sp|FRESHENERS_Automatic"
@@ -4042,7 +3965,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "AIR FRESHENERS",
+    "category": "Air Freshners",
     "page": "Aerosol sprays",
     "page_url": "https://douglas.es/c/hogar/ambientadores/aerosoles",
     "file_name": "Spain_DOUGLAS_ES_HOME_AIR|sp|FRESHENERS_Aerosol|sp|sprays"
@@ -4053,7 +3976,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "AIR FRESHENERS",
+    "category": "Air Freshners",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/hogar/ambientadores",
     "file_name": "Spain_DOUGLAS_ES_HOME_AIR|sp|FRESHENERS_See|sp|all|sp|categories"

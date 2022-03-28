@@ -2799,8 +2799,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "ACCESSORY",
-    "page": "ACCESSORY",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.douglas.ro/c/corp/accesorii/",
     "file_name": "Romania_DOUGLAS_RO_BODY_ACCESSORY_ACCESSORY"
   },
@@ -2810,7 +2810,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Nail accessories",
     "page_url": "https://www.douglas.ro/c/corp/accesorii/accesorii-unghii/",
     "file_name": "Romania_DOUGLAS_RO_BODY_ACCESSORY_Nail|sp|accessories"
@@ -2821,7 +2821,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Foot care accessories",
     "page_url": "https://www.douglas.ro/c/corp/accesorii/accesorii-ingrijirea-picioarelor/",
     "file_name": "Romania_DOUGLAS_RO_BODY_ACCESSORY_Foot|sp|care|sp|accessories"
@@ -2832,7 +2832,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Self-tanning gloves",
     "page_url": "https://www.douglas.ro/c/corp/accesorii/self-tanning-gloves/",
     "file_name": "Romania_DOUGLAS_RO_BODY_ACCESSORY_Self|h|tanning|sp|gloves"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Sponge",
     "page_url": "https://www.douglas.ro/c/corp/accesorii/burete/",
     "file_name": "Romania_DOUGLAS_RO_BODY_ACCESSORY_Sponge"
@@ -3283,8 +3283,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
-    "page": "ACCESSORY",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.douglas.ro/c/par/accesorii/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_ACCESSORY_ACCESSORY"
   },
@@ -3294,7 +3294,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Hair elastics",
     "page_url": "https://www.douglas.ro/c/par/accesorii/elastice-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_ACCESSORY_Hair|sp|elastics"
@@ -3305,7 +3305,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Hair clip",
     "page_url": "https://www.douglas.ro/c/par/accesorii/clama-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_ACCESSORY_Hair|sp|clip"
@@ -3316,7 +3316,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Headband & Hair Band",
     "page_url": "https://www.douglas.ro/c/par/accesorii/bentita-banda-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_ACCESSORY_Headband|sp||as||sp|Hair|sp|Band"
@@ -3624,17 +3624,6 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "25% DISCOUNT DOUGLAS COLLECTION & FRIENDS",
-    "page": "25% DISCOUNT DOUGLAS COLLECTION & FRIENDS",
-    "page_url": "https://www.douglas.ro/c/reduceri/25-reducere-douglas-collection-friends/",
-    "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_25%|sp|DISCOUNT|sp|DOUGLAS|sp|COLLECTION|sp||as||sp|FRIENDS_25%|sp|DISCOUNT|sp|DOUGLAS|sp|COLLECTION|sp||as||sp|FRIENDS"
-  },
-  {
-    "country": "Romania",
-    "retailer": "DOUGLAS_RO",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "Discounts",
     "category": "Perfumes",
     "page": "Perfumes",
     "page_url": "https://www.douglas.ro/c/reduceri/parfumuri/",
@@ -3657,8 +3646,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "ACCESSORY",
-    "page": "ACCESSORY",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.douglas.ro/c/reduceri/accesorii/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_ACCESSORY_ACCESSORY"
   },
@@ -3789,8 +3778,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
-    "page": "ALL LINES",
+    "category": "All Products",
+    "page": "All Products",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_ALL|sp|LINES"
   },
@@ -3800,7 +3789,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "Douglas Collection",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/douglas-collection/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_Douglas|sp|Collection"
@@ -3811,7 +3800,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "Essential",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/essential/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_Essential"
@@ -3822,7 +3811,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "Home Spa",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/home-spa/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_Home|sp|Spa"
@@ -3833,7 +3822,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "Limited edition: Saint Margaret",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/editie-limitata-saint-margaret/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_Limited|sp|edition|cln||sp|Saint|sp|Margaret"
@@ -3844,7 +3833,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "Limited Edition: With Love Wellness",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/editie-limitata-with-love-wellness/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_Limited|sp|Edition|cln||sp|With|sp|Love|sp|Wellness"
@@ -3855,7 +3844,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "But",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/men/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_But"
@@ -3866,7 +3855,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "call",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/sun/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_call"
@@ -3877,7 +3866,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
-    "category": "ALL LINES",
+    "category": "All Products",
     "page": "Skin Focus",
     "page_url": "https://www.douglas.ro/c/douglas-collection/toate-liniile/skin-focus/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_ALL|sp|LINES_Skin|sp|Focus"
@@ -4229,19 +4218,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "ANTIBACTERIAL PRODUCTS & MASKS",
-    "page": "ANTIBACTERIAL PRODUCTS & MASKS",
-    "page_url": "https://www.douglas.ro/c/home-lifestyle/produse-antibacteriene-masti/",
-    "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_ANTIBACTERIAL|sp|PRODUCTS|sp||as||sp|MASKS_ANTIBACTERIAL|sp|PRODUCTS|sp||as||sp|MASKS"
-  },
-  {
-    "country": "Romania",
-    "retailer": "DOUGLAS_RO",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "Home & Lifestyle",
-    "category": "ACCESSORY",
-    "page": "ACCESSORY",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/accesorii/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_ACCESSORY_ACCESSORY"
   },

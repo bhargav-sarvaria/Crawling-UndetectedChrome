@@ -995,8 +995,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "ACCESSORIES FACE",
-    "page": "ACCESSORIES FACE",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.sephora.de/shop/gesicht/accessoires-gesicht-c7649/",
     "file_name": "Germany_Sephora_DE_FACE_ACCESSORIES|sp|FACE_ACCESSORIES|sp|FACE"
   },
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "ACCESSORIES FACE",
+    "category": "Accessories",
     "page": "travel kit",
     "page_url": "https://www.sephora.de/shop/gesicht/accessoires-gesicht/reiseset-c297829/",
     "file_name": "Germany_Sephora_DE_FACE_ACCESSORIES|sp|FACE_travel|sp|kit"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "ACCESSORIES FACE",
+    "category": "Accessories",
     "page": "travel container",
     "page_url": "https://www.sephora.de/shop/gesicht/accessoires-gesicht/reisebehaelter-c297831/",
     "file_name": "Germany_Sephora_DE_FACE_ACCESSORIES|sp|FACE_travel|sp|container"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "ACCESSORIES FACE",
+    "category": "Accessories",
     "page": "mirror",
     "page_url": "https://www.sephora.de/shop/gesicht/accessoires-gesicht/spiegel-c539/",
     "file_name": "Germany_Sephora_DE_FACE_ACCESSORIES|sp|FACE_mirror"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "ACCESSORIES FACE",
+    "category": "Accessories",
     "page": "tweezers",
     "page_url": "https://www.sephora.de/shop/gesicht/accessoires-gesicht/pinzette-c541/",
     "file_name": "Germany_Sephora_DE_FACE_ACCESSORIES|sp|FACE_tweezers"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "ACCESSORIES FACE",
+    "category": "Accessories",
     "page": "high-tech tools",
     "page_url": "https://www.sephora.de/shop/gesicht/accessoires-gesicht/high-tech-tools-c7653/",
     "file_name": "Germany_Sephora_DE_FACE_ACCESSORIES|sp|FACE_high|h|tech|sp|tools"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "ACCESSORIES FACE",
+    "category": "Accessories",
     "page": "cleaning brush",
     "page_url": "https://www.sephora.de/shop/gesicht/accessoires-gesicht/reinigungsbuerste-c7733/",
     "file_name": "Germany_Sephora_DE_FACE_ACCESSORIES|sp|FACE_cleaning|sp|brush"

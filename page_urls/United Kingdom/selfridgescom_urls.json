@@ -1941,8 +1941,8 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "All luggage",
-    "page": "All luggage",
+    "category": "All Luggage",
+    "page": "All Luggage",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/luggage/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_All|sp|luggage"
   },
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "All luggage",
+    "category": "All Luggage",
     "page": "Suitcases",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/luggage/suitcases/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Suitcases"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "All luggage",
+    "category": "All Luggage",
     "page": "Cabin luggage",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/luggage/cabin-luggage/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Cabin|sp|luggage"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "All luggage",
+    "category": "All Luggage",
     "page": "Weekend bags",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/luggage/weekend-bags/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Weekend|sp|bags"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "All luggage",
+    "category": "All Luggage",
     "page": "Travel accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/luggage/travel-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Travel|sp|accessories"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
-    "category": "All luggage",
+    "category": "All Luggage",
     "page": "Backpacks",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/luggage/backpacks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Backpacks"

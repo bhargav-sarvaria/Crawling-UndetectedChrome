@@ -2646,17 +2646,6 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
     "category": "Top Brands",
-    "page": "ANNEMARIE BORLIND",
-    "page_url": "https://www.flaconi.de/annemarie-boerlind/",
-    "file_name": "Germany_Flaconi_NATURE_TOP|sp|BRANDS_ANNEMARIE|sp|BORLIND"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "Natural",
-    "category": "Top Brands",
     "page": "Charlotte Meentzen",
     "page_url": "https://www.flaconi.de/charlotte-meentzen/",
     "file_name": "Germany_Flaconi_NATURE_TOP|sp|BRANDS_Charlotte|sp|Meentzen"

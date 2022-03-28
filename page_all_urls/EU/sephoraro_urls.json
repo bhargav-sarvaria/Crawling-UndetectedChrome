@@ -1402,8 +1402,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
-    "category": "ACCESSORY",
-    "page": "ACCESSORY",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/accesorii-c7649/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_ACCESSORY_ACCESSORY"
   },
@@ -2348,8 +2348,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
-    "page": "ACCESSORY",
+    "category": "Accessories",
+    "page": "Accessories",
     "page_url": "https://www.sephora.ro/shop/par/accesorii-c453/",
     "file_name": "Romania_Sephora_RO_HAIR_ACCESSORY_ACCESSORY"
   },
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Hair elastics",
     "page_url": "https://www.sephora.ro/shop/par/accesorii/elastice-de-par-c472/",
     "file_name": "Romania_Sephora_RO_HAIR_ACCESSORY_Hair|sp|elastics"
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Hair brush",
     "page_url": "https://www.sephora.ro/shop/par/accesorii/perie-de-par-c471/",
     "file_name": "Romania_Sephora_RO_HAIR_ACCESSORY_Hair|sp|brush"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "ACCESSORY",
+    "category": "Accessories",
     "page": "Turban drying par",
     "page_url": "https://www.sephora.ro/shop/par/accesorii/turban-uscare-par-c285802/",
     "file_name": "Romania_Sephora_RO_HAIR_ACCESSORY_Turban|sp|drying|sp|par"

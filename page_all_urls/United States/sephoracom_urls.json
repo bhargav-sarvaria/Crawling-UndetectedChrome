@@ -112,17 +112,6 @@
   {
     "country": "United States",
     "retailer": "Sephora",
-    "department": "New",
-    "category": "Allure Best of Beauty",
-    "page": "Allure Best of Beauty",
-    "page_url": "https://www.sephora.com/beauty/allure-best-beauty",
-    "file_name": "United|sp|States_Sephora_New_Allure|sp|Best|sp|of|sp|Beauty_Allure|sp|Best|sp|of|sp|Beauty",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "United States",
-    "retailer": "Sephora",
     "department": "Make Up",
     "category": "Face",
     "page": "Tinted Moisturizer",
@@ -212,8 +201,8 @@
     "country": "United States",
     "retailer": "Sephora",
     "department": "Make Up",
-    "category": "All Makeup",
-    "page": "All Makeup",
+    "category": "All Make Up",
+    "page": "All Make Up",
     "page_url": "https://www.sephora.com/shop/makeup-cosmetics",
     "file_name": "United|sp|States_Sephora_Makeup_All|sp|Makeup_All|sp|Makeup",
     "parsing_config": "./retailer_config/sephoracom_parsing.json",
@@ -2081,17 +2070,6 @@
   {
     "country": "United States",
     "retailer": "Sephora",
-    "department": "Tools",
-    "category": "Allure Best of Beauty: Tools and Brushes",
-    "page": "Allure Best of Beauty: Tools and Brushes",
-    "page_url": "https://www.sephora.com/beauty/allure-best-of-beauty-tools-brushes",
-    "file_name": "United|sp|States_Sephora_Tools|sp||as||sp|Brushes_Allure|sp|Best|sp|of|sp|Beauty|cln||sp|Tools|sp|and|sp|Brushes_Allure|sp|Best|sp|of|sp|Beauty|cln||sp|Tools|sp|and|sp|Brushes",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "United States",
-    "retailer": "Sephora",
     "department": "Body",
     "category": "Bath & Shower",
     "page": "Body Wash & Shower Gel",
@@ -2317,17 +2295,6 @@
     "page": "Sephora Collection",
     "page_url": "https://www.sephora.com/brand/sephora-collection/bath-body",
     "file_name": "United|sp|States_Sephora_Bath|sp||as||sp|Body_Sephora|sp|Collection_Sephora|sp|Collection",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "United States",
-    "retailer": "Sephora",
-    "department": "Body",
-    "category": "Allure Best of Beauty: Bath & Body",
-    "page": "Allure Best of Beauty: Bath & Body",
-    "page_url": "https://www.sephora.com/beauty/allure-best-of-beauty-bath-body",
-    "file_name": "United|sp|States_Sephora_Bath|sp||as||sp|Body_Allure|sp|Best|sp|of|sp|Beauty|cln||sp|Bath|sp||as||sp|Body_Allure|sp|Best|sp|of|sp|Beauty|cln||sp|Bath|sp||as||sp|Body",
     "parsing_config": "./retailer_config/sephoracom_parsing.json",
     "gcloud_path": "crawl_data/United States/Sephora/"
   },

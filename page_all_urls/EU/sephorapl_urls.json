@@ -1171,8 +1171,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Perfumes",
-    "category": "ATOMIZERS",
-    "page": "ATOMIZERS",
+    "category": "Atomizers",
+    "page": "Atomizers",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/perfumy/atomizery-c297830/",
     "file_name": "Poland_Sephora_PL_PERFUME_ATOMIZERS_ATOMIZERS"
   },
@@ -3122,17 +3122,6 @@
     "page": "Care",
     "page_url": "https://www.sephora.pl/wyprzedaz-pielegnacja/",
     "file_name": "Poland_Sephora_PL_SALE_Care_Care"
-  },
-  {
-    "country": "Poland",
-    "retailer": "Sephora_PL",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Poland/Sephora_PL/",
-    "department": "Sale",
-    "category": "-25% on selected foundations and concealers",
-    "page": "-25% on selected foundations and concealers",
-    "page_url": "https://www.sephora.pl/promocja-25-sephoracollection/",
-    "file_name": "Poland_Sephora_PL_SALE_|h|25%|sp|on|sp|selected|sp|foundations|sp|and|sp|concealers_|h|25%|sp|on|sp|selected|sp|foundations|sp|and|sp|concealers"
   },
   {
     "country": "Poland",

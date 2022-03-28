@@ -2909,17 +2909,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Announcements",
-    "category": "AIMEE",
-    "page": "AIMEE",
-    "page_url": "https://www.sephora.it/novit%C3%A0/nuove-marche/aimee-novita-nuove-marche-3/",
-    "file_name": "Italy_Sephora_IT_ANNOUNCEMENTS_AIMEE_AIMEE"
-  },
-  {
-    "country": "Italy",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "Announcements",
     "category": "DRUNK ELEPHANT",
     "page": "DRUNK ELEPHANT",
     "page_url": "https://www.sephora.it/novit%C3%A0/nuove-marche/drunk-elephant-novita-nuove-marche-5/",

@@ -1083,8 +1083,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Perfumes",
-    "category": "ATOMIZERS",
-    "page": "ATOMIZERS",
+    "category": "Atomizers",
+    "page": "Atomizers",
     "page_url": "https://www.sephora.cz/produkty/vune/atomizery-c297830/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SCENT_ATOMIZERS_ATOMIZERS"
   },
