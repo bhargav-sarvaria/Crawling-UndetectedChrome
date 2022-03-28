@@ -2578,9 +2578,9 @@
     "retailer": "Sephora_CZ",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
-    "department": "GOOD FOR",
-    "category": "GOOD FOR",
-    "page": "GOOD FOR",
+    "department": "Good For",
+    "category": "Good For",
+    "page": "Good For",
     "page_url": "https://www.sephora.cz/good-for-cz/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_GOOD|sp|FOR_GOOD|sp|FOR_GOOD|sp|FOR"
   },
@@ -2930,9 +2930,9 @@
     "retailer": "Sephora_CZ",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
-    "department": "OUTLET",
-    "category": "OUTLET",
-    "page": "OUTLET",
+    "department": "Outlet",
+    "category": "Outlet",
+    "page": "Outlet",
     "page_url": "https://www.sephora.cz/outlet-outlet/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_OUTLET_OUTLET_OUTLET"
   }

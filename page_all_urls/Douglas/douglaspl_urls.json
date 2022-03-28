@@ -1797,9 +1797,9 @@
     "retailer": "DOUGLAS_PL",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
-    "department": "DRUGSTORE",
-    "category": "DRUGSTORE",
-    "page": "DRUGSTORE",
+    "department": "Drug Store",
+    "category": "Drug Store",
+    "page": "Drug Store",
     "page_url": "https://www.douglas.pl/pl/c/drogeria/81",
     "file_name": "Poland_DOUGLAS_PL_DRUGSTORE_DRUGSTORE_DRUGSTORE"
   },

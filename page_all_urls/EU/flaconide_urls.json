@@ -3051,9 +3051,9 @@
     "retailer": "Flaconi",
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "DRUGSTORE",
-    "category": "DRUGSTORE",
-    "page": "DRUGSTORE",
+    "department": "Drug Store",
+    "category": "Drug Store",
+    "page": "Drug Store",
     "page_url": "https://www.flaconi.de/drogerie-shop/",
     "file_name": "Germany_Flaconi_DRUGSTORE_DRUGSTORE_DRUGSTORE"
   },
