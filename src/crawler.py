@@ -19,6 +19,13 @@ from lxml import html
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+import logging as LOGGING
+
+LOGGING.basicConfig(filename='run.log',
+                            filemode='a',
+                            format='%(asctime)s %(levelname)s %(message)s',
+                            datefmt='%H:%M:%S',
+                            level=LOGGING.WARN)
 
 mongo = Mongo()
 COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
@@ -31,6 +38,7 @@ class Crawler:
         self.queueMap = {}
         self.THREAD_COUNT_ALLOWED = thread_limit
         self.RUNNING_THREADS = []
+        self.ACTIVE_DRIVERS = []
         self.storage_client = storage.Client.from_service_account_json('config/dsp_retail_scan_cred.json')
         self.bucket = self.storage_client.get_bucket('dsp-retail-scan')
         self.parser_map = {}
@@ -116,6 +124,9 @@ class Crawler:
             page_config['index'] = str(idx)
             page_config['url_count'] = str(len(page_configs))
             self.addConfig(page_config)
+    
+    def get_activeDriver(self, d):
+        return { "obj": d, "time": time.time() }
 
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
@@ -123,15 +134,23 @@ class Crawler:
             use_proxy = True
         for device in ['Desktop', 'Mobile']:
             d = self.driver.get_driver(use_proxy=use_proxy, device=device)
+            active_driver = self.get_activeDriver(d)
+            self.ACTIVE_DRIVERS.append(active_driver)
             for page_config in page_configs:
                 page_config['device'] = device
                 try:
-                    if d == None:
-                        d = self.driver.get_driver(use_proxy=use_proxy, device=device)
                     try:
                         d.get(page_config['page_url'])
                     except  TimeoutException as ex:
-                        x=1         
+                        LOGGING.error(ex.msg)
+                    except Exception as e:
+                        LOGGING.error(e)
+                        active_driver["obj"].quit()
+                        self.ACTIVE_DRIVERS.remove(active_driver)
+                        d = self.driver.get_driver(use_proxy=use_proxy, device=device)
+                        active_driver = self.get_activeDriver(d)
+                        self.ACTIVE_DRIVERS.append(active_driver)
+                        d.get(page_config['page_url'])
 
                     # Wait for lazy loading
                     self.retailerWait(d, page_config, device)
@@ -143,14 +162,18 @@ class Crawler:
                     # self.parsePage(source,page_config, device)
 
                 except Exception as e:
+                    LOGGING.error(e)
                     page_config['message'] = 'processConfig exception'
                     mongo.addErrorDocument(self.crawl_folder, page_config)
-                    print('**ERROR**' + page_config['page_url'] + ' ' + '0')    
+                    LOGGING.critical(page_config['page_url'] + ' ' + '0')
             try:
                 d.close()
                 d.quit()
-            except:
-                x = 1
+                self.ACTIVE_DRIVERS.remove(active_driver)
+            except Exception as e:
+                LOGGING.error(e)
+                active_driver["obj"].quit()
+                self.ACTIVE_DRIVERS.remove(active_driver)
         self.RUNNING_THREADS.remove(thread_name)
         if len(self.RUNNING_THREADS) == 0 and not self.queueNotEmpty():
             self.consumerRunning = False
@@ -163,13 +186,13 @@ class Crawler:
             if len(products) == 0:
                 page_config['message'] = 'No products'
                 mongo.addErrorDocument(self.crawl_folder, page_config)
-                print('**ERROR**' + page_config['page_url'] + ' ' + '0')
+                LOGGING.critical(page_config['page_url'] + ' ' + '0')
                 return
             products_data = self.getProductsData(products, parser['fetch_product'], page_config)
             if len(products_data) == 0:
                 page_config['message'] = 'No product details'
                 mongo.addErrorDocument(self.crawl_folder, page_config)
-                print('**ERROR**' + page_config['page_url'] + ' ' + '0')
+                LOGGING.critical(page_config['page_url'] + ' ' + '0')
                 return
             df = pd.DataFrame(products_data)
             df = df.reindex(columns=COLUMN_ORDER)
@@ -180,16 +203,12 @@ class Crawler:
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
             if os.path.exists(filname):
                 os.remove(filname)
-                try:
-                    with open("file.log", "a") as myfile:
-                        myfile.write('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
-                except:
-                    print()
-                print('completed: ' + page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)) )
+                LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
+            LOGGING.error(e)
             page_config['message'] = 'parsePage exception'
             mongo.addErrorDocument(self.crawl_folder, page_config)
-            print('**ERROR**' + page_config['page_url'] + ' ' + '0')
+            LOGGING.critical(page_config['page_url'] + ' ' + '0')
 
     def fetchProductsinPage(self, element, selectors):
         elements = []
