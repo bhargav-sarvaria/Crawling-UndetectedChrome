@@ -8,3 +8,5 @@ config/configure_git.sh
 config/crontab.txt
 config/crontab
 Jupyter/*
+file.log
+run.log
