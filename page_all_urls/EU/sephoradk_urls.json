@@ -1105,8 +1105,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
-    "page": "BEST FOR",
+    "category": "Best For",
+    "page": "Best For",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til-c7639/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_BEST|sp|FOR"
   },
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Problematic skin",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/problemhud-c441/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Problematic|sp|skin"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Moisturizing and nourishing",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/fugtgivende-og-naerende-c7634/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Moisturizing|sp|and|sp|nourishing"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Mattifying",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/mattifying-c7686/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Mattifying"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Anti-Aging",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/anti-aging-c7636/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Anti|h|Aging"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Firming",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/firming-c7871/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Firming"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Sensitive skin",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/sensitiv-hud-c7700/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Sensitive|sp|skin"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Coverage",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/daekning-c411/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Coverage"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Blush",
     "page_url": "https://www.sephora.dk/shop/hudpleje/bedst-til/rodme-c7706/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Blush"
@@ -1820,8 +1820,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BATH",
-    "page": "BATH",
+    "category": "Bath",
+    "page": "Bath",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bad-c473/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_BATH"
   },
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Shower gel",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bad/shower-gel-c485/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Shower|sp|gel"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Bath products",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bad/badeprodukter-c484/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Bath|sp|products"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Soap",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bad/saebe-c486/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Soap"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Bath oil",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bad/badeolie-c483/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Bath|sp|oil"
@@ -1875,8 +1875,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BEST FOR",
-    "page": "BEST FOR",
+    "category": "Best For",
+    "page": "Best For",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bedst-til-c298703/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_BEST|sp|FOR"
   },
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Tightening",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bedst-til/opstrammende-c428/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_Tightening"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Stretch mark care",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bedst-til/straekmaerke-pleje-c443/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_Stretch|sp|mark|sp|care"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Moisturizing & nourishing",
     "page_url": "https://www.sephora.dk/shop/krop-og-bad/bedst-til/fugtgivende-og-naerende-c7655/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_Moisturizing|sp||as||sp|nourishing"
@@ -2887,8 +2887,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
-    "page": "BEST FOR",
+    "category": "Best For",
+    "page": "Best For",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til-c299920/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_BEST|sp|FOR"
   },
@@ -2898,7 +2898,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Hair loss",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/hartab-c449/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Hair|sp|loss"
@@ -2909,7 +2909,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Moisture",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/fugt-c299921/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Moisture"
@@ -2920,7 +2920,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Volume",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/volume-c467/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Volume"
@@ -2931,7 +2931,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Smoothing",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/glatning-c7766/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Smoothing"
@@ -2942,7 +2942,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Scalp",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/hovedbund-c520/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Scalp"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Curls",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/kroller-c299919/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Curls"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Sun protection",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/solbeskyttelse-c450/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Sun|sp|protection"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Anti-dandruff",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/anti-dandruff-c7761/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Anti|h|dandruff"
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Dyed hair",
     "page_url": "https://www.sephora.dk/shop/har/bedst-til/farvet-har-c465/",
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Dyed|sp|hair"
@@ -3265,17 +3265,6 @@
     "page": "Sephora Collection",
     "page_url": "https://www.sephora.dk/sephora-collection/SEPHO-HubPage.html",
     "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION"
-  },
-  {
-    "country": "Denmark",
-    "retailer": "Sephora_DK",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
-    "department": "Sephora Collection",
-    "category": "Big By Definition Mascara",
-    "page": "Big By Definition Mascara",
-    "page_url": "https://www.sephora.dk/bigbydefinition-sc.html",
-    "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Big|sp|By|sp|Definition|sp|Mascara_Big|sp|By|sp|Definition|sp|Mascara"
   },
   {
     "country": "Denmark",

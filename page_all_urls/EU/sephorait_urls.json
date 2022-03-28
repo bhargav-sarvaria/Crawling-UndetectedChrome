@@ -2920,8 +2920,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Beauty",
-    "category": "BEAUTY OFFERS",
-    "page": "BEAUTY OFFERS",
+    "category": "Beauty Offers",
+    "page": "Beauty Offers",
     "page_url": "https://www.sephora.it/offerte-di-bellezza/",
     "file_name": "Italy_Sephora_IT_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS"
   },

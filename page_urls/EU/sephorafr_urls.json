@@ -3040,17 +3040,6 @@
     "retailer": "Sephora_FR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "New",
-    "category": "BIRDIE",
-    "page": "BIRDIE",
-    "page_url": "https://www.sephora.fr/BIRDI-HubPage.html",
-    "file_name": "France_Sephora_FR_NEWS_BIRDIE_BIRDIE"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Tips",
     "category": "Sephora Collection: 3 for 2",
     "page": "Sephora Collection: 3 for 2",

@@ -2799,8 +2799,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Beauty",
-    "category": "BEAUTY OFFERS",
-    "page": "BEAUTY OFFERS",
+    "category": "Beauty Offers",
+    "page": "Beauty Offers",
     "page_url": "https://www.sephora.es/beauty-ofertas/",
     "file_name": "Spain_Sephora_ES_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS"
   },
@@ -3089,17 +3089,6 @@
     "page": "DIOR",
     "page_url": "https://www.sephora.es/marcas/marcas-m%C3%A1s-vistas/dior-marques-les-plus-vues-3/",
     "file_name": "Spain_Sephora_ES_BRANDS_DIOR_DIOR"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "BRANDS",
-    "category": "BENEFIT COSMETICS",
-    "page": "BENEFIT COSMETICS",
-    "page_url": "https://www.sephora.es/marcas/marcas-m%C3%A1s-vistas/benefit-cosmetics-marques-les-plus-vues-8/",
-    "file_name": "Spain_Sephora_ES_BRANDS_BENEFIT|sp|COSMETICS_BENEFIT|sp|COSMETICS"
   },
   {
     "country": "Spain",

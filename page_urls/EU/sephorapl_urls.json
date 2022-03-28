@@ -2040,8 +2040,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BATH",
-    "page": "BATH",
+    "category": "Bath",
+    "page": "Bath",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/kapiel-c473/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BATH_BATH"
   },
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Bath Oils",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/kapiel/olejki-do-kapieli-c483/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BATH_Bath|sp|Oils"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Bath salts and cubes",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/kapiel/sole-i-kostki-do-kapieli-c484/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BATH_Bath|sp|salts|sp|and|sp|cubes"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Shower gels",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/kapiel/zele-pod-prysznic-c485/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BATH_Shower|sp|gels"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Soaps",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/kapiel/mydla-c486/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BATH_Soaps"

@@ -2623,8 +2623,8 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Health",
-    "category": "Beauty Suppliments",
-    "page": "BEAUTY SUPPLEMENTS",
+    "category": "Beauty Supplements",
+    "page": "Beauty Supplements",
     "page_url": "https://www.nykaa.com/wellness/beauty-supplements/c/18546",
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_BEAUTY|sp|SUPPLEMENTS"
   },
@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Health",
-    "category": "Beauty Suppliments",
+    "category": "Beauty Supplements",
     "page": "Collagen (Skin)",
     "page_url": "https://www.nykaa.com/wellness/beauty-supplements/collagen/c/18547",
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Collagen|sp|(Skin)"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Health",
-    "category": "Beauty Suppliments",
+    "category": "Beauty Supplements",
     "page": "Biotin (Hair)",
     "page_url": "https://www.nykaa.com/wellness/beauty-supplements/biotin/c/18548",
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Biotin|sp|(Hair)"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Health",
-    "category": "Beauty Suppliments",
+    "category": "Beauty Supplements",
     "page": "Vitamin E (Skin)",
     "page_url": "https://www.nykaa.com/wellness/beauty-supplements/vitamin-e/c/18549",
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Vitamin|sp|E|sp|(Skin)"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Health",
-    "category": "Beauty Suppliments",
+    "category": "Beauty Supplements",
     "page": "Glutathione (Skin)",
     "page_url": "https://www.nykaa.com/wellness/beauty-supplements/glutathione/c/18550",
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Glutathione|sp|(Skin)"
@@ -2678,7 +2678,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Health",
-    "category": "Beauty Suppliments",
+    "category": "Beauty Supplements",
     "page": "Other Beauty Supplements",
     "page_url": "https://www.nykaa.com/wellness/beauty-supplements/other-beauty-supplements/c/19894",
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Other|sp|Beauty|sp|Supplements"

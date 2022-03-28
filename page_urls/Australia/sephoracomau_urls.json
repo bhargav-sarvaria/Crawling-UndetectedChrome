@@ -1447,7 +1447,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
     "category": "Beauty Devices",
-    "page": "BEAUTY DEVICES",
+    "page": "Beauty Devices",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_BEAUTY|sp|DEVICES"
   },
@@ -1458,7 +1458,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
     "category": "Beauty Devices",
-    "page": "BEAUTY DEVICES",
+    "page": "Beauty Devices",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/beauty-devices",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BEAUTY|sp|DEVICES_BEAUTY|sp|DEVICES"
   },
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "Bags & Organizers",
+    "category": "Bags",
     "page": "BAGS & ORGANISERS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_BAGS|sp||as||sp|ORGANISERS"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "Bags & Organizers",
+    "category": "Bags",
     "page": "BAGS & ORGANISERS",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_BAGS|sp||as||sp|ORGANISERS"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "Bags & Organizers",
+    "category": "Bags",
     "page": "Makeup Bags",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/makeup-bags",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Makeup|sp|Bags"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "Bags & Organizers",
+    "category": "Bags",
     "page": "Toiletry Bags",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/toiletry-bags",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Toiletry|sp|Bags"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "Bags & Organizers",
+    "category": "Bags",
     "page": "Professional Cases",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/professional-cases",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Professional|sp|Cases"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "Bags & Organizers",
+    "category": "Bags",
     "page": "Palette Organisers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/palette-organisers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Palette|sp|Organisers"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/sephoracomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Tools",
-    "category": "Bags & Organizers",
+    "category": "Bags",
     "page": "Containers",
     "page_url": "https://www.sephora.com.au/categories/tools-and-brushes/bags-and-organisers/containers",
     "file_name": "Australia_Sephora_AU_TOOLS|sp||as||sp|BRUSHES_BAGS|sp||as||sp|ORGANISERS_Containers"
@@ -1579,7 +1579,7 @@
     "gcloud_path": "crawl_data/Australia/Sephora_AU/",
     "department": "Body",
     "category": "Bath & Body",
-    "page": "BATH & BODY",
+    "page": "Bath & Body",
     "page_url": "https://www.sephora.com.au/categories/bath-and-body",
     "file_name": "Australia_Sephora_AU_BATH|sp||as||sp|BODY_BATH|sp||as||sp|BODY_BATH|sp||as||sp|BODY"
   },

@@ -808,8 +808,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "BEAUTY IDEAS & INSPIRATION",
-    "page": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
+    "page": "Beauty Ideas",
     "page_url": "https://www.sephora.de/shop/make-up-c302/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION"
   },
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Beauty Guide: Eyebrows",
     "page_url": "https://www.sephora.de/beauty-guide-brauen.html",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Beauty|sp|Guide|cln||sp|Eyebrows"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Beauty guide: mascara",
     "page_url": "https://www.sephora.de/beauty-guide-mascara/",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Beauty|sp|guide|cln||sp|mascara"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Palette Stories",
     "page_url": "https://www.sephora.de/palette-stories/palette-stories.html",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Palette|sp|Stories"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Make Up",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Complexion routine: 5 steps to the perfect complexion!",
     "page_url": "https://www.sephora.de/teint-routine/teint-routine.html",
     "file_name": "Germany_Sephora_DE_MAKE|sp|UP_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Complexion|sp|routine|cln||sp|5|sp|steps|sp|to|sp|the|sp|perfect|sp|complexion!"
@@ -1534,8 +1534,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "BEAUTY IDEAS & INSPIRATION",
-    "page": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
+    "page": "Beauty Ideas",
     "page_url": "https://www.sephora.de/shop/gesicht-c303/",
     "file_name": "Germany_Sephora_DE_FACE_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION"
   },
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Your skin: our solutions",
     "page_url": "https://www.sephora.de/pflege-inhaltsstoffe.html",
     "file_name": "Germany_Sephora_DE_FACE_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Your|sp|skin|cln||sp|our|sp|solutions"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Skincare under \u20ac30",
     "page_url": "https://www.sephora.de/hautpflege-unter-30/",
     "file_name": "Germany_Sephora_DE_FACE_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Skincare|sp|under|sp|\u20ac30"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Fight against impurities!",
     "page_url": "https://www.sephora.de/kampf-gegen-unreinheiten/kampf-gegen-unreinheiten.html",
     "file_name": "Germany_Sephora_DE_FACE_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Fight|sp|against|sp|impurities!"
@@ -2007,8 +2007,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfumes",
-    "category": "BEAUTY IDEAS & INSPIRATION",
-    "page": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
+    "page": "Beauty Ideas",
     "page_url": "https://www.sephora.de/shop/parfum-c301/",
     "file_name": "Germany_Sephora_DE_PERFUME_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION"
   },
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Perfumes",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Beauty Guide: Perfume",
     "page_url": "https://www.sephora.de/beauty-guide-parfum/beauty-guide-parfum.html",
     "file_name": "Germany_Sephora_DE_PERFUME_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Beauty|sp|Guide|cln||sp|Perfume"
@@ -2062,8 +2062,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BATH",
-    "page": "BATH",
+    "category": "Bath",
+    "page": "Bath",
     "page_url": "https://www.sephora.de/shop/koerper-bad/bad-c473/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BATH_BATH"
   },
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "bath additive",
     "page_url": "https://www.sephora.de/shop/koerper-bad/bad/badezusatz-c483/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BATH_bath|sp|additive"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "bath salts",
     "page_url": "https://www.sephora.de/shop/koerper-bad/bad/badesalz-c484/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BATH_bath|sp|salts"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "shower gel",
     "page_url": "https://www.sephora.de/shop/koerper-bad/bad/duschgel-c485/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BATH_shower|sp|gel"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "soap",
     "page_url": "https://www.sephora.de/shop/koerper-bad/bad/seife-c486/",
     "file_name": "Germany_Sephora_DE_BODY|sp||as||sp|BATH_BATH_soap"
@@ -3019,8 +3019,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "BEAUTY IDEAS & INSPIRATION",
-    "page": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
+    "page": "Beauty Ideas",
     "page_url": "https://www.sephora.de/shop/haare-c307/",
     "file_name": "Germany_Sephora_DE_HAIR_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION"
   },
@@ -3030,7 +3030,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Beauty Guide: Your new hair routine",
     "page_url": "https://www.sephora.de/deine-neue-haar-routine.html",
     "file_name": "Germany_Sephora_DE_HAIR_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Beauty|sp|Guide|cln||sp|Your|sp|new|sp|hair|sp|routine"
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
-    "category": "BEAUTY IDEAS & INSPIRATION",
+    "category": "Beauty Ideas",
     "page": "Your hair: Our solutions",
     "page_url": "https://www.sephora.de/pflege-inhaltsstoffe.html",
     "file_name": "Germany_Sephora_DE_HAIR_BEAUTY|sp|IDEAS|sp||as||sp|INSPIRATION_Your|sp|hair|cln||sp|Our|sp|solutions"

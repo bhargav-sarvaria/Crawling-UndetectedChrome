@@ -2172,8 +2172,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
-    "page": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
+    "page": "Beauty from Within",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/voedingssupplement/0704",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_BEAUTY|sp|FROM|sp|THE|sp|INSIDE"
   },
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
     "page": "Nice skin",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/voedingssupplement/mooie-huid/070401",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_Nice|sp|skin"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
     "page": "Nice hair",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/voedingssupplement/mooi-haar/070402",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_Nice|sp|hair"
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
     "page": "Anti-aging",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/voedingssupplement/anti-veroudering/070404",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_Anti|h|aging"

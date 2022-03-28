@@ -1105,8 +1105,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
-    "page": "BEST FOR",
+    "category": "Best For",
+    "page": "Best For",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for-c7639/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_BEST|sp|FOR"
   },
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Problemhy",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/problemhy-c441/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Problemhy"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Moisturizing and caring",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/fuktgivande-och-vardande-c7634/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Moisturizing|sp|and|sp|caring"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Mattifying",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/mattifying-c7686/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Mattifying"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Anti-Aging",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/anti-aging-c7636/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Anti|h|Aging"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Firming",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/firming-c7871/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Firming"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Sensitive Skin",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/kanslig-hud-c7700/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Sensitive|sp|Skin"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Stains",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/flackar-c411/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Stains"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Redness",
     "page_url": "https://www.sephora.se/shop/hudvard/best-for/rodnad-c7706/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_BEST|sp|FOR_Redness"
@@ -1875,8 +1875,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
-    "category": "BEST FOR",
-    "page": "BEST FOR",
+    "category": "Best For",
+    "page": "Best For",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/bast-for-c298703/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_BEST|sp|FOR_BEST|sp|FOR"
   },
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Tightening",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/bast-for/uppstramande-c428/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_BEST|sp|FOR_Tightening"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Stretch marks",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/bast-for/strackmarken-c443/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_BEST|sp|FOR_Stretch|sp|marks"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Moisturizing and caring",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/bast-for/fuktgivande-och-vardande-c7655/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_BEST|sp|FOR_Moisturizing|sp|and|sp|caring"
@@ -2887,8 +2887,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
-    "page": "BEST FOR",
+    "category": "Best For",
+    "page": "Best For",
     "page_url": "https://www.sephora.se/shop/har/bast-for-c299920/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_BEST|sp|FOR"
   },
@@ -2898,7 +2898,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Hair loss",
     "page_url": "https://www.sephora.se/shop/har/bast-for/haravfall-c449/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Hair|sp|loss"
@@ -2909,7 +2909,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Moisture",
     "page_url": "https://www.sephora.se/shop/har/bast-for/fukt-c299921/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Moisture"
@@ -2920,7 +2920,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Volume",
     "page_url": "https://www.sephora.se/shop/har/bast-for/volym-c467/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Volume"
@@ -2931,7 +2931,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "flattening",
     "page_url": "https://www.sephora.se/shop/har/bast-for/plattning-c7766/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_flattening"
@@ -2942,7 +2942,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Scalp",
     "page_url": "https://www.sephora.se/shop/har/bast-for/harbotten-c520/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Scalp"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Curls",
     "page_url": "https://www.sephora.se/shop/har/bast-for/lockar-c299919/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Curls"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Sun protection",
     "page_url": "https://www.sephora.se/shop/har/bast-for/solskydd-c450/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Sun|sp|protection"
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Anti-dandruff",
     "page_url": "https://www.sephora.se/shop/har/bast-for/anti-mjall-c7761/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Anti|h|dandruff"
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
-    "category": "BEST FOR",
+    "category": "Best For",
     "page": "Colored hair",
     "page_url": "https://www.sephora.se/shop/har/bast-for/fargat-har-c465/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Colored|sp|hair"
@@ -3265,17 +3265,6 @@
     "page": "Sephora Collection",
     "page_url": "https://www.sephora.se/sephora-collection/SEPHO-HubPage.html",
     "file_name": "Sweden_Sephora_SE_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION"
-  },
-  {
-    "country": "Sweden",
-    "retailer": "Sephora_SE",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
-    "department": "Sephora Collection",
-    "category": "Big By Definition Mascara",
-    "page": "Big By Definition Mascara",
-    "page_url": "https://www.sephora.se/bigbydefinition-sc.html",
-    "file_name": "Sweden_Sephora_SE_SEPHORA|sp|COLLECTION_Big|sp|By|sp|Definition|sp|Mascara_Big|sp|By|sp|Definition|sp|Mascara"
   },
   {
     "country": "Sweden",

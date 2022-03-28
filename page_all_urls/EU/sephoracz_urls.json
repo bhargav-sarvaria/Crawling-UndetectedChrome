@@ -1908,8 +1908,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BATH",
-    "page": "BATH",
+    "category": "Bath",
+    "page": "Bath",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/koupel-c473/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BATH_BATH"
   },
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Shower gels",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/koupel/sprchove-gely-c485/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BATH_Shower|sp|gels"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Soaps",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/koupel/mydla-c486/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BATH_Soaps"
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Bath oils",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/koupel/oleje-do-koupele-c483/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BATH_Bath|sp|oils"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Bath salts, bath bombs",
     "page_url": "https://www.sephora.cz/produkty/pece-o-telo/koupel/soli-do-koupele--bomby-do-koupele-c484/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_BODY|sp|CARE_BATH_Bath|sp|salts,|sp|bath|sp|bombs"

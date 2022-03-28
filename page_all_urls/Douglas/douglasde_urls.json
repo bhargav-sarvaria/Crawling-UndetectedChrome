@@ -2689,8 +2689,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Bags & luggage",
-    "page": "Bags & luggage",
+    "category": "Bags",
+    "page": "Bags",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/taschen-reisegepaeck/1501",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_Bags|sp||as||sp|luggage"
   },
@@ -2700,7 +2700,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Bags & luggage",
+    "category": "Bags",
     "page": "handbags",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/taschen-reisegepaeck/handtaschen/150101",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_handbags"
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Bags & luggage",
+    "category": "Bags",
     "page": "Shopper",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/taschen-reisegepaeck/shopper/150102",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_Shopper"
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Bags & luggage",
+    "category": "Bags",
     "page": "shoulder bags",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/taschen-reisegepaeck/umhaengetaschen/150103",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_shoulder|sp|bags"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Bags & luggage",
+    "category": "Bags",
     "page": "\u00bbAll Categories",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/taschen-reisegepaeck/1501",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_\u00bbAll|sp|Categories"
@@ -3108,7 +3108,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
     "category": "Sleep",
-    "page": "bedding",
+    "page": "Bedding",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/schlafen/bettwaesche/150702",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Sleep_bedding"
   },
@@ -3877,8 +3877,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "beauty from within",
-    "page": "beauty from within",
+    "category": "Beauty from Within",
+    "page": "Beauty from Within",
     "page_url": "https://www.douglas.de/de/c/gesundheit/nahrungsergaenzung/0704",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_beauty|sp|from|sp|within"
   },
@@ -3888,7 +3888,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "beauty from within",
+    "category": "Beauty from Within",
     "page": "Nice skin",
     "page_url": "https://www.douglas.de/de/c/gesundheit/nahrungsergaenzung/schoene-haut/070401",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Nice|sp|skin"
@@ -3899,7 +3899,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "beauty from within",
+    "category": "Beauty from Within",
     "page": "Beautiful hair",
     "page_url": "https://www.douglas.de/de/c/gesundheit/nahrungsergaenzung/schoene-haare/070402",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Beautiful|sp|hair"
@@ -3910,7 +3910,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "beauty from within",
+    "category": "Beauty from Within",
     "page": "Strong nails",
     "page_url": "https://www.douglas.de/de/c/gesundheit/nahrungsergaenzung/starke-naegel/070403",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Strong|sp|nails"
@@ -3921,7 +3921,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "beauty from within",
+    "category": "Beauty from Within",
     "page": "Anti-Aging",
     "page_url": "https://www.douglas.de/de/c/gesundheit/nahrungsergaenzung/anti-aging/070404",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Anti|h|Aging"
@@ -3932,7 +3932,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "beauty from within",
+    "category": "Beauty from Within",
     "page": "\u00bbAll Categories",
     "page_url": "https://www.douglas.de/de/c/gesundheit/nahrungsergaenzung/0704",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_\u00bbAll|sp|Categories"

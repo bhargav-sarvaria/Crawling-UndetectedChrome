@@ -1633,8 +1633,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "BIG SIZES",
-    "page": "BIG SIZES",
+    "category": "Big Sizes",
+    "page": "Big Sizes",
     "page_url": "https://www.sephora.pt/perfumes/tamanhos-grandes-categoria-formatos-xl-perfume/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_BIG|sp|SIZES_BIG|sp|SIZES"
   },
@@ -2381,8 +2381,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BATH AND BODY SETS",
-    "page": "BATH AND BODY SETS",
+    "category": "Bath & Body Sets",
+    "page": "Bath & Body Sets",
     "page_url": "https://www.sephora.pt/corpo/conjuntos-de-banho-e-corpo-c7654/",
     "file_name": "Portugal_Sephora_PT_BODY_BATH|sp|AND|sp|BODY|sp|SETS_BATH|sp|AND|sp|BODY|sp|SETS"
   },
@@ -2436,8 +2436,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BATH",
-    "page": "BATH",
+    "category": "Bath",
+    "page": "Bath",
     "page_url": "https://www.sephora.pt/corpo/banho-c473/",
     "file_name": "Portugal_Sephora_PT_BODY_BATH_BATH"
   },
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "shower gels",
     "page_url": "https://www.sephora.pt/corpo/banho/geis-de-banho-c485/",
     "file_name": "Portugal_Sephora_PT_BODY_BATH_shower|sp|gels"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Bath salts & bath bombs",
     "page_url": "https://www.sephora.pt/corpo/banho/sais-de-banho-bombas-de-banho-c484/",
     "file_name": "Portugal_Sephora_PT_BODY_BATH_Bath|sp|salts|sp||as||sp|bath|sp|bombs"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BATH",
+    "category": "Bath",
     "page": "Hand & body soaps",
     "page_url": "https://www.sephora.pt/corpo/banho/sabonetes-de-maos-corpo-c486/",
     "file_name": "Portugal_Sephora_PT_BODY_BATH_Hand|sp||as||sp|body|sp|soaps"

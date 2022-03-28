@@ -2712,8 +2712,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
-    "page": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
+    "page": "Beauty from Within",
     "page_url": "https://www.douglas.nl/nl/c/gezondheid/voedingssupplement/0704",
     "file_name": "Netherlands_DOUGLAS_NL_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_BEAUTY|sp|FROM|sp|THE|sp|INSIDE"
   },
@@ -2723,7 +2723,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
     "page": "Nice skin",
     "page_url": "https://www.douglas.nl/nl/c/gezondheid/voedingssupplement/mooie-huid/070401",
     "file_name": "Netherlands_DOUGLAS_NL_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_Nice|sp|skin"
@@ -2734,7 +2734,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
     "page": "Nice hair",
     "page_url": "https://www.douglas.nl/nl/c/gezondheid/voedingssupplement/mooi-haar/070402",
     "file_name": "Netherlands_DOUGLAS_NL_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_Nice|sp|hair"
@@ -2745,7 +2745,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
     "page": "Anti-aging",
     "page_url": "https://www.douglas.nl/nl/c/gezondheid/voedingssupplement/anti-veroudering/070404",
     "file_name": "Netherlands_DOUGLAS_NL_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_Anti|h|aging"
@@ -2756,8 +2756,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Health",
-    "category": "BEAUTY FROM THE INSIDE",
-    "page": "BEAUTY FROM THE INSIDE",
+    "category": "Beauty from Within",
+    "page": "Beauty from Within",
     "page_url": "https://www.douglas.nl/nl/c/gezondheid/voedingssupplement/0704",
     "file_name": "Netherlands_DOUGLAS_NL_HEALTH_BEAUTY|sp|FROM|sp|THE|sp|INSIDE_BEAUTY|sp|FROM|sp|THE|sp|INSIDE"
   },
@@ -2789,8 +2789,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "BAGS & LUGGAGE",
-    "page": "BAGS & LUGGAGE",
+    "category": "Bags",
+    "page": "Bags",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/tassen-bagage/1501",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_BAGS|sp||as||sp|LUGGAGE_BAGS|sp||as||sp|LUGGAGE"
   },
@@ -2800,7 +2800,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "BAGS & LUGGAGE",
+    "category": "Bags",
     "page": "handbags",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/tassen-bagage/handtassen/150101",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_BAGS|sp||as||sp|LUGGAGE_handbags"
@@ -2811,7 +2811,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "BAGS & LUGGAGE",
+    "category": "Bags",
     "page": "shoulder bags",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/tassen-bagage/schoudertassen/150103",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_BAGS|sp||as||sp|LUGGAGE_shoulder|sp|bags"
@@ -2822,8 +2822,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "BAGS & LUGGAGE",
-    "page": "BAGS & LUGGAGE",
+    "category": "Bags",
+    "page": "Bags",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/tassen-bagage/1501",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_BAGS|sp||as||sp|LUGGAGE_BAGS|sp||as||sp|LUGGAGE"
   },
@@ -3021,7 +3021,7 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
     "category": "TO SLEEP",
-    "page": "bedding",
+    "page": "Bedding",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/slapen/beddengoed/150702",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_bedding"
   },

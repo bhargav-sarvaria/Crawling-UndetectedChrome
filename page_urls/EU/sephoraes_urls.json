@@ -2799,8 +2799,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Beauty",
-    "category": "BEAUTY OFFERS",
-    "page": "BEAUTY OFFERS",
+    "category": "Beauty Offers",
+    "page": "Beauty Offers",
     "page_url": "https://www.sephora.es/beauty-ofertas/",
     "file_name": "Spain_Sephora_ES_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS"
   },

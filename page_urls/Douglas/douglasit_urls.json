@@ -830,8 +830,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "BEAUTY PHARMA",
-    "page": "BEAUTY PHARMA",
+    "category": "Beauty Pharma",
+    "page": "Beauty Pharma",
     "page_url": "https://www.douglas.it/Trattamento/Beauty-pharma/index_0200.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_BEAUTY|sp|PHARMA_BEAUTY|sp|PHARMA"
   },

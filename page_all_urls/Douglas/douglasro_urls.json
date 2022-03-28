@@ -4328,8 +4328,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "BATHROOM AND BODY",
-    "page": "BATHROOM AND BODY",
+    "category": "Bathroom & Body",
+    "page": "Bathroom & Body",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/baie-si-corp/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_BATHROOM|sp|AND|sp|BODY_BATHROOM|sp|AND|sp|BODY"
   },
