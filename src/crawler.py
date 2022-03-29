@@ -375,6 +375,7 @@ class Crawler:
             elif retailer in ['Myer']:
                 time.sleep(2)
         except Exception as e:
+            LOGGING.error(e)
             return
 
     def translateToEnglish(self, d):
