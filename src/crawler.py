@@ -20,6 +20,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import logging as LOGGING
+import psutil
+import re
+from typing import List
 
 LOGGING.basicConfig(filename='run.log',
                             filemode='a',
@@ -29,7 +32,7 @@ LOGGING.basicConfig(filename='run.log',
 
 mongo = Mongo()
 COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
-
+DRIVER_CLEAN_TIME = 600
 
 class Crawler:
     def __init__(self, thread_limit = 4):
@@ -55,8 +58,8 @@ class Crawler:
             self.queueMap[retailer] = qu
         if not self.consumerRunning:
             self.consumerRunning = True
-            t = threading.Thread(target = self.runConfigConsumer)
-            t.start()
+            threading.Thread(target = self.runConfigConsumer).start()
+            threading.Thread(target = self.driverCleaner).start()        
     
     def queueNotEmpty(self):
         for retailer, retailer_q in self.queueMap.items():
@@ -126,7 +129,7 @@ class Crawler:
             self.addConfig(page_config)
     
     def get_activeDriver(self, d):
-        return { "obj": d, "time": time.time() }
+        return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
 
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
@@ -326,9 +329,6 @@ class Crawler:
                 value = ''
                             
             if value is not None and value!= '':
-                # try:
-                    # tr = translator.translate(value.strip(),src='fr', dest='en').text
-                # except Exception as e:
                 return value.strip()
             else:
                 value = ''
@@ -396,5 +396,63 @@ class Crawler:
             for i in range(0,10):
                 time.sleep(0.5)
                 d.execute_script("window.scrollTo(0,"+str(i)+"*(document.body.scrollHeight/10));")
+
+    def driverCleaner(self):
+        while self.consumerRunning:
+            to_remove = None
+            for active_driver in self.ACTIVE_DRIVERS:
+                if time.time() - active_driver["create_time"] > DRIVER_CLEAN_TIME:
+                    try:
+                        active_driver["obj"].quit()
+                    except:
+                        pass
+                    os.system('kill -9 ' + active_driver["pids"])
+                    to_remove = active_driver
+                    LOGGING.error('Driver Cleaner removed a chrome instance')
+                    break
+            self.ACTIVE_DRIVERS.remove(to_remove)
+            time.sleep(DRIVER_CLEAN_TIME/2)
+
+    def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
+        procs = []
+        for proc in psutil.process_iter(['pid', 'name', 'username', 'cmdline']):
+            try:
+                if full:
+                    name = ' '.join(proc.cmdline())
+                else:
+                    name = proc.name()
+                try:
+                    if regex and re.search(term, name):
+                        procs.append(proc)
+                    elif term in name:
+                        procs.append(proc)
+                except psutil.NoSuchProcess:
+                    pass
+            except:
+                pass
+        return procs
+
+
+    def browser_procs(self, driver) -> List[psutil.Process]:
+        directory = driver.user_data_dir
+        procs = self.pgrep(directory, full=True)
+        procs.sort(key=lambda p: p.pid)
+        return procs
+
+    def browser_proc(self, driver):
+        procs = self.browser_procs(driver)
+        chromes_pids = []
+        for proc in procs:
+            try:
+                name = proc.parent().name()
+                if 'chrome' in name.lower():
+                    chromes_pids.append(str(proc.pid))
+            except:
+                pass
+        return ' '.join(chromes_pids)
+
+    def driver_proc(self, driver) -> psutil.Process:
+        t = self.browser_proc(driver)
+        return self.browser_proc(driver)
 
     

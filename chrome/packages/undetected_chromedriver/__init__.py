@@ -147,7 +147,7 @@ class Chrome(selenium.webdriver.chrome.webdriver.WebDriver):
                     logger.debug(
                         "user-data-dir found in user argument %s => %s" % (arg, m[1])
                     )
-                    keep_user_data_dir = True
+                    keep_user_data_dir = False
 
                 except IndexError:
                     logger.debug(
@@ -155,47 +155,7 @@ class Chrome(selenium.webdriver.chrome.webdriver.WebDriver):
                         % arg
                     )
 
-        if not user_data_dir:
-
-            # backward compatiblity
-            # check if an old uc.ChromeOptions is used, and extract the user data dir
-
-            if hasattr(options, "user_data_dir") and getattr(
-                options, "user_data_dir", None
-            ):
-                import warnings
-
-                warnings.warn(
-                    "using ChromeOptions.user_data_dir might stop working in future versions."
-                    "use uc.Chrome(user_data_dir='/xyz/some/data') in case you need existing profile folder"
-                )
-                options.add_argument("--user-data-dir=%s" % options.user_data_dir)
-                keep_user_data_dir = True
-                logger.debug(
-                    "user_data_dir property found in options object: %s" % user_data_dir
-                )
-
-            else:
-                user_data_dir = os.path.normpath(tempfile.mkdtemp())
-                keep_user_data_dir = False
-                arg = "--user-data-dir=%s" % user_data_dir
-                options.add_argument(arg)
-                logger.debug(
-                    "created a temporary folder in which the user-data (profile) will be stored during this\n"
-                    "session, and added it to chrome startup arguments: %s" % arg
-                )
-
-        if not language:
-            try:
-                import locale
-
-                language = locale.getdefaultlocale()[0].replace("_", "-")
-            except Exception:
-                pass
-            if not language:
-                language = "en-US"
-
-        options.add_argument("--lang=%s" % language)
+        options.add_argument("--lang=%s" % "en-US")
 
         if not options.binary_location:
             options.binary_location = (
