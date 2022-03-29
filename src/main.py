@@ -6,8 +6,9 @@ import sys
 crawler = Crawler(2)
 if __name__ == '__main__':
     try:
-        display = Display(visible=0, size=(1024, 768))
-        display.start()
+        if sys.platform.endswith("linux"):
+            display = Display(visible=0, size=(1024, 768))
+            display.start()
         crawler.crawlUrlsFromConfigPath(sys.argv[1])
         os.environ["HEADLESS"] = sys.argv[2]
         

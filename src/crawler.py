@@ -410,7 +410,8 @@ class Crawler:
                     to_remove = active_driver
                     LOGGING.error('Driver Cleaner removed a chrome instance')
                     break
-            self.ACTIVE_DRIVERS.remove(to_remove)
+            if to_remove:
+                self.ACTIVE_DRIVERS.remove(to_remove)
             time.sleep(DRIVER_CLEAN_TIME/2)
 
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
