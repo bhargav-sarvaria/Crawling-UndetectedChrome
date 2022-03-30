@@ -26,7 +26,7 @@ from typing import List
 
 LOGGING.basicConfig(filename='run.log',
                             filemode='a',
-                            format='%(asctime)s %(levelname)s %(message)s',
+                            format='[%(asctime)s] %(levelname)s {%(filename)s:%(lineno)d} -  %(message)s',
                             datefmt='%H:%M:%S',
                             level=LOGGING.WARN)
 
