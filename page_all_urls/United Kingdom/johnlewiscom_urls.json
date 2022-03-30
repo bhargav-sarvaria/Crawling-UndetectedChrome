@@ -798,7 +798,7 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Beauty",
     "category": "Fragrance",
-    "page": "Women's Perfume",
+    "page": "Womens Perfume",
     "page_url": "https://www.johnlewis.com/browse/beauty/womens-fragrance/_/N-a63",
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Fragrance_Women|sq|s|sp|Perfume"
   },
@@ -1271,7 +1271,7 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Sport & Leisure",
     "category": "Offers (Selected Lines)",
-    "page": "Women's Sports Clothing: 50% off",
+    "page": "Womens Sports Clothing: 50% off",
     "page_url": "https://www.johnlewis.com/browse/sport-leisure/womens-clothing/all-womens-sportswear-brands/all-offers/_/N-5w3pZ1yzvw1q",
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Offers|sp|(Selected|sp|Lines)_Women|sq|s|sp|Sports|sp|Clothing|cln||sp|50%|sp|off"
   },
@@ -1315,7 +1315,7 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Sport & Leisure",
     "category": "Sportswear",
-    "page": "Women's Sports Trainers",
+    "page": "Womens Sports Trainers",
     "page_url": "https://www.johnlewis.com/browse/women/womens-trainers-plimsolls/sports-trainers/_/N-7oo6Z1yze60x",
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sportswear_Women|sq|s|sp|Sports|sp|Trainers"
   },
@@ -1711,9 +1711,9 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Gifts",
     "category": "By Price",
-    "page": "Gifts under \u00a320",
+    "page": "Gifts under GBP20",
     "page_url": "https://www.johnlewis.com/browse/gifts/gifts-under-20/_/N-7ns0",
-    "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|\u00a320"
+    "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|GBP20"
   },
   {
     "country": "United Kingdom",
@@ -1722,9 +1722,9 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Gifts",
     "category": "By Price",
-    "page": "Gifts under \u00a350",
+    "page": "Gifts under GBP50",
     "page_url": "https://www.johnlewis.com/browse/gifts/gifts-for-under-50/_/N-7m56",
-    "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|\u00a350"
+    "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|GBP50"
   },
   {
     "country": "United Kingdom",
@@ -1733,9 +1733,9 @@
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
     "department": "Gifts",
     "category": "By Price",
-    "page": "Gifts under \u00a3100",
+    "page": "Gifts under GBP100",
     "page_url": "https://www.johnlewis.com/browse/gifts/gifts-under-100/_/N-7nrz",
-    "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|\u00a3100"
+    "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|GBP100"
   },
   {
     "country": "United Kingdom",
@@ -2396,17 +2396,6 @@
     "page": "Le Creuset",
     "page_url": "https://www.johnlewis.com/brand/le-creuset/_/N-1z141fy",
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Le|sp|Creuset"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "John Lewis",
-    "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
-    "department": "Brands",
-    "category": "Popular Brands",
-    "page": "LEGO",
-    "page_url": "https://www.johnlewis.com/brand/lego/_/N-1z140g1",
-    "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_LEGO"
   },
   {
     "country": "United Kingdom",

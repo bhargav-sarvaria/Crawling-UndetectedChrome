@@ -16,10 +16,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "BRANDS",
-    "category": "Lanc\u00f4me",
-    "page": "Lanc\u00f4me",
+    "category": "Lancome",
+    "page": "Lancome",
     "page_url": "https://www.douglas.cz/b/lancome-410114/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BRANDS_Lanc\u00f4me_Lanc\u00f4me"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BRANDS_Lancome_Lancome"
   },
   {
     "country": "Czech Republic",
@@ -127,7 +127,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
     "category": "Womens Perfumes",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.douglas.cz/c/parfemy/damske-parfemy/toaletni-vody-419994304/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Eau|sp|de|sp|toilette"
   },
@@ -226,7 +226,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
     "category": "Mens Perfumes",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.douglas.cz/c/parfemy/panske-parfemy/toaletni-vody-419994313/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_MEN|sq|S|sp|PERFUMES_Eau|sp|de|sp|toilette"
   },
@@ -292,7 +292,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
     "category": "Luxury Perfumes",
-    "page": "Luxury women's perfumes",
+    "page": "Luxury Womens perfumes",
     "page_url": "https://www.douglas.cz/c/parfemy/luxusni-parfemy/luxusni-damske-parfemy-419997989/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_LUXURY|sp|PERFUMES_Luxury|sp|women|sq|s|sp|perfumes"
   },
@@ -578,9 +578,9 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
     "category": "Face Care",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej-419998091/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_\u00bbAll|sp|categories"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_All|sp|categories"
   },
   {
     "country": "Czech Republic",
@@ -787,9 +787,9 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
     "category": "Cleaning & Make Up Removal",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani-419998093/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_\u00bbAll|sp|categories"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_All|sp|categories"
   },
   {
     "country": "Czech Republic",
@@ -1292,8 +1292,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "VEGAN SKIN CARE",
-    "page": "VEGAN SKIN CARE",
+    "category": "Vegan Skincare",
+    "page": "Vegan Skincare",
     "page_url": "https://www.douglas.cz/c/oblicej/veganska-pece-o-plet-419998460/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_VEGAN|sp|SKIN|sp|CARE_VEGAN|sp|SKIN|sp|CARE"
   },
@@ -1656,9 +1656,9 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
     "category": "SUNBATHING",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.cz/c/telo/opalovani-419998232/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_\u00bbAll|sp|categories"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_All|sp|categories"
   },
   {
     "country": "Czech Republic",
@@ -1930,8 +1930,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "VEGAN BODY CARE",
-    "page": "VEGAN BODY CARE",
+    "category": "Vegan Bodycare",
+    "page": "Vegan Bodycare",
     "page_url": "https://www.douglas.cz/c/telo/veganska-pece-o-telo-419998464/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_VEGAN|sp|BODY|sp|CARE_VEGAN|sp|BODY|sp|CARE"
   },
@@ -2085,9 +2085,9 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Skin",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.cz/c/liceni/plet-400301/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_\u00bbAll|sp|categories"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_All|sp|categories"
   },
   {
     "country": "Czech Republic",
@@ -2327,7 +2327,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.cz/c/liceni/nehty-400304/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_NAILS"
   },
@@ -2547,9 +2547,9 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "BRUSHES AND APPLICATORS",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory-400307/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_\u00bbAll|sp|categories"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_All|sp|categories"
   },
   {
     "country": "Czech Republic",
@@ -2701,9 +2701,9 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Make Up Accessories",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.cz/c/liceni/doplnky-k-liceni-400308/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_\u00bbAll|sp|categories"
+    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_MAKEUP|sp|ACCESSORIES_All|sp|categories"
   },
   {
     "country": "Czech Republic",
@@ -2711,8 +2711,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "VEGAN COSMETICS",
-    "page": "VEGAN COSMETICS",
+    "category": "Vegan Cosmetics",
+    "page": "Vegan Cosmetics",
     "page_url": "https://www.douglas.cz/c/liceni/veganska-kosmetika-419998461/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_VEGAN|sp|COSMETICS_VEGAN|sp|COSMETICS"
   },
@@ -2734,7 +2734,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy-401906/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -3217,8 +3217,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "VEGAN HAIR CARE",
-    "page": "VEGAN HAIR CARE",
+    "category": "Vegan Haircare",
+    "page": "Vegan Haircare",
     "page_url": "https://www.douglas.cz/c/vlasy/veganska-pece-o-vlasy-419998462/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_VEGAN|sp|HAIR|sp|CARE_VEGAN|sp|HAIR|sp|CARE"
   },
@@ -3239,8 +3239,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
-    "page": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
+    "page": "Apartment Smell",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu-419998378/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT"
   },
@@ -3250,7 +3250,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "Air Freshners",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/osvezovace-vzduchu-419998380/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_Air|sp|fresheners"
@@ -3261,7 +3261,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "The smell in the closet",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/vune-do-skrine-419998381/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_The|sp|smell|sp|in|sp|the|sp|closet"
@@ -3272,7 +3272,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "Textile fresheners",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/osvezovace-textilii-419998382/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_Textile|sp|fresheners"
@@ -3283,7 +3283,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "Replacement cartridges",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/nahradni-naplne-419998379/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_Replacement|sp|cartridges"
@@ -3294,7 +3294,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "Candles",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/svicky-419997512/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_Candles"
@@ -3305,7 +3305,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "Diffusers",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/difuzery-419997513/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_Diffusers"
@@ -3316,7 +3316,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "The smell of the car",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/vune-do-auta-419997515/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_The|sp|smell|sp|of|sp|the|sp|car"
@@ -3327,7 +3327,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
-    "category": "THE SMELL OF THE APARTMENT",
+    "category": "Apartment Smell",
     "page": "Interior perfumes",
     "page_url": "https://www.douglas.cz/c/home/vune-do-bytu/interierove-parfemy-419997514/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_THE|sp|SMELL|sp|OF|sp|THE|sp|APARTMENT_Interior|sp|perfumes"
@@ -3713,7 +3713,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
     "category": "DISCOUNT ON HAIR CARE",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci-o-vlasy/vlasova-pece-419997247/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|HAIR|sp|CARE_Hair|sp|care"
   },
@@ -3749,17 +3749,6 @@
     "page": "Beauty Outlet",
     "page_url": "https://www.douglas.cz/c/beauty-sale/beauty-outlet-419995486/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_BEAUTY|sp|OUTLET_BEAUTY|sp|OUTLET"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Sale",
-    "category": "EVENTS OF THE WEEK",
-    "page": "EVENTS OF THE WEEK",
-    "page_url": "https://www.douglas.cz/c/beauty-sale/akce-tydne-419997672/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_EVENTS|sp|OF|sp|THE|sp|WEEK_EVENTS|sp|OF|sp|THE|sp|WEEK"
   },
   {
     "country": "Czech Republic",
@@ -4145,40 +4134,6 @@
     "page": "SHISEIDO",
     "page_url": "https://www.douglas.cz/c/beauty-box/shiseido-419998437/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_SHISEIDO_SHISEIDO"
-  },
-
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "COLOR WOW",
-    "page": "COLOR WOW",
-    "page_url": "https://www.douglas.cz/c/beauty-box/color-wow-419998184/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_COLOR|sp|WOW_COLOR|sp|WOW"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "ERBORIAN",
-    "page": "ERBORIAN",
-    "page_url": "https://www.douglas.cz/c/beauty-box/erborian-419998200/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_ERBORIAN_ERBORIAN"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "FOAMIE",
-    "page": "FOAMIE",
-    "page_url": "https://www.douglas.cz/c/beauty-box/foamie-419998185/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_FOAMIE_FOAMIE"
   },
   {
     "country": "Czech Republic",

@@ -446,7 +446,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.fr/shop/maquillage/ongles-c345/",
     "file_name": "France_Sephora_FR_MAKEUP_NAILS_NAILS"
   },
@@ -611,7 +611,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Vegan Makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.fr/maquillage/good-for-maquillage/maquillage-vegan-maquillage-vegan/",
     "file_name": "France_Sephora_FR_MAKEUP_GOOD|sp|FOR|sp|MAQUILLAGE_Vegan|sp|Makeup"
   },
@@ -753,8 +753,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
-    "page": "WOMEN'S PERFUME",
+    "category": "Womens Perfumes",
+    "page": "Womens PERFUME",
     "page_url": "https://www.sephora.fr/shop/parfum/parfum-femme-c309/",
     "file_name": "France_Sephora_FR_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
   },
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Perfumes",
     "page_url": "https://www.sephora.fr/shop/parfum/parfum-femme/eau-de-parfum-c297810/",
     "file_name": "France_Sephora_FR_PERFUME_WOMEN|sq|S|sp|PERFUME_Perfume"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Cologne",
     "page_url": "https://www.sephora.fr/shop/parfum/parfum-femme/eau-de-toilette-c297809/",
     "file_name": "France_Sephora_FR_PERFUME_WOMEN|sq|S|sp|PERFUME_Cologne"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Perfumed body care",
     "page_url": "https://www.sephora.fr/shop/parfum/parfum-femme/soin-corps-parfume-c297814/",
     "file_name": "France_Sephora_FR_PERFUME_WOMEN|sq|S|sp|PERFUME_Perfumed|sp|body|sp|care"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "perfume extract",
     "page_url": "https://www.sephora.fr/shop/parfum/parfum-femme/extrait-de-parfum-c297811/",
     "file_name": "France_Sephora_FR_PERFUME_WOMEN|sq|S|sp|PERFUME_perfume|sp|extract"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Hair perfume",
     "page_url": "https://www.sephora.fr/shop/parfum/parfum-femme/parfum-cheveux-c297815/",
     "file_name": "France_Sephora_FR_PERFUME_WOMEN|sq|S|sp|PERFUME_Hair|sp|perfume"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Travel size",
     "page_url": "https://www.sephora.fr/format-voyage-parfum-femme/",
     "file_name": "France_Sephora_FR_PERFUME_WOMEN|sq|S|sp|PERFUME_Travel|sp|size"
@@ -842,7 +842,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
     "category": "PERFUME BOX",
-    "page": "Women's perfume box",
+    "page": "Womens perfume box",
     "page_url": "https://www.sephora.fr/shop/parfum/coffret-parfum/coffret-parfum-femme-c321/",
     "file_name": "France_Sephora_FR_PERFUME_PERFUME|sp|BOX_Women|sq|s|sp|perfume|sp|box"
   },
@@ -867,28 +867,6 @@
     "page": "Children's perfume box",
     "page_url": "https://www.sephora.fr/shop/parfum/coffret-parfum/coffret-parfum-enfant-c334/",
     "file_name": "France_Sephora_FR_PERFUME_PERFUME|sp|BOX_Children|sq|s|sp|perfume|sp|box"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "Perfumes",
-    "category": "TEST ME",
-    "page": "TEST ME",
-    "page_url": "https://www.sephora.fr/testez-moi.html",
-    "file_name": "France_Sephora_FR_PERFUME_TEST|sp|ME_TEST|sp|ME"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "Perfumes",
-    "category": "ENGRAVING WORKSHOP - PERSONALIZATION",
-    "page": "ENGRAVING WORKSHOP - PERSONALIZATION",
-    "page_url": "https://www.sephora.fr/atelier-gravure/",
-    "file_name": "France_Sephora_FR_PERFUME_ENGRAVING|sp|WORKSHOP|sp||h||sp|PERSONALIZATION_ENGRAVING|sp|WORKSHOP|sp||h||sp|PERSONALIZATION"
   },
   {
     "country": "France",
@@ -1116,8 +1094,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "WELL-BEING",
-    "page": "WELL-BEING",
+    "category": "Wellbeing",
+    "page": "Wellbeing",
     "page_url": "https://www.sephora.fr/parfum/bien-etre-c297850/",
     "file_name": "France_Sephora_FR_PERFUME_WELL|h|BEING_WELL|h|BEING"
   },
@@ -1127,7 +1105,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "WELL-BEING",
+    "category": "Wellbeing",
     "page": "Essential oils",
     "page_url": "https://www.sephora.fr/parfum/bien-etre/huiles-essentielles-c297851/",
     "file_name": "France_Sephora_FR_PERFUME_WELL|h|BEING_Essential|sp|oils"
@@ -1138,7 +1116,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
-    "category": "WELL-BEING",
+    "category": "Wellbeing",
     "page": "Home fragrance",
     "page_url": "https://www.sephora.fr/parfum/bien-etre/parfum-d-interieur-c297852/",
     "file_name": "France_Sephora_FR_PERFUME_WELL|h|BEING_Home|sp|fragrance"
@@ -1183,7 +1161,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
     "category": "GOOD FOR PARFUM",
-    "page": "Vegan Perfume",
+    "page": "Vegan perfumes",
     "page_url": "https://www.sephora.fr/parfum/good-for-parfum/parfum-vegan-parfum-vegan/",
     "file_name": "France_Sephora_FR_PERFUME_GOOD|sp|FOR|sp|PARFUM_Vegan|sp|Perfume"
   },
@@ -1941,8 +1919,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
-    "category": "WELL-BEING",
-    "page": "WELL-BEING",
+    "category": "Wellbeing",
+    "page": "Wellbeing",
     "page_url": "https://www.sephora.fr/corps-et-bain/bien-etre-c7799/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_WELL|h|BEING_WELL|h|BEING"
   },
@@ -1952,7 +1930,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
-    "category": "WELL-BEING",
+    "category": "Wellbeing",
     "page": "Sextoy",
     "page_url": "https://www.sephora.fr/corps-et-bain/bien-etre/sextoy-c7800/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_WELL|h|BEING_Sextoy"
@@ -1963,7 +1941,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
-    "category": "WELL-BEING",
+    "category": "Wellbeing",
     "page": "Lubricant",
     "page_url": "https://www.sephora.fr/corps-et-bain/bien-etre/lubrifiant-c7801/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_WELL|h|BEING_Lubricant"
@@ -1974,7 +1952,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
-    "category": "WELL-BEING",
+    "category": "Wellbeing",
     "page": "Intimate hygiene",
     "page_url": "https://www.sephora.fr/corps-et-bain/bien-etre/hygiene-intime-c7802/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_WELL|h|BEING_Intimate|sp|hygiene"
@@ -2250,7 +2228,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
     "category": "GOOD FOR BODY AND BATH CARE",
-    "page": "Vegan body care",
+    "page": "Vegan Bodycare",
     "page_url": "https://www.sephora.fr/corps-et-bain/good-for-soin-corps-et-bain/soin-corps-vegan-soin-corps-vegan/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_GOOD|sp|FOR|sp|BODY|sp|AND|sp|BATH|sp|CARE_Vegan|sp|body|sp|care"
   },
@@ -2349,7 +2327,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux-c299914/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2503,9 +2481,9 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
     "category": "STYLING AND FIXING",
-    "page": "Cr\u00e8me",
+    "page": "Creme",
     "page_url": "https://www.sephora.fr/shop/cheveux/coiffant-et-fixant/creme-c299917/",
-    "file_name": "France_Sephora_FR_HAIR_STYLING|sp|AND|sp|FIXING_Cr\u00e8me"
+    "file_name": "France_Sephora_FR_HAIR_STYLING|sp|AND|sp|FIXING_Creme"
   },
   {
     "country": "France",
@@ -2767,7 +2745,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
     "category": "MALE HAIR",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.sephora.fr/shop/cheveux/cheveux-homme/soin-pour-cheveux-c297832/",
     "file_name": "France_Sephora_FR_HAIR_MALE|sp|HAIR_Hair|sp|care"
   },
@@ -2844,7 +2822,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
     "category": "GOOD FOR HAIR CARE",
-    "page": "Vegan hair care",
+    "page": "Vegan Haircare",
     "page_url": "https://www.sephora.fr/cheveux/good-for-soin-cheveux/soin-cheveux-vegan-soin-cheveux-vegan/",
     "file_name": "France_Sephora_FR_HAIR_GOOD|sp|FOR|sp|HAIR|sp|CARE_Vegan|sp|hair|sp|care"
   },
@@ -3008,10 +2986,10 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "New",
-    "category": "M\u00b7A\u00b7C",
-    "page": "M\u00b7A\u00b7C",
+    "category": "M.A.C",
+    "page": "M.A.C",
     "page_url": "https://www.sephora.fr/MAC-HubPage.html",
-    "file_name": "France_Sephora_FR_NEWS_M\u00b7A\u00b7C_M\u00b7A\u00b7C"
+    "file_name": "France_Sephora_FR_NEWS_M.A.C_M.A.C"
   },
   {
     "country": "France",
@@ -3019,8 +2997,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "New",
-    "category": "UNBOTTLED",
-    "page": "UNBOTTLED",
+    "category": "Unbottled",
+    "page": "Unbottled",
     "page_url": "https://www.sephora.fr/marques/de-a-a-z/unbottled-unbot/",
     "file_name": "France_Sephora_FR_NEWS_UNBOTTLED_UNBOTTLED"
   },
@@ -3089,17 +3067,6 @@
     "page": "Sephora Favorites Sets",
     "page_url": "https://www.sephora.fr/recherche?q=SEPHORA%20FAVORITES",
     "file_name": "France_Sephora_FR_TIPS_Sephora|sp|Favorites|sp|Sets_Sephora|sp|Favorites|sp|Sets"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "Tips",
-    "category": "test me",
-    "page": "test me",
-    "page_url": "https://www.sephora.fr/testez-moi.html",
-    "file_name": "France_Sephora_FR_TIPS_test|sp|me_test|sp|me"
   },
   {
     "country": "France",
@@ -3229,7 +3196,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Good For",
     "category": "Vegan",
-    "page": "Vegan Makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.fr/maquillage/good-for-maquillage/maquillage-vegan-maquillage-vegan/",
     "file_name": "France_Sephora_FR_GOOD|sp|FOR_Vegan|sp|Makeup_Vegan|sp|Makeup"
   },
@@ -3305,8 +3272,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Good For",
-    "category": "Vegan hair care",
-    "page": "Vegan hair care",
+    "category": "Vegan Haircare",
+    "page": "Vegan Haircare",
     "page_url": "https://www.sephora.fr/cheveux/good-for-soin-cheveux/soin-cheveux-vegan-soin-cheveux-vegan/",
     "file_name": "France_Sephora_FR_GOOD|sp|FOR_Vegan|sp|hair|sp|care_Vegan|sp|hair|sp|care"
   }

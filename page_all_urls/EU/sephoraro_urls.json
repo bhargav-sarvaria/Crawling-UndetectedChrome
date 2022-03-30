@@ -490,7 +490,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.ro/shop/machiaj/unghii-c345/",
     "file_name": "Romania_Sephora_RO_MAKEUP_NAILS_NAILS"
   },
@@ -666,7 +666,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Vegan makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.ro/machiaj-vegan/",
     "file_name": "Romania_Sephora_RO_MAKEUP_GOOD|sp|FOR|sp|MAKE|h|UP_Vegan|sp|makeup"
   },
@@ -765,7 +765,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
     "category": "PERFUME SETS",
-    "page": "Women's perfume sets",
+    "page": "Womens perfume sets",
     "page_url": "https://www.sephora.ro/shop/parfumuri/seturi-parfum/seturi-parfum-femei-c321/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_PERFUME|sp|SETS_Women|sq|s|sp|perfume|sp|sets"
   },
@@ -809,7 +809,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
     "category": "Womens Perfumes",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.sephora.ro/shop/parfumuri/parfumuri-femei/apa-de-toaleta-c297809/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUMES_Eau|sp|de|sp|toilette"
   },
@@ -864,7 +864,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
     "category": "Mens Perfumes",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.sephora.ro/shop/parfumuri/parfumuri-barbati/apa-de-toaleta-c297817/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_MEN|sq|S|sp|PERFUMES_Eau|sp|de|sp|toilette"
   },
@@ -995,8 +995,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
-    "page": "WOMEN'S PERFUME",
+    "category": "Womens Perfumes",
+    "page": "Womens PERFUME",
     "page_url": "https://www.sephora.ro/parfumerie-nisa.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
   },
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Parma water",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/acqua-di-parma-acqua/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Parma|sp|water"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Cologne Workshop",
     "page_url": "https://www.sephora.ro/atelier-cologne/COLOG-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Cologne|sp|Workshop"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "National costume",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/costume-national-costu/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_National|sp|costume"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Chopard",
     "page_url": "https://www.sephora.ro/CHOPA-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Chopard"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Tom Ford",
     "page_url": "https://www.sephora.ro/FORD-BrandUniverse-3.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Tom|sp|Ford"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "House Margiela",
     "page_url": "https://www.sephora.ro/MARGI-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_House|sp|Margiela"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Trussardi",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/trussardi-truss/",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Trussardi"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Guerlain",
     "page_url": "https://www.sephora.ro/guerlain/GUERL-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Guerlain"
@@ -1094,7 +1094,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Hermes",
     "page_url": "https://www.sephora.ro/hermes/HERMS-HubPage.html",
     "file_name": "Romania_Sephora_RO_PERFUMERY_WOMEN|sq|S|sp|PERFUME_Hermes"
@@ -1359,7 +1359,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
     "category": "Masks",
-    "page": "MASKS",
+    "page": "Masks",
     "page_url": "https://www.sephora.ro/shop/ingrijire-ten/masti-c7685/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_MASKS_MASKS"
   },
@@ -1645,7 +1645,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Skin",
     "category": "GOOD FOR SKINCARE",
-    "page": "Vegan care",
+    "page": "Vegan Care",
     "page_url": "https://www.sephora.ro/ingrijire-vegana/",
     "file_name": "Romania_Sephora_RO_SKIN|sp|CARE_GOOD|sp|FOR|sp|SKINCARE_Vegan|sp|care"
   },
@@ -2184,7 +2184,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
     "category": "GOOD FOR BATH & BODY",
-    "page": "Vegan body care",
+    "page": "Vegan Bodycare",
     "page_url": "https://www.sephora.ro/ingrijire-vegana-corp/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_GOOD|sp|FOR|sp|BATH|sp||as||sp|BODY_Vegan|sp|body|sp|care"
   },
@@ -2250,7 +2250,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.ro/shop/par/ingrijire-par-c299914/",
     "file_name": "Romania_Sephora_RO_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2690,7 +2690,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
     "category": "THEY LOOK LIKE MEN",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.sephora.ro/shop/par/par-barbati/ingrijirea-parului-c297832/",
     "file_name": "Romania_Sephora_RO_HAIR_THEY|sp|LOOK|sp|LIKE|sp|MEN_Hair|sp|care"
   },
@@ -2734,7 +2734,7 @@
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
     "category": "GOOD FOR HAIR",
-    "page": "Vegan hair care",
+    "page": "Vegan Haircare",
     "page_url": "https://www.sephora.ro/ingrijire-vegana-par/",
     "file_name": "Romania_Sephora_RO_HAIR_GOOD|sp|FOR|sp|HAIR_Vegan|sp|hair|sp|care"
   },
@@ -2832,8 +2832,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Sephora Collection",
-    "category": "masks",
-    "page": "masks",
+    "category": "Masks",
+    "page": "Masks",
     "page_url": "https://www.sephora.ro/branduri/de-la-a-la-z/sephora-collection-sepho/?scgid=C7685",
     "file_name": "Romania_Sephora_RO_SEPHORA|sp|COLLECTION_masks_masks"
   },
@@ -3063,8 +3063,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Good For",
-    "category": "Vegan makeup",
-    "page": "Vegan makeup",
+    "category": "Vegan Make Up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.ro/machiaj-vegan/",
     "file_name": "Romania_Sephora_RO_GOOD|sp|FOR_Vegan|sp|makeup_Vegan|sp|makeup"
   },
@@ -3096,8 +3096,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Good For",
-    "category": "Vegan care",
-    "page": "Vegan care",
+    "category": "Vegan Care",
+    "page": "Vegan Care",
     "page_url": "https://www.sephora.ro/ingrijire-vegana/",
     "file_name": "Romania_Sephora_RO_GOOD|sp|FOR_Vegan|sp|care_Vegan|sp|care"
   },
@@ -3129,8 +3129,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Good For",
-    "category": "Vegan hair care",
-    "page": "Vegan hair care",
+    "category": "Vegan Haircare",
+    "page": "Vegan Haircare",
     "page_url": "https://www.sephora.ro/ingrijire-vegana-par/",
     "file_name": "Romania_Sephora_RO_GOOD|sp|FOR_Vegan|sp|hair|sp|care_Vegan|sp|hair|sp|care"
   }

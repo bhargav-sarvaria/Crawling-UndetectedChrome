@@ -501,7 +501,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.cz/produkty/liceni/nehty-c345/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_NAILS_NAILS"
   },
@@ -743,7 +743,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Make Up",
     "category": "GOOD MAKE-UP",
-    "page": "Vegan makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.cz/veganske-slozeni-cz/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_MAKEUP_GOOD|sp|MAKE|h|UP_Vegan|sp|makeup"
   },
@@ -798,7 +798,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Perfumes",
     "category": "GIFT SETS",
-    "page": "Women's gift sets",
+    "page": "Womens gift sets",
     "page_url": "https://www.sephora.cz/produkty/vune/darkove-sady/darkove-sady-damske-c321/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SCENT_GIFT|sp|SETS_Women|sq|s|sp|gift|sp|sets"
   },
@@ -842,7 +842,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Perfumes",
     "category": "Womens Fragrance",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.sephora.cz/produkty/vune/damske-vune/toaletni-vody-c297809/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SCENT_WOMEN|sq|S|sp|FRAGRANCES_Eau|sp|de|sp|toilette"
   },
@@ -908,7 +908,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Perfumes",
     "category": "Mens Fragrance",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.sephora.cz/produkty/vune/panske-vune/toaletni-vody-c297817/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SCENT_MEN|sq|S|sp|FRAGRANCES_Eau|sp|de|sp|toilette"
   },
@@ -973,8 +973,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Perfumes",
-    "category": "UNISEX FRAGRANCE",
-    "page": "UNISEX FRAGRANCE",
+    "category": "Unisex Fragrance",
+    "page": "Unisex Fragrance",
     "page_url": "https://www.sephora.cz/produkty/vune/unisex-vune-c322301/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SCENT_UNISEX|sp|FRAGRANCE_UNISEX|sp|FRAGRANCE"
   },
@@ -1711,7 +1711,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Skin",
     "category": "GOOD SKIN CARE",
-    "page": "Vegan skin care",
+    "page": "Vegan Skincare",
     "page_url": "https://www.sephora.cz/veganske-slozeni/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_SKINCARE_GOOD|sp|SKIN|sp|CARE_Vegan|sp|skin|sp|care"
   },
@@ -2162,7 +2162,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.cz/produkty/vlasy/pece-o-vlasy-c299914/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2789,7 +2789,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Sephora_CZ/",
     "department": "Exclusive",
     "category": "EXCLUSIVE ONLINE BRANDS",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.sephora.cz/online-exclusive-vlasy/",
     "file_name": "Czech|sp|Republic_Sephora_CZ_EXCLUSIVELY_EXCLUSIVE|sp|ONLINE|sp|BRANDS_Hair|sp|care"
   },

@@ -16,8 +16,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
-    "page": "Womens Frangrance",
+    "category": "Womens Fragrance",
+    "page": "Womens Fragrance",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/0101",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_DAMENDuFTE"
   },
@@ -27,8 +27,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
-    "page": "women's perfume",
+    "category": "Womens Fragrance",
+    "page": "Womens perfume",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/parfum/010106",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_women|sq|s|sp|perfume"
   },
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
+    "category": "Womens Fragrance",
     "page": "Fragrance sets",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/duftsets/010111",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_Fragrance|sp|sets"
@@ -49,8 +49,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
-    "page": "personal hygiene",
+    "category": "Womens Fragrance",
+    "page": "Personal Hygiene",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/koerperpflege/010108",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_personal|sp|hygiene"
   },
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
+    "category": "Womens Fragrance",
     "page": "shower care",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/duschpflege/010107",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_shower|sp|care"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
+    "category": "Womens Fragrance",
     "page": "Deodorants",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/deodorants/010105",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_Deodorants"
@@ -82,10 +82,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
-    "page": "Parfumzerst\u00e4uber",
+    "category": "Womens Fragrance",
+    "page": "Parfumzerstauber",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/parfuemzerstaeuber/010102",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_Parfumzerst\u00e4uber"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_Parfumzerstauber"
   },
   {
     "country": "Austria",
@@ -93,7 +93,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
-    "category": "Womens Frangrance",
+    "category": "Womens Fragrance",
     "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/parfum/damenduefte/0101",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_DAMENDuFTE_>>|sp|All|sp|in|sp|Kategorien"
@@ -259,9 +259,9 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
     "category": "Stories",
-    "page": "All about: Patschuli Parf\u00fcm",
+    "page": "All about: Patschuli Parfum",
     "page_url": "https://www.douglas.at/de/c/parfum/beauty-storys/all-about-patchouli-parfum/012013",
-    "file_name": "Austria_DOUGLAS_AT_PERFUME_BEAUTY|sp|STORYS_All|sp|about|cln||sp|Patschuli|sp|Parf\u00fcm"
+    "file_name": "Austria_DOUGLAS_AT_PERFUME_BEAUTY|sp|STORYS_All|sp|about|cln||sp|Patschuli|sp|Parfum"
   },
   {
     "country": "Austria",
@@ -292,7 +292,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.at/de/c/make-up/03",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -468,7 +468,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/0304",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_NAILS"
   },
@@ -1348,7 +1348,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "MEN'S",
-    "page": "personal hygiene",
+    "page": "Personal Hygiene",
     "page_url": "https://www.douglas.at/de/c/koerper/herren/koerperpflege/130901",
     "file_name": "Austria_DOUGLAS_AT_BODY_MEN|sq|S_personal|sp|hygiene"
   },
@@ -1469,9 +1469,9 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "Foot Care",
-    "page": "Fu\u00dfpeeling",
+    "page": "Fubpeeling",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/fusspeeling/130703",
-    "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_Fu\u00dfpeeling"
+    "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_Fubpeeling"
   },
   {
     "country": "Austria",
@@ -1612,7 +1612,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/1401",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1964,7 +1964,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "MEN'S",
-    "page": "hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.at/de/c/haare/herren/haarpflege/140803",
     "file_name": "Austria_DOUGLAS_AT_HAIR_MEN|sq|S_hair|sp|care"
   },
@@ -2117,8 +2117,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/schmuck/1502",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Bracelets & Bangles",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/schmuck/armbaender-armreifen/150201",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Bracelets|sp||as||sp|Bangles"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Two of us",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/schmuck/ketten/150202",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Two|sp|of|sp|us"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "earrings",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/schmuck/ohrringe/150203",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_JEWELRY_earrings"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/home-lifestyle/schmuck/1502",
     "file_name": "Austria_DOUGLAS_AT_HOME|sp||as||sp|LIFESTYLE_JEWELRY_>>|sp|All|sp|in|sp|Kategorien"
@@ -2392,10 +2392,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Sale",
-    "category": "Damend\u00fcfte",
-    "page": "Damend\u00fcfte",
+    "category": "Damendufte",
+    "page": "Damendufte",
     "page_url": "https://www.douglas.at/de/c/sale/parfum/0501",
-    "file_name": "Austria_DOUGLAS_AT_SALE_Damend\u00fcfte_Damend\u00fcfte"
+    "file_name": "Austria_DOUGLAS_AT_SALE_Damendufte_Damendufte"
   },
   {
     "country": "Austria",
@@ -2403,8 +2403,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Sale",
-    "category": "Make-Up",
-    "page": "Make-Up",
+    "category": "Make Up",
+    "page": "Make Up",
     "page_url": "https://www.douglas.at/de/c/sale/make-up/0510",
     "file_name": "Austria_DOUGLAS_AT_SALE_Make|h|Up_Make|h|Up"
   },

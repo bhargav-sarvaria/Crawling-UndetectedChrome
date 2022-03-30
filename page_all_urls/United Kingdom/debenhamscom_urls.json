@@ -446,7 +446,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
     "category": "Electricals",
-    "page": "Hair Care",
+    "page": "Haircare",
     "page_url": "https://www.debenhams.com/category/beauty-hair-care",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Hair|sp|Care"
   },
@@ -1777,7 +1777,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Accessories",
     "category": "Womens Shoes",
-    "page": "All Women's Shoes",
+    "page": "All Womens Shoes",
     "page_url": "https://www.debenhams.com/category/womens-shoes",
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_All|sp|Women|sq|s|sp|Shoes"
   },
@@ -4262,7 +4262,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Trends",
+    "category": "Trending",
     "page": "Baking",
     "page_url": "https://www.debenhams.com/category/promotion-3",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Baking"
@@ -4273,7 +4273,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Trends",
+    "category": "Trending",
     "page": "Spring Florals",
     "page_url": "https://www.debenhams.com/category/home-collections-florals",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Spring|sp|Florals"

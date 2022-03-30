@@ -489,17 +489,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
-    "category": "Womens Mid Season Sale",
-    "page": "Women's Mid Season Sale",
-    "page_url": "https://www.myer.com.au/c/women/womens-sale--1",
-    "file_name": "Australia_Myer_Women_Women|sq|s|sp|Mid|sp|Season|sp|Sale_Women|sq|s|sp|Mid|sp|Season|sp|Sale"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Women",
     "category": "Curve",
     "page": "Curve",
     "page_url": "https://www.myer.com.au/c/women/womens-plus-size",
@@ -1920,7 +1909,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Haircare",
-    "page": "Hair Care",
+    "page": "Haircare",
     "page_url": "https://www.myer.com.au/c/beauty/hair-care",
     "file_name": "Australia_Myer_Beauty_Hair|sp|Care_Hair|sp|Care"
   },
@@ -2074,9 +2063,9 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Top Brands",
-    "page": "Lanc\u00f4me",
+    "page": "Lancome",
     "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/Lancome-1",
-    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Lanc\u00f4me"
+    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Lancome"
   },
   {
     "country": "Australia",
@@ -2250,7 +2239,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Perfumes",
-    "page": "Women's Perfume",
+    "page": "Womens Perfume",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/womens-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Women|sq|s|sp|Perfume"
   },
@@ -2426,7 +2415,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Gifts",
-    "page": "Women's Fragrance Gift Sets",
+    "page": "Womens Fragrance Gift Sets",
     "page_url": "https://www.myer.com.au/c/beauty/beauty-gift--sets/gift-sets-womens-fragrance",
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Women|sq|s|sp|Fragrance|sp|Gift|sp|Sets"
   },

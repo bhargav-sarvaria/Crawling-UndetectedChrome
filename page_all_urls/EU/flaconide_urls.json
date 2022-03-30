@@ -16,8 +16,8 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
-    "page": "WOMEN'S PERFUME",
+    "category": "Womens Perfumes",
+    "page": "Womens PERFUME",
     "page_url": "https://www.flaconi.de/damenparfum/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
   },
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "fragrances",
     "page_url": "https://www.flaconi.de/damenduefte/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_fragrances"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "shower care",
     "page_url": "https://www.flaconi.de/damen-duschpflege/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_shower|sp|care"
@@ -49,8 +49,8 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
-    "page": "personal hygiene",
+    "category": "Womens Perfumes",
+    "page": "Personal Hygiene",
     "page_url": "https://www.flaconi.de/damen-parfum-koerperprodukte/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_personal|sp|hygiene"
   },
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "deodorants",
     "page_url": "https://www.flaconi.de/damen-deodorant/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_deodorants"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "fragrance sets",
     "page_url": "https://www.flaconi.de/damen-duftsets/",
     "file_name": "Germany_Flaconi_PERFUME_WOMEN|sq|S|sp|PERFUME_fragrance|sp|sets"
@@ -116,7 +116,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
     "category": "Mens Perfume",
-    "page": "personal hygiene",
+    "page": "Personal Hygiene",
     "page_url": "https://www.flaconi.de/herren-parfum-koerperprodukte/",
     "file_name": "Germany_Flaconi_PERFUME_MEN|sq|S|sp|PERFUME_personal|sp|hygiene"
   },
@@ -325,7 +325,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Perfumes",
     "category": "Special Offers",
-    "page": "Top 10 women's fragrances",
+    "page": "Top 10 Womens fragrances",
     "page_url": "https://www.flaconi.de/top-10-damenduefte/",
     "file_name": "Germany_Flaconi_PERFUME_SPECIAL|sp|OFFERS_Top|sp|10|sp|women|sq|s|sp|fragrances"
   },
@@ -567,7 +567,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Care",
     "category": "Body",
-    "page": "personal hygiene",
+    "page": "Personal Hygiene",
     "page_url": "https://www.flaconi.de/koerperpflege/",
     "file_name": "Germany_Flaconi_CARE_BODY_personal|sp|hygiene"
   },
@@ -666,7 +666,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Care",
     "category": "Body",
-    "page": "pedicure",
+    "page": "Pedicure",
     "page_url": "https://www.flaconi.de/fusspflege/",
     "file_name": "Germany_Flaconi_CARE_BODY_pedicure"
   },
@@ -710,7 +710,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Care",
     "category": "Mens Grooming",
-    "page": "personal hygiene",
+    "page": "Personal Hygiene",
     "page_url": "https://www.flaconi.de/herren-koerperpflege/",
     "file_name": "Germany_Flaconi_CARE_MALE|sp|GROOMING_personal|sp|hygiene"
   },
@@ -1447,7 +1447,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.flaconi.de/nageldesign/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_NAILS"
   },
@@ -1809,8 +1809,8 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
-    "page": "WASH & CARE",
+    "category": "Wash & Care",
+    "page": "Wash & Care",
     "page_url": "https://www.flaconi.de/waschen-pflege/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_WASH|sp||as||sp|CARE"
   },
@@ -1820,7 +1820,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "shampoo",
     "page_url": "https://www.flaconi.de/haarshampoo/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_shampoo"
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "hair conditioner",
     "page_url": "https://www.flaconi.de/conditioner/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_hair|sp|conditioner"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "conditioner",
     "page_url": "https://www.flaconi.de/haarkur/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_conditioner"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "hair mask",
     "page_url": "https://www.flaconi.de/haarmaske/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_hair|sp|mask"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "hair oil",
     "page_url": "https://www.flaconi.de/haaroel/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_hair|sp|oil"
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "hair serum",
     "page_url": "https://www.flaconi.de/haarserum/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_hair|sp|serum"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "Leave in care",
     "page_url": "https://www.flaconi.de/leave-in-pflege/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_Leave|sp|in|sp|care"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "WASH & CARE",
+    "category": "Wash & Care",
     "page": "hair care set",
     "page_url": "https://www.flaconi.de/haarpflegeset/",
     "file_name": "Germany_Flaconi_HAIR_WASH|sp||as||sp|CARE_hair|sp|care|sp|set"
@@ -2018,8 +2018,8 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
-    "page": "TO SHAPE",
+    "category": "To Shape",
+    "page": "To Shape",
     "page_url": "https://www.flaconi.de/herren-haarpflege/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_TO|sp|SHAPE"
   },
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
+    "category": "To Shape",
     "page": "shampoo",
     "page_url": "https://www.flaconi.de/herren-haarshampoo/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_shampoo"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
+    "category": "To Shape",
     "page": "hair conditioner",
     "page_url": "https://www.flaconi.de/herren-conditioner/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_hair|sp|conditioner"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
+    "category": "To Shape",
     "page": "conditioner",
     "page_url": "https://www.flaconi.de/herren-haarkur/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_conditioner"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
+    "category": "To Shape",
     "page": "hair serum",
     "page_url": "https://www.flaconi.de/herren-haarserum/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_hair|sp|serum"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
+    "category": "To Shape",
     "page": "hairspray",
     "page_url": "https://www.flaconi.de/herren-haarspray/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_hairspray"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
+    "category": "To Shape",
     "page": "Hair Wax & Gel",
     "page_url": "https://www.flaconi.de/herren-haarwachs/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_Hair|sp|Wax|sp||as||sp|Gel"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
-    "category": "TO SHAPE",
+    "category": "To Shape",
     "page": "Anti dandruff",
     "page_url": "https://www.flaconi.de/herren-anti-schuppen/",
     "file_name": "Germany_Flaconi_HAIR_TO|sp|SHAPE_Anti|sp|dandruff"
@@ -2756,7 +2756,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
     "category": "Special Offers",
-    "page": "Vegan cosmetics",
+    "page": "Vegan Cosmetics",
     "page_url": "https://www.flaconi.de/vegane-kosmetik/",
     "file_name": "Germany_Flaconi_NATURE_SPECIAL|sp|OFFERS_Vegan|sp|cosmetics"
   },
@@ -2833,7 +2833,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
     "category": "Perfumes",
-    "page": "personal hygiene",
+    "page": "Personal Hygiene",
     "page_url": "https://www.flaconi.de/premium-koerperprodukte/",
     "file_name": "Germany_Flaconi_PREMIUM_PERFUME_personal|sp|hygiene"
   },
@@ -2932,7 +2932,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
     "category": "Care",
-    "page": "To shape",
+    "page": "To Shape",
     "page_url": "https://www.flaconi.de/premium-for-men/",
     "file_name": "Germany_Flaconi_PREMIUM_CARE_To|sp|shape"
   },
@@ -2987,7 +2987,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
     "category": "Make Up",
-    "page": "nails",
+    "page": "Nails",
     "page_url": "https://www.flaconi.de/premium-nageldesign/",
     "file_name": "Germany_Flaconi_PREMIUM_MAKE|sp|UP_nails"
   },
@@ -3009,7 +3009,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
     "category": "Hair",
-    "page": "Wash & care",
+    "page": "Wash & Care",
     "page_url": "https://www.flaconi.de/premium-waschen-pflegen/",
     "file_name": "Germany_Flaconi_PREMIUM_HAIR_Wash|sp||as||sp|care"
   },
@@ -3614,7 +3614,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
     "category": "Care",
-    "page": "personal hygiene",
+    "page": "Personal Hygiene",
     "page_url": "https://www.flaconi.de/sale-koerperpflege/",
     "file_name": "Germany_Flaconi_SALE_CARE_personal|sp|hygiene"
   },
@@ -3680,7 +3680,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
     "category": "Make Up",
-    "page": "nails",
+    "page": "Nails",
     "page_url": "https://www.flaconi.de/sale-nageldesign/",
     "file_name": "Germany_Flaconi_SALE_MAKE|sp|UP_nails"
   },
@@ -3702,7 +3702,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
     "category": "Hair",
-    "page": "Wash & care",
+    "page": "Wash & Care",
     "page_url": "https://www.flaconi.de/sale-waschen-und-pflegen/",
     "file_name": "Germany_Flaconi_SALE_HAIR_Wash|sp||as||sp|care"
   },

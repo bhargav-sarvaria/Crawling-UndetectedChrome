@@ -1491,7 +1491,7 @@
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Skin",
     "category": "Masks",
-    "page": "MASKS",
+    "page": "Masks",
     "page_url": "https://www.nykaa.com/skin/masks/c/8399?root=nav_2",
     "file_name": "India_Nykaa_Skin_MASKS_MASKS"
   },
@@ -1568,7 +1568,7 @@
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.nykaa.com/hair-care/hair/c/25?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2503,7 +2503,7 @@
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Mom & Baby",
     "category": "Kids Care",
-    "page": "Hair Care",
+    "page": "Haircare",
     "page_url": "https://www.nykaa.com/mom-baby/kids-care/hair-care/c/14821",
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Hair|sp|Care"
   },
@@ -2756,7 +2756,7 @@
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Health",
     "category": "Weight Management",
-    "page": "WEIGHT MANAGEMENT",
+    "page": "Weight Management",
     "page_url": "https://www.nykaa.com/wellness/weight-management/c/736",
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_WEIGHT|sp|MANAGEMENT"
   },
@@ -3647,7 +3647,7 @@
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.nykaa.com/makeup/nails/c/16?ptype=lst&id=16&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Makeup_NAILS_NAILS"
   },
@@ -5087,8 +5087,8 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Trending Search",
-    "page": "TRENDING SEARCH",
+    "category": "Trending Searches",
+    "page": "Trending Searches",
     "page_url": "https://www.nykaa.com/natural/top-search/c/9985?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_TRENDING|sp|SEARCH"
   },
@@ -5098,7 +5098,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Trending Search",
+    "category": "Trending Searches",
     "page": "Tea Tree Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/tea-tree-oil/c/9986?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Tea|sp|Tree|sp|Oil"
@@ -5109,7 +5109,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Trending Search",
+    "category": "Trending Searches",
     "page": "Eucalyptus Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/eucalyptus-oil/c/9987?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Eucalyptus|sp|Oil"
@@ -5120,7 +5120,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Trending Search",
+    "category": "Trending Searches",
     "page": "Rosemary Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/rosemary-oil/c/9988?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Rosemary|sp|Oil"
@@ -5131,7 +5131,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Trending Search",
+    "category": "Trending Searches",
     "page": "Jojoba Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/jojoba-oil/c/9989?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Jojoba|sp|Oil"
@@ -5142,7 +5142,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Trending Search",
+    "category": "Trending Searches",
     "page": "Peppermint Oil",
     "page_url": "https://www.nykaa.com/natural/top-search/peppermint-oil/c/9990?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Peppermint|sp|Oil"
@@ -5241,8 +5241,8 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Types of Skin",
-    "page": "TYPES OF SKIN",
+    "category": "Skin Type",
+    "page": "Skin Type",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/c/9633?root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_TYPES|sp|OF|sp|SKIN"
   },
@@ -5252,7 +5252,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Types of Skin",
+    "category": "Skin Type",
     "page": "Dry Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/dry-skin/c/9634?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Dry|sp|Skin"
@@ -5263,7 +5263,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Types of Skin",
+    "category": "Skin Type",
     "page": "Normal Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/normal-skin/c/9635?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Normal|sp|Skin"
@@ -5274,7 +5274,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Types of Skin",
+    "category": "Skin Type",
     "page": "Oily Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/oily-skin/c/9636?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Oily|sp|Skin"
@@ -5285,7 +5285,7 @@
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Natural",
-    "category": "Types of Skin",
+    "category": "Skin Type",
     "page": "Combination Skin",
     "page_url": "https://www.nykaa.com/natural/types-of-skin/combination-skin/c/9637?root=nav_3&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Combination|sp|Skin"
@@ -5957,7 +5957,7 @@
     "gcloud_path": "crawl_data/India/Nykaa/",
     "department": "Men",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.nykaa.com/mens/hair-care/c/1292?ptype=lst&id=1292&root=nav_2&dir=desc&order=popularity",
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_HAIR|sp|CARE"
   },

@@ -6,7 +6,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up-c302/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -204,7 +204,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/unghie-c345/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_NAILS_NAILS"
   },
@@ -534,7 +534,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Vegan make-up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.it/make-up/good-for-make-up/make-up-vegano-make-up-vegano/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_GOOD|sp|FOR|sp|MAKE|h|UP_Vegan|sp|make|h|up"
   },
@@ -622,7 +622,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
     "category": "Perfume Boxes",
-    "page": "Women's perfume boxes",
+    "page": "Womens perfume boxes",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi/cofanetti-profumo/cofanetti-profumo-donna-c321/",
     "file_name": "Italy_Sephora_IT_PERFUMES_PERFUME|sp|BOXES_Women|sq|s|sp|perfume|sp|boxes"
   },
@@ -655,7 +655,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
     "category": "Womens Perfumes",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi/profumi-donna/eau-de-toilette-c297809/",
     "file_name": "Italy_Sephora_IT_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Eau|sp|de|sp|toilette"
   },
@@ -732,7 +732,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
     "category": "Mens Perfumes",
-    "page": "Eau de toilette",
+    "page": "Eau de Toilette",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi/profumi-uomo/eau-de-toilette-c297817/",
     "file_name": "Italy_Sephora_IT_PERFUMES_MEN|sq|S|sp|PERFUMES_Eau|sp|de|sp|toilette"
   },
@@ -918,8 +918,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
-    "category": "WELL BEING",
-    "page": "WELL BEING",
+    "category": "Wellbeing",
+    "page": "Wellbeing",
     "page_url": "https://www.sephora.it/profumi/benessere-c297850/",
     "file_name": "Italy_Sephora_IT_PERFUMES_WELL|sp|BEING_WELL|sp|BEING"
   },
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
-    "category": "WELL BEING",
+    "category": "Wellbeing",
     "page": "Essential oils",
     "page_url": "https://www.sephora.it/profumi/benessere/oli-essenziali-c297851/",
     "file_name": "Italy_Sephora_IT_PERFUMES_WELL|sp|BEING_Essential|sp|oils"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
-    "category": "WELL BEING",
+    "category": "Wellbeing",
     "page": "Ambient fragrances",
     "page_url": "https://www.sephora.it/profumi/benessere/profumi-d-ambiente-c297852/",
     "file_name": "Italy_Sephora_IT_PERFUMES_WELL|sp|BEING_Ambient|sp|fragrances"
@@ -951,8 +951,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
-    "category": "TRY ME",
-    "page": "TRY ME",
+    "category": "Try",
+    "page": "Try",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi/try-me-c301-try-me/",
     "file_name": "Italy_Sephora_IT_PERFUMES_TRY|sp|ME_TRY|sp|ME"
   },
@@ -973,10 +973,10 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
-    "category": "SEPHORA COLLECTION PERFUMES FOR LESS THAN \u20ac 30",
-    "page": "SEPHORA COLLECTION PERFUMES FOR LESS THAN \u20ac 30",
+    "category": "SEPHORA COLLECTION PERFUMES FOR LESS THAN EURO 30",
+    "page": "SEPHORA COLLECTION PERFUMES FOR LESS THAN EURO 30",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi-c301/?prefn1=brand&prefv1=SEPHO&srule=rank9#topbreadcrumb",
-    "file_name": "Italy_Sephora_IT_PERFUMES_SEPHORA|sp|COLLECTION|sp|PERFUMES|sp|FOR|sp|LESS|sp|THAN|sp|\u20ac|sp|30_SEPHORA|sp|COLLECTION|sp|PERFUMES|sp|FOR|sp|LESS|sp|THAN|sp|\u20ac|sp|30"
+    "file_name": "Italy_Sephora_IT_PERFUMES_SEPHORA|sp|COLLECTION|sp|PERFUMES|sp|FOR|sp|LESS|sp|THAN|sp|EURO|sp|30_SEPHORA|sp|COLLECTION|sp|PERFUMES|sp|FOR|sp|LESS|sp|THAN|sp|EURO|sp|30"
   },
   {
     "country": "Italy",
@@ -1270,8 +1270,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "TYPES OF TREATMENT",
-    "page": "TYPES OF TREATMENT",
+    "category": "Types of Treatment",
+    "page": "Types of Treatment",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/tipi-di-trattamento-c299801/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_TYPES|sp|OF|sp|TREATMENT_TYPES|sp|OF|sp|TREATMENT"
   },
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "TYPES OF TREATMENT",
+    "category": "Types of Treatment",
     "page": "Face scrub and peeling",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/tipi-di-trattamento/gommage-e-peeling-viso-c7684/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_TYPES|sp|OF|sp|TREATMENT_Face|sp|scrub|sp|and|sp|peeling"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "TYPES OF TREATMENT",
+    "category": "Types of Treatment",
     "page": "Day treatments",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/tipi-di-trattamento/trattamenti-giorno-c299901/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_TYPES|sp|OF|sp|TREATMENT_Day|sp|treatments"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "TYPES OF TREATMENT",
+    "category": "Types of Treatment",
     "page": "Night treatments",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/tipi-di-trattamento/trattamenti-notte-c299902/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_TYPES|sp|OF|sp|TREATMENT_Night|sp|treatments"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "TYPES OF TREATMENT",
+    "category": "Types of Treatment",
     "page": "Serum",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/tipi-di-trattamento/siero-c299903/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_TYPES|sp|OF|sp|TREATMENT_Serum"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "TYPES OF TREATMENT",
+    "category": "Types of Treatment",
     "page": "Lip treatments",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/tipi-di-trattamento/trattamenti-labbra-c299904/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_TYPES|sp|OF|sp|TREATMENT_Lip|sp|treatments"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "TYPES OF TREATMENT",
+    "category": "Types of Treatment",
     "page": "Eye Treatments",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/tipi-di-trattamento/trattamenti-occhi-c299905/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_TYPES|sp|OF|sp|TREATMENT_Eye|sp|Treatments"
@@ -1601,7 +1601,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
     "category": "GOOD FOR SKINCARE",
-    "page": "Treatment of natural origin",
+    "page": "Natural Treatments",
     "page_url": "https://www.sephora.it/trattamenti-viso/good-for-skincare/trattamento-di-origine-naturale-trattamento-di-origine-naturale/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_GOOD|sp|FOR|sp|SKINCARE_Treatment|sp|of|sp|natural|sp|origin"
   },
@@ -1623,7 +1623,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
     "category": "GOOD FOR SKINCARE",
-    "page": "Vegan treatment",
+    "page": "Vegan Treatment",
     "page_url": "https://www.sephora.it/trattamenti-viso/good-for-skincare/trattamento-vegano-trattamento-vegano/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_GOOD|sp|FOR|sp|SKINCARE_Vegan|sp|treatment"
   },
@@ -1952,8 +1952,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "WELLNESS & SEX TOYS",
-    "page": "WELLNESS & SEX TOYS",
+    "category": "Wellness & Sextoys",
+    "page": "Wellness & Sextoys",
     "page_url": "https://www.sephora.it/corpo-e-bagno/benessere-e-sex-toys-c7799/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_WELLNESS|sp||as||sp|SEX|sp|TOYS_WELLNESS|sp||as||sp|SEX|sp|TOYS"
   },
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "WELLNESS & SEX TOYS",
+    "category": "Wellness & Sextoys",
     "page": "Vibrators and Intimate Massagers",
     "page_url": "https://www.sephora.it/corpo-e-bagno/benessere-e-sex-toys/vibratori-e-massaggiatori-intimi-c7800/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_WELLNESS|sp||as||sp|SEX|sp|TOYS_Vibrators|sp|and|sp|Intimate|sp|Massagers"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "WELLNESS & SEX TOYS",
+    "category": "Wellness & Sextoys",
     "page": "Lubricant",
     "page_url": "https://www.sephora.it/corpo-e-bagno/benessere-e-sex-toys/lubrificante-c7801/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_WELLNESS|sp||as||sp|SEX|sp|TOYS_Lubricant"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "WELLNESS & SEX TOYS",
+    "category": "Wellness & Sextoys",
     "page": "Personal care",
     "page_url": "https://www.sephora.it/corpo-e-bagno/benessere-e-sex-toys/igiene-intima-c7802/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_WELLNESS|sp||as||sp|SEX|sp|TOYS_Personal|sp|care"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
-    "category": "WELLNESS & SEX TOYS",
+    "category": "Wellness & Sextoys",
     "page": "Pleasure Party",
     "page_url": "https://www.sephora.it/sexual-wellness.html",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_WELLNESS|sp||as||sp|SEX|sp|TOYS_Pleasure|sp|Party"
@@ -2414,8 +2414,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "TYPES OF HAIR",
-    "page": "TYPES OF HAIR",
+    "category": "Hair Type",
+    "page": "Hair Type",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/tipi-di-capelli-c299918/",
     "file_name": "Italy_Sephora_IT_HAIR_TYPES|sp|OF|sp|HAIR_TYPES|sp|OF|sp|HAIR"
   },
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "TYPES OF HAIR",
+    "category": "Hair Type",
     "page": "Dry and brittle hair",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/tipi-di-capelli/capelli-secchi-e-sfibrati-c456/",
     "file_name": "Italy_Sephora_IT_HAIR_TYPES|sp|OF|sp|HAIR_Dry|sp|and|sp|brittle|sp|hair"
@@ -2436,7 +2436,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "TYPES OF HAIR",
+    "category": "Hair Type",
     "page": "Normal hair",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/tipi-di-capelli/capelli-normali-c455/",
     "file_name": "Italy_Sephora_IT_HAIR_TYPES|sp|OF|sp|HAIR_Normal|sp|hair"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "TYPES OF HAIR",
+    "category": "Hair Type",
     "page": "Fine hair, without volume",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/tipi-di-capelli/capelli-fini%2C-senza-volume-c460/",
     "file_name": "Italy_Sephora_IT_HAIR_TYPES|sp|OF|sp|HAIR_Fine|sp|hair,|sp|without|sp|volume"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "TYPES OF HAIR",
+    "category": "Hair Type",
     "page": "Colored and streaked hair",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/tipi-di-capelli/capelli-colorati-e-con-meches-c458/",
     "file_name": "Italy_Sephora_IT_HAIR_TYPES|sp|OF|sp|HAIR_Colored|sp|and|sp|streaked|sp|hair"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "TYPES OF HAIR",
+    "category": "Hair Type",
     "page": "Wavy and curly hair",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/tipi-di-capelli/capelli-mossi-e-ricci-c457/",
     "file_name": "Italy_Sephora_IT_HAIR_TYPES|sp|OF|sp|HAIR_Wavy|sp|and|sp|curly|sp|hair"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
-    "category": "TYPES OF HAIR",
+    "category": "Hair Type",
     "page": "Mixed-oily hair",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/tipi-di-capelli/capelli-misti-grassi-c459/",
     "file_name": "Italy_Sephora_IT_HAIR_TYPES|sp|OF|sp|HAIR_Mixed|h|oily|sp|hair"
@@ -2723,7 +2723,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
     "category": "GOOD FOR HAIRCARE",
-    "page": "Treatment of natural origin",
+    "page": "Natural Treatments",
     "page_url": "https://www.sephora.it/capelli/good-for-haircare/trattamento-di-origine-naturale-trattamento-capelli-di-origine-naturale/",
     "file_name": "Italy_Sephora_IT_HAIR_GOOD|sp|FOR|sp|HAIRCARE_Treatment|sp|of|sp|natural|sp|origin"
   },
@@ -2734,7 +2734,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
     "category": "GOOD FOR HAIRCARE",
-    "page": "Vegan treatment",
+    "page": "Vegan Treatment",
     "page_url": "https://www.sephora.it/capelli/good-for-haircare/trattamento-vegano-trattamento-capelli-vegano/",
     "file_name": "Italy_Sephora_IT_HAIR_GOOD|sp|FOR|sp|HAIRCARE_Vegan|sp|treatment"
   },
@@ -2953,8 +2953,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Good For",
-    "category": "Vegan make-up",
-    "page": "Vegan make-up",
+    "category": "Vegan Make Up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.it/good-for-make-up-vegano/",
     "file_name": "Italy_Sephora_IT_GOOD|sp|FOR_Vegan|sp|make|h|up_Vegan|sp|make|h|up"
   },
@@ -3030,8 +3030,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Good For",
-    "category": "Treatment of natural origin",
-    "page": "Treatment of natural origin",
+    "category": "Natural Treatments",
+    "page": "Natural Treatments",
     "page_url": "https://www.sephora.it/good-for-trattamenti-di-capelli-di-origine-naturale/",
     "file_name": "Italy_Sephora_IT_GOOD|sp|FOR_Treatment|sp|of|sp|natural|sp|origin_Treatment|sp|of|sp|natural|sp|origin"
   },
@@ -3041,8 +3041,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Good For",
-    "category": "Vegan hair treatment",
-    "page": "Vegan hair treatment",
+    "category": "Vegan Hair Treatment",
+    "page": "Vegan Hair Treatment",
     "page_url": "https://www.sephora.it/good-for-trattamenti-di-capelli-vegani/",
     "file_name": "Italy_Sephora_IT_GOOD|sp|FOR_Vegan|sp|hair|sp|treatment_Vegan|sp|hair|sp|treatment"
   }

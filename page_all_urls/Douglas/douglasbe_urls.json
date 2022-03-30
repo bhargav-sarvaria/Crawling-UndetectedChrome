@@ -193,9 +193,9 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "BRANDS",
     "category": "NEW BRANDS",
-    "page": "L\u00b4Oreal Professional",
+    "page": "LOreal Professional",
     "page_url": "https://www.douglas.be/nl/b/loreal-professionnel/b0209",
-    "file_name": "Belgium_DOUGLAS_BE_BRANDS_NEW|sp|BRANDS_L\u00b4Oreal|sp|Professional"
+    "file_name": "Belgium_DOUGLAS_BE_BRANDS_NEW|sp|BRANDS_LOreal|sp|Professional"
   },
   {
     "country": "Belgium",
@@ -545,7 +545,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.be/nl/c/make-up/03",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -787,7 +787,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/0304",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_NAILS"
   },
@@ -1425,7 +1425,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
     "category": "Men",
-    "page": "To shave",
+    "page": "To Shave",
     "page_url": "https://www.douglas.be/nl/c/gezicht/heren/scheren/121003",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_MEN_To|sp|shave"
   },
@@ -1810,9 +1810,9 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
     "category": "HAND CARE",
-    "page": "Handcr\u00e8me",
+    "page": "Handcreme",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/handcreme/130501",
-    "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_Handcr\u00e8me"
+    "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_Handcreme"
   },
   {
     "country": "Belgium",
@@ -1942,7 +1942,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.be/nl/c/haren/haarverzorging/1401",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2370,8 +2370,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "VITAMINS & MINERALS",
-    "page": "VITAMINS & MINERALS",
+    "category": "Vitamins & Minerals",
+    "page": "Vitamins & Minerals",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/vitaminen-mineralen/0703",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_VITAMINS|sp||as||sp|MINERALS_VITAMINS|sp||as||sp|MINERALS"
   },
@@ -2491,8 +2491,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/1502",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "bracelets",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/armbanden/150201",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_bracelets"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Chains",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/kettingen/150202",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Chains"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/1502",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_>>|sp|All|sp|categories"
@@ -2656,8 +2656,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "TO SLEEP",
-    "page": "TO SLEEP",
+    "category": "To Sleep",
+    "page": "To Sleep",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/slapen/1507",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_TO|sp|SLEEP"
   },
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "TO SLEEP",
+    "category": "To Sleep",
     "page": "Pillow sprays",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/slapen/kussen-sprays/150701",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_Pillow|sp|sprays"
@@ -2756,7 +2756,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Outlet",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.be/nl/c/sale/make-up/0510",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_MAKE|h|UP_MAKE|h|UP"
   },
@@ -2833,7 +2833,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.be/nl/c/nieuw/make-up/0903",
     "file_name": "Belgium_DOUGLAS_BE_NEW_MAKE|h|UP_MAKE|h|UP"
   },

@@ -237,9 +237,9 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "BRANDS",
     "category": "NEW BRANDS",
-    "page": "L\u00b4Oreal Professional",
+    "page": "LOreal Professional",
     "page_url": "https://www.douglas.nl/nl/b/loreal-professionnel/b0209",
-    "file_name": "Netherlands_DOUGLAS_NL_BRANDS_NEW|sp|BRANDS_L\u00b4Oreal|sp|Professional"
+    "file_name": "Netherlands_DOUGLAS_NL_BRANDS_NEW|sp|BRANDS_LOreal|sp|Professional"
   },
   {
     "country": "Netherlands",
@@ -644,7 +644,7 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.nl/nl/c/make-up/03",
     "file_name": "Netherlands_DOUGLAS_NL_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -1579,7 +1579,7 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Face",
     "category": "Men",
-    "page": "To shave",
+    "page": "To Shave",
     "page_url": "https://www.douglas.nl/nl/c/gezicht/heren/scheren/121003",
     "file_name": "Netherlands_DOUGLAS_NL_SIGHT_MEN_To|sp|shave"
   },
@@ -2096,9 +2096,9 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Body",
     "category": "HAND CARE",
-    "page": "Handcr\u00e8me",
+    "page": "Handcreme",
     "page_url": "https://www.douglas.nl/nl/c/lichaam/handverzorging/handcreme/130501",
-    "file_name": "Netherlands_DOUGLAS_NL_BODY_HAND|sp|CARE_Handcr\u00e8me"
+    "file_name": "Netherlands_DOUGLAS_NL_BODY_HAND|sp|CARE_Handcreme"
   },
   {
     "country": "Netherlands",
@@ -2240,7 +2240,7 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/1401",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2339,7 +2339,7 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.nl/nl/c/haren/haarverzorging/1401",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2548,7 +2548,7 @@
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Hair",
     "category": "Men",
-    "page": "hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.nl/nl/c/haren/heren/verzorging/140803",
     "file_name": "Netherlands_DOUGLAS_NL_HAIR_MEN_hair|sp|care"
   },
@@ -2701,8 +2701,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Health",
-    "category": "VITAMINS & MINERALS",
-    "page": "VITAMINS & MINERALS",
+    "category": "Vitamins & Minerals",
+    "page": "Vitamins & Minerals",
     "page_url": "https://www.douglas.nl/nl/c/gezondheid/vitaminen-mineralen/0703",
     "file_name": "Netherlands_DOUGLAS_NL_HEALTH_VITAMINS|sp||as||sp|MINERALS_VITAMINS|sp||as||sp|MINERALS"
   },
@@ -2833,8 +2833,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/sieraden/1502",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -2844,7 +2844,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "bracelets",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/sieraden/armbanden/150201",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_bracelets"
@@ -2855,7 +2855,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Chains",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/sieraden/kettingen/150202",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Chains"
@@ -2866,7 +2866,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "earrings",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/sieraden/oorbellen/150203",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_earrings"
@@ -2877,8 +2877,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/sieraden/1502",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -3009,8 +3009,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "TO SLEEP",
-    "page": "TO SLEEP",
+    "category": "To Sleep",
+    "page": "To Sleep",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/slapen/1507",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_TO|sp|SLEEP"
   },
@@ -3020,7 +3020,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "TO SLEEP",
+    "category": "To Sleep",
     "page": "Bedding",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/slapen/beddengoed/150702",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_bedding"
@@ -3031,7 +3031,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Home & Lifestyle",
-    "category": "TO SLEEP",
+    "category": "To Sleep",
     "page": "Pillow sprays",
     "page_url": "https://www.douglas.nl/nl/c/home-lifestyle/slapen/kussen-sprays/150701",
     "file_name": "Netherlands_DOUGLAS_NL_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_Pillow|sp|sprays"
@@ -3086,8 +3086,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Outlet",
-    "category": "Make-up",
-    "page": "Make-up",
+    "category": "Make Up",
+    "page": "Make Up",
     "page_url": "https://www.douglas.nl/nl/c/sale/make-up/0510",
     "file_name": "Netherlands_DOUGLAS_NL_OUTLET_Make|h|up_Make|h|up"
   },

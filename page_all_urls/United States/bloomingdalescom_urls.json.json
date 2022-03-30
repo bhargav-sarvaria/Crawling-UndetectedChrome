@@ -1600,8 +1600,8 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "Jewelry",
-    "page": "Jewelry",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories/jewelry?id=3619&cm_sp=NAVIGATION-_-TOP_NAV-_-3619-JEWELRY-%26-ACCESSORIES-Jewelry",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Jewelry_Jewelry"
   },
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "Jewelry",
+    "category": "Jewellery",
     "page": "Bracelets",
     "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories/designer-bracelets?id=8701&cm_sp=NAVIGATION-_-TOP_NAV-_-8701-Jewelry-Bracelets",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Jewelry_Bracelets"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "Jewelry",
+    "category": "Jewellery",
     "page": "Earrings",
     "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories/earrings?id=3628&cm_sp=NAVIGATION-_-TOP_NAV-_-3628-Jewelry-Earrings",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Jewelry_Earrings"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "Jewelry",
+    "category": "Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories/womens-fashion-necklaces?id=3629&cm_sp=NAVIGATION-_-TOP_NAV-_-3629-Jewelry-Necklaces",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Jewelry_Necklaces"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
-    "category": "Jewelry",
+    "category": "Jewellery",
     "page": "Rings",
     "page_url": "https://www.bloomingdales.com/shop/jewelry-accessories/womens-rings?id=3630&cm_sp=NAVIGATION-_-TOP_NAV-_-3630-Jewelry-Rings",
     "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Jewelry_Rings"
@@ -1931,9 +1931,9 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Jewellery",
     "category": "New",
-    "page": "Customers\u2019 Top Rated",
+    "page": "Customers Top Rated",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/jewelry-accessories?id=1096268&cm_sp=NAVIGATION-_-TOP_NAV-_-1096268-New-%26-Noteworthy-Customers%E2%80%99-Top-Rated",
-    "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_New|sp||as||sp|Noteworthy_Customers\u2019|sp|Top|sp|Rated"
+    "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_New|sp||as||sp|Noteworthy_Customers|sp|Top|sp|Rated"
   },
   {
     "country": "United States",
@@ -2382,7 +2382,7 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
     "category": "Clean Beauty",
-    "page": "Hair Care",
+    "page": "Haircare",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/hair-care?id=1150663&cm_sp=NAVIGATION-_-TOP_NAV-_-1150663-Clean-Beauty-Hair-Care",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Clean|sp|Beauty_Hair|sp|Care"
   },
@@ -2404,7 +2404,7 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
     "category": "Shop",
-    "page": "Travel Size Beauty",
+    "page": "Travel Size",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/travel-size-beauty?id=1018159&cm_sp=NAVIGATION-_-TOP_NAV-_-1018159-Also-Shop-Travel-Size-Beauty",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Also|sp|Shop_Travel|sp|Size|sp|Beauty"
   },
@@ -2437,7 +2437,7 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
     "category": "Shop",
-    "page": "Hair Care",
+    "page": "Haircare",
     "page_url": "https://www.bloomingdales.com/shop/makeup-perfume-beauty/salon-hair-products-luxury-hair-care?id=14861&cm_sp=NAVIGATION-_-TOP_NAV-_-14861-Also-Shop-Hair-Care",
     "file_name": "United|sp|States_Bloomingdales_BEAUTY_Also|sp|Shop_Hair|sp|Care"
   },
@@ -5242,7 +5242,7 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Designers",
     "category": "Designer Boutique",
-    "page": "Women's Clothing",
+    "page": "Womens Clothing",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/womens-clothing?id=1075059&cm_sp=NAVIGATION-_-TOP_NAV-_-1075059-Designer-Boutique-Women%27s-Clothing",
     "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Designer|sp|Boutique_Women|sq|s|sp|Clothing"
   },
@@ -5253,7 +5253,7 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Designers",
     "category": "Designer Boutique",
-    "page": "Women's Shoes",
+    "page": "Womens Shoes",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/womens-shoes?id=1076162&cm_sp=NAVIGATION-_-TOP_NAV-_-1076162-Designer-Boutique-Women%27s-Shoes",
     "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Designer|sp|Boutique_Women|sq|s|sp|Shoes"
   },
@@ -5330,7 +5330,7 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
     "category": "New",
-    "page": "Women's New Arrivals",
+    "page": "Womens New Arrivals",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/womens-new-arrivals?id=1036559&cm_sp=NAVIGATION-_-TOP_NAV-_-1036559-New-This-Week-Women%27s-New-Arrivals",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_New|sp|This|sp|Week_Women|sq|s|sp|New|sp|Arrivals"
   },
@@ -5560,8 +5560,8 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
-    "category": "Women's Spring Trends",
-    "page": "Women's Spring Trends",
+    "category": "Womens Spring Trends",
+    "page": "Womens Spring Trends",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/womens-spring-trends?id=1023259&cm_sp=NAVIGATION-_-TOP_NAV-_-1023259-EDITORIAL-Women%27s-Spring-Trends",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Women|sq|s|sp|Spring|sp|Trends"
   },
@@ -5571,7 +5571,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
-    "category": "Women's Spring Trends",
+    "category": "Womens Spring Trends",
     "page": "Cottagecore",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/cottagecore-clothes?id=1100959&cm_sp=NAVIGATION-_-TOP_NAV-_-1100959-Women%27s-Spring-Trends-Cottagecore",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Cottagecore"
@@ -5582,7 +5582,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
-    "category": "Women's Spring Trends",
+    "category": "Womens Spring Trends",
     "page": "Head-to-Toe Brights",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/head-to-toe-brights?id=1146961&cm_sp=NAVIGATION-_-TOP_NAV-_-1146961-Women%27s-Spring-Trends-Head-to-Toe-Brights",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Head|h|to|h|Toe|sp|Brights"
@@ -5593,7 +5593,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
-    "category": "Women's Spring Trends",
+    "category": "Womens Spring Trends",
     "page": "Raffia Accessories",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/raffia-accessories?id=1146960&cm_sp=NAVIGATION-_-TOP_NAV-_-1146960-Women%27s-Spring-Trends-Raffia-Accessories",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Raffia|sp|Accessories"
@@ -5604,7 +5604,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
-    "category": "Women's Spring Trends",
+    "category": "Womens Spring Trends",
     "page": "Retro Resort",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/bit-of-wanderlust?id=1116762&cm_sp=NAVIGATION-_-TOP_NAV-_-1116762-Women%27s-Spring-Trends-Retro-Resort",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Retro|sp|Resort"
@@ -5615,7 +5615,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
-    "category": "Women's Spring Trends",
+    "category": "Womens Spring Trends",
     "page": "Skin-Baring Styles",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/skin-baring-styles?id=1146965&cm_sp=NAVIGATION-_-TOP_NAV-_-1146965-Women%27s-Spring-Trends-Skin-Baring-Styles",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_Skin|h|Baring|sp|Styles"
@@ -5626,7 +5626,7 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Editorial",
-    "category": "Women's Spring Trends",
+    "category": "Womens Spring Trends",
     "page": "The New Glamour",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/the-new-glamour?id=1131260&cm_sp=NAVIGATION-_-TOP_NAV-_-1131260-Women%27s-Spring-Trends-The-New-Glamour",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Women|sq|s|sp|Spring|sp|Trends_The|sp|New|sp|Glamour"

@@ -6,7 +6,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje-c302/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "Trends",
+    "category": "Trending",
     "page": "MAKEUP TRENDS",
     "page_url": "https://www.sephora.es/rutina-preparacion-rostro/rutina-preparacion-rostro.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_MAKEUP|sp|TRENDS"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "Trends",
+    "category": "Trending",
     "page": "Find your mascara",
     "page_url": "https://www.sephora.es/encuentra-tu-mascara.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Find|sp|your|sp|mascara"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "Trends",
+    "category": "Trending",
     "page": "Perfect Eyebrows Guide",
     "page_url": "https://www.sephora.es/guia-beauty-cejas-perfectas.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Perfect|sp|Eyebrows|sp|Guide"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "Trends",
+    "category": "Trending",
     "page": "TOP Palettes",
     "page_url": "https://www.sephora.es/paletas-sombras-ojos-top-ventas.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_TOP|sp|Palettes"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "Trends",
+    "category": "Trending",
     "page": "Long lasting makeup",
     "page_url": "https://www.sephora.es/maquillaje-larga-duracion-1/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_Long|sp|lasting|sp|makeup"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "Trends",
+    "category": "Trending",
     "page": "The most valued",
     "page_url": "https://www.sephora.es/resenas-valoraciones.html",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKEUP|sp|TRENDS_The|sp|most|sp|valued"
@@ -677,7 +677,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "vegan makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.es/maquillaje-vegano/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_GOOD|sp|MAKE|sp|UP_vegan|sp|makeup"
   },
@@ -874,8 +874,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "TREATMENT CASES",
-    "page": "TREATMENT CASES",
+    "category": "Treatment Cases",
+    "page": "Treatment Cases",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/estuches-tratamiento-c7680/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TREATMENT|sp|CASES_TREATMENT|sp|CASES"
   },
@@ -885,8 +885,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "TREATMENT ACCESSORIES",
-    "page": "TREATMENT ACCESSORIES",
+    "category": "Treatment Accessories",
+    "page": "Treatment Accessories",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/accesorios-tratamiento-c7649/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TREATMENT|sp|ACCESSORIES_TREATMENT|sp|ACCESSORIES"
   },
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "TREATMENT ACCESSORIES",
+    "category": "Treatment Accessories",
     "page": "Cleaning devices & accessories",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/accesorios-tratamiento/dispositivos-accesorios-limpiadores-c7733/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TREATMENT|sp|ACCESSORIES_Cleaning|sp|devices|sp||as||sp|accessories"
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "TREATMENT ACCESSORIES",
+    "category": "Treatment Accessories",
     "page": "face beauty device",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/accesorios-tratamiento/dispositivo-belleza-rostro-c7653/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TREATMENT|sp|ACCESSORIES_face|sp|beauty|sp|device"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "TREATMENT ACCESSORIES",
+    "category": "Treatment Accessories",
     "page": "tweezers",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/accesorios-tratamiento/pinzas-de-depilar-c541/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TREATMENT|sp|ACCESSORIES_tweezers"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "TREATMENT ACCESSORIES",
+    "category": "Treatment Accessories",
     "page": "Makeup bag",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/accesorios-tratamiento/neceser-c297829/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TREATMENT|sp|ACCESSORIES_Makeup|sp|bag"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "TREATMENT ACCESSORIES",
+    "category": "Treatment Accessories",
     "page": "empty jars",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/accesorios-tratamiento/frascos-vacios-c297831/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TREATMENT|sp|ACCESSORIES_empty|sp|jars"
@@ -1282,7 +1282,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
     "category": "GOOD SKIN CARE",
-    "page": "vegan treatment",
+    "page": "Vegan Treatment",
     "page_url": "https://www.sephora.es/tratamiento-vegano/",
     "file_name": "Spain_Sephora_ES_TREATMENT_GOOD|sp|SKIN|sp|CARE_vegan|sp|treatment"
   },
@@ -1468,8 +1468,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "TOP SALES PERFUME",
-    "page": "TOP SALES PERFUME",
+    "category": "Perfumes Top Sales",
+    "page": "Perfumes Top Sales",
     "page_url": "https://www.sephora.es/top-ventas-perfume/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_TOP|sp|SALES|sp|PERFUME_TOP|sp|SALES|sp|PERFUME"
   },
@@ -1479,8 +1479,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "TRY... FIRST!",
-    "page": "TRY... FIRST!",
+    "category": "Try First",
+    "page": "Try First",
     "page_url": "https://www.sephora.es/prueba-primero/try-me.html",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_TRY...|sp|FIRST!_TRY...|sp|FIRST!"
   },
@@ -1490,8 +1490,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "WOMAN'S EAU THE TOILET",
-    "page": "WOMAN'S EAU THE TOILET",
+    "category": "Womens Eau de Toilette",
+    "page": "Womens Eau de Toilette",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/perfume-mujer-c309/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_WOMAN|sq|S|sp|EAU|sp|THE|sp|TOILET_WOMAN|sq|S|sp|EAU|sp|THE|sp|TOILET"
   },
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "WOMAN'S EAU THE TOILET",
+    "category": "Womens Eau de Toilette",
     "page": "eau de perfume",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/perfume-mujer/eau-de-parfum-c297810/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_WOMAN|sq|S|sp|EAU|sp|THE|sp|TOILET_eau|sp|de|sp|perfume"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "WOMAN'S EAU THE TOILET",
+    "category": "Womens Eau de Toilette",
     "page": "eau-de-toilet",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/perfume-mujer/eau-de-toilette-c297809/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_WOMAN|sq|S|sp|EAU|sp|THE|sp|TOILET_eau|h|de|h|toilet"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "WOMAN'S EAU THE TOILET",
+    "category": "Womens Eau de Toilette",
     "page": "scented body treatment",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/perfume-mujer/tratamiento-corporal-perfumado-c297814/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_WOMAN|sq|S|sp|EAU|sp|THE|sp|TOILET_scented|sp|body|sp|treatment"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "WOMAN'S EAU THE TOILET",
+    "category": "Womens Eau de Toilette",
     "page": "hair perfume",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/perfume-mujer/perfume-cabello-c297815/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_WOMAN|sq|S|sp|EAU|sp|THE|sp|TOILET_hair|sp|perfume"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "WOMAN'S EAU THE TOILET",
+    "category": "Womens Eau de Toilette",
     "page": "Eau de cologne",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/perfume-mujer/agua-de-colonia-c297812/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_WOMAN|sq|S|sp|EAU|sp|THE|sp|TOILET_Eau|sp|de|sp|cologne"
@@ -1568,7 +1568,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
     "category": "PERFUME CASES",
-    "page": "Women's perfume case",
+    "page": "Womens perfume case",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/estuches-perfume/estuche-perfume-mujer-c321/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_PERFUME|sp|CASES_Women|sq|s|sp|perfume|sp|case"
   },
@@ -1601,7 +1601,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
     "category": "PERFUME MAN",
-    "page": "men's eau de toilette",
+    "page": "men's Eau de Toilette",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume/perfume-hombre/eau-de-toilette-hombre-c297817/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_PERFUME|sp|MAN_men|sq|s|sp|eau|sp|de|sp|toilette"
   },
@@ -1798,8 +1798,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
-    "category": "XL FORMATS",
-    "page": "XL FORMATS",
+    "category": "XL",
+    "page": "XL",
     "page_url": "https://www.sephora.es/categoria-formatos-xl-perfume/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_XL|sp|FORMATS_XL|sp|FORMATS"
   },
@@ -1919,8 +1919,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
-    "category": "TOP SALES HAIR",
-    "page": "TOP SALES HAIR",
+    "category": "Hair Top Sales",
+    "page": "Hair Top Sales",
     "page_url": "https://www.sephora.es/top-ventas-cabello/",
     "file_name": "Spain_Sephora_ES_HAIR_TOP|sp|SALES|sp|HAIR_TOP|sp|SALES|sp|HAIR"
   },
@@ -1931,7 +1931,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello-c299914/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2382,7 +2382,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
     "category": "GOOD HAIRCARE",
-    "page": "vegan hair care",
+    "page": "Vegan Haircare",
     "page_url": "https://www.sephora.es/cuidado-vegano-del-cabello/",
     "file_name": "Spain_Sephora_ES_HAIR_GOOD|sp|HAIRCARE_vegan|sp|hair|sp|care"
   },
@@ -2436,8 +2436,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Body",
-    "category": "TOP SALES BODY & BATH",
-    "page": "TOP SALES BODY & BATH",
+    "category": "Body & Bath Top Sales",
+    "page": "Body & Bath Top Sales",
     "page_url": "https://www.sephora.es/top-ventas-cuerpo-bano/",
     "file_name": "Spain_Sephora_ES_BODY_TOP|sp|SALES|sp|BODY|sp||as||sp|BATH_TOP|sp|SALES|sp|BODY|sp||as||sp|BATH"
   },
@@ -3008,8 +3008,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "New",
-    "category": "vegan products",
-    "page": "vegan products",
+    "category": "Vegan Products",
+    "page": "Vegan Products",
     "page_url": "https://www.sephora.es/productos-good-for-vegan/",
     "file_name": "Spain_Sephora_ES_NEW_vegan|sp|products_vegan|sp|products"
   },
@@ -3030,8 +3030,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "New",
-    "category": "sexual health and wellness",
-    "page": "sexual health and wellness",
+    "category": "Sexual Wellness",
+    "page": "Sexual Wellness",
     "page_url": "https://www.sephora.es/salud-y-bienestar-sexual.html",
     "file_name": "Spain_Sephora_ES_NEW_sexual|sp|health|sp|and|sp|wellness_sexual|sp|health|sp|and|sp|wellness"
   },
@@ -3206,8 +3206,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Good For",
-    "category": "vegan hair care",
-    "page": "vegan hair care",
+    "category": "Vegan Haircare",
+    "page": "Vegan Haircare",
     "page_url": "https://www.sephora.es/cuidado-vegano-del-cabello/",
     "file_name": "Spain_Sephora_ES_GOOD|sp|FOR_vegan|sp|hair|sp|care_vegan|sp|hair|sp|care"
   },
@@ -3228,8 +3228,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Good For",
-    "category": "vegan makeup",
-    "page": "vegan makeup",
+    "category": "Vegan Make Up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.es/maquillaje-vegano/",
     "file_name": "Spain_Sephora_ES_GOOD|sp|FOR_vegan|sp|makeup_vegan|sp|makeup"
   },
@@ -3250,8 +3250,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Good For",
-    "category": "vegan treatment",
-    "page": "vegan treatment",
+    "category": "Vegan Treatment",
+    "page": "Vegan Treatment",
     "page_url": "https://www.sephora.es/tratamiento-vegano/",
     "file_name": "Spain_Sephora_ES_GOOD|sp|FOR_vegan|sp|treatment_vegan|sp|treatment"
   },
@@ -3261,8 +3261,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Good For",
-    "category": "Treatments with natural ingredients",
-    "page": "Treatments with natural ingredients",
+    "category": "Natural Treatments",
+    "page": "Natural Treatments",
     "page_url": "https://www.sephora.es/tratamiento-natural/",
     "file_name": "Spain_Sephora_ES_GOOD|sp|FOR_Treatments|sp|with|sp|natural|sp|ingredients_Treatments|sp|with|sp|natural|sp|ingredients"
   },

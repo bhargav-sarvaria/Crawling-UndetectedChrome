@@ -39,7 +39,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Promotions",
     "category": "PERFUME SALE",
-    "page": "Women's perfume sale",
+    "page": "Womens perfume sale",
     "page_url": "https://www.douglas.hu/c/akciok/parfum-akcio/noi-parfum-akcio/",
     "file_name": "Hungary_DOUGLAS_HU_PROMOTIONS_PERFUME|sp|SALE_Women|sq|s|sp|perfume|sp|sale"
   },
@@ -236,8 +236,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
-    "page": "WOMEN'S PERFUMES AND ACCESSORIES",
+    "category": "Womens PERFUMES AND ACCESSORIES",
+    "page": "Womens PERFUMES AND ACCESSORIES",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES"
   },
@@ -247,8 +247,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
-    "page": "Women's scents",
+    "category": "Womens PERFUMES AND ACCESSORIES",
+    "page": "Womens scents",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/noi-illatok/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Women|sq|s|sp|scents"
   },
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
+    "category": "Womens PERFUMES AND ACCESSORIES",
     "page": "Deodorants",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/dezodorok/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Deodorants"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
+    "category": "Womens PERFUMES AND ACCESSORIES",
     "page": "Body care",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Body|sp|care"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
+    "category": "Womens PERFUMES AND ACCESSORIES",
     "page": "Shower gel",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/tusfurdo/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Shower|sp|gel"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
+    "category": "Womens PERFUMES AND ACCESSORIES",
     "page": "Sets",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/szettek/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Sets"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
+    "category": "Womens PERFUMES AND ACCESSORIES",
     "page": "Scented accessories",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/illatositott-kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Scented|sp|accessories"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
-    "category": "WOMEN'S PERFUMES AND ACCESSORIES",
+    "category": "Womens PERFUMES AND ACCESSORIES",
     "page": "Soap",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/szappan/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Soap"
@@ -589,9 +589,9 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Facial Care",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hu/c/apolas/arcapolas/",
-    "file_name": "Hungary_DOUGLAS_HU_CARE_FACIAL|sp|CARE_\u00bbAll|sp|categories"
+    "file_name": "Hungary_DOUGLAS_HU_CARE_FACIAL|sp|CARE_All|sp|categories"
   },
   {
     "country": "Hungary",
@@ -1117,9 +1117,9 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
     "category": "ARC",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hu/c/smink/arc/",
-    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ARC_\u00bbAll|sp|categories"
+    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ARC_All|sp|categories"
   },
   {
     "country": "Hungary",
@@ -1557,9 +1557,9 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
     "category": "BRUSHES, SPONGES, APPLICATORS",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hu/c/smink/ecsetek-szivacsok-applikatorok/",
-    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_BRUSHES,|sp|SPONGES,|sp|APPLICATORS_\u00bbAll|sp|categories"
+    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_BRUSHES,|sp|SPONGES,|sp|APPLICATORS_All|sp|categories"
   },
   {
     "country": "Hungary",
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1974,8 +1974,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/ekszerek/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Bracelet",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/ekszerek/karkoto/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Bracelet"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Earrings",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/ekszerek/fulbevalo/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Earrings"
@@ -2382,7 +2382,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Clean Beauty",
     "category": "Perfumes",
-    "page": "Women's scents",
+    "page": "Womens scents",
     "page_url": "https://www.douglas.hu/c/clean-beauty/parfum/noi-illatok/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_PERFUME_Women|sq|s|sp|scents"
   },
@@ -2437,7 +2437,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Clean Beauty",
     "category": "Care",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.hu/c/clean-beauty/apolas/hajapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_CARE_Hair|sp|care"
   },

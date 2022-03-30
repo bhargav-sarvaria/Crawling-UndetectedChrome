@@ -292,7 +292,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Perfumes",
     "category": "SETS",
-    "page": "Women's sets",
+    "page": "Womens sets",
     "page_url": "https://douglas.bg/parfjumi/akcenti/damski-komplekti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PERFUMES_SETS_Women|sq|s|sp|sets"
   },
@@ -1193,10 +1193,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
-    "page": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
+    "page": "SPA & WELL-BEING",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_SPA|sp|\u0418|sp|WELL|h|BEING"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_SPA|sp|&|sp|WELL|h|BEING"
   },
   {
     "country": "Bulgaria",
@@ -1204,10 +1204,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Aroma of candles",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/aroma-sveschi?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Aroma|sp|of|sp|candles"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Aroma|sp|of|sp|candles"
   },
   {
     "country": "Bulgaria",
@@ -1215,10 +1215,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Soaps and bath",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/sapuni-i-banja?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Soaps|sp|and|sp|bath"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Soaps|sp|and|sp|bath"
   },
   {
     "country": "Bulgaria",
@@ -1226,10 +1226,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Body oils",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/masla-za-tjalo?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Body|sp|oils"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Body|sp|oils"
   },
   {
     "country": "Bulgaria",
@@ -1237,10 +1237,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Scented sticks for the home",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/aromatni-pr-chici-za-doma?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Scented|sp|sticks|sp|for|sp|the|sp|home"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Scented|sp|sticks|sp|for|sp|the|sp|home"
   },
   {
     "country": "Bulgaria",
@@ -1248,10 +1248,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "All categories",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_All|sp|categories"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_All|sp|categories"
   },
   {
     "country": "Bulgaria",
@@ -1502,7 +1502,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1656,7 +1656,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "FOR MAN",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://douglas.bg/kosa/za-m-zhe/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_FOR|sp|MAN_Hair|sp|care"
   },

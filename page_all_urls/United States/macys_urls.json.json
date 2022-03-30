@@ -270,7 +270,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Mission Every One",
-    "page": "Sustainability",
+    "page": "Sustainable",
     "page_url": "https://www.macys.com/s/sustainability/?cm_sp=us_hdr-_-own-your-style-_-sustainability_COL3",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Sustainability"
   },
@@ -281,7 +281,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Mission Every One",
-    "page": "Women'S History Month",
+    "page": "Womens History Month",
     "page_url": "https://www.macys.com/s/purpose/?cm_sp=us_hdr-_-own-your-style-_-women%27s-history-month_COL3",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Women|sq|S|sp|History|sp|Month"
   },
@@ -292,7 +292,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Contemporary",
-    "page": "Women'S",
+    "page": "Womens",
     "page_url": "https://www.macys.com/s/contemporary/browse/?gender=women&id=315756&cm_sp=us_hdr-_-own-your-style-_-women%27s-_COL3",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Women|sq|S"
   },
@@ -325,7 +325,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
     "category": "Womens Clothing",
-    "page": "All Women'S Clothing",
+    "page": "All Womens Clothing",
     "page_url": "https://www.macys.com/shop/womens-clothing/all-womens-clothing?id=188851&cm_sp=us_hdr-_-women-_-188851_all-women%27s-clothing_COL1",
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_All|sp|Women|sq|S|sp|Clothing"
   },
@@ -3426,8 +3426,8 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
-    "page": "All Women'S Shoes",
+    "category": "Womens Shoes",
+    "page": "All Womens Shoes",
     "page_url": "https://www.macys.com/shop/shoes/all-womens-shoes?id=56233&cm_sp=us_hdr-_-shoes-_-56233_all-women%27s-shoes_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_All|sp|Women|sq|S|sp|Shoes"
   },
@@ -3437,7 +3437,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "New Arrivals",
     "page_url": "https://www.macys.com/shop/shoes/new-arrivals?id=167042&cm_sp=us_hdr-_-shoes-_-167042_new-arrivals_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_New|sp|Arrivals"
@@ -3448,7 +3448,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Athletic Shoes & Sneakers",
     "page_url": "https://www.macys.com/shop/shoes/sneakers?id=26499&cm_sp=us_hdr-_-shoes-_-26499_athletic-shoes-%26-sneakers_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Athletic|sp|Shoes|sp||as||sp|Sneakers"
@@ -3459,7 +3459,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Boots",
     "page_url": "https://www.macys.com/shop/shoes/boots?id=25122&cm_sp=us_hdr-_-shoes-_-25122_boots_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Boots"
@@ -3470,7 +3470,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Booties",
     "page_url": "https://www.macys.com/shop/shoes/booties?id=13616&cm_sp=us_hdr-_-shoes-_-13616_booties_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Booties"
@@ -3481,7 +3481,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Comfort Shoes",
     "page_url": "https://www.macys.com/shop/shoes/comfort-shoes?id=27902&cm_sp=us_hdr-_-shoes-_-27902_comfort-shoes_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Comfort|sp|Shoes"
@@ -3492,7 +3492,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Evening & Wedding",
     "page_url": "https://www.macys.com/shop/shoes/bridal-evening?id=13614&cm_sp=us_hdr-_-shoes-_-13614_evening-%26-wedding_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Evening|sp||as||sp|Wedding"
@@ -3503,7 +3503,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Flats",
     "page_url": "https://www.macys.com/shop/shoes/flats?id=50295&cm_sp=us_hdr-_-shoes-_-50295_flats_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Flats"
@@ -3514,7 +3514,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Heels & Pumps",
     "page_url": "https://www.macys.com/shop/shoes/high-heels?id=71123&cm_sp=us_hdr-_-shoes-_-71123_heels-%26-pumps_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Heels|sp||as||sp|Pumps"
@@ -3525,7 +3525,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Mules & Slides",
     "page_url": "https://www.macys.com/shop/shoes/mules-slides?id=169950&cm_sp=us_hdr-_-shoes-_-169950_mules-%26-slides_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Mules|sp||as||sp|Slides"
@@ -3536,7 +3536,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Sandals",
     "page_url": "https://www.macys.com/shop/shoes/sandals?id=17570&cm_sp=us_hdr-_-shoes-_-17570_sandals_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Sandals"
@@ -3547,7 +3547,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Shoe Care & Accessories",
     "page_url": "https://www.macys.com/shop/shoes/shoe-accessories?id=228696&cm_sp=us_hdr-_-shoes-_-228696_shoe-care-%26-accessories_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Shoe|sp|Care|sp||as||sp|Accessories"
@@ -3558,7 +3558,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Slippers",
     "page_url": "https://www.macys.com/shop/shoes/slippers?id=16108&cm_sp=us_hdr-_-shoes-_-16108_slippers_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Slippers"
@@ -3569,7 +3569,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Women's Shoes",
+    "category": "Womens Shoes",
     "page": "Wedges",
     "page_url": "https://www.macys.com/shop/shoes/wedges?id=13808&cm_sp=us_hdr-_-shoes-_-13808_wedges_COL1",
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Wedges"
@@ -3855,7 +3855,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Wedding & Engagement Jewelry",
+    "category": "Wedding  Jewelry",
     "page": "Engagement Rings",
     "page_url": "https://www.macys.com/shop/jewelry-watches/engagement-rings?id=200053&cm_sp=us_hdr-_-jewelry-_-200053_engagement-rings_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Wedding|sp||as||sp|Engagement|sp|Jewelry_Engagement|sp|Rings"
@@ -3866,7 +3866,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Wedding & Engagement Jewelry",
+    "category": "Wedding  Jewelry",
     "page": "Wedding Bands",
     "page_url": "https://www.macys.com/shop/jewelry-watches/wedding-bands?id=200153&cm_sp=us_hdr-_-jewelry-_-200153_wedding-bands_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Wedding|sp||as||sp|Engagement|sp|Jewelry_Wedding|sp|Bands"
@@ -3966,7 +3966,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
     "category": "Watches",
-    "page": "Women'S Watches",
+    "page": "Womens Watches",
     "page_url": "https://www.macys.com/shop/jewelry-watches/womens-watches?id=57385&cm_sp=us_hdr-_-jewelry-_-57385_women%27s-watches_COL2",
     "file_name": "United|sp|States_Macys_Jewelry_Watches_Women|sq|S|sp|Watches"
   },
@@ -4438,8 +4438,8 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Women's Sale",
-    "page": "Women'S Clothing",
+    "category": "Womens Sale",
+    "page": "Womens Clothing",
     "page_url": "https://www.macys.com/shop/womens-clothing/womens-sale-clearance?id=10066&cm_sp=us_hdr-_-sale-_-10066_women%27s-clothing_COL1",
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Women|sq|S|sp|Clothing"
   },
@@ -4449,8 +4449,8 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Women's Sale",
-    "page": "Women'S Shoes",
+    "category": "Womens Sale",
+    "page": "Womens Shoes",
     "page_url": "https://www.macys.com/shop/shoes/sale-clearance?id=13604&cm_sp=us_hdr-_-sale-_-13604_women%27s-shoes-_COL1",
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Women|sq|S|sp|Shoes"
   },
@@ -4460,7 +4460,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Women's Sale",
+    "category": "Womens Sale",
     "page": "Handbags & Accessories",
     "page_url": "https://www.macys.com/shop/handbags-accessories/sale-clearance?id=28273&cm_sp=us_hdr-_-sale-_-28273_handbags-%26-accessories_COL1",
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Handbags|sp||as||sp|Accessories"
@@ -4471,8 +4471,8 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Women's Sale",
-    "page": "Jewelry",
+    "category": "Womens Sale",
+    "page": "Jewellery",
     "page_url": "https://www.macys.com/shop/jewelry-watches/jewelry-sale/Gender/Women?id=22000&cm_sp=us_hdr-_-sale-_-jewelry_COL1",
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Jewelry"
   },
@@ -4482,7 +4482,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Women's Sale",
+    "category": "Womens Sale",
     "page": "Watches",
     "page_url": "https://www.macys.com/shop/jewelry-watches/watch-sale/Gender/Women?id=28067&edge=hybrid&cm_sp=us_hdr-_-sale-_-watches_COL1",
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Watches"
@@ -4493,7 +4493,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Women's Sale",
+    "category": "Womens Sale",
     "page": "Beauty",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/makeup-sale-discount?id=66190&cm_sp=us_hdr-_-sale-_-66190_beauty-_COL1",
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Beauty"

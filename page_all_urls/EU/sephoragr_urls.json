@@ -501,7 +501,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.gr/shop/makigiaz/nuxia-c345/",
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_NAILS"
   },
@@ -754,7 +754,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfumes",
     "category": "PERFUME SET",
-    "page": "Women's Set",
+    "page": "Womens Set",
     "page_url": "https://www.sephora.gr/shop/aromata/set-aromaton/gunaikeia-set-c321/",
     "file_name": "Greece_Sephora_GR_PERFUMES_PERFUME|sp|SET_Women|sq|s|sp|Set"
   },
@@ -1227,7 +1227,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
     "category": "Masks",
-    "page": "MASKS",
+    "page": "Masks",
     "page_url": "https://www.sephora.gr/shop/prosopo/maskes-c7685/",
     "file_name": "Greece_Sephora_GR_FACE_MASKS_MASKS"
   },

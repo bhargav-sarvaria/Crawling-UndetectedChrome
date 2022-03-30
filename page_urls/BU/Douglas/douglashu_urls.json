@@ -501,9 +501,9 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Facial Care",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hu/c/apolas/arcapolas/",
-    "file_name": "Hungary_DOUGLAS_HU_CARE_FACIAL|sp|CARE_\u00bbAll|sp|categories"
+    "file_name": "Hungary_DOUGLAS_HU_CARE_FACIAL|sp|CARE_All|sp|categories"
   },
   {
     "country": "Hungary",
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "BODY CARE",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_BODY|sp|CARE"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Care",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/apolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Care"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Shower gels, cleaners",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/tusfurdok-tisztitok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Shower|sp|gels,|sp|cleaners"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorants",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/dezodorok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Deodorants"
@@ -555,7 +555,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Baby Care",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/baba-apolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Baby|sp|care"
@@ -566,7 +566,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Sets",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/szettek/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Sets"
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Anti-cellulite / Slimming creams, firming",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/cellulitisz-elleni-karcsusito-kremek-feszesitok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Anti|h|cellulite|sp||fs||sp|Slimming|sp|creams,|sp|firming"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Accessories",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/kiegeszitok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_Accessories"
@@ -665,8 +665,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "SUNBATHING",
-    "page": "SUNBATHING",
+    "category": "Sun Bathing",
+    "page": "Sun Bathing",
     "page_url": "https://www.douglas.hu/c/apolas/napozok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_SUNBATHING_SUNBATHING"
   },
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Aftersun",
     "page_url": "https://www.douglas.hu/c/apolas/napozok/aftersun/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_SUNBATHING_Aftersun"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Sunscreens for the face",
     "page_url": "https://www.douglas.hu/c/apolas/napozok/fenyvedok-arcra/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_SUNBATHING_Sunscreens|sp|for|sp|the|sp|face"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self tanning",
     "page_url": "https://www.douglas.hu/c/apolas/napozok/onbarnito/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_SUNBATHING_Self|sp|tanning"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Sunbathing",
     "page_url": "https://www.douglas.hu/c/apolas/napozok/napozok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_SUNBATHING_Sunbathing"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Sets",
     "page_url": "https://www.douglas.hu/c/apolas/napozok/szettek/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_SUNBATHING_Sets"
@@ -1029,9 +1029,9 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
     "category": "ARC",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hu/c/smink/arc/",
-    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ARC_\u00bbAll|sp|categories"
+    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_ARC_All|sp|categories"
   },
   {
     "country": "Hungary",
@@ -1469,9 +1469,9 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Make Up",
     "category": "BRUSHES, SPONGES, APPLICATORS",
-    "page": "\u00bbAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hu/c/smink/ecsetek-szivacsok-applikatorok/",
-    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_BRUSHES,|sp|SPONGES,|sp|APPLICATORS_\u00bbAll|sp|categories"
+    "file_name": "Hungary_DOUGLAS_HU_MAKEUP_BRUSHES,|sp|SPONGES,|sp|APPLICATORS_All|sp|categories"
   },
   {
     "country": "Hungary",
@@ -1875,8 +1875,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -1886,8 +1886,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/ekszerek/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Bracelet",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/ekszerek/karkoto/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Bracelet"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Earrings",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/ekszerek/fulbevalo/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Earrings"

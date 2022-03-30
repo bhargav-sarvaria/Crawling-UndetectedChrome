@@ -358,9 +358,9 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sale",
     "category": "CTAS 3",
-    "page": "TOP DRESSES UNDER \u00a320",
+    "page": "TOP DRESSES UNDER GBP20",
     "page_url": "https://www.asos.com/women/ctas/fashion-online-1/cat/?cid=13489&nlid=ww|sale|ctas+3|top+dresses+under+%C2%A320",
-    "file_name": "United|sp|Kingdom_ASOS_Women_Sale_CTAS|sp|3_TOP|sp|DRESSES|sp|UNDER|sp|\u00a320"
+    "file_name": "United|sp|Kingdom_ASOS_Women_Sale_CTAS|sp|3_TOP|sp|DRESSES|sp|UNDER|sp|GBP20"
   },
   {
     "country": "United Kingdom",
@@ -369,9 +369,9 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sale",
     "category": "CTAS 3",
-    "page": "ACTIVEWEAR UNDER \u00a320",
+    "page": "ACTIVEWEAR UNDER GBP20",
     "page_url": "https://www.asos.com/women/ctas/fashion-online-22/cat/?cid=28292&nlid=ww|sale|ctas+3|activewear+under+%C2%A320",
-    "file_name": "United|sp|Kingdom_ASOS_Women_Sale_CTAS|sp|3_ACTIVEWEAR|sp|UNDER|sp|\u00a320"
+    "file_name": "United|sp|Kingdom_ASOS_Women_Sale_CTAS|sp|3_ACTIVEWEAR|sp|UNDER|sp|GBP20"
   },
   {
     "country": "United Kingdom",
@@ -468,7 +468,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_New in",
     "category": "NEW PRODUCTS",
-    "page": "Trending now",
+    "page": "Trending Now",
     "page_url": "https://www.asos.com/women/ctas/fashion-online-4/cat/?cid=13497&nlid=ww|new+in|new+products|trending+now",
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Trending|sp|now"
   },
@@ -1986,7 +1986,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Face + Body",
     "category": "SHOP BY PRODUCT",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.asos.com/women/face-body/hair-care/cat/?cid=5021&nlid=ww|face+%2B+body|shop+by+product|hair+care",
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Hair|sp|care"
   },
@@ -3196,9 +3196,9 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sale",
     "category": "CTAS 3",
-    "page": "HOODIES & SWEATSHIRTS UNDER \u00a320",
+    "page": "HOODIES & SWEATSHIRTS UNDER GBP20",
     "page_url": "https://www.asos.com/men/sale/ctas/sale-edit-1/cat/?cid=28044&nlid=mw|sale|ctas+3|hoodies+%26+sweatshirts+under+%C2%A320",
-    "file_name": "United|sp|Kingdom_ASOS_Men_Sale_CTAS|sp|3_HOODIES|sp||as||sp|SWEATSHIRTS|sp|UNDER|sp|\u00a320"
+    "file_name": "United|sp|Kingdom_ASOS_Men_Sale_CTAS|sp|3_HOODIES|sp||as||sp|SWEATSHIRTS|sp|UNDER|sp|GBP20"
   },
   {
     "country": "United Kingdom",
@@ -3207,9 +3207,9 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sale",
     "category": "CTAS 3",
-    "page": "ACTIVEWEAR UNDER \u00a320",
+    "page": "ACTIVEWEAR UNDER GBP20",
     "page_url": "https://www.asos.com/men/ctas/fashion-online-16/cat/?cid=20140&nlid=mw|sale|ctas+3|activewear+under+%C2%A320",
-    "file_name": "United|sp|Kingdom_ASOS_Men_Sale_CTAS|sp|3_ACTIVEWEAR|sp|UNDER|sp|\u00a320"
+    "file_name": "United|sp|Kingdom_ASOS_Men_Sale_CTAS|sp|3_ACTIVEWEAR|sp|UNDER|sp|GBP20"
   },
   {
     "country": "United Kingdom",
@@ -3306,7 +3306,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_New in",
     "category": "NEW PRODUCTS",
-    "page": "Trending now",
+    "page": "Trending Now",
     "page_url": "https://www.asos.com/men/ctas/fashion-online-2/cat/?cid=13500&nlid=mw|new+in|new+products|trending+now",
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Trending|sp|now"
   },
@@ -4747,7 +4747,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Face + Body",
     "category": "SHOP BY PRODUCT",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.asos.com/men/face-body/hair-care/cat/?cid=27143&nlid=mw|face+%2B+body|shop+by+product|hair+care",
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Hair|sp|care"
   },
@@ -4868,9 +4868,9 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Face + Body",
     "category": "SHOP BY BRAND",
-    "page": "L\u2019Oreal Men Expert",
+    "page": "LOreal Men Expert",
     "page_url": "https://www.asos.com/men/a-to-z-of-brands/loreal-men-expert/cat/?cid=20108&nlid=mw|face+%2B+body|shop+by+brand|l%E2%80%99oreal+men+expert",
-    "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_L\u2019Oreal|sp|Men|sp|Expert"
+    "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_LOreal|sp|Men|sp|Expert"
   },
   {
     "country": "United Kingdom",
@@ -4923,7 +4923,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Face + Body",
     "category": "DESKTOP ONLY CTAS (LEFT)",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.asos.com/men/face-body/hair-care/cat/?cid=27143&nlid=mw|face+%2B+body|desktop+only+ctas+(left)|hair+care",
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_HAIR|sp|CARE"
   },
@@ -4934,9 +4934,9 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Face + Body",
     "category": "DESKTOP ONLY CTAS (LEFT)",
-    "page": "L\u2019OREAL MEN EXPERT",
+    "page": "LOREAL MEN EXPERT",
     "page_url": "https://www.asos.com/men/a-to-z-of-brands/loreal-men-expert/cat/?cid=20108&nlid=mw|face+%2B+body|desktop+only+ctas+(left)|l%E2%80%99oreal+men+expert",
-    "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_L\u2019OREAL|sp|MEN|sp|EXPERT"
+    "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_LOREAL|sp|MEN|sp|EXPERT"
   },
   {
     "country": "United Kingdom",

@@ -72,7 +72,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Vegan makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.pl/makijaz/good-make-up/makijaz-weganski-weganskie-formuly/",
     "file_name": "Poland_Sephora_PL_MAKEUP_GOOD|sp|MAKE|sp|UP_Vegan|sp|makeup"
   },
@@ -413,7 +413,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/paznokcie-c345/",
     "file_name": "Poland_Sephora_PL_MAKEUP_NAILS_NAILS"
   },
@@ -1150,7 +1150,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Perfumes",
     "category": "KITS",
-    "page": "Women's",
+    "page": "Womens",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/perfumy/zestawy/damskie-c321/",
     "file_name": "Poland_Sephora_PL_PERFUME_KITS_Women|sq|s"
   },
@@ -1337,7 +1337,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
     "category": "GOOD SKINCARE",
-    "page": "Vegan care",
+    "page": "Vegan Care",
     "page_url": "https://www.sephora.pl/pielegnacja-twarzy/good-skincare/pielegnacja-weganska-weganskie-formuly/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_GOOD|sp|SKINCARE_Vegan|sp|care"
   },
@@ -1359,7 +1359,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
     "category": "Masks",
-    "page": "MASKS",
+    "page": "Masks",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/maseczki-c7685/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_MASKS_MASKS"
   },
@@ -1391,8 +1391,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
-    "page": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
+    "page": "Types of Products",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow-c299801/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_TYPES|sp|OF|sp|PRODUCTS"
   },
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Day creams",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/kremy-na-dzien-c299901/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Day|sp|creams"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Night creams",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/kremy-na-noc-c299902/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Night|sp|creams"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Serum",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/serum-c299903/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Serum"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Mouth",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/usta-c299904/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Mouth"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Eyes",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/oczy-c299905/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Eyes"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Neck and cleavage",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/szyja-i-dekolt-c299906/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Neck|sp|and|sp|cleavage"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Peels and exfoliating products",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/peelingi-i-produkty-zluszczajace-c7684/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Peels|sp|and|sp|exfoliating|sp|products"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "TYPES OF PRODUCTS",
+    "category": "Types of Products",
     "page": "Natural care",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/pielegnacja-twarzy/rodzaje-produktow/pielegnacja-naturalna-c7792/",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_TYPES|sp|OF|sp|PRODUCTS_Natural|sp|care"
@@ -1930,8 +1930,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "WAR WITH IMPERFECTIONS!",
-    "page": "WAR WITH IMPERFECTIONS!",
+    "category": "War With Imperfections",
+    "page": "War With Imperfections",
     "page_url": "https://www.sephora.pl/wojna-z-niedoskonalosciami.html",
     "file_name": "Poland_Sephora_PL_FACE|sp|CARE_WAR|sp|WITH|sp|IMPERFECTIONS!_WAR|sp|WITH|sp|IMPERFECTIONS!"
   },
@@ -2019,7 +2019,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
     "category": "GOOD BODYCARE",
-    "page": "Vegan body care",
+    "page": "Vegan Bodycare",
     "page_url": "https://www.sephora.pl/cialo-i-kapiel/good-bodycare/weganska-pielegnacja-ciala-weganskie--formuly/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_GOOD|sp|BODYCARE_Vegan|sp|body|sp|care"
   },
@@ -2514,7 +2514,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
     "category": "GOOD HAIRCARE",
-    "page": "Vegan hair care",
+    "page": "Vegan Haircare",
     "page_url": "https://www.sephora.pl/wlosy/good-haircare/weganska-pielegnacja-wlosow-weganskie---formuly/",
     "file_name": "Poland_Sephora_PL_HAIR_GOOD|sp|HAIRCARE_Vegan|sp|hair|sp|care"
   },
@@ -2536,7 +2536,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/pielegnacja-wlosow-c299914/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2623,8 +2623,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "TYPE OF HAIR",
-    "page": "TYPE OF HAIR",
+    "category": "Hair Type",
+    "page": "Hair Type",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/rodzaj-wlosow-c299918/",
     "file_name": "Poland_Sephora_PL_HAIR_TYPE|sp|OF|sp|HAIR_TYPE|sp|OF|sp|HAIR"
   },
@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "TYPE OF HAIR",
+    "category": "Hair Type",
     "page": "Normal",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/rodzaj-wlosow/normalne-c455/",
     "file_name": "Poland_Sephora_PL_HAIR_TYPE|sp|OF|sp|HAIR_Normal"
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "TYPE OF HAIR",
+    "category": "Hair Type",
     "page": "Dry and brittle",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/rodzaj-wlosow/suche-i-lamliwe-c456/",
     "file_name": "Poland_Sephora_PL_HAIR_TYPE|sp|OF|sp|HAIR_Dry|sp|and|sp|brittle"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "TYPE OF HAIR",
+    "category": "Hair Type",
     "page": "Curly",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/rodzaj-wlosow/krecone-c457/",
     "file_name": "Poland_Sephora_PL_HAIR_TYPE|sp|OF|sp|HAIR_Curly"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "TYPE OF HAIR",
+    "category": "Hair Type",
     "page": "Dyed and brightened",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/rodzaj-wlosow/farbowane-i-rozjasniane-c458/",
     "file_name": "Poland_Sephora_PL_HAIR_TYPE|sp|OF|sp|HAIR_Dyed|sp|and|sp|brightened"
@@ -2678,7 +2678,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "TYPE OF HAIR",
+    "category": "Hair Type",
     "page": "Hair prone to oily",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/rodzaj-wlosow/wlosy-ze-sklonnoscia-do-przetluszczania-c459/",
     "file_name": "Poland_Sephora_PL_HAIR_TYPE|sp|OF|sp|HAIR_Hair|sp|prone|sp|to|sp|oily"
@@ -2689,7 +2689,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
-    "category": "TYPE OF HAIR",
+    "category": "Hair Type",
     "page": "No volume",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/rodzaj-wlosow/bez-objetosci-c460/",
     "file_name": "Poland_Sephora_PL_HAIR_TYPE|sp|OF|sp|HAIR_No|sp|volume"
@@ -2943,7 +2943,7 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Hair",
     "category": "Hair",
-    "page": "hair care",
+    "page": "Haircare",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/wlosy/pielegnacja-wlosow-c297832/",
     "file_name": "Poland_Sephora_PL_HAIR_HAIR_hair|sp|care"
   },
@@ -3122,17 +3122,6 @@
     "page": "Care",
     "page_url": "https://www.sephora.pl/wyprzedaz-pielegnacja/",
     "file_name": "Poland_Sephora_PL_SALE_Care_Care"
-  },
-  {
-    "country": "Poland",
-    "retailer": "Sephora_PL",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Poland/Sephora_PL/",
-    "department": "Sale",
-    "category": "up to -50% on Urban Decay",
-    "page": "up to -50% on Urban Decay",
-    "page_url": "https://www.sephora.pl/promocja-urban-decay/",
-    "file_name": "Poland_Sephora_PL_SALE_up|sp|to|sp||h|50%|sp|on|sp|Urban|sp|Decay_up|sp|to|sp||h|50%|sp|on|sp|Urban|sp|Decay"
   },
   {
     "country": "Poland",
@@ -3426,8 +3415,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Good For",
-    "category": "Vegan makeup",
-    "page": "Vegan makeup",
+    "category": "Vegan Make Up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.pl/makijaz/good-make-up/makijaz-weganski-weganskie-formuly/",
     "file_name": "Poland_Sephora_PL_GOOD|sp|FOR_Vegan|sp|makeup_Vegan|sp|makeup"
   },
@@ -3492,8 +3481,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Good For",
-    "category": "Vegan care",
-    "page": "Vegan care",
+    "category": "Vegan Care",
+    "page": "Vegan Care",
     "page_url": "https://www.sephora.pl/pielegnacja-twarzy/good-skincare/pielegnacja-weganska-weganskie-formuly/",
     "file_name": "Poland_Sephora_PL_GOOD|sp|FOR_Vegan|sp|care_Vegan|sp|care"
   },

@@ -39,9 +39,9 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "BRANDS",
     "category": "Top Brands",
-    "page": "Lanc\u00f4me",
+    "page": "Lancome",
     "page_url": "https://www.douglas.pl/pl/b/lancome/b0114",
-    "file_name": "Poland_DOUGLAS_PL_BRANDS_TOP|sp|BRANDS_Lanc\u00f4me"
+    "file_name": "Poland_DOUGLAS_PL_BRANDS_TOP|sp|BRANDS_Lancome"
   },
   {
     "country": "Poland",
@@ -138,9 +138,9 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "BRANDS",
     "category": "NEW BRANDS",
-    "page": "L\u00b4Oreal Professionnel",
+    "page": "LOreal Professionnel",
     "page_url": "https://www.douglas.pl/pl/b/loreal-professionnel/b0209",
-    "file_name": "Poland_DOUGLAS_PL_BRANDS_NEW|sp|BRANDS_L\u00b4Oreal|sp|Professionnel"
+    "file_name": "Poland_DOUGLAS_PL_BRANDS_NEW|sp|BRANDS_LOreal|sp|Professionnel"
   },
   {
     "country": "Poland",
@@ -192,8 +192,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
-    "page": "WOMEN'S PERFUME",
+    "category": "Womens Perfumes",
+    "page": "Womens PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/0101",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
   },
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Perfume kits",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/zestawy-perfum/010111",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Perfume|sp|kits"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Deodorants",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/dezodoranty/010105",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Deodorants"
@@ -225,7 +225,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Womens Perfumes",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/perfumy/010106",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Women|sq|s|sp|perfumes"
@@ -236,7 +236,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Body lotions",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/pielegnacja-ciala/010108",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Body|sp|lotions"
@@ -247,7 +247,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Shower gels",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/zele-pod-prysznic/010107",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Shower|sp|gels"
@@ -258,8 +258,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
-    "page": "WOMEN'S PERFUME",
+    "category": "Womens Perfumes",
+    "page": "Womens PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/0101",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
   },
@@ -600,7 +600,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/0304",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_NAILS"
   },
@@ -644,7 +644,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/0304",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_NAILS"
   },
@@ -1491,7 +1491,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/1401",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1535,7 +1535,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/1401",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1766,7 +1766,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
     "category": "Men",
-    "page": "hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/dla-mezczyzn/pielegnacja-wlosow/140803",
     "file_name": "Poland_DOUGLAS_PL_HAIR_MEN_hair|sp|care"
   },
@@ -1864,8 +1864,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/1502",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/naszyjniki/150202",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Necklaces"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Earrings",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/kolczyki/150203",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Earrings"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Rings",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/pierscionki/150204",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Rings"
@@ -1908,8 +1908,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/1502",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -2062,8 +2062,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "Womens Perfume",
-    "page": "WOMEN'S PERFUME",
+    "category": "Womens Perfumes",
+    "page": "Womens PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/promocje/perfumy/0501",
     "file_name": "Poland_DOUGLAS_PL_SALE_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
   },

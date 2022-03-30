@@ -24,6 +24,8 @@ import psutil
 import re
 from typing import List
 
+RENDER_WAIT_LIMIT = 3
+
 LOGGING.basicConfig(filename='run.log',
                             filemode='a',
                             format='[%(asctime)s] %(levelname)s {%(filename)s:%(lineno)d} -  %(message)s',
@@ -369,13 +371,13 @@ class Crawler:
             retailer = page_config['retailer']
             parser = self.parser_map[page_config['retailer']]
             if 'wait_for_class' in parser:
-                WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class'])))
+                WebDriverWait(d, RENDER_WAIT_LIMIT).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class'])))
             elif 'wait_for_id' in parser:
-                WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.ID, parser['wait_for_id'])))
+                WebDriverWait(d, RENDER_WAIT_LIMIT).until(EC.visibility_of_element_located((By.ID, parser['wait_for_id'])))
             elif 'wait_for_class_device' in parser:
-                WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class_device'][device])))
+                WebDriverWait(d, RENDER_WAIT_LIMIT).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class_device'][device])))
             elif 'wait_for_tag' in parser:
-                    WebDriverWait(d, 5).until(EC.visibility_of_element_located((By.TAG_NAME, parser['wait_for_tag'])))
+                    WebDriverWait(d, RENDER_WAIT_LIMIT).until(EC.visibility_of_element_located((By.TAG_NAME, parser['wait_for_tag'])))
             elif 'Sephora' in retailer:
                 time.sleep(1.5)
             elif retailer in ['Myer']:

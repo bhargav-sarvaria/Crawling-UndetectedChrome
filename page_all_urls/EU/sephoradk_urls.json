@@ -237,9 +237,9 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Make Up",
     "category": "Eyes",
-    "page": "Pencils & kh\u00f4l",
+    "page": "Pencils & khol",
     "page_url": "https://www.sephora.dk/shop/makeup/ojne/blyanter-og-khol-c365/",
-    "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Pencils|sp||as||sp|kh\u00f4l"
+    "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Pencils|sp||as||sp|khol"
   },
   {
     "country": "Denmark",
@@ -391,7 +391,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.dk/shop/makeup/negle-c345/",
     "file_name": "Denmark_Sephora_DK_MAKEUP_NAILS_NAILS"
   },
@@ -721,7 +721,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Vegan makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.dk/good-for/good-for-makeup/vegansk-makeup-good-for-vegan-makeup/",
     "file_name": "Denmark_Sephora_DK_MAKEUP_GOOD|sp|MAKEUP_Vegan|sp|makeup"
   },
@@ -1271,7 +1271,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
     "category": "Masks",
-    "page": "MASKS",
+    "page": "Masks",
     "page_url": "https://www.sephora.dk/shop/hudpleje/masker-c7685/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_MASKS_MASKS"
   },
@@ -1513,7 +1513,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
     "category": "GOOD SKIN CARE",
-    "page": "Vegan skin care",
+    "page": "Vegan Skincare",
     "page_url": "https://www.sephora.dk/good-for/good-for-hudpleje/vegansk-hudpleje-good-for-vegan-skincare/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_GOOD|sp|SKIN|sp|CARE_Vegan|sp|skin|sp|care"
   },
@@ -1975,7 +1975,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Body",
     "category": "GOOD BODY CARE",
-    "page": "Vegan body care",
+    "page": "Vegan Bodycare",
     "page_url": "https://www.sephora.dk/good-for/good-for-kropspleje/vegansk-kropspleje-good-for-vegan-bodycare/",
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_GOOD|sp|BODY|sp|CARE_Vegan|sp|body|sp|care"
   },
@@ -2481,7 +2481,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Perfumes",
     "category": "GOOD PERFUME",
-    "page": "Vegan perfume",
+    "page": "Vegan perfumes",
     "page_url": "https://www.sephora.dk/good-for/good-for-parfume/vegansk-parfume-good-for-vegan-parfum/",
     "file_name": "Denmark_Sephora_DK_PERFUME_GOOD|sp|PERFUME_Vegan|sp|perfume"
   },
@@ -2613,7 +2613,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.dk/shop/har/harpleje-c299914/",
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -3371,8 +3371,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Good For",
-    "category": "Vegan makeup",
-    "page": "Vegan makeup",
+    "category": "Vegan Make Up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.dk/good-for/good-for-makeup/vegansk-makeup-good-for-vegan-makeup/",
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Vegan|sp|makeup_Vegan|sp|makeup"
   },
@@ -3404,8 +3404,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Good For",
-    "category": "Vegan skin care",
-    "page": "Vegan skin care",
+    "category": "Vegan Skincare",
+    "page": "Vegan Skincare",
     "page_url": "https://www.sephora.dk/good-for/good-for-hudpleje/vegansk-hudpleje-good-for-vegan-skincare/",
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Vegan|sp|skin|sp|care_Vegan|sp|skin|sp|care"
   },
@@ -3448,8 +3448,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Good For",
-    "category": "Vegan perfume",
-    "page": "Vegan perfume",
+    "category": "Vegan perfumes",
+    "page": "Vegan perfumes",
     "page_url": "https://www.sephora.dk/good-for/good-for-parfume/vegansk-parfume-good-for-vegan-parfum/",
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Vegan|sp|perfume_Vegan|sp|perfume"
   },

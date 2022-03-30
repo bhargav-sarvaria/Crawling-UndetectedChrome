@@ -237,7 +237,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.it/Make-up/index_03.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -413,7 +413,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.it/Make-up/Unghie/index_0304.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_NAILS_NAILS"
   },
@@ -1018,7 +1018,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.it/Capelli/Cura-dei-Capelli/index_1802.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1384,17 +1384,6 @@
     "page": "Douglas Collection",
     "page_url": "https://www.douglas.it/Douglas-Collection/index_b9834.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|COLLECTION"
-  },
-  {
-    "country": "Italy",
-    "retailer": "DOUGLAS_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Douglas Collection",
-    "category": "VALENTINE'S BOX",
-    "page": "Valentine's Box",
-    "page_url": "https://www.douglas.it/Douglas-Collection/Valentine%27s-Box/Valentine%27s-Box/index_b983485.html",
-    "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_VALENTINE|sq|S|sp|BOX_Valentine|sq|s|sp|Box"
   },
   {
     "country": "Italy",

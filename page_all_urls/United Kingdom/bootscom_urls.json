@@ -567,7 +567,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
     "category": "health value packs & bundles",
-    "page": "women's health",
+    "page": "Womens health",
     "page_url": "https://www.boots.com/health-pharmacy/health-value-packs-and-bundles/womens-health-value-packs-and-bundles",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_health|sp|value|sp|packs|sp||as||sp|bundles_women|sq|s|sp|health"
   },
@@ -886,7 +886,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
     "category": "vitamins & supplements",
-    "page": "women's health supplements",
+    "page": "Womens health supplements",
     "page_url": "https://www.boots.com/health-pharmacy/vitaminsandsupplements/womenshealth-supplements",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_vitamins|sp||as||sp|supplements_women|sq|s|sp|health|sp|supplements"
   },
@@ -1138,8 +1138,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
-    "page": "visit women's health",
+    "category": "Womens health",
+    "page": "visit Womens health",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_visit|sp|women|sq|s|sp|health"
   },
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "planning for a baby",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/familyplanning",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_planning|sp|for|sp|a|sp|baby"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "intimate dryness",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/intimate-dryness--1",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_intimate|sp|dryness"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "bacterial vaginosis",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/vaginitis",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_bacterial|sp|vaginosis"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "female incontinence",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/female-incontinence",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_female|sp|incontinence"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "feminine wash & wipes",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/feminine-wash-wipes",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_feminine|sp|wash|sp||as||sp|wipes"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "thrush",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/thrush",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_thrush"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "menopause",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/menopause-support",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_menopause"
@@ -1226,8 +1226,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
-    "page": "women's health supplements",
+    "category": "Womens health",
+    "page": "Womens health supplements",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/womenshealth-supplements",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_women|sq|s|sp|health|sp|supplements"
   },
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "Morning After Pill",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/morning-after-pill",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_Morning|sp|After|sp|Pill"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "daily contraceptive pills",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/contraceptive-pill-",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_daily|sp|contraceptive|sp|pills"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "Period Delay Online Clinic",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/period-delay-clinic",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_Period|sp|Delay|sp|Online|sp|Clinic"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "cystitis & urinary tract infections",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/cystitis-urinary-tract-infections",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_cystitis|sp||as||sp|urinary|sp|tract|sp|infections"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "hair loss",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/womens-hair-loss",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_hair|sp|loss"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "period pain",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/period-pain",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_period|sp|pain"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
-    "category": "women's health",
+    "category": "Womens health",
     "page": "alternative therapy",
     "page_url": "https://www.boots.com/health-pharmacy/womenshealth/womens-alternative-therapy",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_women|sq|s|sp|health_alternative|sp|therapy"
@@ -2195,7 +2195,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "No7",
-    "page": "make-up",
+    "page": "Make Up",
     "page_url": "https://www.boots.com/beauty/no7/no7-make-up",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_No7_make|h|up"
   },
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "visit make-up",
     "page_url": "https://www.boots.com/beauty/makeup",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_visit|sp|make|h|up"
@@ -2502,8 +2502,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
-    "page": "vegan makeup",
+    "category": "Make Up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.boots.com/beauty/makeup/vegan-makeup-products",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_vegan|sp|makeup"
   },
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "face",
     "page_url": "https://www.boots.com/beauty/makeup/face",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_face"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "Eyes",
     "page_url": "https://www.boots.com/beauty/makeup/eyes",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_eyes"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "Lips",
     "page_url": "https://www.boots.com/beauty/makeup/lips",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_lips"
@@ -2546,8 +2546,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
-    "page": "nails",
+    "category": "Make Up",
+    "page": "Nails",
     "page_url": "https://www.boots.com/beauty/makeup/nails",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_nails"
   },
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "beauty gift sets",
     "page_url": "https://www.boots.com/beauty/makeup/make-up-gift-sets",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_beauty|sp|gift|sp|sets"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "Brushes & Sponges",
     "page_url": "https://www.boots.com/beauty/makeup/brushes-sponges",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_brushes|sp||as||sp|sponges"
@@ -2579,7 +2579,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "glitter and accessories",
     "page_url": "https://www.boots.com/beauty/makeup/glitter-accessories",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_glitter|sp|and|sp|accessories"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "Palettes",
     "page_url": "https://www.boots.com/beauty/makeup/palettes",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_palettes"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "Make Up Removers",
     "page_url": "https://www.boots.com/beauty/makeup/make-up-remover-",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_make|h|up|sp|remover"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "mirrors",
     "page_url": "https://www.boots.com/beauty/makeup/make-up-mirrors",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_mirrors"
@@ -2623,7 +2623,7 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
-    "category": "make-up",
+    "category": "Make Up",
     "page": "wash bags & organisers",
     "page_url": "https://www.boots.com/beauty/makeup/wash-bags",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_make|h|up_wash|sp|bags|sp||as||sp|organisers"
@@ -3548,7 +3548,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "fragrance",
     "category": "recommended",
-    "page": "unisex fragrance",
+    "page": "Unisex Fragrance",
     "page_url": "https://www.boots.com/fragrance/recommended-fragrances/best-unisex-fragrances",
     "file_name": "United|sp|Kingdom_Boots_fragrance_recommended_unisex|sp|fragrance"
   },
@@ -3713,7 +3713,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "baby & child",
     "category": "travel",
-    "page": "travel systems",
+    "page": "Travel Systems",
     "page_url": "https://www.boots.com/baby-child/pushchairs-car-seats/travel-systems",
     "file_name": "United|sp|Kingdom_Boots_baby|sp||as||sp|child_travel_travel|sp|systems"
   },
@@ -6067,9 +6067,9 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "sun & holiday",
     "category": "sunglasses",
-    "page": "sunglasses under \u00a325",
+    "page": "sunglasses under GBP25",
     "page_url": "https://www.boots.com/holidays/sunglasses/sunglasses-under-25",
-    "file_name": "United|sp|Kingdom_Boots_sun|sp||as||sp|holiday_sunglasses_sunglasses|sp|under|sp|\u00a325"
+    "file_name": "United|sp|Kingdom_Boots_sun|sp||as||sp|holiday_sunglasses_sunglasses|sp|under|sp|GBP25"
   },
   {
     "country": "United Kingdom",
@@ -6188,7 +6188,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "wellness",
     "category": "vitamins & supplements",
-    "page": "women's health supplements",
+    "page": "Womens health supplements",
     "page_url": "https://www.boots.com/wellness/vitaminsandsupplements/womenshealth-supplements",
     "file_name": "United|sp|Kingdom_Boots_wellness_vitamins|sp||as||sp|supplements_women|sq|s|sp|health|sp|supplements"
   },
@@ -9608,8 +9608,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "gift",
-    "category": "luxury gifts",
-    "page": "luxury gifts",
+    "category": "Luxury Gifts",
+    "page": "Luxury Gifts",
     "page_url": "https://www.boots.com/gift/luxury-gifts",
     "file_name": "United|sp|Kingdom_Boots_gift_luxury|sp|gifts_luxury|sp|gifts"
   },

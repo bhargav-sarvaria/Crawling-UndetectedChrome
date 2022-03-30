@@ -2139,8 +2139,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
-    "page": "Women's Fragrance",
+    "category": "Womens Fragrance",
+    "page": "Womens Fragrance",
     "page_url": "https://www.ulta.com/womens-fragrance?N=26wn",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Women|sq|s|sp|Fragrance"
   },
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Perfumes",
     "page_url": "https://www.ulta.com/womens-fragrance-perfume?N=26wq",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Perfume"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Rollerballs & Purse Sprays",
     "page_url": "https://www.ulta.com/womens-fragrance-rollerballs-purse-sprays?N=26wo",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Rollerballs|sp||as||sp|Purse|sp|Sprays"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Body Lotions",
     "page_url": "https://www.ulta.com/womens-fragrance-body-lotions?N=26ws",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Body|sp|Lotions"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Body Mist & Hair Mist",
     "page_url": "https://www.ulta.com/womens-fragrance-body-mist-hair-mist?N=26wr",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Body|sp|Mist|sp||as||sp|Hair|sp|Mist"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Bath & Shower",
     "page_url": "https://www.ulta.com/womens-fragrance-bath-shower?N=27im",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Bath|sp||as||sp|Shower"

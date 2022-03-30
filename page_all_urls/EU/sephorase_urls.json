@@ -237,9 +237,9 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Eyes",
-    "page": "Pennor & Kh\u00f4l",
+    "page": "Pennor & Khol",
     "page_url": "https://www.sephora.se/shop/makeup/ogon/pennor-och-khol-c365/",
-    "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_EYES_Pennor|sp||as||sp|Kh\u00f4l"
+    "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_EYES_Pennor|sp||as||sp|Khol"
   },
   {
     "country": "Sweden",
@@ -391,7 +391,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.se/shop/makeup/naglar-c345/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_NAILS_NAILS"
   },
@@ -721,7 +721,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Vegan makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.se/good-for/good-for-makeup/vegansk-makeup-good-for-vegan-makeup/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_GOOD|sp|MAKEUP_Vegan|sp|makeup"
   },
@@ -1018,9 +1018,9 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Facial Care",
-    "page": "Frans- & Brynv\u00e5rd",
+    "page": "Frans- & Brynvard",
     "page_url": "https://www.sephora.se/shop/hudvard/ansiktsvard/frans--och-brynvard-c297201/",
-    "file_name": "Sweden_Sephora_SE_SKINCARE_FACIAL|sp|CARE_Frans|h||sp||as||sp|Brynv\u00e5rd"
+    "file_name": "Sweden_Sephora_SE_SKINCARE_FACIAL|sp|CARE_Frans|h||sp||as||sp|Brynvard"
   },
   {
     "country": "Sweden",
@@ -1271,7 +1271,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Masks",
-    "page": "MASKS",
+    "page": "Masks",
     "page_url": "https://www.sephora.se/shop/hudvard/masker-c7685/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_MASKS_MASKS"
   },
@@ -1513,7 +1513,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "GOOD SKIN CARE",
-    "page": "Vegan skin care",
+    "page": "Vegan Skincare",
     "page_url": "https://www.sephora.se/good-for/good-for-hudvard/vegansk-hudvard-good-for-vegan-skincare/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_GOOD|sp|SKIN|sp|CARE_Vegan|sp|skin|sp|care"
   },
@@ -1975,7 +1975,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
     "category": "GOOD BODY CARE",
-    "page": "Vegan body care",
+    "page": "Vegan Bodycare",
     "page_url": "https://www.sephora.se/good-for/good-for-kroppsvard/vegansk-kroppsvard-good-for-vegan-bodycare/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_GOOD|sp|BODY|sp|CARE_Vegan|sp|body|sp|care"
   },
@@ -2481,7 +2481,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Perfumes",
     "category": "GOOD PERFUME",
-    "page": "Vegan perfume",
+    "page": "Vegan perfumes",
     "page_url": "https://www.sephora.se/good-for/good-for-parfym/vegansk-parfym-good-for-vegan-parfum/",
     "file_name": "Sweden_Sephora_SE_PERFUME_GOOD|sp|PERFUME_Vegan|sp|perfume"
   },
@@ -2613,7 +2613,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.se/shop/har/harvard-c299914/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -3492,8 +3492,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Good For",
-    "category": "Vegan makeup",
-    "page": "Vegan makeup",
+    "category": "Vegan Make Up",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.se/good-for/good-for-makeup/vegansk-makeup-good-for-vegan-makeup/",
     "file_name": "Sweden_Sephora_SE_GOOD|sp|FOR_Vegan|sp|makeup_Vegan|sp|makeup"
   },
@@ -3525,8 +3525,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Good For",
-    "category": "Vegan skin care",
-    "page": "Vegan skin care",
+    "category": "Vegan Skincare",
+    "page": "Vegan Skincare",
     "page_url": "https://www.sephora.se/good-for/good-for-hudvard/vegansk-hudvard-good-for-vegan-skincare/",
     "file_name": "Sweden_Sephora_SE_GOOD|sp|FOR_Vegan|sp|skin|sp|care_Vegan|sp|skin|sp|care"
   },
@@ -3569,8 +3569,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Good For",
-    "category": "Vegan perfume",
-    "page": "Vegan perfume",
+    "category": "Vegan perfumes",
+    "page": "Vegan perfumes",
     "page_url": "https://www.sephora.se/good-for/good-for-parfym/vegansk-parfym-good-for-vegan-parfum/",
     "file_name": "Sweden_Sephora_SE_GOOD|sp|FOR_Vegan|sp|perfume_Vegan|sp|perfume"
   },

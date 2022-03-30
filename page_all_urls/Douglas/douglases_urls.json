@@ -1040,7 +1040,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://douglas.es/c/maquillaje",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -1447,7 +1447,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1645,7 +1645,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2095,8 +2095,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "TRAVEL ACCESSORIES",
-    "page": "TRAVEL ACCESSORIES",
+    "category": "Travel Accessories",
+    "page": "Travel Accessories",
     "page_url": "https://douglas.es/c/higiene/accesorios_viaje",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_TRAVEL|sp|ACCESSORIES_TRAVEL|sp|ACCESSORIES"
   },
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "TRAVEL ACCESSORIES",
+    "category": "Travel Accessories",
     "page": "Necessary",
     "page_url": "https://douglas.es/c/higiene/accesorios_viaje/neceseres",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_TRAVEL|sp|ACCESSORIES_Necessary"
@@ -2756,7 +2756,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://douglas.es/c/hombre/cuidado_cabello",
     "file_name": "Spain_DOUGLAS_ES_MAN_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -3449,17 +3449,6 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Only In Douglas",
     "category": "Kora Organics",
-    "page": "Kora Organics",
-    "page_url": "https://douglas.es/b/kora_organics",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Kora|sp|Organics_Kora|sp|Organics"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Kora Organics",
     "page": "Lime Crime",
     "page_url": "https://douglas.es/b/lime_crime",
     "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Kora|sp|Organics_Lime|sp|Crime"
@@ -3756,8 +3745,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "WASH COMPLEMENTS",
-    "page": "WASH COMPLEMENTS",
+    "category": "Washing Accessories",
+    "page": "Washing Accessories",
     "page_url": "https://douglas.es/c/hogar/complementos_lavado",
     "file_name": "Spain_DOUGLAS_ES_HOME_WASH|sp|COMPLEMENTS_WASH|sp|COMPLEMENTS"
   },
@@ -3767,7 +3756,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "WASH COMPLEMENTS",
+    "category": "Washing Accessories",
     "page": "additives",
     "page_url": "https://douglas.es/c/hogar/complementos_lavado/aditivos",
     "file_name": "Spain_DOUGLAS_ES_HOME_WASH|sp|COMPLEMENTS_additives"
@@ -3778,7 +3767,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "WASH COMPLEMENTS",
+    "category": "Washing Accessories",
     "page": "Stain remover",
     "page_url": "https://douglas.es/c/hogar/complementos_lavado/quitamanchas",
     "file_name": "Spain_DOUGLAS_ES_HOME_WASH|sp|COMPLEMENTS_Stain|sp|remover"

@@ -28,9 +28,9 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
     "category": "Shop All",
-    "page": "Women\u2019s",
+    "page": "Womens",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/newin/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Women\u2019s"
+    "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Womens"
   },
   {
     "country": "United Kingdom",
@@ -39,9 +39,9 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "New",
     "category": "Shop All",
-    "page": "Men\u2019s",
+    "page": "Mens",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/newin/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Men\u2019s"
+    "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Mens"
   },
   {
     "country": "United Kingdom",
@@ -181,8 +181,8 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
-    "category": "The Project Earth edit",
-    "page": "The Project Earth edit",
+    "category": "Project Earth",
+    "page": "Project Earth",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/?freeText=project%20earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
@@ -907,8 +907,8 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
-    "category": "The Project Earth edit",
-    "page": "The Project Earth edit",
+    "category": "Project Earth",
+    "page": "Project Earth",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/?freeText=project%20earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
@@ -1062,7 +1062,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
     "category": "Clothing",
-    "page": "Underwear & socks",
+    "page": "Underwear & Socks",
     "page_url": "https://www.selfridges.com/GB/en/cat/mens/clothing/underwear-socks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Underwear|sp||as||sp|socks"
   },
@@ -1601,7 +1601,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
     "category": "Project Earth",
-    "page": "The project earth edit",
+    "page": "Project Earth",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/?freeText=project+earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|project|sp|earth|sp|edit_The|sp|project|sp|earth|sp|edit"
   },
@@ -2106,8 +2106,8 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
-    "category": "The Project Earth edit",
-    "page": "The Project Earth edit",
+    "category": "Project Earth",
+    "page": "Project Earth",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/?freeText=project+earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
@@ -2426,7 +2426,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Shoes",
     "category": "Wedding Guest Shoes",
-    "page": "Wedding guest shoes",
+    "page": "Wedding Guest Shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+WEDDING+GUEST+SHOES",
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Wedding|sp|guest|sp|shoes_Wedding|sp|guest|sp|shoes"
   },
@@ -2778,7 +2778,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
     "category": "Fragrance",
-    "page": "Women's perfume",
+    "page": "Womens perfume",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/fragrance/womens-perfume/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_Women|sq|s|sp|perfume"
   },
@@ -3085,7 +3085,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Travel Size Beauty",
+    "category": "Travel Size",
     "page": "All travel size beauty",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/travel-size-beauty/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|travel|sp|size|sp|beauty_All|sp|travel|sp|size|sp|beauty"
@@ -3173,10 +3173,10 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Just landed: Herm\u00e8s Plein Air Complexion Collection",
-    "page": "Just landed: Herm\u00e8s Plein Air Complexion Collection",
+    "category": "Just landed: Hermes Plein Air Complexion Collection",
+    "page": "Just landed: Hermes Plein Air Complexion Collection",
     "page_url": "https://www.selfridges.com/GB/en/cat/hermes/beauty/make-up/complexion/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Just|sp|landed|cln||sp|Herm\u00e8s|sp|Plein|sp|Air|sp|Complexion|sp|Collection_Just|sp|landed|cln||sp|Herm\u00e8s|sp|Plein|sp|Air|sp|Complexion|sp|Collection"
+    "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Just|sp|landed|cln||sp|Hermes|sp|Plein|sp|Air|sp|Complexion|sp|Collection_Just|sp|landed|cln||sp|Hermes|sp|Plein|sp|Air|sp|Complexion|sp|Collection"
   },
   {
     "country": "United Kingdom",
@@ -4229,8 +4229,8 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Home",
-    "category": "The Project Earth edit",
-    "page": "The Project Earth edit",
+    "category": "Project Earth",
+    "page": "Project Earth",
     "page_url": "https://www.selfridges.com/GB/en/cat/home-tech/?freeText=project+earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
@@ -4295,8 +4295,8 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
-    "category": "The Project Earth edit",
-    "page": "The Project Earth edit",
+    "category": "Project Earth",
+    "page": "Project Earth",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/?freeText=project%20earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
@@ -4354,17 +4354,6 @@
     "page": "Initial jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+JW+ALPHABET&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Initial|sp|jewellery_Initial|sp|jewellery"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Jewellery",
-    "category": "Zodiac & birthstone jewellery",
-    "page": "Zodiac & birthstone jewellery",
-    "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=EDIT+JW+ZODIAC&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Zodiac|sp||as||sp|birthstone|sp|jewellery_Zodiac|sp||as||sp|birthstone|sp|jewellery"
   },
   {
     "country": "United Kingdom",
@@ -4483,7 +4472,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
     "category": "Fine Watches",
-    "page": "Women's fine watches",
+    "page": "Womens fine watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/watches/fine-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|watches_Women|sq|s|sp|fine|sp|watches"
   },
@@ -4604,7 +4593,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
     "category": "Fashion Watches",
-    "page": "Women's fashion watches",
+    "page": "Womens fashion watches",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fashion-watches/womens-fashion-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|watches_Women|sq|s|sp|fashion|sp|watches"
   },
@@ -4747,9 +4736,9 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Gifts",
     "category": "By Price",
-    "page": "Under \u00a375",
+    "page": "Under GBP75",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-under-75/?app=EDIT+GIFTS+UNDER+75&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|\u00a375"
+    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|GBP75"
   },
   {
     "country": "United Kingdom",
@@ -4758,9 +4747,9 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Gifts",
     "category": "By Price",
-    "page": "Under \u00a3150",
+    "page": "Under GBP150",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-under-150/?app=EDIT+GIFTS+UNDER+150&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|\u00a3150"
+    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|GBP150"
   },
   {
     "country": "United Kingdom",
@@ -4769,9 +4758,9 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Gifts",
     "category": "By Price",
-    "page": "Under \u00a3250",
+    "page": "Under GBP250",
     "page_url": "https://www.selfridges.com/GB/en/cat/gifts/gifts-under-250/?app=EDIT+GIFTS+UNDER+250&srch=Y",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|\u00a3250"
+    "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|GBP250"
   },
   {
     "country": "United Kingdom",
