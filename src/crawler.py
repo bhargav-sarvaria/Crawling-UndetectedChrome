@@ -35,7 +35,7 @@ LOGGING.basicConfig(filename='run.log',
 mongo = Mongo()
 COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
 DRIVER_CLEAN_TIME = 600
-DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME/2
+DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME
 
 class Crawler:
     def __init__(self, thread_limit = 4):
@@ -132,7 +132,8 @@ class Crawler:
             self.addConfig(page_config)
     
     def get_activeDriver(self, d):
-        return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
+        # return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
+        return { "obj": d }
 
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
@@ -407,6 +408,26 @@ class Crawler:
 
     def driverCleaner(self):
         while self.consumerRunning:
+            pids = []
+            for proc in psutil.process_iter():
+                try:
+                    if proc.memory_percent() > 10 and 'chrome' in proc.name().lower():
+                        pids.append(str(proc.pid))  
+                except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+                    pass
+            if len(pids):
+                for ad in self.ACTIVE_DRIVERS:
+                    try:
+                        ad["obj"].quit()
+                    except:
+                        pass
+                self.ACTIVE_DRIVERS = []
+                os.system('kill -9 ' + ' '.join(pids))
+                LOGGING.error('Driver Cleaner removed a chrome instance')
+            time.sleep(DRIVER_CLEAN_TIME_WAIT)
+    
+    def driverCleanerBU(self):
+        while self.consumerRunning:
             to_remove = None
             for active_driver in self.ACTIVE_DRIVERS:
                 if time.time() - active_driver["create_time"] > DRIVER_CLEAN_TIME:
@@ -420,7 +441,6 @@ class Crawler:
                     break
             if to_remove:
                 self.ACTIVE_DRIVERS.remove(to_remove)
-            time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []
