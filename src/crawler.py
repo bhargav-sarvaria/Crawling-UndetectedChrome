@@ -33,6 +33,7 @@ LOGGING.basicConfig(filename='run.log',
 mongo = Mongo()
 COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
 DRIVER_CLEAN_TIME = 600
+DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME/2
 
 class Crawler:
     def __init__(self, thread_limit = 4):
@@ -133,9 +134,12 @@ class Crawler:
 
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
+        devices = ['Desktop', 'Mobile']
         if 'Proxy' in self.crawl_folder:
             use_proxy = True
-        for device in ['Desktop', 'Mobile']:
+        if 'device' in page_configs[0]:
+            devices = [page_configs[0]['device']]
+        for device in devices:
             d = self.driver.get_driver(use_proxy=use_proxy, device=device)
             active_driver = self.get_activeDriver(d)
             self.ACTIVE_DRIVERS.append(active_driver)
@@ -148,8 +152,11 @@ class Crawler:
                         LOGGING.error(ex.msg)
                     except Exception as e:
                         LOGGING.error(e)
-                        active_driver["obj"].quit()
-                        self.ACTIVE_DRIVERS.remove(active_driver)
+                        try:
+                            active_driver["obj"].quit()
+                            self.ACTIVE_DRIVERS.remove(active_driver)
+                        except:
+                            pass
                         d = self.driver.get_driver(use_proxy=use_proxy, device=device)
                         active_driver = self.get_activeDriver(d)
                         self.ACTIVE_DRIVERS.append(active_driver)
@@ -183,7 +190,6 @@ class Crawler:
     
     def parsePage(self, source, page_config, device):
         try:
-            # parser = json.load(open(page_config['parsing_config'],'r'))
             parser = self.parser_map[page_config['retailer']]
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
@@ -412,7 +418,7 @@ class Crawler:
                     break
             if to_remove:
                 self.ACTIVE_DRIVERS.remove(to_remove)
-            time.sleep(DRIVER_CLEAN_TIME/2)
+            time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []
