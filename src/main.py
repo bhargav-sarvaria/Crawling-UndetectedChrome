@@ -18,7 +18,7 @@ if __name__ == '__main__':
             DISPLAY.start()
 
         os.environ["HEADLESS"] = sys.argv[2]
-        Crawler(sys.argv[3]).crawlUrlsFromConfigPath(sys.argv[1])
+        Crawler(int(sys.argv[3])).crawlUrlsFromConfigPath(sys.argv[1])
         
         # os.environ["HEADLESS"] = '0'
         # crawler = Crawler(1)
