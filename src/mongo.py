@@ -17,21 +17,22 @@ class Mongo:
         result = self.db[collection].insert_one(document)
 
     def addErrorDocument(self, collection, document):
-        result = list(self.db[collection].find({
-            "page_url": document["page_url"], 
-            "date": document["date"]
-        }))
-        if not len(result):
-            document['_id'] = document['file_name'] + self.current_milli_time()
-            result = self.db[collection].insert_one(document)
+        # result = list(self.db[collection].find({
+        #     "page_url": document["page_url"], 
+        #     "date": document["date"]
+        # }))
+        # if not len(result):
+        document['_id'] = document['file_name'] + self.current_milli_time()
+        result = self.db[collection].insert_one(document)
 
     def getDocuments(self, collection):
         result = list(self.db[collection].find())
         return result
 
-    def getDocumentsForRetry(self, collection):
-        result = list(self.db[collection].find())
-        self.db[collection].delete_many({})
+    def getDocumentsForRetry(self, collection, device):
+        filt = {"device": device}
+        result = list(self.db[collection].find(filt))
+        self.db[collection].delete_many(filt)
         return result
    
     def deleteAllDocuments(self, collection):

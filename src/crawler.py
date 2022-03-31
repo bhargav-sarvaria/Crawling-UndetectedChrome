@@ -94,7 +94,9 @@ class Crawler:
     def crawlUrlsFromConfigPath(self, crawl_folder):
         if 'Retry' in crawl_folder:
             self.crawl_folder = crawl_folder.split('_')[1]
-            crawl_urls = mongo.getDocumentsForRetry(crawl_folder.split('_')[1])
+            region = crawl_folder.split('_')[1]
+            device = crawl_folder.split('_')[2]
+            crawl_urls = mongo.getDocumentsForRetry(region, device)
 
             for idx, page_config in enumerate(crawl_urls):
                 if page_config['retailer'] not in self.parser_map:
@@ -164,7 +166,7 @@ class Crawler:
                         active_driver = self.get_activeDriver(d)
                         self.ACTIVE_DRIVERS.append(active_driver)
                         d.get(page_config['page_url'])
-
+                    
                     # Wait for lazy loading
                     self.retailerWait(d, page_config, device)
                     # self.translateToEnglish(d)
