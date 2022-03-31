@@ -25,17 +25,21 @@ import re
 from typing import List
 
 RENDER_WAIT_LIMIT = 3
+MEMORY_THRESHOLD = 15
+DRIVER_CLEAN_TIME = 600
+DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME
 
-LOGGING.basicConfig(filename='run.log',
-                            filemode='a',
-                            format='[%(asctime)s] %(levelname)s {%(filename)s:%(lineno)d} -  %(message)s',
-                            datefmt='%H:%M:%S',
-                            level=LOGGING.WARN)
+LOGGING.basicConfig(
+filename='run.log',
+filemode='a',
+format='[%(asctime)s] %(levelname)s {%(filename)s:%(lineno)d} -  %(message)s',
+datefmt='%H:%M:%S',
+level=LOGGING.WARN
+)
 
 mongo = Mongo()
 COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
-DRIVER_CLEAN_TIME = 600
-DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME
+
 
 class Crawler:
     def __init__(self, thread_limit = 4):
@@ -62,7 +66,7 @@ class Crawler:
         if not self.consumerRunning:
             self.consumerRunning = True
             threading.Thread(target = self.runConfigConsumer).start()
-            threading.Thread(target = self.driverCleaner).start()        
+            # threading.Thread(target = self.driverCleaner).start()        
     
     def queueNotEmpty(self):
         for retailer, retailer_q in self.queueMap.items():
@@ -132,8 +136,7 @@ class Crawler:
             self.addConfig(page_config)
     
     def get_activeDriver(self, d):
-        # return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
-        return { "obj": d }
+        return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
 
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
@@ -151,15 +154,12 @@ class Crawler:
                 try:
                     try:
                         d.get(page_config['page_url'])
-                    except  TimeoutException as ex:
-                        LOGGING.error(ex.msg)
+                    except  TimeoutException:
+                        pass
                     except Exception as e:
                         LOGGING.error(e)
-                        try:
-                            active_driver["obj"].quit()
-                            self.ACTIVE_DRIVERS.remove(active_driver)
-                        except:
-                            pass
+                        self.quitDriver(d)
+                        self.activeDriverRemove(active_driver)
                         d = self.driver.get_driver(use_proxy=use_proxy, device=device)
                         active_driver = self.get_activeDriver(d)
                         self.ACTIVE_DRIVERS.append(active_driver)
@@ -176,35 +176,38 @@ class Crawler:
 
                 except Exception as e:
                     LOGGING.error(e)
-                    page_config['message'] = 'processConfig exception'
-                    mongo.addErrorDocument(self.crawl_folder, page_config)
-                    LOGGING.critical(page_config['page_url'] + ' ' + '0')
-            try:
-                d.close()
-                d.quit()
-                self.ACTIVE_DRIVERS.remove(active_driver)
-            except Exception as e:
-                LOGGING.error(e)
-                active_driver["obj"].quit()
-                self.ACTIVE_DRIVERS.remove(active_driver)
+                    self.pageError(page_config, 'processConfig exception')
+            
+            self.quitDriver(d)
+            self.activeDriverRemove(active_driver)
+        
         self.RUNNING_THREADS.remove(thread_name)
         if len(self.RUNNING_THREADS) == 0 and not self.queueNotEmpty():
             self.consumerRunning = False
     
+    def quitDriver(self, d):
+        try:
+            d.close()
+        except Exception as e:
+            LOGGING.error(e)
+            LOGGING.error('Could not close driver')
+        
+        try:
+            d.quit()
+        except Exception as e:
+            LOGGING.error(e)
+            LOGGING.error('Could not quit driver')
+
     def parsePage(self, source, page_config, device):
         try:
             parser = self.parser_map[page_config['retailer']]
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
-                page_config['message'] = 'No products'
-                mongo.addErrorDocument(self.crawl_folder, page_config)
-                LOGGING.critical(page_config['page_url'] + ' ' + '0')
+                self.pageError(page_config, 'No products')
                 return
             products_data = self.getProductsData(products, parser['fetch_product'], page_config)
             if len(products_data) == 0:
-                page_config['message'] = 'No product details'
-                mongo.addErrorDocument(self.crawl_folder, page_config)
-                LOGGING.critical(page_config['page_url'] + ' ' + '0')
+                self.pageError(page_config, 'No product details')
                 return
             df = pd.DataFrame(products_data)
             df = df.reindex(columns=COLUMN_ORDER)
@@ -218,9 +221,7 @@ class Crawler:
                 LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
             LOGGING.error(e)
-            page_config['message'] = 'parsePage exception'
-            mongo.addErrorDocument(self.crawl_folder, page_config)
-            LOGGING.critical(page_config['page_url'] + ' ' + '0')
+            self.pageError(page_config, 'parsePage exception')
 
     def fetchProductsinPage(self, element, selectors):
         elements = []
@@ -369,6 +370,10 @@ class Crawler:
     def retailerWait(self, d, page_config, device):
         try:
             d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+        except:
+            LOGGING.error('Could now scroll to bottom')
+            return
+        try:    
             retailer = page_config['retailer']
             parser = self.parser_map[page_config['retailer']]
             if 'wait_for_class' in parser:
@@ -384,7 +389,7 @@ class Crawler:
             elif retailer in ['Myer']:
                 time.sleep(2)
         except Exception as e:
-            LOGGING.error(e)
+            LOGGING.error('RetailerWait timeoutt')
             return
 
     def translateToEnglish(self, d):
@@ -408,24 +413,44 @@ class Crawler:
 
     def driverCleaner(self):
         while self.consumerRunning:
-            pids = []
             for proc in psutil.process_iter():
                 try:
-                    if proc.memory_percent() > 10 and 'chrome' in proc.name().lower():
-                        pids.append(str(proc.pid))  
+                    if proc.memory_percent() > MEMORY_THRESHOLD and 'chrome' in proc.name().lower():
+                        pid = str(proc.pid)
+                        flag = False
+                        for active_driver in self.ACTIVE_DRIVERS:
+                            if pid in active_driver["pids"]:
+                                self.quitDriver(active_driver["obj"])
+                                flag = True
+                                os.system('kill -9 ' + active_driver["pids"])
+                                LOGGING.error('Driver Cleaner removed a chrome instance')
+                                break
+                        if flag:
+                            self.activeDriverRemove(active_driver)
+                        os.system('kill -9 ' + pid)
                 except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
                     pass
-            if len(pids):
-                for ad in self.ACTIVE_DRIVERS:
-                    try:
-                        ad["obj"].quit()
-                    except:
-                        pass
-                self.ACTIVE_DRIVERS = []
-                os.system('kill -9 ' + ' '.join(pids))
-                LOGGING.error('Driver Cleaner removed a chrome instance')
+                except Exception as e:
+                    LOGGING.error(e)
+
+            if len(self.ACTIVE_DRIVERS):
+                for active_driver in self.ACTIVE_DRIVERS:
+                    runtime = time.time() - active_driver["create_time"]
+                    if runtime > DRIVER_CLEAN_TIME:
+                        self.quitDriver(active_driver["obj"])
+                        os.system('kill -9 ' + active_driver["pids"])
+                        flag = True
+                        LOGGING.error('Driver Cleaner removed a chrome instance')
+                        break
+                if flag:
+                    self.activeDriverRemove(active_driver)
+
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
-    
+
+    def activeDriverRemove(self, active_driver):
+        if active_driver in self.ACTIVE_DRIVERS:
+            self.ACTIVE_DRIVERS.remove(active_driver)
+
     def driverCleanerBU(self):
         while self.consumerRunning:
             to_remove = None
@@ -468,20 +493,20 @@ class Crawler:
         procs.sort(key=lambda p: p.pid)
         return procs
 
-    def browser_proc(self, driver):
+    def driver_proc(self, driver):
         procs = self.browser_procs(driver)
         chromes_pids = []
         for proc in procs:
             try:
-                name = proc.parent().name()
-                if 'chrome' in name.lower():
+                if 'chrome' in proc.name().lower():
                     chromes_pids.append(str(proc.pid))
             except:
                 pass
         return ' '.join(chromes_pids)
 
-    def driver_proc(self, driver) -> psutil.Process:
-        t = self.browser_proc(driver)
-        return self.browser_proc(driver)
+    def pageError(self, page_config, msg):
+        page_config['message'] = msg
+        mongo.addErrorDocument(self.crawl_folder, page_config)
+        LOGGING.warn(page_config['page_url'] + ' ' + '0')
 
     
