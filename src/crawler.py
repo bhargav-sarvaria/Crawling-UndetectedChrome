@@ -93,6 +93,7 @@ class Crawler:
 
     def crawlUrlsFromConfigPath(self, crawl_folder):
         if 'Retry' in crawl_folder:
+            RENDER_WAIT_LIMIT = 10
             self.crawl_folder = crawl_folder.split('_')[1]
             region = crawl_folder.split('_')[1]
             device = crawl_folder.split('_')[2]
