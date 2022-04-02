@@ -1897,8 +1897,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.myer.com.au/c/beauty/bath-body",
     "file_name": "Australia_Myer_Beauty_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },

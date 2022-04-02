@@ -2293,8 +2293,8 @@
     "parsing_config": "./retailer_config/neimanmarcuscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Neimanmarcus/",
     "department": "Beauty",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.neimanmarcus.com/c/beauty-bath-body-cat10470806?navpath=cat000000_cat000285_cat10470806",
     "file_name": "United|sp|States_Neimanmarcus_BEAUTY_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },

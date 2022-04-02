@@ -368,8 +368,8 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.debenhams.com/category/beauty-body-care",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath Soaps",
     "page_url": "https://www.debenhams.com/category/beauty-body-care-bath-soaps",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Bath|sp|Soaps"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath & Shower",
     "page_url": "https://www.debenhams.com/category/beauty-body-care-shower-gel",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Hand & Foot Care",
     "page_url": "https://www.debenhams.com/category/beauty-body-care-hand-foot-care",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Hand|sp||as||sp|Foot|sp|Care"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Body Lotion",
     "page_url": "https://www.debenhams.com/category/beauty-body-care-body-lotion",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Body|sp|Lotion"

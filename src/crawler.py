@@ -513,6 +513,7 @@ class Crawler:
     def pageError(self, page_config, msg):
         page_config['message'] = msg
         mongo.addErrorDocument(self.crawl_folder, page_config)
+        print(page_config['page_url'] + ' ' + '0')
         LOGGING.warn(page_config['page_url'] + ' ' + '0')
 
     

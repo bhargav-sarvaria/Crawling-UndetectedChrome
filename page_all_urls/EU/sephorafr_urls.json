@@ -1887,17 +1887,6 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
     "category": "Body Care",
-    "page": "Bust and decolletage treatment",
-    "page_url": "https://www.sephora.fr/shop/corps-et-bain/soin-du-corps/soin-buste-et-decolletage-c430/",
-    "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_BODY|sp|CARE_Bust|sp|and|sp|decolletage|sp|treatment"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "Body",
-    "category": "Body Care",
     "page": "Heavy legs treatment",
     "page_url": "https://www.sephora.fr/shop/corps-et-bain/soin-du-corps/soin-jambes-lourdes-c433/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_BODY|sp|CARE_Heavy|sp|legs|sp|treatment"

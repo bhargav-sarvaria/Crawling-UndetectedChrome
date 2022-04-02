@@ -2942,7 +2942,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "All bodycare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/bodycare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_All|sp|bodycare"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Body",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/bodycare/body/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_Body"
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath & shower",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/bodycare/bath-shower/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_Bath|sp||as||sp|shower"

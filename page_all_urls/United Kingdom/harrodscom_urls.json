@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "All Bath & Body",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body?icid=megamenu_shop_beauty_bath-body_all-bath-body",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_All|sp|Bath|sp||as||sp|Body"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath & Shower",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body-bath-shower?icid=megamenu_shop_beauty_bath-body_bath-shower",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Bath|sp||as||sp|Shower"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Body Care",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body-body-care?icid=megamenu_shop_beauty_bath-body_body-care",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Body|sp|Care"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Haircare",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-haircare?icid=megamenu_shop_beauty_bath-body_haircare",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Haircare"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/harrodscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Beauty",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Wellbeing",
     "page_url": "https://www.harrods.com/en-gb/shopping/beauty-bath-body-wellbeing?icid=megamenu_shop_beauty_bath-body_wellbeing",
     "file_name": "United|sp|Kingdom_Harrods_Beauty_BATH|sp||as||sp|BODY_Wellbeing"

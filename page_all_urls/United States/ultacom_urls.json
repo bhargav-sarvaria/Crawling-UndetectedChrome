@@ -93,8 +93,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "New",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.ulta.com/new-beauty-products?N=6Z26us",
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
@@ -2304,8 +2304,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.ulta.com/shop/bath-body",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
@@ -3041,8 +3041,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body?N=26vy",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
@@ -3052,7 +3052,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath & Shower",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-bath-shower?N=27d0",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath Bombs & Fizzers",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-bath-bombs-fizzers?N=17rwmt8",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp|Bombs|sp||as||sp|Fizzers"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Moisturizers",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-moisturizers?N=27d1",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Moisturizers"
@@ -3085,7 +3085,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Hand Soap & Sanitizers",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-hand-soap-sanitizers?N=27e4",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Hand|sp|Soap|sp||as||sp|Sanitizers"

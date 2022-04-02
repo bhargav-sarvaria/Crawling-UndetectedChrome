@@ -16,17 +16,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
-    "category": "-30% ON ABH PALLETS",
-    "page": "-30% ON ABH PALLETS",
-    "page_url": "https://www.sephora.es/productos-promo-paletas/",
-    "file_name": "Spain_Sephora_ES_MAKE|h|UP_|h|30%|sp|ON|sp|ABH|sp|PALLETS_|h|30%|sp|ON|sp|ABH|sp|PALLETS"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "Make Up",
     "category": "Trending",
     "page": "MAKEUP TRENDS",
     "page_url": "https://www.sephora.es/rutina-preparacion-rostro/rutina-preparacion-rostro.html",
