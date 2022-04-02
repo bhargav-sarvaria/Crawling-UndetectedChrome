@@ -171,17 +171,6 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Perfumes",
     "category": "Unisex",
-    "page": "Fresh water",
-    "page_url": "https://douglas.es/c/perfumes/unisex/eau_fraiche",
-    "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_Fresh|sp|water"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Perfumes",
-    "category": "Unisex",
     "page": "fragrances",
     "page_url": "https://douglas.es/c/perfumes/unisex/colonia",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_fragrances"
@@ -2722,17 +2711,6 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "DEPILATORIOS",
-    "page": "Disposables and Systems",
-    "page_url": "https://douglas.es/c/hombre/depilatorios/maquinilla_y_desechable",
-    "file_name": "Spain_DOUGLAS_ES_MAN_DEPILATORIOS_Disposables|sp|and|sp|Systems"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Men",
     "category": "Body Care",
     "page": "BODY CARE",
     "page_url": "https://douglas.es/c/hombre/cuidado",
@@ -2825,28 +2803,6 @@
     "page": "Pharmacy",
     "page_url": "https://douglas.es/c/parafarmacia",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_PARAPHARMACY_PARAPHARMACY"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Pharmacy",
-    "category": "CHILDCARE",
-    "page": "CHILDCARE",
-    "page_url": "https://douglas.es/c/parafarmacia/puericultura",
-    "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_CHILDCARE_CHILDCARE"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Pharmacy",
-    "category": "CHILDCARE",
-    "page": "Nipples",
-    "page_url": "https://douglas.es/c/parafarmacia/puericultura/tetinas",
-    "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_CHILDCARE_Nipples"
   },
   {
     "country": "Spain",

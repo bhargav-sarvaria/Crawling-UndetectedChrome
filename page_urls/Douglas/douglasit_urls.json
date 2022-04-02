@@ -1590,17 +1590,6 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
     "category": "Douglas Hair",
-    "page": "Shampoo",
-    "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Hair/Shampoo/index_b983419.html",
-    "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HAIR_Shampoo"
-  },
-  {
-    "country": "Italy",
-    "retailer": "DOUGLAS_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Douglas Collection",
-    "category": "Douglas Hair",
     "page": "Balm and Masks",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Hair/Balsamo-e-Maschere/index_b983421.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HAIR_Balm|sp|and|sp|Masks"

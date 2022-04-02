@@ -2007,17 +2007,6 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "NEW BRANDS",
-    "page": "NEW BRANDS",
-    "page_url": "https://www.douglas.pl/pl/c/brands-we-love-nowe-marki-w-douglas/92",
-    "file_name": "Poland_DOUGLAS_PL_NEWS_NEW|sp|BRANDS_NEW|sp|BRANDS"
-  },
-  {
-    "country": "Poland",
-    "retailer": "DOUGLAS_PL",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Poland/Douglas_PL/",
-    "department": "New",
     "category": "Make Up",
     "page": "MAKEUP",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/makijaz/0903",

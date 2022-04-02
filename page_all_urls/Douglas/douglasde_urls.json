@@ -2173,17 +2173,6 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
     "category": "Highlights",
-    "page": "Beauty Food",
-    "page_url": "https://www.douglas.de/de/c/koerper/beauty-storys/beauty-trend-beauty-food/132005",
-    "file_name": "Germany_DOUGLAS_DE_BODY_Highlights_Beauty|sp|Food"
-  },
-  {
-    "country": "Germany",
-    "retailer": "DOUGLAS_DE",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Douglas_DE/",
-    "department": "Body",
-    "category": "Highlights",
     "page": "Clean beauty body care",
     "page_url": "https://www.douglas.de/de/c/clean-beauty/koerper/1101",
     "file_name": "Germany_DOUGLAS_DE_BODY_Highlights_Clean|sp|beauty|sp|body|sp|care"
@@ -3375,17 +3364,6 @@
     "page": "Up to - 50 percent",
     "page_url": "https://www.douglas.de/de/c/sale/bis-zu-50-prozent/0524",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|50|sp|percent"
-  },
-  {
-    "country": "Germany",
-    "retailer": "DOUGLAS_DE",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Douglas_DE/",
-    "department": "Sale",
-    "category": "Sale by percent",
-    "page": "Up to - 60 percent",
-    "page_url": "https://www.douglas.de/de/c/sale/bis-zu-60-prozent/0527",
-    "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|60|sp|percent"
   },
   {
     "country": "Germany",
