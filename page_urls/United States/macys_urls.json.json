@@ -270,7 +270,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Mission Every One",
-    "page": "Sustainability",
+    "page": "Sustainable",
     "page_url": "https://www.macys.com/s/sustainability/?cm_sp=us_hdr-_-own-your-style-_-sustainability_COL3",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Sustainability"
   },
@@ -303,7 +303,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Contemporary",
-    "page": "Men'S",
+    "page": "Men",
     "page_url": "https://www.macys.com/s/contemporary/browse/?gender=men&id=315757&cm_sp=us_hdr-_-own-your-style-_-men%27s-_COL3",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Men|sq|S"
   },
@@ -4450,7 +4450,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
     "category": "Womens Sale",
-    "page": "Women'S Shoes",
+    "page": "Womens Shoes",
     "page_url": "https://www.macys.com/shop/shoes/sale-clearance?id=13604&cm_sp=us_hdr-_-sale-_-13604_women%27s-shoes-_COL1",
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Women|sq|S|sp|Shoes"
   },
@@ -4516,7 +4516,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
     "category": "Mens Sale",
-    "page": "Men'S Shoes",
+    "page": "Mens Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/sale-clearance?id=43387&cm_sp=us_hdr-_-sale-_-43387_men%27s-shoes_COL2",
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Men|sq|S|sp|Shoes"
   },

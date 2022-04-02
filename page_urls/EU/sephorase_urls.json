@@ -17,7 +17,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE UP",
+    "page": "Make Up",
     "page_url": "https://www.sephora.se/shop/makeup-c302/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
   },
@@ -391,7 +391,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.se/shop/makeup/naglar-c345/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_NAILS_NAILS"
   },
@@ -413,7 +413,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail care",
+    "page": "Nailcare",
     "page_url": "https://www.sephora.se/shop/makeup/naglar/nagelvard-c378/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_NAILS_Nail|sp|care"
   },
@@ -611,7 +611,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Make Up Remover",
-    "page": "Facial cleanser",
+    "page": "Facial Cleansers",
     "page_url": "https://www.sephora.se/shop/makeup/sminkborttagning/ansiktsrengoring-c7678/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_MAKEUP|sp|REMOVAL_Facial|sp|cleanser"
   },
@@ -776,7 +776,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Inspritations",
-    "page": "INSPIRATION",
+    "page": "Inspritations",
     "page_url": "https://www.sephora.se/shop/makeup-c302/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_INSPIRATION_INSPIRATION"
   },
@@ -886,7 +886,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Sun Protection",
-    "page": "Sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.sephora.se/shop/hudvard/solskydd/solskydd-c438/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_SUN|sp|PROTECTION_Sun|sp|protection"
   },
@@ -963,7 +963,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Facial Care",
-    "page": "Eye care",
+    "page": "Eyecare",
     "page_url": "https://www.sephora.se/shop/hudvard/ansiktsvard/ogonvard-c299905/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_FACIAL|sp|CARE_Eye|sp|care"
   },
@@ -1270,8 +1270,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "Masks",
-    "page": "MASKS",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.se/shop/hudvard/masker-c7685/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_MASKS_MASKS"
   },
@@ -1281,8 +1281,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "Masks",
-    "page": "Face mask",
+    "category": "Maks",
+    "page": "Face Masks",
     "page_url": "https://www.sephora.se/shop/hudvard/masker/ansiktsmask-c313704/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_MASKS_Face|sp|mask"
   },
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
-    "category": "Masks",
+    "category": "Maks",
     "page": "Sheet mask",
     "page_url": "https://www.sephora.se/shop/hudvard/masker/sheet-mask-c313703/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_MASKS_Sheet|sp|mask"
@@ -1403,7 +1403,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "For Men",
-    "page": "Skin care set",
+    "page": "Skincare Sets",
     "page_url": "https://www.sephora.se/shop/hudvard/for-man/hudvard-set-c297834/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_FOR|sp|MEN_Skin|sp|care|sp|set"
   },
@@ -1436,7 +1436,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "For Men",
-    "page": "Eye care",
+    "page": "Eyecare",
     "page_url": "https://www.sephora.se/shop/hudvard/for-man/ogonvard-c509/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_FOR|sp|MEN_Eye|sp|care"
   },
@@ -1480,7 +1480,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Shaving",
-    "page": "Shave",
+    "page": "Shaving",
     "page_url": "https://www.sephora.se/shop/hudvard/rakning/rakning-c512/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_SHAVE_Shave"
   },
@@ -1579,7 +1579,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Inspritations",
-    "page": "INSPIRATION",
+    "page": "Inspritations",
     "page_url": "https://www.sephora.se/shop/hudvard-c303/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_INSPIRATION_INSPIRATION"
   },
@@ -1667,7 +1667,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
     "category": "Sun Protection",
-    "page": "Sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/solskydd/solskydd-c7785/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_SUN|sp|PROTECTION_Sun|sp|protection"
   },
@@ -1700,7 +1700,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
     "category": "Bodycare",
-    "page": "BODY CARE",
+    "page": "Bodycare",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/kroppsvard-c298002/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -1810,7 +1810,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
     "category": "Bodycare",
-    "page": "Hair removal",
+    "page": "Hair Removal",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/kroppsvard/harborttagning-c7781/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_BODY|sp|CARE_Hair|sp|removal"
   },
@@ -2085,7 +2085,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
     "category": "Wellbeing",
-    "page": "Intimate hygiene",
+    "page": "Intimate Hygiene",
     "page_url": "https://www.sephora.se/kropp-och-bad/wellness/intimhygien-c7802/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_WELLNESS_Intimate|sp|hygiene"
   },
@@ -2547,7 +2547,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Perfumes",
     "category": "Inspritations",
-    "page": "INSPIRATION",
+    "page": "Inspritations",
     "page_url": "https://www.sephora.se/shop/parfym-c301/",
     "file_name": "Sweden_Sephora_SE_PERFUME_INSPIRATION_INSPIRATION"
   },
@@ -2569,7 +2569,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Perfumes",
     "category": "Inspritations",
-    "page": "Niche perfumer",
+    "page": "Niche Perfumes",
     "page_url": "https://www.sephora.se/niche-fragrances.html",
     "file_name": "Sweden_Sephora_SE_PERFUME_INSPIRATION_Niche|sp|perfumer"
   },
@@ -2591,7 +2591,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.sephora.se/shop/har-c307/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR_HAIR"
   },
@@ -2613,7 +2613,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.se/shop/har/harvard-c299914/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2679,7 +2679,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "Hair color",
+    "page": "Hair Colour",
     "page_url": "https://www.sephora.se/shop/har/harvard/harfarg-c523/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|CARE_Hair|sp|color"
   },
@@ -2965,7 +2965,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Best For",
-    "page": "Sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.sephora.se/shop/har/bast-for/solskydd-c450/",
     "file_name": "Sweden_Sephora_SE_HAIR_BEST|sp|FOR_Sun|sp|protection"
   },
@@ -3152,7 +3152,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Inspritations",
-    "page": "INSPIRATION",
+    "page": "Inspritations",
     "page_url": "https://www.sephora.se/shop/har-c307/",
     "file_name": "Sweden_Sephora_SE_HAIR_INSPIRATION_INSPIRATION"
   },

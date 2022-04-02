@@ -754,7 +754,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
     "category": "FACE COSMETICS",
-    "page": "Face cleaning",
+    "page": "Face Cleansing",
     "page_url": "https://douglas.bg/vsichko-za-lice/kozmetika-za-lice/pochistvane-na-lice?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_FACE|sp|COSMETICS_Face|sp|cleaning"
   },
@@ -765,7 +765,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
     "category": "FACE COSMETICS",
-    "page": "Face mask",
+    "page": "Face Masks",
     "page_url": "https://douglas.bg/vsichko-za-lice/kozmetika-za-lice/maska-za-lice?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_FACE|sp|COSMETICS_Face|sp|mask"
   },
@@ -787,7 +787,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
     "category": "FACE COSMETICS",
-    "page": "Eye care",
+    "page": "Eyecare",
     "page_url": "https://douglas.bg/vsichko-za-lice/kozmetika-za-lice/anticelulitni?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_FACE|sp|COSMETICS_Eye|sp|care"
   },
@@ -919,7 +919,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
     "category": "Sun Protection",
-    "page": "Face sunscreen",
+    "page": "Face Sunscreen",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita/sl-ncezaschitni-za-lice?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_Face|sp|sunscreen"
   },
@@ -1359,7 +1359,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://douglas.bg/kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR_HAIR"
   },
@@ -1502,7 +1502,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1656,7 +1656,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "FOR MAN",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://douglas.bg/kosa/za-m-zhe/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_FOR|sp|MAN_Hair|sp|care"
   },

@@ -182,7 +182,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
     "category": "WOMEN'S PERFUMES AND ACCESSORIES",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.hu/c/parfumok/noi-parfumok-es-kiegeszitok/testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_WOMEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Body|sp|care"
   },
@@ -303,7 +303,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Perfumes",
     "category": "MEN'S PERFUMES AND ACCESSORIES",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.hu/c/parfumok/ferfi-parfumok-es-kiegeszitok/testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_PERFUME_MEN|sq|S|sp|PERFUMES|sp|AND|sp|ACCESSORIES_Body|sp|care"
   },
@@ -402,7 +402,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Facial Care",
-    "page": "Face cleaning",
+    "page": "Face Cleansing",
     "page_url": "https://www.douglas.hu/c/apolas/arcapolas/arctisztitas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_FACIAL|sp|CARE_Face|sp|cleaning"
   },
@@ -413,7 +413,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Facial Care",
-    "page": "Eye care",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.hu/c/apolas/arcapolas/szemkornyekapolo/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_FACIAL|sp|CARE_Eye|sp|care"
   },
@@ -446,7 +446,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Facial Care",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://www.douglas.hu/c/apolas/arcapolas/maszkok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_FACIAL|sp|CARE_Masks"
   },
@@ -512,7 +512,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Bodycare",
-    "page": "BODY CARE",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.hu/c/apolas/testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -622,7 +622,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "HAND AND FOOT CARE",
-    "page": "Hand care",
+    "page": "Handcare",
     "page_url": "https://www.douglas.hu/c/apolas/kez-es-labapolas/kezapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_HAND|sp|AND|sp|FOOT|sp|CARE_Hand|sp|care"
   },
@@ -633,7 +633,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "HAND AND FOOT CARE",
-    "page": "Foot care",
+    "page": "Footcare",
     "page_url": "https://www.douglas.hu/c/apolas/kez-es-labapolas/labapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_HAND|sp|AND|sp|FOOT|sp|CARE_Foot|sp|care"
   },
@@ -710,7 +710,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Sun Bathing",
-    "page": "Sunbathing",
+    "page": "Sun Bathing",
     "page_url": "https://www.douglas.hu/c/apolas/napozok/napozok/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_SUNBATHING_Sunbathing"
   },
@@ -765,7 +765,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Mens Grooming",
-    "page": "Men's body care",
+    "page": "Mens Bodycare",
     "page_url": "https://www.douglas.hu/c/apolas/ferfi-apolas/ferfi-testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_MEN|sq|S|sp|GROOMING_Men|sq|s|sp|body|sp|care"
   },
@@ -820,7 +820,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "PROFESSIONAL BEAUTY TOOLS",
-    "page": "Face cleaning",
+    "page": "Face Cleansing",
     "page_url": "https://www.douglas.hu/c/apolas/professzionalis-szepsegapolasi-eszkozok/arctisztitas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_PROFESSIONAL|sp|BEAUTY|sp|TOOLS_Face|sp|cleaning"
   },
@@ -842,7 +842,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "PROFESSIONAL BEAUTY TOOLS",
-    "page": "Hair removal",
+    "page": "Hair Removal",
     "page_url": "https://www.douglas.hu/c/apolas/professzionalis-szepsegapolasi-eszkozok/szortelenites/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_PROFESSIONAL|sp|BEAUTY|sp|TOOLS_Hair|sp|removal"
   },
@@ -853,7 +853,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Care",
     "category": "Dental Care",
-    "page": "DENTAL CARE",
+    "page": "Dental Care",
     "page_url": "https://www.douglas.hu/c/apolas/fogapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CARE_DENTAL|sp|CARE_DENTAL|sp|CARE"
   },
@@ -1502,7 +1502,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.hu/c/haj/hajapolas/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1920,7 +1920,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Home & Lifestyle",
     "category": "Fragrance",
-    "page": "FRAGRANCES",
+    "page": "Fragrance",
     "page_url": "https://www.douglas.hu/c/home-lifestyle/illatositok/",
     "file_name": "Hungary_DOUGLAS_HU_HOME|sp||as||sp|LIFESTYLE_FRAGRANCES_FRAGRANCES"
   },
@@ -2338,7 +2338,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Clean Beauty",
     "category": "Care",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.hu/c/clean-beauty/apolas/testapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_CARE_Body|sp|care"
   },
@@ -2349,7 +2349,7 @@
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "Clean Beauty",
     "category": "Care",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.hu/c/clean-beauty/apolas/hajapolas/",
     "file_name": "Hungary_DOUGLAS_HU_CLEAN|sp|BEAUTY_CARE_Hair|sp|care"
   },

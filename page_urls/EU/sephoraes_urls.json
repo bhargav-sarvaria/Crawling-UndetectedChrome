@@ -6,7 +6,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje-c302/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -644,7 +644,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "GOOD MAKE UP",
+    "page": "Good Make Up",
     "page_url": "https://www.sephora.es/good-make-up-es/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_GOOD|sp|MAKE|sp|UP_GOOD|sp|MAKE|sp|UP"
   },
@@ -1854,7 +1854,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello-c307/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR_HAIR"
   },
@@ -1920,7 +1920,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.es/todos-los-productos/cabello/cuidado-cabello-c299914/",
     "file_name": "Spain_Sephora_ES_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2404,7 +2404,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.sephora.es/todos-los-productos/cuerpo-c304/",
     "file_name": "Spain_Sephora_ES_BODY_BODY_BODY"
   },
@@ -2459,7 +2459,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Body",
     "category": "Treatments for Body",
-    "page": "Hand care",
+    "page": "Handcare",
     "page_url": "https://www.sephora.es/todos-los-productos/cuerpo/tratamiento-corporal/cuidado-de-manos-c431/",
     "file_name": "Spain_Sephora_ES_BODY_BODY|sp|TREATMENT_Hand|sp|care"
   },
@@ -2481,7 +2481,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Body",
     "category": "Treatments for Body",
-    "page": "foot care",
+    "page": "Footcare",
     "page_url": "https://www.sephora.es/todos-los-productos/cuerpo/tratamiento-corporal/cuidado-pies-c7752/",
     "file_name": "Spain_Sephora_ES_BODY_BODY|sp|TREATMENT_foot|sp|care"
   },
@@ -2821,8 +2821,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Sephora Collection",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.es/marcas/marcas-de-a-z/sephora-collection-sepho/?scgid=C7685",
     "file_name": "Spain_Sephora_ES_SEPHORA|sp|COLLECTION_Masks_Masks"
   },

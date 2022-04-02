@@ -479,7 +479,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.de/de/c/make-up/03",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -732,7 +732,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "nail care",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.de/de/c/make-up/naegel/nagelpflege/030402",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_nail|sp|care"
   },
@@ -1337,7 +1337,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
     "category": "Suncare",
-    "page": "sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.de/de/c/gesicht/sonne-schutz/sonnenschutz/120901",
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_sun|sp|protection"
   },
@@ -1392,7 +1392,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
     "category": "Men",
-    "page": "shave",
+    "page": "Shaving",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/rasur/121003",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_shave"
   },
@@ -1645,7 +1645,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.de/de/c/koerper/13",
     "file_name": "Germany_DOUGLAS_DE_BODY_BODY_BODY"
   },
@@ -1821,7 +1821,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
     "category": "Suncare",
-    "page": "sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.de/de/c/koerper/sonne-schutz/sonnenschutz/130801",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_sun|sp|protection"
   },
@@ -2228,7 +2228,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.de/de/c/haare/14",
     "file_name": "Germany_DOUGLAS_DE_HAIR_HAIR_HAIR"
   },
@@ -2701,7 +2701,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
     "category": "Bags",
-    "page": "handbags",
+    "page": "Handbags",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/taschen-reisegepaeck/handtaschen/150101",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_handbags"
   },

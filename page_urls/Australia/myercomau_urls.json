@@ -1909,7 +1909,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Haircare",
-    "page": "Hair Care",
+    "page": "Haircare",
     "page_url": "https://www.myer.com.au/c/beauty/hair-care",
     "file_name": "Australia_Myer_Beauty_Hair|sp|Care_Hair|sp|Care"
   },
@@ -2044,17 +2044,6 @@
     "page": "Jo Malone London",
     "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/jo-malone-london",
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Jo|sp|Malone|sp|London"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
-    "category": "Top Brands",
-    "page": "Kiehl's",
-    "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/featured-brand-kiehls",
-    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Kiehl|sq|s"
   },
   {
     "country": "Australia",

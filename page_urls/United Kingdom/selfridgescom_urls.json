@@ -556,7 +556,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
     "category": "Shoes",
-    "page": "All shoes",
+    "page": "All in Shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/womens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_All|sp|shoes"
   },
@@ -732,7 +732,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
     "category": "Accessories",
-    "page": "Fine jewellery",
+    "page": "Fine Jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Fine|sp|jewellery"
   },
@@ -743,7 +743,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
     "category": "Accessories",
-    "page": "Fashion jewellery",
+    "page": "Fashion Jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fashion-jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Fashion|sp|jewellery"
   },
@@ -765,7 +765,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Women",
     "category": "Accessories",
-    "page": "Hair accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/womens/accessories/hair-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Hair|sp|accessories"
   },
@@ -1128,7 +1128,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Men",
     "category": "Shoes",
-    "page": "All shoes",
+    "page": "All in Shoes",
     "page_url": "https://www.selfridges.com/GB/en/cat/shoes/mens/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_All|sp|shoes"
   },
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
     "category": "Project Earth",
-    "page": "The project earth edit",
+    "page": "Project Earth",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/?freeText=project+earth&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|project|sp|earth|sp|edit_The|sp|project|sp|earth|sp|edit"
   },
@@ -1964,7 +1964,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Bags",
     "category": "All in Luggage",
-    "page": "Travel accessories",
+    "page": "Travel Accessories",
     "page_url": "https://www.selfridges.com/GB/en/cat/bags/luggage/travel-accessories/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Travel|sp|accessories"
   },
@@ -2514,7 +2514,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
     "category": "Skincare",
-    "page": "All skincare",
+    "page": "All in Skincare",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_All|sp|skincare"
   },
@@ -2569,7 +2569,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
     "category": "Skincare",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/skincare/masks/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Masks"
   },
@@ -2734,7 +2734,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
     "category": "Fragrance",
-    "page": "All fragrance",
+    "page": "All in Fragrance",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/fragrance/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_All|sp|fragrance"
   },
@@ -2954,7 +2954,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
     "category": "Mens Grooming",
-    "page": "Shave",
+    "page": "Shaving",
     "page_url": "https://www.selfridges.com/GB/en/cat/beauty/mens-grooming/shave/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Shave"
   },
@@ -4241,7 +4241,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Jewellery",
     "category": "Jewellery",
-    "page": "JEWELLERY",
+    "page": "Jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_JEWELLERY_JEWELLERY"
   },
@@ -4890,7 +4890,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Gifts",
     "category": "By Category",
-    "page": "Fine jewellery",
+    "page": "Fine Jewellery",
     "page_url": "https://www.selfridges.com/GB/en/cat/jewellery-watches/fine-jewellery/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Fine|sp|jewellery"
   },
@@ -4945,7 +4945,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Gifts",
     "category": "By Category",
-    "page": "Gift sets",
+    "page": "Gift Sets",
     "page_url": "https://www.selfridges.com/GB/en/cat/?freeText=gift+sets&srch=Y",
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Gift|sp|sets"
   },
@@ -4989,7 +4989,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Gifts",
     "category": "By Category",
-    "page": "Personalised gifts",
+    "page": "Personalized Gifts",
     "page_url": "https://www.selfridges.com/GB/en/cat/personalise-me/",
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Personalised|sp|gifts"
   },

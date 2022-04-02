@@ -160,7 +160,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Perfumes",
     "category": "Mens Fragrance",
-    "page": "men's body care",
+    "page": "Mens Bodycare",
     "page_url": "https://www.douglas.at/de/c/parfum/herrenduefte/koerperpflege/010209",
     "file_name": "Austria_DOUGLAS_AT_PERFUME_MEN|sq|S|sp|FRAGRANCES_men|sq|s|sp|body|sp|care"
   },
@@ -292,7 +292,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.at/de/c/make-up/03",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -468,7 +468,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/0304",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_NAILS"
   },
@@ -490,7 +490,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "nail care",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.at/de/c/make-up/naegel/nagelpflege/030402",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_NAILS_nail|sp|care"
   },
@@ -897,7 +897,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "Suncare",
-    "page": "sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.at/de/c/gesicht/sonne-schutz/sonnenschutz/120901",
     "file_name": "Austria_DOUGLAS_AT_FACE_SUN|sp||as||sp|PROTECTION_sun|sp|protection"
   },
@@ -941,7 +941,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "Eyecare",
-    "page": "EYE CARE",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.at/de/c/gesicht/augenpflege/1204",
     "file_name": "Austria_DOUGLAS_AT_FACE_EYE|sp|CARE_EYE|sp|CARE"
   },
@@ -1029,7 +1029,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Face",
     "category": "Men",
-    "page": "shave",
+    "page": "Shaving",
     "page_url": "https://www.douglas.at/de/c/gesicht/herren/rasur/121003",
     "file_name": "Austria_DOUGLAS_AT_FACE_MEN|sq|S_shave"
   },
@@ -1161,7 +1161,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.at/de/c/koerper/13",
     "file_name": "Austria_DOUGLAS_AT_BODY_BODY_BODY"
   },
@@ -1293,7 +1293,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "Suncare",
-    "page": "sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.at/de/c/koerper/sonne-schutz/sonnenschutz/130801",
     "file_name": "Austria_DOUGLAS_AT_BODY_SUN|sp||as||sp|PROTECTION_sun|sp|protection"
   },
@@ -1447,7 +1447,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "Footcare",
-    "page": "FOOT CARE",
+    "page": "Footcare",
     "page_url": "https://www.douglas.at/de/c/koerper/fusspflege/1307",
     "file_name": "Austria_DOUGLAS_AT_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -1601,7 +1601,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.at/de/c/haare/14",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR_HAIR"
   },
@@ -1612,7 +1612,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.at/de/c/haare/haarpflege/1401",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1854,7 +1854,7 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Hair",
     "category": "Hair Colour",
-    "page": "Coloration",
+    "page": "Colouring",
     "page_url": "https://www.douglas.at/de/c/haare/haarfarben/coloration/140502",
     "file_name": "Austria_DOUGLAS_AT_HAIR_HAIR|sp|COLOURS_Coloration"
   },

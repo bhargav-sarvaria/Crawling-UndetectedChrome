@@ -446,7 +446,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.sephora.fr/shop/maquillage/ongles-c345/",
     "file_name": "France_Sephora_FR_MAKEUP_NAILS_NAILS"
   },
@@ -611,7 +611,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Vegan Makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.fr/maquillage/good-for-maquillage/maquillage-vegan-maquillage-vegan/",
     "file_name": "France_Sephora_FR_MAKEUP_GOOD|sp|FOR|sp|MAQUILLAGE_Vegan|sp|Makeup"
   },
@@ -1128,7 +1128,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
     "category": "Good Perfumes",
-    "page": "Natural Perfume",
+    "page": "Natural Perfumes",
     "page_url": "https://www.sephora.fr/parfum/good-for-parfum/parfum-au-naturel-parfum-au-naturel/",
     "file_name": "France_Sephora_FR_PERFUME_GOOD|sp|FOR|sp|PARFUM_Natural|sp|Perfume"
   },
@@ -1139,7 +1139,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Perfumes",
     "category": "Good Perfumes",
-    "page": "Vegan Perfume",
+    "page": "Vegan Perfumes",
     "page_url": "https://www.sephora.fr/parfum/good-for-parfum/parfum-vegan-parfum-vegan/",
     "file_name": "France_Sephora_FR_PERFUME_GOOD|sp|FOR|sp|PARFUM_Vegan|sp|Perfume"
   },
@@ -1766,7 +1766,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
     "category": "Bodycare",
-    "page": "BODY CARE",
+    "page": "Bodycare",
     "page_url": "https://www.sephora.fr/shop/corps-et-bain/soin-du-corps-c298002/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -1799,7 +1799,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
     "category": "Bodycare",
-    "page": "Hand care",
+    "page": "Handcare",
     "page_url": "https://www.sephora.fr/shop/corps-et-bain/soin-du-corps/soin-des-mains-c431/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_BODY|sp|CARE_Hand|sp|care"
   },
@@ -1843,7 +1843,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
     "category": "Bodycare",
-    "page": "foot care",
+    "page": "Footcare",
     "page_url": "https://www.sephora.fr/shop/corps-et-bain/soin-du-corps/soin-des-pieds-c7752/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_BODY|sp|CARE_foot|sp|care"
   },
@@ -1920,7 +1920,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
     "category": "Wellbeing",
-    "page": "Intimate hygiene",
+    "page": "Intimate Hygiene",
     "page_url": "https://www.sephora.fr/corps-et-bain/bien-etre/hygiene-intime-c7802/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_WELL|h|BEING_Intimate|sp|hygiene"
   },
@@ -2250,7 +2250,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.sephora.fr/shop/cheveux-c307/",
     "file_name": "France_Sephora_FR_HAIR_HAIR_HAIR"
   },
@@ -2294,7 +2294,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.sephora.fr/shop/cheveux/soin-cheveux-c299914/",
     "file_name": "France_Sephora_FR_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2712,7 +2712,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Hair",
     "category": "Mens Hair",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.sephora.fr/shop/cheveux/cheveux-homme/soin-pour-cheveux-c297832/",
     "file_name": "France_Sephora_FR_HAIR_MALE|sp|HAIR_Hair|sp|care"
   },
@@ -2865,8 +2865,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Sephora Collection",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.fr/marques/de-a-a-z/sephora-collection-sepho/?scgid=C7685",
     "file_name": "France_Sephora_FR_SEPHORA|sp|COLLECTION_Masks_Masks"
   },
@@ -3152,7 +3152,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Good",
     "category": "Vegan",
-    "page": "Vegan Makeup",
+    "page": "Vegan Make Up",
     "page_url": "https://www.sephora.fr/maquillage/good-for-maquillage/maquillage-vegan-maquillage-vegan/",
     "file_name": "France_Sephora_FR_GOOD|sp|FOR_Vegan|sp|Makeup_Vegan|sp|Makeup"
   },
