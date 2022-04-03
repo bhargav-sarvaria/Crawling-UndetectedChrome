@@ -2011,16 +2011,5 @@
     "page": "Mens Perfumes",
     "page_url": "https://douglas.bg/promocii/m-zhki-parfjumi?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_MEN|sq|S|sp|PERFUMES"
-  },
-  {
-    "country": "Bulgaria",
-    "retailer": "DOUGLAS_BG",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
-    "department": "8TH OF MARCH",
-    "category": "8TH OF MARCH",
-    "page": "8TH OF MARCH",
-    "page_url": "https://douglas.bg/8-mart?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_8TH|sp|OF|sp|MARCH_8TH|sp|OF|sp|MARCH_8TH|sp|OF|sp|MARCH"
   }
 ]

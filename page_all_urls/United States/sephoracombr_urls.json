@@ -1,0 +1,90 @@
+[
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "Make Up",
+    "category": "Make Up",
+    "page": "Make Up",
+    "page_url": "https://www.sephora.com.br/maquiagem/",
+    "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
+  },
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "Make Up",
+    "category": "Make Up",
+    "page": "Make Up",
+    "page_url": "https://www.sephora.com.br/maquiagem/",
+    "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
+  },
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "Perfumes",
+    "category": "Perfumes",
+    "page": "Perfumes",
+    "page_url": "https://www.sephora.com.br/perfumes/",
+    "file_name": "Brazil_Sephora_BR_PERFUMES_PERFUMES_PERFUMES"
+  },
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "Skincare",
+    "category": "Skincare",
+    "page": "Skincare",
+    "page_url": "https://www.sephora.com.br/skincare/",
+    "file_name": "Brazil_Sephora_BR_SKINCARE_SKINCARE_SKINCARE"
+  },
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "Hair",
+    "category": "Hair",
+    "page": "Hair",
+    "page_url": "https://www.sephora.com.br/cabelos/",
+    "file_name": "Brazil_Sephora_BR_HAIR_HAIR_HAIR"
+  },
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "BEAUTY TO GO",
+    "category": "BEAUTY TO GO",
+    "page": "BEAUTY TO GO",
+    "page_url": "https://www.sephora.com.br/search/?cgid=TravelSize",
+    "file_name": "Brazil_Sephora_BR_BEAUTY|sp|TO|sp|GO_BEAUTY|sp|TO|sp|GO_BEAUTY|sp|TO|sp|GO"
+  },
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "Exclusive",
+    "category": "Exclusive",
+    "page": "Exclusive",
+    "page_url": "https://www.sephora.com.br/exclusivas/",
+    "file_name": "Brazil_Sephora_BR_EXCLUSIVE_EXCLUSIVE_EXCLUSIVE"
+  },
+  {
+    "country": "Brazil",
+    "retailer": "Sephora_BR",
+    "parsing_config": "./retailer_config/sephorabr_parsing.json",
+    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
+    "department": "Offers",
+    "category": "Offers",
+    "page": "Offers",
+    "page_url": "https://www.sephora.com.br/busca/?q=ofertas&pageType=hotsite&sortType=descDate",
+    "file_name": "Brazil_Sephora_BR_OFFERS_OFFERS_OFFERS"
+  }
+]
