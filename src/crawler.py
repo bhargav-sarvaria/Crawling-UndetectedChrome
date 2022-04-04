@@ -66,7 +66,7 @@ class Crawler:
         if not self.consumerRunning:
             self.consumerRunning = True
             threading.Thread(target = self.runConfigConsumer).start()
-            # threading.Thread(target = self.driverCleaner).start()        
+            threading.Thread(target = self.driverCleaner).start()        
     
     def queueNotEmpty(self):
         for retailer, retailer_q in self.queueMap.items():
