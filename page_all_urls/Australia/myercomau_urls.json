@@ -1259,17 +1259,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Men",
-    "category": "Sale",
-    "page": "Men's Mid Season Sale",
-    "page_url": "https://www.myer.com.au/c/men/mens-sale--1",
-    "file_name": "Australia_Myer_Men_Men|sq|s|sp|Mid|sp|Season|sp|Sale_Men|sq|s|sp|Mid|sp|Season|sp|Sale"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Men",
     "category": "Sleepwear",
     "page": "Sleepwear",
     "page_url": "https://www.myer.com.au/c/men/men-sleepwear",
@@ -3507,17 +3496,6 @@
     "page": "Massage & Therapy Devices",
     "page_url": "https://www.myer.com.au/c/sport/recovery-wellness/massage-therapy-devices",
     "file_name": "Australia_Myer_Sport_Recovery|sp||as||sp|Wellness_Massage|sp||as||sp|Therapy|sp|Devices"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Kids",
-    "category": "Sale",
-    "page": "Kids Mid Season Sale",
-    "page_url": "https://www.myer.com.au/c/kidsbaby/kids-sale--1",
-    "file_name": "Australia_Myer_Kids_Kids|sp|Mid|sp|Season|sp|Sale_Kids|sp|Mid|sp|Season|sp|Sale"
   },
   {
     "country": "Australia",

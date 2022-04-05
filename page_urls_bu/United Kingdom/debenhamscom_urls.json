@@ -1084,17 +1084,6 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Women",
     "category": "By Collection",
-    "page": "Comfy Collection",
-    "page_url": "https://www.debenhams.com/category/debenhams-campaign-6",
-    "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Comfy|sp|Collection"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Women",
-    "category": "By Collection",
     "page": "Bright & Bold",
     "page_url": "https://www.debenhams.com/category/womens-collections-brights",
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Bright|sp||as||sp|Bold"
