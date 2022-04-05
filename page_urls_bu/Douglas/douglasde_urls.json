@@ -4087,17 +4087,6 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
     "category": "Beauty Stories",
-    "page": "Tutorial: The perfect beauty sleep",
-    "page_url": "https://www.douglas.de/de/c/gesundheit/beauty-storys/tutorial-der-perfekte-schoenheitsschlaf/071381",
-    "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Beauty|h|Storys_Tutorial|cln||sp|The|sp|perfect|sp|beauty|sp|sleep"
-  },
-  {
-    "country": "Germany",
-    "retailer": "DOUGLAS_DE",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Douglas_DE/",
-    "department": "Bless You",
-    "category": "Beauty Stories",
     "page": "\u00bb Alle Beauty-Storys",
     "page_url": "https://www.douglas.de/de/c/gesundheit/beauty-storys/0713",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Beauty|h|Storys_\u00bb|sp|Alle|sp|Beauty|h|Storys"

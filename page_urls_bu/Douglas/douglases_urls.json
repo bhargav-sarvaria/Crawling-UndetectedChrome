@@ -424,17 +424,6 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
     "category": "Neck & Decolletage Care",
-    "page": "Night Care",
-    "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote/cuidado_noche",
-    "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_Night|sp|Care"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Face",
-    "category": "Neck & Decolletage Care",
     "page": "Serum",
     "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote/serum",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_Serum"
