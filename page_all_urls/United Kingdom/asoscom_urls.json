@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Gym & Training",
     "page_url": "https://www.asos.com/women/sportswear/gym-training/cat/?cid=27171&nlid=ww|sportswear|shop+by+activity|gym+%26+training",
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Gym|sp||as||sp|Training"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Lifestyle",
     "page_url": "https://www.asos.com/women/ctas/ss-fashion-trend-8/cat/?cid=20243&nlid=ww|sportswear|shop+by+activity|lifestyle",
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Lifestyle"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Outdoors",
     "page_url": "https://www.asos.com/women/sportswear/outdoors/cat/?cid=27173&nlid=ww|sportswear|shop+by+activity|outdoors",
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Outdoors"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Running",
     "page_url": "https://www.asos.com/women/sportswear/running/cat/?cid=27172&nlid=ww|sportswear|shop+by+activity|running",
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Running"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Ski & Snowboard",
     "page_url": "https://www.asos.com/women/sportswear/ski-snowboard/cat/?cid=27519&nlid=ww|sportswear|shop+by+activity|ski+%26+snowboard",
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Ski|sp||as||sp|Snowboard"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Yoga & Studio",
     "page_url": "https://www.asos.com/women/sportswear/yoga-studio/cat/?cid=27175&nlid=ww|sportswear|shop+by+activity|yoga+%26+studio",
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Yoga|sp||as||sp|Studio"
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Accessories",
     "category": "NEW EDITS",
-    "page": "HAIR ACCESSORIES",
+    "page": "Hair Accessories",
     "page_url": "https://www.asos.com/women/accessories/hair-accessories/cat/?cid=11412&nlid=ww|accessories|new+edits|hair+accessories",
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_NEW|sp|EDITS_HAIR|sp|ACCESSORIES"
   },
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Activewear",
     "page_url": "https://www.asos.com/women/activewear/cat/?cid=26091&nlid=ww|trending+now|most+wanted|activewear",
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Activewear"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Chunky Boots",
     "page_url": "https://www.asos.com/women/ctas/fashion-online-12/cat/?cid=13494&nlid=ww|trending+now|most+wanted|chunky+boots",
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Chunky|sp|Boots"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Leather Looks",
     "page_url": "https://www.asos.com/women/ctas/fashion-online-10/cat/?cid=13508&nlid=ww|trending+now|most+wanted|leather+looks",
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Leather|sp|Looks"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Party Heels",
     "page_url": "https://www.asos.com/women/shoes/party-shoes/cat/?cid=14466&nlid=ww|trending+now|most+wanted|party+heels",
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Party|sp|Heels"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Tailoring",
     "page_url": "https://www.asos.com/women/suits-separates/cat/?cid=13632&nlid=ww|trending+now|most+wanted|tailoring",
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Tailoring"
@@ -1964,7 +1964,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Face + Body",
     "category": "SHOP BY PRODUCT",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.asos.com/women/face-body/body-care/cat/?cid=4896&nlid=ww|face+%2B+body|shop+by+product|body+care",
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Body|sp|care"
   },
@@ -2074,17 +2074,6 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Face + Body",
     "category": "SHOP BY BRAND",
-    "page": "Charlotte Tilbury",
-    "page_url": "https://www.asos.com/women/a-to-z-of-brands/charlotte-tilbury/cat/?cid=29731&nlid=ww|face+%2B+body|shop+by+brand|charlotte+tilbury",
-    "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Charlotte|sp|Tilbury"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Women_Face + Body",
-    "category": "SHOP BY BRAND",
     "page": "Garnier",
     "page_url": "https://www.asos.com/women/a-to-z-of-brands/garnier/cat/?cid=28987&nlid=ww|face+%2B+body|shop+by+brand|garnier",
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Garnier"
@@ -2161,17 +2150,6 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Face + Body",
-    "category": "SHOP BY BRAND",
-    "page": "The Ordinary",
-    "page_url": "https://www.asos.com/women/a-to-z-of-brands/the-ordinary/cat/?cid=25860&nlid=ww|face+%2B+body|shop+by+brand|the+ordinary",
-    "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_The|sp|Ordinary"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Women_Face + Body",
     "category": "CTAS (ALL DEVICES)",
     "page": "HUDA BEAUTY",
     "page_url": "https://www.asos.com/women/face-body/a-to-z-of-brands/huda-beauty/cat/?cid=30315&nlid=ww|face+%2B+body|ctas+(all+devices)|huda+beauty",
@@ -2206,7 +2184,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Women_Face + Body",
     "category": "CTAS (DESKTOP ONLY)",
-    "page": "REVOLUTION",
+    "page": "Revolution",
     "page_url": "https://www.asos.com/women/face-body/a-to-z-of-brands/revolution/cat/?cid=28850&nlid=ww|face+%2B+body|ctas+(desktop+only)|revolution",
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_CTAS|sp|(DESKTOP|sp|ONLY)_REVOLUTION"
   },
@@ -3932,7 +3910,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Football",
     "page_url": "https://www.asos.com/men/sportswear/football/cat/?cid=27182&nlid=mw|sportswear|shop+by+activity|football",
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Football"
@@ -3943,7 +3921,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Gym & Training",
     "page_url": "https://www.asos.com/men/sportswear/gym-training/cat/?cid=27183&nlid=mw|sportswear|shop+by+activity|gym+%26+training",
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Gym|sp||as||sp|Training"
@@ -3954,7 +3932,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Lifestyle",
     "page_url": "https://www.asos.com/men/ctas/fashion-online-41/cat/?cid=28288&nlid=mw|sportswear|shop+by+activity|lifestyle",
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Lifestyle"
@@ -3965,7 +3943,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Outdoors",
     "page_url": "https://www.asos.com/men/sportswear/outdoors/cat/?cid=27184&nlid=mw|sportswear|shop+by+activity|outdoors",
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Outdoors"
@@ -3976,7 +3954,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Running",
     "page_url": "https://www.asos.com/men/sportswear/running/cat/?cid=27191&nlid=mw|sportswear|shop+by+activity|running",
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Running"
@@ -3987,7 +3965,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Sportswear",
-    "category": "SHOP BY ACTIVITY",
+    "category": "Shop by Activity",
     "page": "Ski & Snowboard",
     "page_url": "https://www.asos.com/men/sportswear/ski-snowboard/cat/?cid=27520&nlid=mw|sportswear|shop+by+activity|ski+%26+snowboard",
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Ski|sp||as||sp|Snowboard"
@@ -4339,7 +4317,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Cardigans",
     "page_url": "https://www.asos.com/men/jumpers-cardigans/cardigans/cat/?cid=14056&nlid=mw|trending+now|most+wanted|cardigans",
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Cardigans"
@@ -4350,7 +4328,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Gilets",
     "page_url": "https://www.asos.com/men/jackets-coats/gilets/cat/?cid=14886&nlid=mw|trending+now|most+wanted|gilets",
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Gilets"
@@ -4361,7 +4339,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Overcoats",
     "page_url": "https://www.asos.com/men/jackets-coats/overcoats/cat/?cid=20990&nlid=mw|trending+now|most+wanted|overcoats",
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Overcoats"
@@ -4372,7 +4350,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Overshirts",
     "page_url": "https://www.asos.com/men/shirts/casual-shirts/cat/?cid=17410&currentpricerange=5-180&nlid=mw|trending+now|most+wanted|overshirts&refine=attribute_1046%3A61461",
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Overshirts"
@@ -4383,7 +4361,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Oversized Suits",
     "page_url": "https://www.asos.com/men/suits/cat/?cid=5678&currentpricerange=5-160&nlid=mw|clothing|shop+by+product|suits+%26+tailoring|trending+now|most+wanted|oversized+suits&refine=attribute_10143%3A53001",
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Oversized|sp|Suits"
@@ -4394,7 +4372,7 @@
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Trending now",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Varsity Jackets",
     "page_url": "https://www.asos.com/men/jackets-coats/varsity-jackets/cat/?cid=50300&nlid=mw|trending+now|most+wanted|varsity+jackets",
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Varsity|sp|Jackets"
@@ -4725,7 +4703,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Face + Body",
     "category": "SHOP BY PRODUCT",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.asos.com/men/face-body/body-care/cat/?cid=27142&nlid=mw|face+%2B+body|shop+by+product|body+care",
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Body|sp|care"
   },
@@ -4901,17 +4879,6 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Face + Body",
     "category": "SHOP BY BRAND",
-    "page": "The Ordinary",
-    "page_url": "https://www.asos.com/men/a-to-z-of-brands/the-ordinary/cat/?cid=28559&nlid=mw|face+%2B+body|shop+by+brand|the+ordinary",
-    "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_The|sp|Ordinary"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "ASOS",
-    "parsing_config": "./retailer_config/asoscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/ASOS/",
-    "department": "Men_Face + Body",
-    "category": "SHOP BY BRAND",
     "page": "Wahl",
     "page_url": "https://www.asos.com/men/a-to-z-of-brands/wahl/cat/?cid=21432&nlid=mw|face+%2B+body|shop+by+brand|wahl",
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Wahl"
@@ -4945,7 +4912,7 @@
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
     "department": "Men_Face + Body",
     "category": "DESKTOP ONLY CTAS (LEFT)",
-    "page": "GIFTS",
+    "page": "Gifts",
     "page_url": "https://www.asos.com/men/face-body/gifts/cat/?cid=50350&nlid=mw|face+%2B+body|desktop+only+ctas+(left)|gifts",
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_GIFTS"
   },

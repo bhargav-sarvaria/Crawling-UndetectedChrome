@@ -1227,7 +1227,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
     "category": "To Shave",
-    "page": "beard care",
+    "page": "Beard Care",
     "page_url": "https://www.sephora.pt/tratamento/barbear/cuidados-de-barba-c323101/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TO|sp|SHAVE_beard|sp|care"
   },
@@ -1865,7 +1865,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.sephora.pt/cabelo/acessorios-c453/",
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_ACCESSORIES"
   },
@@ -1898,7 +1898,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Styling",
-    "page": "STYLING",
+    "page": "Styling",
     "page_url": "https://www.sephora.pt/cabelo/styling-c454/",
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_STYLING"
   },
@@ -2393,7 +2393,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
     "category": "Sun Care",
-    "page": "SUN CARE",
+    "page": "Sun Care",
     "page_url": "https://www.sephora.pt/corpo/cuidados-com-o-sol-c7784/",
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_SUN|sp|CARE"
   },
@@ -2492,7 +2492,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://www.sephora.pt/corpo/casa-c214801/",
     "file_name": "Portugal_Sephora_PT_BODY_HOME_HOME"
   },

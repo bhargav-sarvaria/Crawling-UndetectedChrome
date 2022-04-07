@@ -93,8 +93,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "New",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.ulta.com/new-beauty-products?N=6Z26us",
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
@@ -655,7 +655,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Make Up",
     "category": "Featured",
-    "page": "Black-Owned Brands",
+    "page": "Black Owned Brands",
     "page_url": "https://www.ulta.com/featured/blackownedbrands?N=t2hny5Z26y1&Ns=product.bestseller%7C1",
     "file_name": "United|sp|States_Ulta_Makeup_Featured_Black|h|Owned|sp|Brands"
   },
@@ -687,8 +687,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Nails",
-    "category": "Gel Nail Polish",
-    "page": "Gel Nail Polish",
+    "category": "Nail Polish Gel",
+    "page": "Nail Polish Gel",
     "page_url": "https://www.ulta.com/gel-nail-polish?N=278j",
     "file_name": "United|sp|States_Ulta_Nails_Gel|sp|Nail|sp|Polish_Gel|sp|Nail|sp|Polish"
   },
@@ -720,8 +720,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Nails",
-    "category": "Press On Nails",
-    "page": "Press On Nails",
+    "category": "Press on Nails",
+    "page": "Press on Nails",
     "page_url": "https://www.ulta.com/press-on-nails?N=lrb2l2",
     "file_name": "United|sp|States_Ulta_Nails_Press|sp|On|sp|Nails_Press|sp|On|sp|Nails"
   },
@@ -742,8 +742,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Nails",
-    "category": "Nail Care",
-    "page": "Nail Care",
+    "category": "Nailcare",
+    "page": "Nailcare",
     "page_url": "https://www.ulta.com/nail-care?N=27bs",
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Nail|sp|Care"
   },
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Nails",
-    "category": "Nail Care",
+    "category": "Nailcare",
     "page": "Removers",
     "page_url": "https://www.ulta.com/nail-care-removers?N=27bt",
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Removers"
@@ -764,7 +764,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Nails",
-    "category": "Nail Care",
+    "category": "Nailcare",
     "page": "Cuticle Care",
     "page_url": "https://www.ulta.com/nail-care-cuticle-care?N=27bv",
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Cuticle|sp|Care"
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Nails",
-    "category": "Nail Care",
+    "category": "Nailcare",
     "page": "Nail Treatments",
     "page_url": "https://www.ulta.com/nail-care-nail-treatments?N=27bw",
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Nail|sp|Treatments"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Moisturizers",
     "page_url": "https://www.ulta.com/skin-care-moisturizers?N=2796",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Moisturizers"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Face Moisturizer",
     "page_url": "https://www.ulta.com/skin-care-face-moisturizer?N=27h9",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Face|sp|Moisturizer"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Night Cream",
     "page_url": "https://www.ulta.com/skin-care-moisturizers-night-cream?N=27ha",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Night|sp|Cream"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Face Oils",
     "page_url": "https://www.ulta.com/skin-care-moisturizers-face-oils?N=27hb",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Face|sp|Oils"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Face Mists & Essences",
     "page_url": "https://www.ulta.com/skin-care-moisturizers-face-mists-essences?N=27hc",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Face|sp|Mists|sp||as||sp|Essences"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Neck Cream",
     "page_url": "https://www.ulta.com/skin-care-moisturizers-neck-cream?N=27hd",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Neck|sp|Cream"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Tinted Moisturizer",
     "page_url": "https://www.ulta.com/skin-care-tinted-moisturizer?N=5qrcc",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Tinted|sp|Moisturizer"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Mouisturisers",
+    "category": "Moisturizer",
     "page": "Lip Care",
     "page_url": "https://www.ulta.com/skin-care-moisturizers-lip-care?N=27hv",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Lip|sp|Care"
@@ -1073,7 +1073,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
     "category": "Treatment & Serums",
-    "page": "Body Treatments",
+    "page": "Treatments for Body",
     "page_url": "https://www.ulta.com/skin-care-treatment-serums-body-treatments?N=7ytwqk",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Body|sp|Treatments"
   },
@@ -1259,8 +1259,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
-    "category": "Global Skin Care",
-    "page": "Global Skin Care",
+    "category": "Global Skincare",
+    "page": "Global Skincare",
     "page_url": "https://www.ulta.com/global-skin-care?N=27ig",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Global|sp|Skin|sp|Care_Global|sp|Skin|sp|Care"
   },
@@ -1282,7 +1282,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Skin",
     "category": "Featured",
-    "page": "Black-Owned Brands",
+    "page": "Black Owned Brands",
     "page_url": "https://www.ulta.com/featured/blackownedbrands?N=t2hny5Z2707&Ns=product.bestseller%7C1",
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Featured_Black|h|Owned|sp|Brands"
   },
@@ -1392,7 +1392,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
     "category": "Treatments",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://www.ulta.com/hair-treatment-masks?N=27fu",
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Masks"
   },
@@ -1523,8 +1523,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Hair Color",
-    "page": "Hair Color",
+    "category": "Hair Colour",
+    "page": "Hair Colour",
     "page_url": "https://www.ulta.com/hair-color?N=26xs",
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Hair|sp|Color"
   },
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Hair Color",
+    "category": "Hair Colour",
     "page": "Root Touch Up",
     "page_url": "https://www.ulta.com/hair-color-root-touch-up?N=3awspq",
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Root|sp|Touch|sp|Up"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Hair Color",
+    "category": "Hair Colour",
     "page": "Hair Color & Bleach",
     "page_url": "https://www.ulta.com/hair-color-bleach?N=vp2ja9",
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Hair|sp|Color|sp||as||sp|Bleach"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Hair Color",
+    "category": "Hair Colour",
     "page": "Trend Color",
     "page_url": "https://www.ulta.com/hair-color-trend-color?N=1yd56x1",
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Trend|sp|Color"
@@ -1721,8 +1721,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
-    "category": "Kid's Haircare",
-    "page": "Kid's Haircare",
+    "category": "Kids Haircare",
+    "page": "Kids Haircare",
     "page_url": "https://www.ulta.com/hair-kids-haircare?N=26xz",
     "file_name": "United|sp|States_Ulta_Hair_Kid|sq|s|sp|Haircare_Kid|sq|s|sp|Haircare"
   },
@@ -1766,7 +1766,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Hair",
     "category": "Featured",
-    "page": "Black-Owned Brands",
+    "page": "Black Owned Brands",
     "page_url": "https://www.ulta.com/featured/blackownedbrands?N=t2hny5Z26wz&Ns=product.bestseller%7C1",
     "file_name": "United|sp|States_Ulta_Hair_Featured_Black|h|Owned|sp|Brands"
   },
@@ -2118,7 +2118,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Tools",
     "category": "Featured",
-    "page": "Black-Owned Brands",
+    "page": "Black Owned Brands",
     "page_url": "https://www.ulta.com/featured/blackownedbrands?N=t2hny5Z27g4&Ns=product.bestseller%7C1",
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Featured_Black|h|Owned|sp|Brands"
   },
@@ -2139,8 +2139,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
-    "page": "Women's Fragrance",
+    "category": "Womens Fragrance",
+    "page": "Womens Fragrance",
     "page_url": "https://www.ulta.com/womens-fragrance?N=26wn",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Women|sq|s|sp|Fragrance"
   },
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Perfumes",
     "page_url": "https://www.ulta.com/womens-fragrance-perfume?N=26wq",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Perfume"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Rollerballs & Purse Sprays",
     "page_url": "https://www.ulta.com/womens-fragrance-rollerballs-purse-sprays?N=26wo",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Rollerballs|sp||as||sp|Purse|sp|Sprays"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Body Lotions",
     "page_url": "https://www.ulta.com/womens-fragrance-body-lotions?N=26ws",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Body|sp|Lotions"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Body Mist & Hair Mist",
     "page_url": "https://www.ulta.com/womens-fragrance-body-mist-hair-mist?N=26wr",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Body|sp|Mist|sp||as||sp|Hair|sp|Mist"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Women's Fragrance",
+    "category": "Womens Fragrance",
     "page": "Bath & Shower",
     "page_url": "https://www.ulta.com/womens-fragrance-bath-shower?N=27im",
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Bath|sp||as||sp|Shower"
@@ -2205,8 +2205,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Men's Fragrance",
-    "page": "Men's Fragrance",
+    "category": "Mens Fragrance",
+    "page": "Mens Fragrance",
     "page_url": "https://www.ulta.com/mens-fragrance?N=26wf",
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Men|sq|s|sp|Fragrance"
   },
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Men's Fragrance",
+    "category": "Mens Fragrance",
     "page": "Cologne",
     "page_url": "https://www.ulta.com/men-cologne?N=1wrfdjd",
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Cologne"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Men's Fragrance",
+    "category": "Mens Fragrance",
     "page": "Aftershave",
     "page_url": "https://www.ulta.com/mens-fragrance-aftershave?N=c0fphe",
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Aftershave"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Fragrance",
-    "category": "Men's Fragrance",
+    "category": "Mens Fragrance",
     "page": "Bath & Shower",
     "page_url": "https://www.ulta.com/mens-fragrance-bath-shower?N=27in",
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Bath|sp||as||sp|Shower"
@@ -2304,8 +2304,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.ulta.com/shop/bath-body",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
@@ -2370,8 +2370,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Body Moisturizers",
-    "page": "Body Moisturizers",
+    "category": "Body Moisturisers",
+    "page": "Body Moisturisers",
     "page_url": "https://www.ulta.com/bath-body-body-moisturizers?N=26v3",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Moisturizers"
   },
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Body Moisturizers",
+    "category": "Body Moisturisers",
     "page": "Body Lotion & Creams",
     "page_url": "https://www.ulta.com/bath-body-body-moisturizers-body-lotion-creams?N=26v4",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Lotion|sp||as||sp|Creams"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Body Moisturizers",
+    "category": "Body Moisturisers",
     "page": "Body Butters",
     "page_url": "https://www.ulta.com/bath-body-body-moisturizers-body-butters?N=mexdhx",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Butters"
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Body Moisturizers",
+    "category": "Body Moisturisers",
     "page": "Body Serums & Oils",
     "page_url": "https://www.ulta.com/bath-body-body-moisturizers-body-serums-oils?N=26v6",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Serums|sp||as||sp|Oils"
@@ -2481,7 +2481,7 @@
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
     "category": "Self Care & Wellness",
-    "page": "Body Treatments",
+    "page": "Treatments for Body",
     "page_url": "https://www.ulta.com/skin-care-treatment-serums-body-treatments?N=7ytwqk",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Body|sp|Treatments"
   },
@@ -2579,8 +2579,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Bath & Body Accessories",
-    "page": "Bath & Body Accessories",
+    "category": "Body & Bath Accessories",
+    "page": "Body & Bath Accessories",
     "page_url": "https://www.ulta.com/bath-body-accessories?N=27i8",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Bath|sp||as||sp|Body|sp|Accessories"
   },
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Bath & Body Accessories",
+    "category": "Body & Bath Accessories",
     "page": "Bath Sponges, Gloves & Brushes",
     "page_url": "https://www.ulta.com/bath-body-accessories-bath-sponges-gloves-brushes?N=27i9",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Bath|sp|Sponges,|sp|Gloves|sp||as||sp|Brushes"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Bath & Body Accessories",
+    "category": "Body & Bath Accessories",
     "page": "Hair Towels & Shower Caps",
     "page_url": "https://www.ulta.com/bath-body-accessories-hair-towels-shower-caps?N=rzzf9a",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Hair|sp|Towels|sp||as||sp|Shower|sp|Caps"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Bath & Body Accessories",
+    "category": "Body & Bath Accessories",
     "page": "Trend & Fashion Accessories",
     "page_url": "https://www.ulta.com/bath-body-accessories-trend-fashion-accessories?N=27ib",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Trend|sp||as||sp|Fashion|sp|Accessories"
@@ -2667,8 +2667,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Mother & Baby",
-    "page": "Mother & Baby",
+    "category": "Mother & Child",
+    "page": "Mother & Child",
     "page_url": "https://www.ulta.com/bath-body-mother-baby?N=kmg3x7",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Mother|sp||as||sp|Baby_Mother|sp||as||sp|Baby"
   },
@@ -2711,8 +2711,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Body",
-    "category": "Black-Owned Brands",
-    "page": "Black-Owned Brands",
+    "category": "Black Owned Brands",
+    "page": "Black Owned Brands",
     "page_url": "https://www.ulta.com/featured/blackownedbrands?N=t2hny5Z26us&Ns=product.bestseller%7C1",
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Black|h|Owned|sp|Brands_Black|h|Owned|sp|Brands"
   },
@@ -2810,8 +2810,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Men",
-    "category": "Body Care",
-    "page": "Body Care",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.ulta.com/men-body-care?N=wpkeo8",
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Body|sp|Care"
   },
@@ -2821,7 +2821,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Men",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Shower Gel & Body Wash",
     "page_url": "https://www.ulta.com/men-body-care-shower-gel-body-wash?N=7831sd",
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Shower|sp|Gel|sp||as||sp|Body|sp|Wash"
@@ -2832,7 +2832,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Men",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Lotion",
     "page_url": "https://www.ulta.com/men-body-care-body-lotion?N=plc7wk",
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Body|sp|Lotion"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Men",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorant",
     "page_url": "https://www.ulta.com/men-body-care-deodorant?N=uax0lc",
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Deodorant"
@@ -3041,8 +3041,8 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
-    "page": "Bath & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body?N=26vy",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
@@ -3052,7 +3052,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath & Shower",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-bath-shower?N=27d0",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Bath Bombs & Fizzers",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-bath-bombs-fizzers?N=17rwmt8",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp|Bombs|sp||as||sp|Fizzers"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Moisturizers",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-moisturizers?N=27d1",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Moisturizers"
@@ -3085,7 +3085,7 @@
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
     "department": "Ulta Beauty Collection",
-    "category": "Bath & Body",
+    "category": "Body & Bath",
     "page": "Hand Soap & Sanitizers",
     "page_url": "https://www.ulta.com/ulta-collection-bath-body-hand-soap-sanitizers?N=27e4",
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Hand|sp|Soap|sp||as||sp|Sanitizers"
@@ -3265,17 +3265,6 @@
     "page": "By Price",
     "page_url": "https://www.ulta.com/gifts-by-price?N=1u0h8eu",
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Price_By|sp|Price"
-  },
-  {
-    "country": "United States",
-    "retailer": "Ulta",
-    "parsing_config": "./retailer_config/ultacom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Ulta/",
-    "department": "Gifts",
-    "category": "By Price",
-    "page": "$25 And Under",
-    "page_url": "https://www.ulta.com/gifts-by-price-25-under?N=l59ixh",
-    "file_name": "United|sp|States_Ulta_Gifts_By|sp|Price_|dol|25|sp|And|sp|Under"
   },
   {
     "country": "United States",

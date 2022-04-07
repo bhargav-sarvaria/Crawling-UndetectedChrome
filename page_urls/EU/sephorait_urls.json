@@ -17,7 +17,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
     "category": "Announcements",
-    "page": "ANNOUNCEMENTS",
+    "page": "Announcements",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/novit%C3%A0-c302-novita/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_ANNOUNCEMENTS_ANNOUNCEMENTS"
   },
@@ -83,7 +83,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Make Up",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/make-up/viso-c342/",
     "file_name": "Italy_Sephora_IT_MAKE|h|UP_FACE_FACE"
   },
@@ -589,7 +589,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
     "category": "Announcements",
-    "page": "ANNOUNCEMENTS",
+    "page": "Announcements",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi/novit%C3%A0-c301-novita/",
     "file_name": "Italy_Sephora_IT_PERFUMES_ANNOUNCEMENTS_ANNOUNCEMENTS"
   },
@@ -1095,7 +1095,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
     "category": "Announcements",
-    "page": "ANNOUNCEMENTS",
+    "page": "Announcements",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/novit%C3%A0-c303-novita/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_ANNOUNCEMENTS_ANNOUNCEMENTS"
   },
@@ -1447,7 +1447,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
     "category": "Shaving",
-    "page": "SHAVING",
+    "page": "Shaving",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/rasatura-c494/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_SHAVING_SHAVING"
   },
@@ -1667,7 +1667,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
     "category": "Announcements",
-    "page": "ANNOUNCEMENTS",
+    "page": "Announcements",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/novit%C3%A0-c304-novita/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_ANNOUNCEMENTS_ANNOUNCEMENTS"
   },
@@ -1766,7 +1766,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
     "category": "Bath & Shower",
-    "page": "BATH & SHOWER",
+    "page": "Bath & Shower",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/bagno-e-doccia-c473/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_BATH|sp||as||sp|SHOWER_BATH|sp||as||sp|SHOWER"
   },
@@ -2074,7 +2074,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Body",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/corpo-e-bagno/casa-c214801/",
     "file_name": "Italy_Sephora_IT_BODY|sp||as||sp|BATH_HOME_HOME"
   },
@@ -2195,7 +2195,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
     "category": "Announcements",
-    "page": "ANNOUNCEMENTS",
+    "page": "Announcements",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/novit%C3%A0-c307-novita/",
     "file_name": "Italy_Sephora_IT_HAIR_ANNOUNCEMENTS_ANNOUNCEMENTS"
   },
@@ -2602,7 +2602,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/capelli/accessori-c453/",
     "file_name": "Italy_Sephora_IT_HAIR_ACCESSORIES_ACCESSORIES"
   },

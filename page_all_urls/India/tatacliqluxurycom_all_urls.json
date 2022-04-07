@@ -677,7 +677,7 @@
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Men",
     "category": "GROOMING & FRAGRANCES",
-    "page": "Fragrances",
+    "page": "Fragrance",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Men_GROOMING|sp||as||sp|FRAGRANCES_Fragrances"
   },
   {
@@ -1419,7 +1419,7 @@
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Women",
     "category": "BEAUTY & FRAGRANCES",
-    "page": "Fragrances",
+    "page": "Fragrance",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Women_BEAUTY|sp||as||sp|FRAGRANCES_Fragrances"
   },
   {
@@ -1448,7 +1448,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Polos & T-Shirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Polos|sp||as||sp|T|h|Shirts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100104&isSortFlow=false"
@@ -1459,7 +1459,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Shorts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Shorts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100103&isSortFlow=false"
@@ -1470,7 +1470,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Shirts",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Shirts",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100101&isSortFlow=false"
@@ -1481,7 +1481,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Jeans",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Jeans",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100100&isSortFlow=false"
@@ -1492,7 +1492,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Sweatshirt & Cardigans",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Sweatshirt|sp||as||sp|Cardigans",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100106&isSortFlow=false"
@@ -1503,7 +1503,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Jackets",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Jackets",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100105&isSortFlow=false"
@@ -1514,7 +1514,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Trackpants & Joggers",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Trackpants|sp||as||sp|Joggers",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100108&isSortFlow=false"
@@ -1525,7 +1525,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Clothing Set",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Clothing|sp|Set",
     "page_url": "https://luxury.tatacliq.com/luxury-kids-apparel-boys-clothing-set/c-lsh1710100109"
@@ -1536,7 +1536,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "Shoes",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_Shoes",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1711100100&isSortFlow=false"
@@ -1547,7 +1547,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BOYS",
+    "category": "Boys",
     "page": "See All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BOYS_View|sp|all",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710100&isSortFlow=false"
@@ -1558,7 +1558,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "Dress",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_Dress",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710101103&isSortFlow=false"
@@ -1569,7 +1569,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "Tops & Tees",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_Tops|sp||as||sp|Tees",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710101106&isSortFlow=false"
@@ -1580,7 +1580,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "Tracksuits",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_Tracksuits",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710101102&isSortFlow=false"
@@ -1591,7 +1591,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "Jeans",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_Jeans",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710101104&isSortFlow=false"
@@ -1602,7 +1602,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "Sweatshirt & Cardigans",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_Sweatshirt|sp||as||sp|Cardigans",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710101108&isSortFlow=false"
@@ -1613,7 +1613,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "Jackets",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_Jackets",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710101107&isSortFlow=false"
@@ -1624,7 +1624,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "Shoes",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_Shoes",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1711101&isSortFlow=false"
@@ -1635,7 +1635,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "GIRLS",
+    "category": "Girls",
     "page": "See All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_GIRLS_View|sp|all",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH1710101&isSortFlow=false"
@@ -1844,7 +1844,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Aigner",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Aigner"
   },
@@ -1854,7 +1854,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "BABYZEN",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_BABYZEN"
   },
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "BEABA",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_BEABA"
   },
@@ -1874,7 +1874,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Birkenstock",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Birkenstock"
   },
@@ -1884,7 +1884,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Boy London",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Boy|sp|London"
   },
@@ -1894,7 +1894,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Choupette",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Choupette"
   },
@@ -1904,7 +1904,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Comotomo",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Comotomo"
   },
@@ -1914,7 +1914,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Dsquared 2",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Dsquared|sp|2"
   },
@@ -1924,7 +1924,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Diesel",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Diesel"
   },
@@ -1934,7 +1934,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "GANT",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_GANT"
   },
@@ -1944,7 +1944,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Jane",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Jane"
   },
@@ -1954,7 +1954,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Jordan",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Jordan"
   },
@@ -1964,7 +1964,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Lacoste",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Lacoste"
   },
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Mayoral",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Mayoral"
   },
@@ -1984,7 +1984,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Onitsuka Tiger",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Onitsuka|sp|Tiger"
   },
@@ -1994,7 +1994,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Pasito a Pasito",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Pasito|sp|a|sp|Pasito"
   },
@@ -2004,7 +2004,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "STOKKE",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_STOKKE"
   },
@@ -2014,7 +2014,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Kids",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Superhero Toy Store",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Kids_BRANDS_Superhero|sp|Toy|sp|Store"
   },
@@ -2069,7 +2069,7 @@
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
     "category": "Women",
-    "page": "Fragrances",
+    "page": "Fragrance",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_WOMEN_Fragrances",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1?page=0&q=:relevance:category:LSH2111100:genderbeauty-classification:Women:genderbeauty-classification:Unisex&isSortFlow=false"
   },
@@ -2157,7 +2157,7 @@
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
     "category": "Men",
-    "page": "Fragrances",
+    "page": "Fragrance",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_MEN_Fragrances",
     "page_url": "https://luxury.tatacliq.com/luxury/c-LSH1510?page=0&q=:relevance:category:LSH2111100:genderbeauty-classification:Men:genderbeauty-classification:Unisex&isSortFlow=false"
   },
@@ -2167,7 +2167,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "See All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_View|sp|All"
   },
@@ -2177,7 +2177,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Balmain",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Balmain"
   },
@@ -2187,7 +2187,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Boss",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Boss"
   },
@@ -2197,7 +2197,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Bvlgari",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Bvlgari"
   },
@@ -2207,7 +2207,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Calvin Klein",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Calvin|sp|Klein"
   },
@@ -2217,7 +2217,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Carolina Herrera",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Carolina|sp|Herrera"
   },
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Clinique",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Clinique"
   },
@@ -2237,7 +2237,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Caudalie",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Caudalie"
   },
@@ -2247,7 +2247,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Estee Lauder",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Estee|sp|Lauder"
   },
@@ -2257,7 +2257,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Forest Essentials",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Forest|sp|Essentials"
   },
@@ -2267,7 +2267,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Guess",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Guess"
   },
@@ -2277,7 +2277,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Kora Organics",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Kora|sp|Organics"
   },
@@ -2287,7 +2287,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "L'Occitane",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_L|sq|Occitane"
   },
@@ -2297,7 +2297,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "M.A.C",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_M.A.C"
   },
@@ -2307,7 +2307,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Montblanc",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Montblanc"
   },
@@ -2317,7 +2317,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Moroccanoil",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Moroccanoil"
   },
@@ -2327,7 +2327,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Salvatore Ferragamo",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Salvatore|sp|Ferragamo"
   },
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Beauty & Grooming",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Versace",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Beauty|sp||as||sp|Grooming_BRANDS_Versace"
   },
@@ -2490,7 +2490,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Home",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "See All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Home_BRANDS_View|sp|All"
   },
@@ -2577,7 +2577,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Gourmet",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Borges",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Gourmet_BRANDS_Borges"
   },
@@ -2587,7 +2587,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Gourmet",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Godiva",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Gourmet_BRANDS_Godiva"
   },
@@ -2597,7 +2597,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Gourmet",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Bateel",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Gourmet_BRANDS_Bateel"
   },
@@ -2607,7 +2607,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Gourmet",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Whittakers",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Gourmet_BRANDS_Whittakers"
   },
@@ -2617,7 +2617,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Gourmet",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Disano",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Gourmet_BRANDS_Disano"
   },
@@ -2627,7 +2627,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Gourmet",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "Colavita",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Gourmet_BRANDS_Colavita"
   },
@@ -2637,7 +2637,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Gourmet",
-    "category": "BRANDS",
+    "category": "Brands",
     "page": "La Vieja Fabrica",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Gourmet_BRANDS_La|sp|Vieja|sp|Fabrica"
   },
@@ -2647,7 +2647,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "See All",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_View|sp|All",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810&icid="
@@ -2658,7 +2658,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Alexander Mcqueen",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Alexander|sp|Mcqueen",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B13045&isSortFlow=false"
@@ -2669,7 +2669,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Armani Exchange",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Armani|sp|Exchange",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16W00018&icid="
@@ -2680,7 +2680,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Bottega Veneta",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Bottega|sp|Veneta",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B13046&isSortFlow=false"
@@ -2691,7 +2691,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Burberry",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Burberry",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16A00072&icid="
@@ -2702,7 +2702,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Calvin Klein",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Calvin|sp|Klein",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16A00072&icid="
@@ -2713,7 +2713,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Coach",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Coach",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16W00238&icid="
@@ -2724,7 +2724,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Emporio Armani",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Emporio|sp|Armani",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16W00064&icid="
@@ -2735,7 +2735,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Givenchy",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Givenchy",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B12066&isSortFlow=false"
@@ -2746,7 +2746,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Gucci",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Gucci",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B12552&isSortFlow=false"
@@ -2757,7 +2757,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Guess",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Guess",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B10715&isSortFlow=false"
@@ -2768,7 +2768,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Michael Kors",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Michael|sp|Kors",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16W00138&icid="
@@ -2779,7 +2779,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Saint Laurent",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Saint|sp|Laurent",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B13048&isSortFlow=false"
@@ -2790,7 +2790,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Salvatore Ferragamo",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Salvatore|sp|Ferragamo",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B11675&isSortFlow=false"
@@ -2801,7 +2801,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Stella Mccartney",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Stella|sp|Mccartney",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B12835&isSortFlow=false"
@@ -2812,7 +2812,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Tom Ford",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Tom|sp|Ford",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B11748&isSortFlow=false"
@@ -2823,7 +2823,7 @@
     "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
-    "category": "MOST WANTED",
+    "category": "Most Wanted",
     "page": "Versace",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Versace"
   },

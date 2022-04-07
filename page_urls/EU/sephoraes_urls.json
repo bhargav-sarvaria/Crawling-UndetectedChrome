@@ -193,7 +193,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Make Up",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.sephora.es/todos-los-productos/maquillaje/rostro-c342/",
     "file_name": "Spain_Sephora_ES_MAKE|h|UP_FACE_FACE"
   },
@@ -831,7 +831,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
     "category": "Care Type",
-    "page": "lip care",
+    "page": "Lip Care",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/tipo-de-cuidado/cuidado-labios-c299904/",
     "file_name": "Spain_Sephora_ES_TREATMENT_TYPE|sp|OF|sp|CARE_lip|sp|care"
   },
@@ -1392,7 +1392,7 @@
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Fragrance",
     "category": "Fragrance",
-    "page": "FRAGRANCE",
+    "page": "Fragrance",
     "page_url": "https://www.sephora.es/todos-los-productos/perfume-c301/",
     "file_name": "Spain_Sephora_ES_FRAGRANCE_FRAGRANCE_FRAGRANCE"
   },

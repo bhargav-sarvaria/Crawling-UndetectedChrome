@@ -325,7 +325,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Care",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.flaconi.de/gesicht/",
     "file_name": "Germany_Flaconi_CARE_FACE_FACE"
   },
@@ -633,7 +633,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Care",
     "category": "Mens Grooming",
-    "page": "beard care",
+    "page": "Beard Care",
     "page_url": "https://www.flaconi.de/bartpflege/",
     "file_name": "Germany_Flaconi_CARE_MALE|sp|GROOMING_beard|sp|care"
   },
@@ -1249,7 +1249,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.flaconi.de/nagellack/",
     "file_name": "Germany_Flaconi_MAKE|sp|UP_NAILS_nail|sp|polish"
   },
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
     "category": "Styling",
-    "page": "STYLING",
+    "page": "Styling",
     "page_url": "https://www.flaconi.de/haarstyling/",
     "file_name": "Germany_Flaconi_HAIR_STYLING_STYLING"
   },
@@ -1788,7 +1788,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Hair",
     "category": "Tools & Accessories",
-    "page": "TOOLS & ACCESSORIES",
+    "page": "Tools & Accessories",
     "page_url": "https://www.flaconi.de/haarstyling-zubehoer/",
     "file_name": "Germany_Flaconi_HAIR_TOOLS|sp||as||sp|ACCESSORIES_TOOLS|sp||as||sp|ACCESSORIES"
   },
@@ -2041,7 +2041,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
     "category": "Care",
-    "page": "face",
+    "page": "Face",
     "page_url": "https://www.flaconi.de/naturkosmetik-gesichtspflege/",
     "file_name": "Germany_Flaconi_NATURE_CARE_face"
   },
@@ -2107,7 +2107,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Natural",
     "category": "Hair",
-    "page": "styling",
+    "page": "Styling",
     "page_url": "https://www.flaconi.de/naturkosmetik-haarstyling/",
     "file_name": "Germany_Flaconi_NATURE_HAIR_styling"
   },
@@ -2459,7 +2459,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
     "category": "Care",
-    "page": "face",
+    "page": "Face",
     "page_url": "https://www.flaconi.de/premium-gesichtspflege/",
     "file_name": "Germany_Flaconi_PREMIUM_CARE_face"
   },
@@ -2591,7 +2591,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Premium",
     "category": "Hair",
-    "page": "styling",
+    "page": "Styling",
     "page_url": "https://www.flaconi.de/premium-styling/",
     "file_name": "Germany_Flaconi_PREMIUM_HAIR_styling"
   },
@@ -3108,7 +3108,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.flaconi.de/sale/",
     "file_name": "Germany_Flaconi_SALE_SALE_SALE"
   },
@@ -3196,7 +3196,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
     "category": "Care",
-    "page": "grooming",
+    "page": "Grooming",
     "page_url": "https://www.flaconi.de/sale-herrenpflege/",
     "file_name": "Germany_Flaconi_SALE_CARE_grooming"
   },
@@ -3284,7 +3284,7 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "Sale",
     "category": "Hair",
-    "page": "hair styling",
+    "page": "Hair Styling",
     "page_url": "https://www.flaconi.de/sale-haarstyling/",
     "file_name": "Germany_Flaconi_SALE_HAIR_hair|sp|styling"
   },

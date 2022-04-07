@@ -28,7 +28,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfumes",
     "category": "Damendufte",
-    "page": "Womens perfume",
+    "page": "Womens Perfumes",
     "page_url": "https://www.douglas.de/de/c/parfum/damenduefte/parfum/010106",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_women|sq|s|sp|perfume"
   },
@@ -336,7 +336,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfumes",
     "category": "Highlights",
-    "page": "gifts",
+    "page": "Gifts",
     "page_url": "https://www.douglas.de/de/c/geschenke/08",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Highlights_gifts"
   },
@@ -456,8 +456,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfumes",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://www.douglas.de/de/c/neuheiten/parfum/0901",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_NEW_NEW"
   },
@@ -468,7 +468,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfumes",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/parfum/0501",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_SALE_SALE"
   },
@@ -721,7 +721,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.douglas.de/de/c/make-up/naegel/nagellack/030401",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_Nail|sp|polish"
   },
@@ -732,7 +732,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "nail care",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.de/de/c/make-up/naegel/nagelpflege/030402",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_nail|sp|care"
   },
@@ -1006,8 +1006,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://www.douglas.de/de/c/neuheiten/make-up/0903",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_NEW_NEW"
   },
@@ -1018,7 +1018,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/make-up/0510",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_SALE_SALE"
   },
@@ -1061,8 +1061,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
-    "category": "Make-up-Mania",
-    "page": "Make-up-Mania",
+    "category": "Make Up Mania",
+    "page": "Make Up Mania",
     "page_url": "https://www.douglas.de/de/c/make-up-mania/50",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_Make|h|up|h|Mania_Make|h|up|h|Mania"
   },
@@ -1073,7 +1073,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/c/gesicht/12",
     "file_name": "Germany_DOUGLAS_DE_FACE_FACE_FACE"
   },
@@ -1160,8 +1160,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Facial Cleaning",
-    "page": "Facial Cleaning",
+    "category": "Facial Cleansers",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.de/de/c/gesicht/gesichtsreinigung/1201",
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_facial|sp|cleansing"
   },
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "facial tonic",
     "page_url": "https://www.douglas.de/de/c/gesicht/gesichtsreinigung/gesichtswasser/120108",
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_facial|sp|tonic"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "cleaning foam",
     "page_url": "https://www.douglas.de/de/c/gesicht/gesichtsreinigung/reinigungsschaum/120102",
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_cleaning|sp|foam"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Make-up Entferner",
     "page_url": "https://www.douglas.de/de/c/gesicht/gesichtsreinigung/make-up-entferner/120109",
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_Make|h|up|sp|Entferner"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "facial peeling",
     "page_url": "https://www.douglas.de/de/c/gesicht/gesichtsreinigung/gesichtspeeling/120107",
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_facial|sp|peeling"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "cleaning gel",
     "page_url": "https://www.douglas.de/de/c/gesicht/gesichtsreinigung/reinigungsgel/120101",
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_cleaning|sp|gel"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/gesicht/gesichtsreinigung/1201",
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_All|sp|Categories"
@@ -1314,8 +1314,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Sun & Protection",
-    "page": "Sun & Protection",
+    "category": "Suncare",
+    "page": "Suncare",
     "page_url": "https://www.douglas.de/de/c/gesicht/sonne-schutz/1209",
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_Sun|sp||as||sp|Protection"
   },
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Sun & Protection",
+    "category": "Suncare",
     "page": "self tanner",
     "page_url": "https://www.douglas.de/de/c/gesicht/sonne-schutz/selbstbraeuner/120903",
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_self|sp|tanner"
@@ -1336,8 +1336,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Sun & Protection",
-    "page": "sun protection",
+    "category": "Suncare",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.de/de/c/gesicht/sonne-schutz/sonnenschutz/120901",
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_sun|sp|protection"
   },
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Sun & Protection",
+    "category": "Suncare",
     "page": "After Sun",
     "page_url": "https://www.douglas.de/de/c/gesicht/sonne-schutz/after-sun/120902",
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_After|sp|Sun"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Sun & Protection",
+    "category": "Suncare",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/gesicht/sonne-schutz/1209",
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_All|sp|Categories"
@@ -1369,8 +1369,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Men's",
-    "page": "Men's",
+    "category": "Men",
+    "page": "Men",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/1210",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_Men|sq|s"
   },
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Men's",
+    "category": "Men",
     "page": "Facial Care",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/gesichtspflege/121002",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_facial|sp|care"
@@ -1391,8 +1391,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Men's",
-    "page": "shave",
+    "category": "Men",
+    "page": "Shaving",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/rasur/121003",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_shave"
   },
@@ -1402,8 +1402,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Men's",
-    "page": "Facial Cleaning",
+    "category": "Men",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/gesichtsreinigung/121001",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_facial|sp|cleansing"
   },
@@ -1413,8 +1413,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Men's",
-    "page": "beard care",
+    "category": "Men",
+    "page": "Beard Care",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/bartpflege/121004",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_beard|sp|care"
   },
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Men's",
+    "category": "Men",
     "page": "men's grooming sets",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/herrenpflegesets/121005",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_men|sq|s|sp|grooming|sp|sets"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Men's",
+    "category": "Men",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/1210",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_All|sp|Categories"
@@ -1446,8 +1446,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Care for skin needs",
-    "page": "Care for skin needs",
+    "category": "Care by Skin Needs",
+    "page": "Care by Skin Needs",
     "page_url": "https://www.douglas.de/de/c/gesicht/pflege-nach-hautbeduerfnis/1206",
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_Care|sp|for|sp|skin|sp|needs"
   },
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Care for skin needs",
+    "category": "Care by Skin Needs",
     "page": "For dry skin",
     "page_url": "https://www.douglas.de/de/c/gesicht/pflege-nach-hautbeduerfnis/fuer-trockene-haut/120601",
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|dry|sp|skin"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Care for skin needs",
+    "category": "Care by Skin Needs",
     "page": "For oily skin",
     "page_url": "https://www.douglas.de/de/c/gesicht/pflege-nach-hautbeduerfnis/fuer-fettige-haut/120602",
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|oily|sp|skin"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Care for skin needs",
+    "category": "Care by Skin Needs",
     "page": "For sensitive skin",
     "page_url": "https://www.douglas.de/de/c/gesicht/pflege-nach-hautbeduerfnis/fuer-sensible-haut/120603",
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|sensitive|sp|skin"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Care for skin needs",
+    "category": "Care by Skin Needs",
     "page": "For blemished skin",
     "page_url": "https://www.douglas.de/de/c/gesicht/pflege-nach-hautbeduerfnis/fuer-unreine-haut/120604",
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|blemished|sp|skin"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Care for skin needs",
+    "category": "Care by Skin Needs",
     "page": "For combination skin",
     "page_url": "https://www.douglas.de/de/c/gesicht/pflege-nach-hautbeduerfnis/fuer-mischhaut/120605",
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|combination|sp|skin"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
-    "category": "Care for skin needs",
+    "category": "Care by Skin Needs",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/gesicht/pflege-nach-hautbeduerfnis/1206",
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_All|sp|Categories"
@@ -1601,7 +1601,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
     "category": "Highlights",
-    "page": "Bless you",
+    "page": "Bless You",
     "page_url": "https://www.douglas.de/de/c/gesundheit/07",
     "file_name": "Germany_DOUGLAS_DE_FACE_Highlights_Bless|sp|you"
   },
@@ -1645,7 +1645,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.de/de/c/koerper/13",
     "file_name": "Germany_DOUGLAS_DE_BODY_BODY_BODY"
   },
@@ -1732,8 +1732,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "body cleansing",
-    "page": "body cleansing",
+    "category": "Body Cleansing",
+    "page": "Body Cleansing",
     "page_url": "https://www.douglas.de/de/c/koerper/koerperreinigung/1301",
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_body|sp|cleansing"
   },
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "body cleansing",
+    "category": "Body Cleansing",
     "page": "shower gel",
     "page_url": "https://www.douglas.de/de/c/koerper/koerperreinigung/duschgel/130101",
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_shower|sp|gel"
@@ -1754,7 +1754,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "body cleansing",
+    "category": "Body Cleansing",
     "page": "Shower foam",
     "page_url": "https://www.douglas.de/de/c/koerper/koerperreinigung/duschschaum/130102",
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_Shower|sp|foam"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "body cleansing",
+    "category": "Body Cleansing",
     "page": "shower oil",
     "page_url": "https://www.douglas.de/de/c/koerper/koerperreinigung/duschoel/130103",
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_shower|sp|oil"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "body cleansing",
+    "category": "Body Cleansing",
     "page": "soap",
     "page_url": "https://www.douglas.de/de/c/koerper/koerperreinigung/seife/130105",
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_soap"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "body cleansing",
+    "category": "Body Cleansing",
     "page": "body scrub",
     "page_url": "https://www.douglas.de/de/c/koerper/koerperreinigung/koerperpeeling/130106",
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_body|sp|scrub"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "body cleansing",
+    "category": "Body Cleansing",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/koerper/koerperreinigung/1301",
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_All|sp|Categories"
@@ -1809,8 +1809,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sun & Protection",
-    "page": "Sun & Protection",
+    "category": "Suncare",
+    "page": "Suncare",
     "page_url": "https://www.douglas.de/de/c/koerper/sonne-schutz/1308",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_Sun|sp||as||sp|Protection"
   },
@@ -1820,8 +1820,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sun & Protection",
-    "page": "sun protection",
+    "category": "Suncare",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.de/de/c/koerper/sonne-schutz/sonnenschutz/130801",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_sun|sp|protection"
   },
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sun & Protection",
+    "category": "Suncare",
     "page": "After Sun",
     "page_url": "https://www.douglas.de/de/c/koerper/sonne-schutz/after-sun/130802",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_After|sp|Sun"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sun & Protection",
+    "category": "Suncare",
     "page": "self tanner",
     "page_url": "https://www.douglas.de/de/c/koerper/sonne-schutz/selbstbraeuner/130803",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_self|sp|tanner"
@@ -1853,8 +1853,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Men's",
-    "page": "Men's",
+    "category": "Men",
+    "page": "Men",
     "page_url": "https://www.douglas.de/de/c/koerper/herren/1309",
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_Men|sq|s"
   },
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Men's",
+    "category": "Men",
     "page": "Personal Hygiene",
     "page_url": "https://www.douglas.de/de/c/koerper/herren/koerperpflege/130901",
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_personal|sp|hygiene"
@@ -1875,8 +1875,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Men's",
-    "page": "body cleansing",
+    "category": "Men",
+    "page": "Body Cleansing",
     "page_url": "https://www.douglas.de/de/c/koerper/herren/koerperreinigung/130902",
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_body|sp|cleansing"
   },
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Men's",
+    "category": "Men",
     "page": "Sets",
     "page_url": "https://www.douglas.de/de/c/koerper/herren/sets/130904",
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_Sets"
@@ -1952,8 +1952,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "hand care",
-    "page": "hand care",
+    "category": "Handcare",
+    "page": "Handcare",
     "page_url": "https://www.douglas.de/de/c/koerper/handpflege/1305",
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_hand|sp|care"
   },
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "hand care",
+    "category": "Handcare",
     "page": "hand cream",
     "page_url": "https://www.douglas.de/de/c/koerper/handpflege/handcreme/130501",
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_hand|sp|cream"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "hand care",
+    "category": "Handcare",
     "page": "Hand peeling",
     "page_url": "https://www.douglas.de/de/c/koerper/handpflege/handpeeling/130502",
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_Hand|sp|peeling"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "hand care",
+    "category": "Handcare",
     "page": "Hand mask",
     "page_url": "https://www.douglas.de/de/c/koerper/handpflege/handmaske/130503",
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_Hand|sp|mask"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "hand care",
+    "category": "Handcare",
     "page": "soap",
     "page_url": "https://www.douglas.de/de/c/koerper/handpflege/seife/130504",
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_soap"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "hand care",
+    "category": "Handcare",
     "page": "Hand disinfection",
     "page_url": "https://www.douglas.de/de/c/koerper/handpflege/handdesinfektion/130505",
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_Hand|sp|disinfection"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "hand care",
+    "category": "Handcare",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/koerper/handpflege/1305",
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_All|sp|Categories"
@@ -2029,8 +2029,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sex-Toys",
-    "page": "Sex-Toys",
+    "category": "Sex Toys",
+    "page": "Sex Toys",
     "page_url": "https://www.douglas.de/de/c/koerper/sex-toys/1313",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Sex|h|Toys"
   },
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sex-Toys",
+    "category": "Sex Toys",
     "page": "Vibrator",
     "page_url": "https://www.douglas.de/de/c/koerper/sex-toys/vibrator/131301",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Vibrator"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sex-Toys",
+    "category": "Sex Toys",
     "page": "lube",
     "page_url": "https://www.douglas.de/de/c/koerper/sex-toys/gleitgel/131302",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_lube"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sex-Toys",
+    "category": "Sex Toys",
     "page": "love ball",
     "page_url": "https://www.douglas.de/de/c/koerper/sex-toys/liebeskugel/131303",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_love|sp|ball"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sex-Toys",
+    "category": "Sex Toys",
     "page": "Bondage",
     "page_url": "https://www.douglas.de/de/c/koerper/sex-toys/bondage/131304",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Bondage"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sex-Toys",
+    "category": "Sex Toys",
     "page": "Intimpflege",
     "page_url": "https://www.douglas.de/de/c/koerper/sex-toys/intimpflege/131305",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Intimpflege"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
-    "category": "Sex-Toys",
+    "category": "Sex Toys",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/koerper/sex-toys/1313",
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_All|sp|Categories"
@@ -2184,7 +2184,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
     "category": "Highlights",
-    "page": "Bless you",
+    "page": "Bless You",
     "page_url": "https://www.douglas.de/de/c/gesundheit/07",
     "file_name": "Germany_DOUGLAS_DE_BODY_Highlights_Bless|sp|you"
   },
@@ -2217,7 +2217,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.de/de/c/haare/14",
     "file_name": "Germany_DOUGLAS_DE_HAIR_HAIR_HAIR"
   },
@@ -2524,8 +2524,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "Men's",
-    "page": "Men's",
+    "category": "Men",
+    "page": "Men",
     "page_url": "https://www.douglas.de/de/c/haare/herren/1408",
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_Men|sq|s"
   },
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "Men's",
+    "category": "Men",
     "page": "Shampoo",
     "page_url": "https://www.douglas.de/de/c/haare/herren/shampoo/140801",
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_Shampoo"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "Men's",
+    "category": "Men",
     "page": "Hairstyling",
     "page_url": "https://www.douglas.de/de/c/haare/herren/haarstyling/140802",
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_Hairstyling"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "Men's",
+    "category": "Men",
     "page": "Haircare",
     "page_url": "https://www.douglas.de/de/c/haare/herren/haarpflege/140803",
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_hair|sp|care"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "Men's",
+    "category": "Men",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/haare/herren/1408",
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_All|sp|Categories"
@@ -2645,8 +2645,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://www.douglas.de/de/c/neuheiten/haare/0904",
     "file_name": "Germany_DOUGLAS_DE_HAIR_NEW_NEW"
   },
@@ -2657,7 +2657,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/haare/0512",
     "file_name": "Germany_DOUGLAS_DE_HAIR_SALE_SALE"
   },
@@ -2667,8 +2667,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/15",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -2690,7 +2690,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
     "category": "Bags",
-    "page": "handbags",
+    "page": "Handbags",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/taschen-reisegepaeck/handtaschen/150101",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_handbags"
   },
@@ -2843,8 +2843,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Reside",
-    "page": "Reside",
+    "category": "Home",
+    "page": "Home",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/wohnen/1505",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_Reside"
   },
@@ -2854,8 +2854,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Reside",
-    "page": "candles",
+    "category": "Home",
+    "page": "Candles",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/wohnen/kerzen/150502",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_candles"
   },
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Reside",
+    "category": "Home",
     "page": "room fragrances",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/wohnen/raumduefte/150503",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_room|sp|fragrances"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Reside",
+    "category": "Home",
     "page": "decoration",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/wohnen/dekoration/150504",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_decoration"
@@ -2887,7 +2887,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Reside",
+    "category": "Home",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/wohnen/1505",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_All|sp|Categories"
@@ -2953,8 +2953,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Plant flowers",
-    "page": "Plant flowers",
+    "category": "Plants & Flowers",
+    "page": "Plants & Flowers",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/blumen-pflanzen/1512",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Plant|sp|flowers_Plant|sp|flowers"
   },
@@ -2964,7 +2964,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Plant flowers",
+    "category": "Plants & Flowers",
     "page": "artificial flowers & plants",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/blumen-pflanzen/kunstblumen-pflanzen/151213",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Plant|sp|flowers_artificial|sp|flowers|sp||as||sp|plants"
@@ -2975,8 +2975,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "garden",
-    "page": "garden",
+    "category": "Garden",
+    "page": "Garden",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/garten/1515",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_garden_garden"
   },
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "garden",
+    "category": "Garden",
     "page": "garden furniture",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/garten/gartenmoebel/151501",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_garden_garden|sp|furniture"
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "garden",
+    "category": "Garden",
     "page": "umbrellas",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/garten/sonnenschirme/151504",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_garden_umbrellas"
@@ -3064,7 +3064,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
     "category": "Pet Supplies",
-    "page": "grooming",
+    "page": "Grooming",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/tierbedarf/fellpflege/151701",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_pet|sp|supplies_grooming"
   },
@@ -3118,8 +3118,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Mode",
-    "page": "Mode",
+    "category": "Fashion",
+    "page": "Fashion",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/1513",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_Mode"
   },
@@ -3129,7 +3129,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Mode",
+    "category": "Fashion",
     "page": "jackets and coats",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/jacken-maentel/151307",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_jackets|sp|and|sp|coats"
@@ -3140,7 +3140,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Mode",
+    "category": "Fashion",
     "page": "underwear",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/unterwaesche/151311",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_underwear"
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Mode",
+    "category": "Fashion",
     "page": "Pullover & Strickjacken",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/pullover-strickjacken/151306",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_Pullover|sp||as||sp|Strickjacken"
@@ -3162,7 +3162,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Mode",
+    "category": "Fashion",
     "page": "Jeans",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/jeans/151308",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_Jeans"
@@ -3173,7 +3173,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Mode",
+    "category": "Fashion",
     "page": "clothes",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/kleider/151303",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_clothes"
@@ -3184,7 +3184,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
-    "category": "Mode",
+    "category": "Fashion",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/1513",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_All|sp|Categories"
@@ -3262,7 +3262,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/05",
     "file_name": "Germany_DOUGLAS_DE_SALE_SALE_SALE"
   },
@@ -3272,7 +3272,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by categories",
+    "category": "Sale by Categories",
     "page": "Perfumes",
     "page_url": "https://www.douglas.de/de/c/sale/parfum/0501",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_Perfume"
@@ -3283,7 +3283,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by categories",
+    "category": "Sale by Categories",
     "page": "Make Up",
     "page_url": "https://www.douglas.de/de/c/sale/make-up/0510",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_Make|h|Up"
@@ -3294,8 +3294,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by categories",
-    "page": "face",
+    "category": "Sale by Categories",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/c/sale/gesicht/0502",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_face"
   },
@@ -3305,8 +3305,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by categories",
-    "page": "body",
+    "category": "Sale by Categories",
+    "page": "Body",
     "page_url": "https://www.douglas.de/de/c/sale/koerper/0504",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_body"
   },
@@ -3316,8 +3316,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by categories",
-    "page": "hair",
+    "category": "Sale by Categories",
+    "page": "Hair",
     "page_url": "https://www.douglas.de/de/c/sale/haare/0512",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_hair"
   },
@@ -3327,7 +3327,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by categories",
+    "category": "Sale by Categories",
     "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.de/de/c/sale/home-lifestyle/0515",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_Home|sp||as||sp|Lifestyle"
@@ -3338,7 +3338,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by percent",
+    "category": "Sale by Percent",
     "page": "Up to - 30 percent",
     "page_url": "https://www.douglas.de/de/c/sale/bis-zu-30-prozent/0525",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|30|sp|percent"
@@ -3349,7 +3349,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by percent",
+    "category": "Sale by Percent",
     "page": "Up to - 40 percent",
     "page_url": "https://www.douglas.de/de/c/sale/bis-zu-40-prozent/0526",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|40|sp|percent"
@@ -3360,7 +3360,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by percent",
+    "category": "Sale by Percent",
     "page": "Up to - 50 percent",
     "page_url": "https://www.douglas.de/de/c/sale/bis-zu-50-prozent/0524",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|50|sp|percent"
@@ -3371,7 +3371,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by percent",
+    "category": "Sale by Percent",
     "page": "Up to - 70 percent",
     "page_url": "https://www.douglas.de/de/c/sale/bis-zu-70-prozent/0523",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|70|sp|percent"
@@ -3382,7 +3382,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
-    "category": "Sale by percent",
+    "category": "Sale by Percent",
     "page": "More than 70 percent",
     "page_url": "https://www.douglas.de/de/c/sale/mehr-als-70-prozent/0528",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_More|sp|than|sp|70|sp|percent"
@@ -3427,7 +3427,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Douglas Collection",
     "category": "Face",
-    "page": "face",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/b/douglas-collection/gesicht/b9834_12",
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_face_face"
   },
@@ -3437,8 +3437,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Douglas Collection",
-    "category": "body",
-    "page": "body",
+    "category": "Body",
+    "page": "Body",
     "page_url": "https://www.douglas.de/de/b/douglas-collection/koerper/b9834_13",
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_body_body"
   },
@@ -3459,8 +3459,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Douglas Collection",
-    "category": "hair",
-    "page": "hair",
+    "category": "Hair",
+    "page": "Hair",
     "page_url": "https://www.douglas.de/de/b/douglas-collection/haare/b9834_14",
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_hair_hair"
   },
@@ -3470,8 +3470,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Douglas Collection",
-    "category": "gift sets",
-    "page": "gift sets",
+    "category": "Gift Sets",
+    "page": "Gift Sets",
     "page_url": "https://www.douglas.de/de/b/douglas-collection/geschenksets/b9834_64",
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_gift|sp|sets_gift|sp|sets"
   },
@@ -3481,8 +3481,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Douglas Collection",
-    "category": "Trends & Novelties",
-    "page": "Trends & Novelties",
+    "category": "New Trending",
+    "page": "New Trending",
     "page_url": "https://www.douglas.de/de/b/douglas-collection/trends-neuheiten-entdecken/b9834-30",
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_Trends|sp||as||sp|Novelties_Trends|sp||as||sp|Novelties"
   },
@@ -3503,8 +3503,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Luxury",
-    "category": "Luxury Perfume",
-    "page": "Luxury Perfume",
+    "category": "Luxury Perfumes",
+    "page": "Luxury Perfumes",
     "page_url": "https://www.douglas.de/de/c/luxuswelt/luxus-parfum/2901",
     "file_name": "Germany_DOUGLAS_DE_LUXURY_Luxury|sp|Perfume_Luxury|sp|Perfume"
   },
@@ -3514,8 +3514,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Luxury",
-    "category": "Luxus Make-up",
-    "page": "Luxus Make-up",
+    "category": "Luxury Make Up",
+    "page": "Luxury Make Up",
     "page_url": "https://www.douglas.de/de/c/luxuswelt/luxus-make-up/2902",
     "file_name": "Germany_DOUGLAS_DE_LUXURY_Luxus|sp|Make|h|up_Luxus|sp|Make|h|up"
   },
@@ -3525,8 +3525,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Luxury",
-    "category": "Luxury Care",
-    "page": "Luxury Care",
+    "category": "Luxury Gifts",
+    "page": "Luxury Gifts",
     "page_url": "https://www.douglas.de/de/c/luxuswelt/luxus-pflege/2903",
     "file_name": "Germany_DOUGLAS_DE_LUXURY_luxury|sp|care_luxury|sp|care"
   },
@@ -3558,8 +3558,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "New",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://www.douglas.de/de/c/neuheiten/09",
     "file_name": "Germany_DOUGLAS_DE_NEW_NEW_NEW"
   },
@@ -3569,8 +3569,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "New",
-    "category": "fragrances",
-    "page": "fragrances",
+    "category": "Fragrance",
+    "page": "Fragrance",
     "page_url": "https://www.douglas.de/de/c/neuheiten/parfum/0901",
     "file_name": "Germany_DOUGLAS_DE_NEW_fragrances_fragrances"
   },
@@ -3592,7 +3592,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "New",
     "category": "Face",
-    "page": "face",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/c/neuheiten/gesicht/0912",
     "file_name": "Germany_DOUGLAS_DE_NEW_face_face"
   },
@@ -3602,8 +3602,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "New",
-    "category": "body",
-    "page": "body",
+    "category": "Body",
+    "page": "Body",
     "page_url": "https://www.douglas.de/de/c/neuheiten/koerper/0913",
     "file_name": "Germany_DOUGLAS_DE_NEW_body_body"
   },
@@ -3613,8 +3613,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "New",
-    "category": "hair",
-    "page": "hair",
+    "category": "Hair",
+    "page": "Hair",
     "page_url": "https://www.douglas.de/de/c/neuheiten/haare/0904",
     "file_name": "Germany_DOUGLAS_DE_NEW_hair_hair"
   },
@@ -3646,8 +3646,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "dental care",
-    "page": "dental care",
+    "category": "Dental Care",
+    "page": "Dental Care",
     "page_url": "https://www.douglas.de/de/c/gesundheit/zahnpflege/0701",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_dental|sp|care"
   },
@@ -3657,7 +3657,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "dental care",
+    "category": "Dental Care",
     "page": "Oral Care, Rinse & Spray",
     "page_url": "https://www.douglas.de/de/c/gesundheit/zahnpflege/mundpflege-spuelung-spray/070101",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_Oral|sp|Care,|sp|Rinse|sp||as||sp|Spray"
@@ -3668,7 +3668,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "dental care",
+    "category": "Dental Care",
     "page": "toothpaste",
     "page_url": "https://www.douglas.de/de/c/gesundheit/zahnpflege/zahnpasta/070102",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_toothpaste"
@@ -3679,7 +3679,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "dental care",
+    "category": "Dental Care",
     "page": "toothbrushes",
     "page_url": "https://www.douglas.de/de/c/gesundheit/zahnpflege/zahnbuersten/070103",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_toothbrushes"
@@ -3690,7 +3690,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "dental care",
+    "category": "Dental Care",
     "page": "electric toothbrushes",
     "page_url": "https://www.douglas.de/de/c/gesundheit/zahnpflege/elektrische-zahnbuersten/070104",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_electric|sp|toothbrushes"
@@ -3701,7 +3701,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "dental care",
+    "category": "Dental Care",
     "page": "dental floss",
     "page_url": "https://www.douglas.de/de/c/gesundheit/zahnpflege/zahnseide/070105",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_dental|sp|floss"
@@ -3712,7 +3712,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "dental care",
+    "category": "Dental Care",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/gesundheit/zahnpflege/0701",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_All|sp|Categories"
@@ -3723,8 +3723,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Cold & immune system",
-    "page": "Cold & immune system",
+    "category": "Cold & Immune Defence",
+    "page": "Cold & Immune Defence",
     "page_url": "https://www.douglas.de/de/c/gesundheit/erkaeltung/0702",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_Cold|sp||as||sp|immune|sp|system"
   },
@@ -3734,7 +3734,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Cold & immune system",
+    "category": "Cold & Immune Defence",
     "page": "strengthen your immune system",
     "page_url": "https://www.douglas.de/de/c/gesundheit/erkaeltung/immunsystem-staerken/070201",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_strengthen|sp|your|sp|immune|sp|system"
@@ -3745,7 +3745,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Cold & immune system",
+    "category": "Cold & Immune Defence",
     "page": "Sore throat & difficulty swallowing",
     "page_url": "https://www.douglas.de/de/c/gesundheit/erkaeltung/halsschmerzen/070202",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_Sore|sp|throat|sp||as||sp|difficulty|sp|swallowing"
@@ -3756,7 +3756,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Cold & immune system",
+    "category": "Cold & Immune Defence",
     "page": "sniffles",
     "page_url": "https://www.douglas.de/de/c/gesundheit/erkaeltung/schnupfen/070203",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_sniffles"
@@ -3767,7 +3767,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Cold & immune system",
+    "category": "Cold & Immune Defence",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/gesundheit/erkaeltung/0702",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_All|sp|Categories"
@@ -3921,8 +3921,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Diet, exercise & weight loss",
-    "page": "Diet, exercise & weight loss",
+    "category": "Diet, Exercise & Weight loss",
+    "page": "Diet, Exercise & Weight loss",
     "page_url": "https://www.douglas.de/de/c/gesundheit/ernaehrung-sport/0705",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Diet,|sp|exercise|sp||as||sp|weight|sp|loss"
   },
@@ -3932,7 +3932,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Diet, exercise & weight loss",
+    "category": "Diet, Exercise & Weight loss",
     "page": "Lose weight",
     "page_url": "https://www.douglas.de/de/c/gesundheit/ernaehrung-sport/abnehmen/070501",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Lose|sp|weight"
@@ -3943,7 +3943,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Diet, exercise & weight loss",
+    "category": "Diet, Exercise & Weight loss",
     "page": "Bars & Muesli",
     "page_url": "https://www.douglas.de/de/c/gesundheit/ernaehrung-sport/riegel-muesli/070502",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Bars|sp||as||sp|Muesli"
@@ -3954,7 +3954,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Diet, exercise & weight loss",
+    "category": "Diet, Exercise & Weight loss",
     "page": "Protein & Shakes",
     "page_url": "https://www.douglas.de/de/c/gesundheit/ernaehrung-sport/protein-shakes/070503",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Protein|sp||as||sp|Shakes"
@@ -3965,7 +3965,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Diet, exercise & weight loss",
+    "category": "Diet, Exercise & Weight loss",
     "page": "Muscle, Joints & Heat Therapy",
     "page_url": "https://www.douglas.de/de/c/gesundheit/ernaehrung-sport/muskel-gelenke-waermetherapie/070504",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Muscle,|sp|Joints|sp||as||sp|Heat|sp|Therapy"
@@ -3976,7 +3976,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Diet, exercise & weight loss",
+    "category": "Diet, Exercise & Weight loss",
     "page": "Sauna",
     "page_url": "https://www.douglas.de/de/c/gesundheit/ernaehrung-sport/sauna/070505",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Sauna"
@@ -3987,7 +3987,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Bless You",
-    "category": "Diet, exercise & weight loss",
+    "category": "Diet, Exercise & Weight loss",
     "page": "All Categories",
     "page_url": "https://www.douglas.de/de/c/gesundheit/ernaehrung-sport/0705",
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_All|sp|Categories"

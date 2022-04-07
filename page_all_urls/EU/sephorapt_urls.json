@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "Make Up Set",
+    "category": "Make Up Sets",
     "page": "MAKEUP SET",
     "page_url": "https://www.sephora.pt/maquilhagem/conjunto-de-maquilhagem-c313702/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKEUP|sp|SET_MAKEUP|sp|SET"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "Make Up Set",
+    "category": "Make Up Sets",
     "page": "Makeup Kit",
     "page_url": "https://www.sephora.pt/maquilhagem/conjunto-de-maquilhagem/kit-de-maquilhagem-c313803/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKEUP|sp|SET_Makeup|sp|Kit"
@@ -446,7 +446,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
     "category": "Brushes & Sponges",
-    "page": "face cleaning",
+    "page": "Face Cleansing",
     "page_url": "https://www.sephora.pt/maquilhagem/pinceis-e-esponja/limpeza-do-rosto-c297803/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BRUSHES|sp|AND|sp|SPONGE_face|sp|cleaning"
   },
@@ -467,8 +467,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "Make Up Removers",
-    "page": "Make Up Removers",
+    "category": "Make Up Remover",
+    "page": "Make Up Remover",
     "page_url": "https://www.sephora.pt/maquilhagem/desmaquilhantes-c7632/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_MAKE|h|UP|sp|REMOVERS"
   },
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "Make Up Removers",
+    "category": "Make Up Remover",
     "page": "face make-up removers",
     "page_url": "https://www.sephora.pt/maquilhagem/desmaquilhantes/desmaquilhantes-de-rosto-c7678/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_face|sp|make|h|up|sp|removers"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "Make Up Removers",
+    "category": "Make Up Remover",
     "page": "Make-up Remover Oil",
     "page_url": "https://www.sephora.pt/maquilhagem/desmaquilhantes/oleo-desmaquilhante-c297806/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_Make|h|up|sp|Remover|sp|Oil"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "Make Up Removers",
+    "category": "Make Up Remover",
     "page": "Make-up Remover Milk",
     "page_url": "https://www.sephora.pt/maquilhagem/desmaquilhantes/leite-desmaquilhante-c297805/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_Make|h|up|sp|Remover|sp|Milk"
@@ -522,8 +522,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
-    "category": "Sephora Collection Make Up",
-    "page": "Sephora Collection Make Up",
+    "category": "Sephora Make Up Collection",
+    "page": "Sephora Make Up Collection",
     "page_url": "https://www.sephora.pt/maquilhagem-sephora-collection/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_SEPHORA|sp|COLLECTION|sp|MAKEUP_SEPHORA|sp|COLLECTION|sp|MAKEUP"
   },
@@ -545,7 +545,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Natural Makeup",
+    "page": "Natural Make Up",
     "page_url": "https://www.sephora.pt/good-for-makeup-maquilhagem-natural/",
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_GOOD|sp|FOR|sp|MAKEUP_Natural|sp|Makeup"
   },
@@ -665,8 +665,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
-    "page": "Types of Treatment",
+    "category": "Types of Treatments",
+    "page": "Types of Treatments",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento-c299801/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_TYPE|sp|OF|sp|TREATMENT"
   },
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "Be a",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/serum-c299903/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Be|sp|a"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "day cream",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/creme-de-dia-c299901/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_day|sp|cream"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "Eyes",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/olhos-c299905/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Eyes"
@@ -709,7 +709,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "Exfoliating & Peeling",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/esfoliantes-peeling-c7684/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Exfoliating|sp||as||sp|Peeling"
@@ -720,7 +720,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "night cream",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/creme-de-noite-c299902/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_night|sp|cream"
@@ -731,7 +731,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "Lips",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/labios-c299904/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Lips"
@@ -742,7 +742,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "eyelashes and eyebrows",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/pestanas-e-sobrancelhas-c297201/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_eyelashes|sp|and|sp|eyebrows"
@@ -753,7 +753,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Types of Treatment",
+    "category": "Types of Treatments",
     "page": "Neckline and Neck",
     "page_url": "https://www.sephora.pt/tratamento/tipo-de-tratamento/decote-e-pescoco-c299906/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Neckline|sp|and|sp|Neck"
@@ -830,8 +830,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.pt/tratamento/mascaras-c7685/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_MASKS"
   },
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Masks",
+    "category": "Maks",
     "page": "Cream Mask",
     "page_url": "https://www.sephora.pt/tratamento/mascaras/mascara-em-creme-c313704/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_Cream|sp|Mask"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "Masks",
+    "category": "Maks",
     "page": "Fabric Mask",
     "page_url": "https://www.sephora.pt/tratamento/mascaras/mascara-de-tecido-c313703/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_Fabric|sp|Mask"
@@ -863,8 +863,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "FACE CLEANING",
-    "page": "FACE CLEANING",
+    "category": "Face Cleansing",
+    "page": "Face Cleansing",
     "page_url": "https://www.sephora.pt/tratamento/limpeza-do-rosto-c7633/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_FACE|sp|CLEANING"
   },
@@ -874,7 +874,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "FACE CLEANING",
+    "category": "Face Cleansing",
     "page": "face tonics",
     "page_url": "https://www.sephora.pt/tratamento/limpeza-do-rosto/tonicos-de-rosto-c7681/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_face|sp|tonics"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "FACE CLEANING",
+    "category": "Face Cleansing",
     "page": "Facial Cleansing Foam",
     "page_url": "https://www.sephora.pt/tratamento/limpeza-do-rosto/espuma-de-limpeza-facial-c361/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_Facial|sp|Cleansing|sp|Foam"
@@ -896,8 +896,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "FACE CLEANING",
-    "page": "Make Up Removers",
+    "category": "Face Cleansing",
+    "page": "Make Up Remover",
     "page_url": "https://www.sephora.pt/tratamento/limpeza-do-rosto/desmaquilhantes-c369/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_make|h|up|sp|removers"
   },
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "FACE CLEANING",
+    "category": "Face Cleansing",
     "page": "micellar water",
     "page_url": "https://www.sephora.pt/tratamento/limpeza-do-rosto/agua-micelar-c299907/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_micellar|sp|water"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "FACE CLEANING",
+    "category": "Face Cleansing",
     "page": "Make-up Remover Wipes",
     "page_url": "https://www.sephora.pt/tratamento/limpeza-do-rosto/toalhitas-desmaquilhantes-c299912/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_Make|h|up|sp|Remover|sp|Wipes"
@@ -1083,8 +1083,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "SEPHORA COLLECTION TREATMENT",
-    "page": "SEPHORA COLLECTION TREATMENT",
+    "category": "Sephora Treatments Collection",
+    "page": "Sephora Treatments Collection",
     "page_url": "https://www.sephora.pt/tratamento-sephora-collection/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_SEPHORA|sp|COLLECTION|sp|TREATMENT_SEPHORA|sp|COLLECTION|sp|TREATMENT"
   },
@@ -1094,8 +1094,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "GOOD FOR SKINCARE",
-    "page": "GOOD FOR SKINCARE",
+    "category": "Good Skincare",
+    "page": "Good Skincare",
     "page_url": "https://www.sephora.pt/good-skincare/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_GOOD|sp|FOR|sp|SKINCARE"
   },
@@ -1105,8 +1105,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "GOOD FOR SKINCARE",
-    "page": "Vegan Treatment",
+    "category": "Good Skincare",
+    "page": "Vegan Treatments",
     "page_url": "https://www.sephora.pt/good-for-skincare-tratamento-vegan/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Vegan|sp|Treatment"
   },
@@ -1116,8 +1116,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "GOOD FOR SKINCARE",
-    "page": "Natural Treatment",
+    "category": "Good Skincare",
+    "page": "Natural Treatments",
     "page_url": "https://www.sephora.pt/good-for-skincare-tratamento-natural/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Natural|sp|Treatment"
   },
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "GOOD FOR SKINCARE",
+    "category": "Good Skincare",
     "page": "Organic Treatment",
     "page_url": "https://www.sephora.pt/good-for-skincare-tratamento-organico/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Organic|sp|Treatment"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "GOOD FOR SKINCARE",
+    "category": "Good Skincare",
     "page": "Sustainable Treatment",
     "page_url": "https://www.sephora.pt/good-for-skincare-tratamento-sustentavel/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Sustainable|sp|Treatment"
@@ -1149,8 +1149,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "MAN FACE TREATMENT",
-    "page": "MAN FACE TREATMENT",
+    "category": "Mens Facial Treatment",
+    "page": "Mens Facial Treatment",
     "page_url": "https://www.sephora.pt/tratamento/tratamento-rosto-homem-c7640/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_MAN|sp|FACE|sp|TREATMENT"
   },
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "MAN FACE TREATMENT",
+    "category": "Mens Facial Treatment",
     "page": "Cleansing & Exfoliating",
     "page_url": "https://www.sephora.pt/tratamento/tratamento-rosto-homem/limpeza-esfoliantes-c506/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_Cleansing|sp||as||sp|Exfoliating"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "MAN FACE TREATMENT",
+    "category": "Mens Facial Treatment",
     "page": "moisturizers",
     "page_url": "https://www.sephora.pt/tratamento/tratamento-rosto-homem/hidratantes-c507/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_moisturizers"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "MAN FACE TREATMENT",
+    "category": "Mens Facial Treatment",
     "page": "Anti age",
     "page_url": "https://www.sephora.pt/tratamento/tratamento-rosto-homem/anti-idade-c508/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_Anti|sp|age"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "MAN FACE TREATMENT",
+    "category": "Mens Facial Treatment",
     "page": "eye creams",
     "page_url": "https://www.sephora.pt/tratamento/tratamento-rosto-homem/cremes-de-olhos-c509/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_eye|sp|creams"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
-    "category": "MAN FACE TREATMENT",
+    "category": "Mens Facial Treatment",
     "page": "",
     "page_url": "https://www.sephora.es/pasos-rutina-hombre.html#tratamiento",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_"
@@ -1227,7 +1227,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
     "category": "To Shave",
-    "page": "beard care",
+    "page": "Beard Care",
     "page_url": "https://www.sephora.pt/tratamento/barbear/cuidados-de-barba-c323101/",
     "file_name": "Portugal_Sephora_PT_TREATMENT_TO|sp|SHAVE_beard|sp|care"
   },
@@ -1336,8 +1336,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "LADY PERFUMES",
-    "page": "LADY PERFUMES",
+    "category": "Womens Perfumes",
+    "page": "Womens Perfumes",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-senhora-c309/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_LADY|sp|PERFUMES"
   },
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "LADY PERFUMES",
+    "category": "Womens Perfumes",
     "page": "Eau de Parfum",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-senhora/eau-de-parfum-c297810/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Eau|sp|de|sp|Parfum"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "LADY PERFUMES",
+    "category": "Womens Perfumes",
     "page": "Eau de Toilette",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-senhora/eau-de-toilette-c297809/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Eau|sp|de|sp|Toilette"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "LADY PERFUMES",
+    "category": "Womens Perfumes",
     "page": "Scented Body Care",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-senhora/cuidado-corporal-perfumado-c297814/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Scented|sp|Body|sp|Care"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "LADY PERFUMES",
+    "category": "Womens Perfumes",
     "page": "hair perfume",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-senhora/perfume-de-cabelo-c297815/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_hair|sp|perfume"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "LADY PERFUMES",
+    "category": "Womens Perfumes",
     "page": "Eau de Cologne",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-senhora/eau-de-cologne-c297812/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Eau|sp|de|sp|Cologne"
@@ -1402,8 +1402,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "COFFRETS",
-    "page": "COFFRETS",
+    "category": "Boxes",
+    "page": "Boxes",
     "page_url": "https://www.sephora.pt/perfumes/coffrets-c7601/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_COFFRETS_COFFRETS"
   },
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "COFFRETS",
+    "category": "Boxes",
     "page": "Lady",
     "page_url": "https://www.sephora.pt/perfumes/coffrets/senhora-c321/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_COFFRETS_Lady"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "COFFRETS",
+    "category": "Boxes",
     "page": "Men",
     "page_url": "https://www.sephora.pt/perfumes/coffrets/homem-c325/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_COFFRETS_Man"
@@ -1435,8 +1435,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
-    "page": "MAN PERFUMES",
+    "category": "Mens Perfumes",
+    "page": "Mens Perfumes",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem-c310/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_MAN|sp|PERFUMES"
   },
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
+    "category": "Mens Perfumes",
     "page": "Eau de Toilette",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem/eau-de-toilette-c297817/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Eau|sp|de|sp|Toilette"
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
+    "category": "Mens Perfumes",
     "page": "Eau de Parfum",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem/eau-de-parfum-c297818/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Eau|sp|de|sp|Parfum"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
+    "category": "Mens Perfumes",
     "page": "Eau de Cologne",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem/eau-de-cologne-c297819/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Eau|sp|de|sp|Cologne"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
+    "category": "Mens Perfumes",
     "page": "Shaving Gel and Aftershave Lotion",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem/gel-de-barbear-e-locao-pos-barba-c297822/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Shaving|sp|Gel|sp|and|sp|Aftershave|sp|Lotion"
@@ -1490,8 +1490,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
-    "page": "deodorants",
+    "category": "Mens Perfumes",
+    "page": "Deodorants",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem/desodorizantes-c297820/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_deodorants"
   },
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
+    "category": "Mens Perfumes",
     "page": "Soap and Shower Gel",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem/sabonete-e-gel-de-banho-c297821/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Soap|sp|and|sp|Shower|sp|Gel"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MAN PERFUMES",
+    "category": "Mens Perfumes",
     "page": "",
     "page_url": "https://www.sephora.es/pasos-rutina-hombre.html#perfume",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_"
@@ -1523,8 +1523,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "PERFUMES FOR EVERYONE",
-    "page": "PERFUMES FOR EVERYONE",
+    "category": "Perfumes for Everyone",
+    "page": "Perfumes for Everyone",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-para-todos-c322301/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_PERFUMES|sp|FOR|sp|EVERYONE_PERFUMES|sp|FOR|sp|EVERYONE"
   },
@@ -1534,8 +1534,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "OLFACTORY NOTES",
-    "page": "OLFACTORY NOTES",
+    "category": "Olfactory Notes",
+    "page": "Olfactory Notes",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas-c297808/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_OLFACTORY|sp|NOTES"
   },
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "OLFACTORY NOTES",
+    "category": "Olfactory Notes",
     "page": "Floral Perfume",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas/perfume-floral-c297823/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Floral|sp|Perfume"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "OLFACTORY NOTES",
+    "category": "Olfactory Notes",
     "page": "Poudre perfume",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas/perfume-poudre-c297824/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Poudre|sp|perfume"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "OLFACTORY NOTES",
+    "category": "Olfactory Notes",
     "page": "Fresh Perfume",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas/perfume-fresco-c297825/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Fresh|sp|Perfume"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "OLFACTORY NOTES",
+    "category": "Olfactory Notes",
     "page": "Oceanic Perfume",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas/perfume-oce%C3%A2nico-c297826/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Oceanic|sp|Perfume"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "OLFACTORY NOTES",
+    "category": "Olfactory Notes",
     "page": "woody perfume",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas/perfume-amadeirado-c297827/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_woody|sp|perfume"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "OLFACTORY NOTES",
+    "category": "Olfactory Notes",
     "page": "spicy perfume",
     "page_url": "https://www.sephora.pt/perfumes/notas-olfativas/perfume-picante-c297828/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_spicy|sp|perfume"
@@ -1611,8 +1611,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "PRIVATE COLLECTION",
-    "page": "PRIVATE COLLECTION",
+    "category": "Private Collection",
+    "page": "Private Collection",
     "page_url": "https://www.sephora.pt/perfumes/colecao-particular-c300501/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_PRIVATE|sp|COLLECTION_PRIVATE|sp|COLLECTION"
   },
@@ -1644,8 +1644,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "MINI FRAGRANCES",
-    "page": "MINI FRAGRANCES",
+    "category": "Fragrance Mini",
+    "page": "Fragrance Mini",
     "page_url": "https://www.sephora.pt/formato-viagem-fragrancias/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MINI|sp|FRAGRANCES_MINI|sp|FRAGRANCES"
   },
@@ -1655,8 +1655,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "SEPHORA COLLECTION PERFUMES",
-    "page": "SEPHORA COLLECTION PERFUMES",
+    "category": "Sephora Perfumes Collection",
+    "page": "Sephora Perfumes Collection",
     "page_url": "https://www.sephora.pt/perfumes-sephora-collection-1/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_SEPHORA|sp|COLLECTION|sp|PERFUMES_SEPHORA|sp|COLLECTION|sp|PERFUMES"
   },
@@ -1666,8 +1666,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Perfumes",
-    "category": "GOOD FOR FRAGRANCE",
-    "page": "GOOD FOR FRAGRANCE",
+    "category": "Good Facecare",
+    "page": "Good Facecare",
     "page_url": "https://www.sephora.pt/good-for-fragrance/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_GOOD|sp|FOR|sp|FRAGRANCE_GOOD|sp|FOR|sp|FRAGRANCE"
   },
@@ -1766,7 +1766,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.sephora.pt/cabelo-c307/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_HAIR"
   },
@@ -1788,7 +1788,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.sephora.pt/cabelo/cabelos-c299914/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_HAIR"
   },
@@ -1799,7 +1799,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Hair",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://www.sephora.pt/cabelo/cabelos/mascaras-c299915/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_masks"
   },
@@ -1865,7 +1865,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.sephora.pt/cabelo/acessorios-c453/",
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_ACCESSORIES"
   },
@@ -1876,7 +1876,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Accessories",
-    "page": "brushes & combs",
+    "page": "Brushes & Combs",
     "page_url": "https://www.sephora.pt/cabelo/acessorios/escovas-pentes-c471/",
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_brushes|sp||as||sp|combs"
   },
@@ -1898,7 +1898,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
     "category": "Styling",
-    "page": "STYLING",
+    "page": "Styling",
     "page_url": "https://www.sephora.pt/cabelo/styling-c454/",
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_STYLING"
   },
@@ -1952,8 +1952,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
-    "page": "BY NECESSITY",
+    "category": "By Need",
+    "page": "By Need",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade-c299920/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_BY|sp|NECESSITY"
   },
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "Shine & Straightening",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/brilho-alisamento-c7766/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Shine|sp||as||sp|Straightening"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "Hydration & Nutrition",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/hidratacao-nutricao-c299921/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Hydration|sp||as||sp|Nutrition"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "Scalp",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/couro-cabeludo-c520/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Scalp"
@@ -1996,8 +1996,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
-    "page": "Coloring",
+    "category": "By Need",
+    "page": "Colouring",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/coloracao-c465/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Coloring"
   },
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "Volume",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/volume-c467/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Volume"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "Loss of hair",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/queda-de-cabelo-c449/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Loss|sp|of|sp|hair"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "Anti-dandruff & Soothing",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/anti-caspa-calmante-c7761/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Anti|h|dandruff|sp||as||sp|Soothing"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "snails",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/caracois-c299919/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_snails"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "damaged hair",
     "page_url": "https://www.sephora.pt/cabelo/por-necessidade/cabelos-danificados-c450/",
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_damaged|sp|hair"
@@ -2062,8 +2062,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TREATMENT SETS",
-    "page": "HAIR TREATMENT SETS",
+    "category": "Hair Treatment Sets",
+    "page": "Hair Treatment Sets",
     "page_url": "https://www.sephora.pt/cabelo/conjuntos-tratamento-cabelo-c261201/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TREATMENT|sp|SETS_HAIR|sp|TREATMENT|sp|SETS"
   },
@@ -2073,8 +2073,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
-    "page": "HAIR TYPE",
+    "category": "Hair Type",
+    "page": "Hair Type",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo-c299918/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_HAIR|sp|TYPE"
   },
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "dry & spoiled",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo/seco-estragado-c456/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_dry|sp||as||sp|spoiled"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "fine hair",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo/cabelos-finos-c460/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_fine|sp|hair"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "colored hair",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo/cabelos-com-coloracao-c458/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_colored|sp|hair"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "mixed to oily",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo/misto-a-oleoso-c459/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_mixed|sp|to|sp|oily"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Frizz & Curls",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo/frizados-caracois-c457/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_Frizz|sp||as||sp|Curls"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "dull hair",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo/cabelo-sem-brilho-c369705/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_dull|sp|hair"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "normal hair",
     "page_url": "https://www.sephora.pt/cabelo/tipo-de-cabelo/cabelos-normais-c455/",
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_normal|sp|hair"
@@ -2161,8 +2161,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "SEPHORA COLLECTION HAIR",
-    "page": "SEPHORA COLLECTION HAIR",
+    "category": "Sephora Hair Collection",
+    "page": "Sephora Hair Collection",
     "page_url": "https://www.sephora.pt/cabelo-sephora-collection/",
     "file_name": "Portugal_Sephora_PT_HAIR_SEPHORA|sp|COLLECTION|sp|HAIR_SEPHORA|sp|COLLECTION|sp|HAIR"
   },
@@ -2172,8 +2172,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "GOOD HAIRCARE",
-    "page": "GOOD HAIRCARE",
+    "category": "Good Haircare",
+    "page": "Good Haircare",
     "page_url": "https://www.sephora.pt/good-haircare/",
     "file_name": "Portugal_Sephora_PT_HAIR_GOOD|sp|HAIRCARE_GOOD|sp|HAIRCARE"
   },
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "GOOD HAIRCARE",
+    "category": "Good Haircare",
     "page": "Vegan Hair Treatment",
     "page_url": "https://www.sephora.pt/tratamento-cabelo-vegan/",
     "file_name": "Portugal_Sephora_PT_HAIR_GOOD|sp|HAIRCARE_vegan|sp|hair|sp|treatment"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Hair",
-    "category": "GOOD HAIRCARE",
+    "category": "Good Haircare",
     "page": "Natural Hair Treatment",
     "page_url": "https://www.sephora.pt/tratamento-cabelo-natural/",
     "file_name": "Portugal_Sephora_PT_HAIR_GOOD|sp|HAIRCARE_natural|sp|hair|sp|treatment"
@@ -2250,7 +2250,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.sephora.pt/corpo-c304/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY_BODY"
   },
@@ -2271,8 +2271,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo-c298002/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Creams & Lotions",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/cremes-locoes-c426/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Creams|sp||as||sp|Lotions"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Hands",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/maos-c431/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Hands"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Exfoliators & Peels",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/esfoliantes-peelings-c482/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Exfoliators|sp||as||sp|Peels"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Feet",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/pes-c7752/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Feet"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "oils",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/oleos-c479/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_oils"
@@ -2337,7 +2337,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "mists",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/brumas-c432/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_mists"
@@ -2348,7 +2348,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Moisturizing Milk",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/leite-hidratante-c298003/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Moisturizing|sp|Milk"
@@ -2359,7 +2359,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "neckline and bust",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/decote-e-busto-c430/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_neckline|sp|and|sp|bust"
@@ -2370,8 +2370,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "deodorants",
+    "category": "Bodycare",
+    "page": "Deodorants",
     "page_url": "https://www.sephora.pt/corpo/cuidados-de-corpo/desodorizantes-c429/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_deodorants"
   },
@@ -2381,8 +2381,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "Bath & Body Sets",
-    "page": "Bath & Body Sets",
+    "category": "Body & Bath Sets",
+    "page": "Body & Bath Sets",
     "page_url": "https://www.sephora.pt/corpo/conjuntos-de-banho-e-corpo-c7654/",
     "file_name": "Portugal_Sephora_PT_BODY_BATH|sp|AND|sp|BODY|sp|SETS_BATH|sp|AND|sp|BODY|sp|SETS"
   },
@@ -2393,7 +2393,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
     "category": "Sun Care",
-    "page": "SUN CARE",
+    "page": "Sun Care",
     "page_url": "https://www.sephora.pt/corpo/cuidados-com-o-sol-c7784/",
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_SUN|sp|CARE"
   },
@@ -2480,8 +2480,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BODY ACCESSORIES",
-    "page": "BODY ACCESSORIES",
+    "category": "Body Accessories",
+    "page": "Body Accessories",
     "page_url": "https://www.sephora.pt/corpo/acessorios-de-corpo-c7652/",
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|ACCESSORIES_BODY|sp|ACCESSORIES"
   },
@@ -2492,7 +2492,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://www.sephora.pt/corpo/casa-c214801/",
     "file_name": "Portugal_Sephora_PT_BODY_HOME_HOME"
   },
@@ -2502,8 +2502,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BY NECESSITY",
-    "page": "BY NECESSITY",
+    "category": "By Need",
+    "page": "By Need",
     "page_url": "https://www.sephora.pt/corpo/por-necessidade-c298703/",
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_BY|sp|NECESSITY"
   },
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "Slimming and Toning",
     "page_url": "https://www.sephora.pt/corpo/por-necessidade/adelgacantes-e-tonificantes-c428/",
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_Slimming|sp|and|sp|Toning"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "moisturizers",
     "page_url": "https://www.sephora.pt/corpo/por-necessidade/hidratantes-c7655/",
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_moisturizers"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "BY NECESSITY",
+    "category": "By Need",
     "page": "anti-stretch marks",
     "page_url": "https://www.sephora.pt/corpo/por-necessidade/anti-estrias-c443/",
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_anti|h|stretch|sp|marks"
@@ -2546,8 +2546,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "ORAL HYGIENE",
-    "page": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
+    "page": "Oral Hygiene",
     "page_url": "https://www.sephora.pt/corpo/higiene-oral-c247301/",
     "file_name": "Portugal_Sephora_PT_BODY_ORAL|sp|HYGIENE_ORAL|sp|HYGIENE"
   },
@@ -2557,8 +2557,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "MINI BATH AND BODY",
-    "page": "MINI BATH AND BODY",
+    "category": "Body & Bath Mini",
+    "page": "Body & Bath Mini",
     "page_url": "https://www.sephora.pt/formato-viagem-corpo-banho/",
     "file_name": "Portugal_Sephora_PT_BODY_MINI|sp|BATH|sp|AND|sp|BODY_MINI|sp|BATH|sp|AND|sp|BODY"
   },
@@ -2568,8 +2568,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "SEPHORA COLLECTION BODY",
-    "page": "SEPHORA COLLECTION BODY",
+    "category": "Sephora Body Collection",
+    "page": "Sephora Body Collection",
     "page_url": "https://www.sephora.pt/corpo-sephora-collection/",
     "file_name": "Portugal_Sephora_PT_BODY_SEPHORA|sp|COLLECTION|sp|BODY_SEPHORA|sp|COLLECTION|sp|BODY"
   },
@@ -2579,8 +2579,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Body",
-    "category": "GOOD BODYCARE",
-    "page": "GOOD BODYCARE",
+    "category": "Good Bodycare",
+    "page": "Good Bodycare",
     "page_url": "https://www.sephora.pt/good-bodycare/",
     "file_name": "Portugal_Sephora_PT_BODY_GOOD|sp|BODYCARE_GOOD|sp|BODYCARE"
   },
@@ -2645,8 +2645,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Sephora Collection",
-    "category": "Sephora Collection Serums",
-    "page": "Sephora Collection Serums",
+    "category": "Sephora Serums Collection",
+    "page": "Sephora Serums Collection",
     "page_url": "https://www.sephora.pt/seruns-sephora-collection/",
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_Sephora|sp|Collection|sp|Serums_Sephora|sp|Collection|sp|Serums"
   },
@@ -2656,8 +2656,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Sephora Collection",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z/sephora-collection-sepho/?scgid=C7685",
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_masks_masks"
   },
@@ -2667,8 +2667,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Sephora Collection",
-    "category": "Cleaning and Make-up Removers",
-    "page": "Cleaning and Make-up Removers",
+    "category": "Cleanser & Make Up Removers",
+    "page": "Cleanser & Make Up Removers",
     "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z/sephora-collection-sepho/?scgid=C7633",
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_Cleaning|sp|and|sp|Make|h|up|sp|Removers_Cleaning|sp|and|sp|Make|h|up|sp|Removers"
   },
@@ -2788,41 +2788,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "New",
-    "category": "RARE BEAUTY",
-    "page": "RARE BEAUTY",
-    "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z/rare-beauty-rare/",
-    "file_name": "Portugal_Sephora_PT_NEWS_RARE|sp|BEAUTY_RARE|sp|BEAUTY"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Sephora_PT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "New",
-    "category": "ILIA",
-    "page": "ILIA",
-    "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z/ilia-ilia/",
-    "file_name": "Portugal_Sephora_PT_NEWS_ILIA_ILIA"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Sephora_PT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "New",
-    "category": "MANUCURIST",
-    "page": "MANUCURIST",
-    "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z/manucurist-manuc/",
-    "file_name": "Portugal_Sephora_PT_NEWS_MANUCURIST_MANUCURIST"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Sephora_PT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "New",
-    "category": "OBVIOUS",
-    "page": "OBVIOUS",
+    "category": "Obvious",
+    "page": "Obvious",
     "page_url": "https://www.sephora.pt/marcas/marcas-de-a-z/obvious-obvio/",
     "file_name": "Portugal_Sephora_PT_NEWS_OBVIOUS_OBVIOUS"
   },
@@ -2831,9 +2798,9 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
-    "category": "Good For",
-    "page": "Good For",
+    "department": "Good",
+    "category": "Good",
+    "page": "Good",
     "page_url": "https://www.sephora.pt/good-for/good-for-good-for/",
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_GOOD|sp|FOR_GOOD|sp|FOR"
   },
@@ -2842,7 +2809,7 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Vegan Hair Treatment",
     "page": "Vegan Hair Treatment",
     "page_url": "https://www.sephora.pt/tratamento-cabelo-vegan/",
@@ -2853,7 +2820,7 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Natural Hair Treatment",
     "page": "Natural Hair Treatment",
     "page_url": "https://www.sephora.pt/tratamento-cabelo-natural/",
@@ -2864,7 +2831,7 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Vegan",
     "page": "Vegan Make Up",
     "page_url": "https://www.sephora.pt/good-for-makeup-maquilhagem-vegan/",
@@ -2875,9 +2842,9 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
-    "category": "Natural Makeup",
-    "page": "Natural Makeup",
+    "department": "Good",
+    "category": "Natural Make Up",
+    "page": "Natural Make Up",
     "page_url": "https://www.sephora.pt/good-for-makeup-maquilhagem-natural/",
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Natural|sp|Makeup_Natural|sp|Makeup"
   },
@@ -2886,9 +2853,9 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
-    "category": "Vegan Treatment",
-    "page": "Vegan Treatment",
+    "department": "Good",
+    "category": "Vegan Treatments",
+    "page": "Vegan Treatments",
     "page_url": "https://www.sephora.pt/good-for-skincare-tratamento-vegan/",
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Vegan|sp|Treatment_Vegan|sp|Treatment"
   },
@@ -2897,9 +2864,9 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
-    "category": "Natural Treatment",
-    "page": "Natural Treatment",
+    "department": "Good",
+    "category": "Natural Treatments",
+    "page": "Natural Treatments",
     "page_url": "https://www.sephora.pt/good-for-skincare-tratamento-natural/",
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Natural|sp|Treatment_Natural|sp|Treatment"
   },
@@ -2908,7 +2875,7 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Sustainable Treatment",
     "page": "Sustainable Treatment",
     "page_url": "https://www.sephora.pt/good-for-skincare-tratamento-sustentavel/",
@@ -2919,7 +2886,7 @@
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Rechargeable Products",
     "page": "Rechargeable Products",
     "page_url": "https://www.sephora.pt/good-for/o-nosso-manifesto/produtos-recarregaveis-produtos-recarregaveis/",

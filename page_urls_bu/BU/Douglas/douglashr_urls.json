@@ -358,7 +358,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.hr/c/make-up/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
   },
@@ -501,9 +501,9 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "Face Make Up",
-    "page": "\u201cAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hr/c/make-up/sminka-za-lice/",
-    "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_FACE|sp|MAKEUP_\u201cAll|sp|categories"
+    "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_FACE|sp|MAKEUP_All|sp|categories"
   },
   {
     "country": "Croatia",
@@ -600,7 +600,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "EYE SHADOW",
-    "page": "Make Up Removers",
+    "page": "Make Up Remover",
     "page_url": "https://www.douglas.hr/c/make-up/sminka-za-oci/uklanjanje-sminke/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_EYE|sp|SHADOW_Makeup|sp|removal"
   },
@@ -699,7 +699,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.hr/c/make-up/nokti/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_NAILS_NAILS"
   },
@@ -710,7 +710,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail care",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.hr/c/make-up/nokti/njega-noktiju/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_NAILS_Nail|sp|care"
   },
@@ -974,9 +974,9 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "Accessories",
-    "page": "\u201cAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/",
-    "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_\u201cAll|sp|categories"
+    "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_All|sp|categories"
   },
   {
     "country": "Croatia",
@@ -1106,9 +1106,9 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "BRUSHES FOR MAKEUP",
-    "page": "\u201cAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hr/c/make-up/kistovi-za-sminkanje/",
-    "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_BRUSHES|sp|FOR|sp|MAKEUP_\u201cAll|sp|categories"
+    "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_BRUSHES|sp|FOR|sp|MAKEUP_All|sp|categories"
   },
   {
     "country": "Croatia",
@@ -1248,8 +1248,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Eye Care",
-    "page": "EYE CARE",
+    "category": "Eyecare",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.hr/c/lice/njega-podrucja-oko-ociju/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_EYE|sp|CARE_EYE|sp|CARE"
   },
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye serums",
     "page_url": "https://www.douglas.hr/c/lice/njega-podrucja-oko-ociju/serumi-za-podrucje-oko-ociju/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_EYE|sp|CARE_Eye|sp|serums"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye creams",
     "page_url": "https://www.douglas.hr/c/lice/njega-podrucja-oko-ociju/kreme-za-podrucje-oko-ociju/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_EYE|sp|CARE_Eye|sp|creams"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye gels",
     "page_url": "https://www.douglas.hr/c/lice/njega-podrucja-oko-ociju/gelovi-za-podrucje-oko-ociju/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_EYE|sp|CARE_Eye|sp|gels"
@@ -1292,7 +1292,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye masks and pads",
     "page_url": "https://www.douglas.hr/c/lice/njega-podrucja-oko-ociju/maske-i-jastucici-za-podrucje-oko-ociju/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_EYE|sp|CARE_Eye|sp|masks|sp|and|sp|pads"
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eyelash serums",
     "page_url": "https://www.douglas.hr/c/lice/njega-podrucja-oko-ociju/serumi-za-trepavice/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_EYE|sp|CARE_Eyelash|sp|serums"
@@ -1314,8 +1314,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
-    "page": "Facial Cleaning",
+    "category": "Facial Cleansers",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_FACIAL|sp|CLEANSING"
   },
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Face tonic",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/tonik-za-lice/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Face|sp|tonic"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Face scrub",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/piling-za-lice/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Face|sp|scrub"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Micellar water",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/micelarne-vode/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Micellar|sp|water"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleaning foams",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/pjene-za-ciscenje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Cleaning|sp|foams"
@@ -1369,7 +1369,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing gels",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/gelovi-za-ciscenje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Cleansing|sp|gels"
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleaning oils",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/ulja-za-ciscenje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Cleaning|sp|oils"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing creams",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/kreme-za-ciscenje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Cleansing|sp|creams"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing milk",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/mlijeko-za-ciscenje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Cleansing|sp|milk"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Makeup removers",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/odstranjivaci-sminke/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Makeup|sp|removers"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Soaps for the face",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/sapuni-za-lice/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Soaps|sp|for|sp|the|sp|face"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Sets",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/setovi/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_Sets"
@@ -1446,10 +1446,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "Facial Cleaning",
-    "page": "\u201cAll categories",
+    "category": "Facial Cleansers",
+    "page": "All categories",
     "page_url": "https://www.douglas.hr/c/lice/ciscenje-lica/",
-    "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_\u201cAll|sp|categories"
+    "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CLEANSING_All|sp|categories"
   },
   {
     "country": "Croatia",
@@ -1655,8 +1655,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SUNBATHING",
-    "page": "SUNBATHING",
+    "category": "Sun Bathing",
+    "page": "Sun Bathing",
     "page_url": "https://www.douglas.hr/c/lice/suncanje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SUNBATHING_SUNBATHING"
   },
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanning",
     "page_url": "https://www.douglas.hr/c/lice/suncanje/samotamnjenje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SUNBATHING_Self|h|tanning"
@@ -1677,8 +1677,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SUNBATHING",
-    "page": "Sun protection",
+    "category": "Sun Bathing",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.hr/c/lice/suncanje/zastita-od-sunca/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SUNBATHING_Sun|sp|protection"
   },
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "After sun",
     "page_url": "https://www.douglas.hr/c/lice/suncanje/after-sun/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SUNBATHING_After|sp|sun"
@@ -1711,7 +1711,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
     "category": "FACIAL CARE FOR MEN",
-    "page": "Facial Cleaning",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.hr/c/lice/njega-lica-za-muskarce/ciscenje-lica/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACIAL|sp|CARE|sp|FOR|sp|MEN_Facial|sp|cleansing"
   },
@@ -1985,8 +1985,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SETS",
-    "page": "SETS",
+    "category": "Sets",
+    "page": "Sets",
     "page_url": "https://www.douglas.hr/c/lice/setovi/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SETS_SETS"
   },
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Facial cleansing kits",
     "page_url": "https://www.douglas.hr/c/lice/setovi/setovi-za-ciscenje-lica/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SETS_Facial|sp|cleansing|sp|kits"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Facial care kits",
     "page_url": "https://www.douglas.hr/c/lice/setovi/setovi-za-njegu-lica/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SETS_Facial|sp|care|sp|kits"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Eye care kits",
     "page_url": "https://www.douglas.hr/c/lice/setovi/setovi-za-njegu-podrucja-oko-ociju/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SETS_Eye|sp|care|sp|kits"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Travel sets",
     "page_url": "https://www.douglas.hr/c/lice/setovi/putni-setovi/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SETS_Travel|sp|sets"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Shaving kits",
     "page_url": "https://www.douglas.hr/c/lice/setovi/setovi-za-brijanje/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_SETS_Shaving|sp|kits"
@@ -2052,7 +2052,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.hr/c/tijelo/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY_BODY"
   },
@@ -2062,8 +2062,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body lotions",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/losioni-za-tijelo/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Body|sp|lotions"
@@ -2084,7 +2084,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorants",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/dezodoransi/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Deodorants"
@@ -2095,7 +2095,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body sprays",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/sprejevi-za-tijelo/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Body|sp|sprays"
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body oils",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/ulja-za-tijelo/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Body|sp|oils"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body butter",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/maslac-za-tijelo/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Body|sp|butter"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body foams",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/pjene-za-tijelo/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Body|sp|foams"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Massage gels and essential oils",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/gelovi-i-esencijalna-ulja-za-masazu/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Massage|sp|gels|sp|and|sp|essential|sp|oils"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Anti-cellulite",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/anticelulit/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Anti|h|cellulite"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Neck & Decolletage Care",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/vrat-i-dekolte/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Neck|sp|and|sp|decolletage"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body makeup",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/sminka-za-tijelo/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_Body|sp|makeup"
@@ -2183,10 +2183,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "\u201cAll categories",
+    "category": "Bodycare",
+    "page": "All categories",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela/",
-    "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_\u201cAll|sp|categories"
+    "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE_All|sp|categories"
   },
   {
     "country": "Croatia",
@@ -2194,8 +2194,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
-    "page": "BODY CLEANSING",
+    "category": "Body Cleansing",
+    "page": "Body Cleansing",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_BODY|sp|CLEANSING"
   },
@@ -2205,7 +2205,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Shower gels",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/gelovi-za-tusiranje/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Shower|sp|gels"
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Shower foams",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/pjene-za-tusiranje/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Shower|sp|foams"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Shower oils",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/ulja-za-tusiranje/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Shower|sp|oils"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Soaps",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/sapuni/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Soaps"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Body scrub",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/piling-tijela/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Body|sp|scrub"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Bath oils and milk",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/ulja-i-mlijeko-za-kupku/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Bath|sp|oils|sp|and|sp|milk"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Bath foam",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/pjene-za-kupku/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Bath|sp|foam"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Salts and bath balls",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/soli-i-kugle-za-kupku/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Salts|sp|and|sp|bath|sp|balls"
@@ -2293,8 +2293,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
-    "page": "Intimate hygiene",
+    "category": "Body Cleansing",
+    "page": "Intimate Hygiene",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/intimna-higijena/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Intimate|sp|hygiene"
   },
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "BODY CLEANSING",
+    "category": "Body Cleansing",
     "page": "Shower and bath sets",
     "page_url": "https://www.douglas.hr/c/tijelo/ciscenje-tijela/setovi-za-tus-i-kadu/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CLEANSING_Shower|sp|and|sp|bath|sp|sets"
@@ -2338,7 +2338,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
     "category": "SUN AND PROTECTION",
-    "page": "Sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.hr/c/tijelo/sunce-i-zastita/zastita-od-sunca/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SUN|sp|AND|sp|PROTECTION_Sun|sp|protection"
   },
@@ -2382,7 +2382,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
     "category": "BODY CARE FOR MEN",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-tijela-za-muskarce/njega-tijela/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_BODY|sp|CARE|sp|FOR|sp|MEN_Body|sp|care"
   },
@@ -2403,8 +2403,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "HAND CARE",
-    "page": "HAND CARE",
+    "category": "Handcare",
+    "page": "Handcare",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-ruku/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_HAND|sp|CARE_HAND|sp|CARE"
   },
@@ -2414,7 +2414,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand scrub",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-ruku/piling-za-ruke/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_HAND|sp|CARE_Hand|sp|scrub"
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Soaps",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-ruku/sapuni/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_HAND|sp|CARE_Soaps"
@@ -2436,7 +2436,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand disinfection",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-ruku/dezinfekcija-ruku/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_HAND|sp|CARE_Hand|sp|disinfection"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand creams",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-ruku/kreme-za-ruke/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_HAND|sp|CARE_Hand|sp|creams"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand masks",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-ruku/maske-za-ruke/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_HAND|sp|CARE_Hand|sp|masks"
@@ -2469,8 +2469,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Foot Care",
-    "page": "FOOT CARE",
+    "category": "Footcare",
+    "page": "Footcare",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot peeling",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/piling-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|peeling"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot creams",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/kreme-za-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|creams"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot masks",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/maske-za-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|masks"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot sprays",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-stopala/sprejevi-za-stopala/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_FOOT|sp|CARE_Foot|sp|sprays"
@@ -2524,8 +2524,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "NAIL CARE",
-    "page": "NAIL CARE",
+    "category": "Nailcare",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-noktiju/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_NAIL|sp|CARE_NAIL|sp|CARE"
   },
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Oils and nail sticks",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-noktiju/ulja-i-stapici-za-nokte/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_NAIL|sp|CARE_Oils|sp|and|sp|nail|sp|sticks"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Nail File",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-noktiju/raspica-za-nokte/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_NAIL|sp|CARE_Nail|sp|File"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Nail snacks",
     "page_url": "https://www.douglas.hr/c/tijelo/njega-noktiju/grickalice-za-nokte/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_NAIL|sp|CARE_Nail|sp|snacks"
@@ -2568,8 +2568,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Sex Toys",
-    "page": "Sex Toys",
+    "category": "Sextoys",
+    "page": "Sextoys",
     "page_url": "https://www.douglas.hr/c/tijelo/sex-toys/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SEX|sp|TOYS_SEX|sp|TOYS"
   },
@@ -2579,7 +2579,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Intimate massager",
     "page_url": "https://www.douglas.hr/c/tijelo/sex-toys/intimni-masazer/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SEX|sp|TOYS_Intimate|sp|massager"
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Lubricants",
     "page_url": "https://www.douglas.hr/c/tijelo/sex-toys/lubrikanti/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SEX|sp|TOYS_Lubricants"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Love balls",
     "page_url": "https://www.douglas.hr/c/tijelo/sex-toys/ljubavne-kuglice/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SEX|sp|TOYS_Love|sp|balls"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Condoms",
     "page_url": "https://www.douglas.hr/c/tijelo/sex-toys/prezervativi/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SEX|sp|TOYS_Condoms"
@@ -2623,8 +2623,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "SETS",
-    "page": "SETS",
+    "category": "Sets",
+    "page": "Sets",
     "page_url": "https://www.douglas.hr/c/tijelo/setovi/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SETS_SETS"
   },
@@ -2634,7 +2634,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Body care kits",
     "page_url": "https://www.douglas.hr/c/tijelo/setovi/setovi-za-njegu-tijela/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SETS_Body|sp|care|sp|kits"
@@ -2645,8 +2645,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "SETS",
-    "page": "Gift sets",
+    "category": "Sets",
+    "page": "Gift Sets",
     "page_url": "https://www.douglas.hr/c/tijelo/setovi/poklon-setovi/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SETS_Gift|sp|sets"
   },
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Hand and nail care kits",
     "page_url": "https://www.douglas.hr/c/tijelo/setovi/setovi-za-njegu-ruku-i-noktiju/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SETS_Hand|sp|and|sp|nail|sp|care|sp|kits"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Shower and bath sets",
     "page_url": "https://www.douglas.hr/c/tijelo/setovi/setovi-za-tus-i-kadu/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_SETS_Shower|sp|and|sp|bath|sp|sets"
@@ -2690,7 +2690,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
     "category": "Accessories",
-    "page": "Care accessories",
+    "page": "Care Accessories",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/pribor-za-njegu/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_Care|sp|accessories"
   },
@@ -2767,7 +2767,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.hr/c/kosa/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR_HAIR"
   },
@@ -2778,7 +2778,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -2877,7 +2877,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "Sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose/zastita-od-sunca/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE_Sun|sp|protection"
   },
@@ -3129,8 +3129,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.douglas.hr/c/kosa/pribor-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -3140,7 +3140,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Headbands",
     "page_url": "https://www.douglas.hr/c/kosa/pribor-za-kosu/gumice-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|ACCESSORIES_Headbands"
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Hairpins and hair clips",
     "page_url": "https://www.douglas.hr/c/kosa/pribor-za-kosu/ukosnice-i-kopce-za-kosu/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|ACCESSORIES_Hairpins|sp|and|sp|hair|sp|clips"
@@ -3185,7 +3185,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
     "category": "HAIR CARE FOR MEN",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose-za-muskarce/njega-kose/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE|sp|FOR|sp|MEN_Hair|sp|care"
   },
@@ -3339,9 +3339,9 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
     "category": "HAIR TYPE CARE",
-    "page": "\u201cAll categories",
+    "page": "All categories",
     "page_url": "https://www.douglas.hr/c/kosa/njega-po-tipu-kose/",
-    "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|TYPE|sp|CARE_\u201cAll|sp|categories"
+    "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|TYPE|sp|CARE_All|sp|categories"
   },
   {
     "country": "Croatia",
@@ -3349,8 +3349,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -3404,8 +3404,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/nakit/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -3415,7 +3415,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "bracelets",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/nakit/narukvice/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_JEWELRY_bracelets"
@@ -3569,8 +3569,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "New",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://www.douglas.hr/c/novo/",
     "file_name": "Croatia_DOUGLAS_HR_NEW_NEW_NEW"
   },
@@ -3579,9 +3579,9 @@
     "retailer": "DOUGLAS_HR",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
-    "department": "Drug Store",
-    "category": "Drug Store",
-    "page": "Drug Store",
+    "department": "Drugstore",
+    "category": "Drugstore",
+    "page": "Drugstore",
     "page_url": "https://www.douglas.hr/c/drogerija/",
     "file_name": "Croatia_DOUGLAS_HR_DRUGSTORE_DRUGSTORE_DRUGSTORE"
   },
@@ -3590,9 +3590,9 @@
     "retailer": "DOUGLAS_HR",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
-    "department": "Drug Store",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "department": "Drugstore",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.hr/c/drogerija/njega-tijela/",
     "file_name": "Croatia_DOUGLAS_HR_DRUGSTORE_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -3602,8 +3602,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Health",
-    "category": "HEALTH",
-    "page": "HEALTH",
+    "category": "Health",
+    "page": "Health",
     "page_url": "https://www.douglas.hr/c/zdravlje/",
     "file_name": "Croatia_DOUGLAS_HR_HEALTH_HEALTH_HEALTH"
   },
@@ -3613,8 +3613,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Health",
-    "category": "ORAL CARE",
-    "page": "ORAL CARE",
+    "category": "Oral Care",
+    "page": "Oral Care",
     "page_url": "https://www.douglas.hr/c/zdravlje/oralna-njega/",
     "file_name": "Croatia_DOUGLAS_HR_HEALTH_ORAL|sp|CARE_ORAL|sp|CARE"
   },
@@ -3624,7 +3624,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Health",
-    "category": "ORAL CARE",
+    "category": "Oral Care",
     "page": "Electric toothbrushes",
     "page_url": "https://www.douglas.hr/c/zdravlje/oralna-njega/elektricne-cetkice-za-zube/",
     "file_name": "Croatia_DOUGLAS_HR_HEALTH_ORAL|sp|CARE_Electric|sp|toothbrushes"
@@ -3668,8 +3668,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Health",
-    "category": "INTIMATE HYGIENE",
-    "page": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
+    "page": "Intimate Hygiene",
     "page_url": "https://www.douglas.hr/c/zdravlje/intimna-higijena/",
     "file_name": "Croatia_DOUGLAS_HR_HEALTH_INTIMATE|sp|HYGIENE_INTIMATE|sp|HYGIENE"
   },
@@ -3679,7 +3679,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Health",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "Sanitary pads",
     "page_url": "https://www.douglas.hr/c/zdravlje/intimna-higijena/higijenski-ulosci/",
     "file_name": "Croatia_DOUGLAS_HR_HEALTH_INTIMATE|sp|HYGIENE_Sanitary|sp|pads"
@@ -3690,7 +3690,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Health",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "Tampons",
     "page_url": "https://www.douglas.hr/c/zdravlje/intimna-higijena/tamponi/",
     "file_name": "Croatia_DOUGLAS_HR_HEALTH_INTIMATE|sp|HYGIENE_Tampons"
@@ -3701,7 +3701,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Health",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "Toilet paper",
     "page_url": "https://www.douglas.hr/c/zdravlje/intimna-higijena/toaletni-papir/",
     "file_name": "Croatia_DOUGLAS_HR_HEALTH_INTIMATE|sp|HYGIENE_Toilet|sp|paper"

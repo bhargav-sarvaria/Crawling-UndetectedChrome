@@ -39,7 +39,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.sephora.se/shop/makeup/ansikte-c342/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_FACE_FACE"
   },
@@ -402,7 +402,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.sephora.se/shop/makeup/naglar/nagellack-c377/",
     "file_name": "Sweden_Sephora_SE_MAKE|sp|UP_NAILS_Nail|sp|polish"
   },
@@ -842,7 +842,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Skincare",
-    "page": "SKINCARE",
+    "page": "Skincare",
     "page_url": "https://www.sephora.se/shop/hudvard-c303/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_SKINCARE_SKINCARE"
   },
@@ -985,7 +985,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Facial Care",
-    "page": "Lip care",
+    "page": "Lip Care",
     "page_url": "https://www.sephora.se/shop/hudvard/ansiktsvard/lappvard-c299904/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_FACIAL|sp|CARE_Lip|sp|care"
   },
@@ -996,7 +996,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Facial Care",
-    "page": "Clean skincare",
+    "page": "Clean Skincare",
     "page_url": "https://www.sephora.se/shop/hudvard/ansiktsvard/clean-skincare-c7792/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_FACIAL|sp|CARE_Clean|sp|skincare"
   },
@@ -1205,7 +1205,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.sephora.se/shop/hudvard/tillbehor-c7649/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_ACCESSORIES_ACCESSORIES"
   },
@@ -1469,7 +1469,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Shaving",
-    "page": "Beard care",
+    "page": "Beard Care",
     "page_url": "https://www.sephora.se/shop/hudvard/rakning/skaggvard-c323101/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_SHAVE_Beard|sp|care"
   },
@@ -2008,7 +2008,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Body",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.sephora.se/shop/kropp-och-bad/tillbehor-c7652/",
     "file_name": "Sweden_Sephora_SE_BODY|sp||as||sp|BATH_ACCESSORIES_ACCESSORIES"
   },
@@ -2712,7 +2712,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Styling",
-    "page": "STYLING",
+    "page": "Styling",
     "page_url": "https://www.sephora.se/shop/har/styling-c454/",
     "file_name": "Sweden_Sephora_SE_HAIR_STYLING_STYLING"
   },

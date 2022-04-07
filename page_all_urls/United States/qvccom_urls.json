@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/qvccom_parsing.json",
     "gcloud_path": "crawl_data/United States/QVC/",
     "department": "Fashion",
-    "category": "NEW BRANDS",
+    "category": "New Brands",
     "page": "Studio Park",
     "page_url": "https://www.qvc.com/fashion/studio-park/_/N-lgltZ1z13bnq/c.html",
     "file_name": "United|sp|States_QVC_Fashion_NEW|sp|BRANDS_Studio|sp|Park"
@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/qvccom_parsing.json",
     "gcloud_path": "crawl_data/United States/QVC/",
     "department": "Fashion",
-    "category": "NEW BRANDS",
+    "category": "New Brands",
     "page": "Summersalt",
     "page_url": "https://www.qvc.com/fashion/summersalt/_/N-lgltZ19cdz8c/c.html",
     "file_name": "United|sp|States_QVC_Fashion_NEW|sp|BRANDS_Summersalt"

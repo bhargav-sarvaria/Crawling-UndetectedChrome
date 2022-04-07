@@ -28,7 +28,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "TOP",
-    "page": "DOUGLAS HOME SPA",
+    "page": "Douglas Home Spa",
     "page_url": "https://www.douglas.ee/ee/douglas-home-spa/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TOP_DOUGLAS|sp|HOME|sp|SPA"
   },
@@ -193,7 +193,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "THE FACE",
-    "page": "Eye care",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/N%C3%A4gu/silmade-hooldus",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Eye|sp|care"
   },
@@ -215,7 +215,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "THE FACE",
-    "page": "Lip care",
+    "page": "Lip Care",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/N%C3%A4gu/huulte-hooldus/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Lip|sp|care"
   },
@@ -259,7 +259,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "HANDS / FEET",
-    "page": "Hand care",
+    "page": "Handcare",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/K%C3%A4ed-jalad/K%C3%A4tehooldus/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_HANDS|sp||fs||sp|FEET_Hand|sp|care"
   },
@@ -270,7 +270,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "HANDS / FEET",
-    "page": "Nail care",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/K%C3%A4ed-jalad/K%C3%BC%C3%BCntehooldus/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_HANDS|sp||fs||sp|FEET_Nail|sp|care"
   },
@@ -281,7 +281,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "HANDS / FEET",
-    "page": "Foot care",
+    "page": "Footcare",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/K%C3%A4ed-jalad/Jalahooldus/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_HANDS|sp||fs||sp|FEET_Foot|sp|care"
   },
@@ -423,7 +423,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Washing / cleaning",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/Pesemine-puhastamine/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Washing|sp||fs||sp|cleaning"
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Creams / serums",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/Kreemid-seerumid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Creams|sp||fs||sp|serums"
@@ -445,8 +445,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
-    "page": "Eye care",
+    "category": "For Men",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/silmade-hooldus/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Eye|sp|care"
   },
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Body creams",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/kehakreemid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Body|sp|creams"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Shaving / after shave",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/Raseerimine-raseerimisj%C3%A4rgne/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Shaving|sp||fs||sp|after|sp|shave"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Detergents",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/Pesemisvahendid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Detergents"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Deodorants",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/Deodorandid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Deodorants"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Meestele/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Sets"
@@ -511,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR KIDS",
+    "category": "For Kids",
     "page": "Detergents",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Lastele/Pesemisvahendid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|KIDS_Detergents"
@@ -522,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "FOR KIDS",
+    "category": "For Kids",
     "page": "Creams",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Lastele/kreemid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|KIDS_Creams"
@@ -533,7 +533,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Dental care products",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/suuhugieen/hambahooldusvahendid/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_ORAL|sp|HYGIENE_Dental|sp|care|sp|products"
@@ -544,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Dental care equipment",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/suuhugieen/hammaste-hooldusseadmed/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_ORAL|sp|HYGIENE_Dental|sp|care|sp|equipment"
@@ -622,20 +622,9 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
     "category": "BEAUTY CARE EQUIPMENT",
-    "page": "Facial Cleaning",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/Iluhooldusseadmed/Naonaha-puhastamine/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BEAUTY|sp|CARE|sp|EQUIPMENT_Facial|sp|cleansing"
-  },
-  {
-    "country": "Estonia",
-    "retailer": "DOUGLAS_EE",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
-    "department": "Skin",
-    "category": "TOP",
-    "page": "The Ordinary",
-    "page_url": "https://www.douglas.ee/ee/the-ordinary/",
-    "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TOP_The|sp|Ordinary"
   },
   {
     "country": "Estonia",
@@ -687,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR WOMEN",
+    "category": "For Women",
     "page": "Smells",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Naiste/L%C3%B5hnad",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Smells"
@@ -698,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR WOMEN",
+    "category": "For Women",
     "page": "Perfume deodorants",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Naiste/Parf%C3%BC%C3%BCmdeodorandid",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Perfume|sp|deodorants"
@@ -709,7 +698,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR WOMEN",
+    "category": "For Women",
     "page": "Perfumes",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Naiste/Parf%C3%BC%C3%BCmpesemisvahendid",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Perfumery"
@@ -720,7 +709,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR WOMEN",
+    "category": "For Women",
     "page": "Perfume care products",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Naiste/Parf%C3%BC%C3%BCmhooldustooted",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Perfume|sp|care|sp|products"
@@ -731,7 +720,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR WOMEN",
+    "category": "For Women",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Naiste/Komplektid",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Sets"
@@ -742,7 +731,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR KIDS",
+    "category": "For Kids",
     "page": "Smells",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Laste/L%C3%B5hnad",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|KIDS_Smells"
@@ -753,7 +742,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR KIDS",
+    "category": "For Kids",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Laste/Komplektid",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|KIDS_Sets"
@@ -764,7 +753,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Smells",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Meeste/L%C3%B5hnad/",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Smells"
@@ -775,7 +764,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Perfume deodorants",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Meeste/Parf%C3%BC%C3%BCmdeodorandid/",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Perfume|sp|deodorants"
@@ -786,7 +775,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "After - shave perfumery",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Meeste/Raseerimisj%C3%A4rgsed-parf%C3%BC%C3%BCmtooted/",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_After|sp||h||sp|shave|sp|perfumery"
@@ -797,7 +786,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Perfumery for shaving",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Meeste/Raseerimisj%C3%A4rgsed-parf%C3%BC%C3%BCmtooted/",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Perfumery|sp|for|sp|shaving"
@@ -808,7 +797,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "ODORS",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/L%C3%95HNAD/Meeste/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Sets"
@@ -1138,7 +1127,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
-    "category": "MAKEUP FOR CHILDREN",
+    "category": "Make Up for Children",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Meik-lastele/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_MAKEUP|sp|FOR|sp|CHILDREN_Sets"
@@ -1205,7 +1194,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Make Up",
     "category": "Accessories",
-    "page": "accessories",
+    "page": "Accessories",
     "page_url": "https://www.douglas.ee/ee/kataloog/MAKE-UP/Aksessuaarid/",
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_accessories"
   },
@@ -1293,7 +1282,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
     "category": "WASHING",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Pesemine/Maskid/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Masks"
   },
@@ -1315,7 +1304,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
     "category": "WASHING",
-    "page": "Hair color",
+    "page": "Hair Colour",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Pesemine/juuksevarv/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Hair|sp|color"
   },
@@ -1391,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Shampoos",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Meestele/sampoonid",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Shampoos"
@@ -1402,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Balms",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Meestele/Palsamid",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Balms"
@@ -1413,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Finishing",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Meestele/Viimistlus",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Finishing"
@@ -1424,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Hair restoration",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Meestele/Juuste-taastamine/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Hair|sp|restoration"
@@ -1435,7 +1424,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Meestele/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Sets"
@@ -1446,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
-    "category": "FOR KIDS",
+    "category": "For Kids",
     "page": "Shampoos",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Lastele/sampoonid/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|KIDS_Shampoos"
@@ -1457,7 +1446,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
-    "category": "FOR KIDS",
+    "category": "For Kids",
     "page": "Sets",
     "page_url": "https://www.douglas.ee/ee/kataloog/JUUKSEHOOLDUS/Lastele/Komplektid/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|KIDS_Sets"
@@ -1491,7 +1480,7 @@
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Haircare",
     "category": "TOP",
-    "page": "DOUGLAS HAIR",
+    "page": "Douglas Hair",
     "page_url": "https://douglas.ee/ee/douglas-hair/",
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_TOP_DOUGLAS|sp|HAIR"
   },
@@ -1622,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "GREEN",
-    "category": "SUSTAINABLE PACKAGING",
+    "category": "Sustainable Packaging",
     "page": "Refillable",
     "page_url": "https://www.douglas.ee/ee/kataloog/zali/ilgtspejigs-iepakojums/atkartoti-uzpildams/",
     "file_name": "Estonia_DOUGLAS_EE_GREEN_SUSTAINABLE|sp|PACKAGING_Refillable"
@@ -1633,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "GREEN",
-    "category": "SUSTAINABLE PACKAGING",
+    "category": "Sustainable Packaging",
     "page": "Eco-friendly packaging",
     "page_url": "https://www.douglas.ee/ee/kataloog/zali/ilgtspejigs-iepakojums/dabai-draudzigs-iepakojums/",
     "file_name": "Estonia_DOUGLAS_EE_GREEN_SUSTAINABLE|sp|PACKAGING_Eco|h|friendly|sp|packaging"

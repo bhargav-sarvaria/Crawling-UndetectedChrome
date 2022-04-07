@@ -16,8 +16,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "NEW ARRIVALS",
-    "page": "NEW ARRIVALS",
+    "category": "New Arrivals",
+    "page": "New Arrivals",
     "page_url": "https://www.sephora.gr/noutati-machiaj.html",
     "file_name": "Greece_Sephora_GR_MAKEUP_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
@@ -181,7 +181,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "Make Up Set",
+    "category": "Make Up Sets",
     "page": "MAKEUP SET",
     "page_url": "https://www.sephora.gr/shop/makigiaz/set-makigiaz-c313702/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_MAKEUP|sp|SET"
@@ -192,7 +192,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "Make Up Set",
+    "category": "Make Up Sets",
     "page": "Makeup kit",
     "page_url": "https://www.sephora.gr/shop/makigiaz/set-makigiaz/kit-makigiaz-c313803/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_Makeup|sp|kit"
@@ -203,7 +203,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "Make Up Set",
+    "category": "Make Up Sets",
     "page": "Lip kit",
     "page_url": "https://www.sephora.gr/shop/makigiaz/set-makigiaz/kit-xeilion-c313802/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_Lip|sp|kit"
@@ -214,7 +214,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "Make Up Set",
+    "category": "Make Up Sets",
     "page": "Eye set",
     "page_url": "https://www.sephora.gr/shop/makigiaz/set-makigiaz/set-mation-c313801/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_Eye|sp|set"
@@ -423,8 +423,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "Make Up Removers",
-    "page": "Make Up Removers",
+    "category": "Make Up Remover",
+    "page": "Make Up Remover",
     "page_url": "https://www.sephora.gr/shop/makigiaz/ntemakigiaz-c7632/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKE|h|UP|sp|REMOVER_MAKE|h|UP|sp|REMOVER"
   },
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "Make Up Removers",
+    "category": "Make Up Remover",
     "page": "Facial make-up remover product",
     "page_url": "https://www.sephora.gr/shop/makigiaz/ntemakigiaz/proion-ntemakigiaz-prosopou-c7678/",
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKE|h|UP|sp|REMOVER_Facial|sp|make|h|up|sp|remover|sp|product"
@@ -512,7 +512,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.sephora.gr/shop/makigiaz/nuxia/berniki-nuxion-c377/",
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Nail|sp|polish"
   },
@@ -643,8 +643,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
-    "category": "Sephora Collection Make Up",
-    "page": "Sephora Collection Make Up",
+    "category": "Sephora Make Up Collection",
+    "page": "Sephora Make Up Collection",
     "page_url": "https://www.sephora.gr/brands/a---z/sephora-collection-sepho/?scgid=C302",
     "file_name": "Greece_Sephora_GR_MAKEUP_SEPHORA|sp|MAKEUP|sp|COLLECTION_SEPHORA|sp|MAKEUP|sp|COLLECTION"
   },
@@ -666,7 +666,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Natural Makeup",
+    "page": "Natural Make Up",
     "page_url": "https://www.sephora.gr/makigiaz/good-for-makeup/fusiko-makigiaz-maquillage-au-naturel/",
     "file_name": "Greece_Sephora_GR_MAKEUP_GOOD|sp|FOR|sp|MAKEUP_Natural|sp|Makeup"
   },
@@ -688,7 +688,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Make Up",
     "category": "Good Make Up",
-    "page": "Eco-responsible Makeup",
+    "page": "Ecological Make Up",
     "page_url": "https://www.sephora.gr/makigiaz/good-for-makeup/eco-responsible-makigiaz-maquillage-eco-responsable/",
     "file_name": "Greece_Sephora_GR_MAKEUP_GOOD|sp|FOR|sp|MAKEUP_Eco|h|responsible|sp|Makeup"
   },
@@ -731,8 +731,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfumes",
-    "category": "NEW ARRIVALS",
-    "page": "NEW ARRIVALS",
+    "category": "New Arrivals",
+    "page": "New Arrivals",
     "page_url": "https://www.sephora.gr/noutati-parfumuri.html",
     "file_name": "Greece_Sephora_GR_PERFUMES_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
@@ -776,7 +776,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfumes",
     "category": "Women",
-    "page": "WOMEN",
+    "page": "Women",
     "page_url": "https://www.sephora.gr/shop/aromata/gunaikeia-c309/",
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_WOMEN"
   },
@@ -842,7 +842,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfumes",
     "category": "Men",
-    "page": "MEN",
+    "page": "Men",
     "page_url": "https://www.sephora.gr/shop/aromata/andrika-c310/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_MEN"
   },
@@ -984,8 +984,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Perfumes",
-    "category": "MINI PERFUMES",
-    "page": "MINI PERFUMES",
+    "category": "Perfumes Mini",
+    "page": "Perfumes Mini",
     "page_url": "https://www.sephora.gr/parfum-produits-format-voyage/",
     "file_name": "Greece_Sephora_GR_PERFUMES_MINI|sp|PERFUMES_MINI|sp|PERFUMES"
   },
@@ -1051,7 +1051,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.sephora.gr/shop/prosopo-c303/",
     "file_name": "Greece_Sephora_GR_FACE_FACE_FACE"
   },
@@ -1061,8 +1061,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "NEW ARRIVALS",
-    "page": "NEW ARRIVALS",
+    "category": "New Arrivals",
+    "page": "New Arrivals",
     "page_url": "https://www.sephora.gr/noutati-ingrijire.html",
     "file_name": "Greece_Sephora_GR_FACE_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
@@ -1150,7 +1150,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
     "category": "TYPE",
-    "page": "Lip care",
+    "page": "Lip Care",
     "page_url": "https://www.sephora.gr/shop/prosopo/tupos/peripoihsh-xeilion-c299904/",
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Lip|sp|care"
   },
@@ -1226,8 +1226,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.gr/shop/prosopo/maskes-c7685/",
     "file_name": "Greece_Sephora_GR_FACE_MASKS_MASKS"
   },
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "Masks",
+    "category": "Maks",
     "page": "Face",
     "page_url": "https://www.sephora.gr/shop/prosopo/maskes/prosopo-c313704/",
     "file_name": "Greece_Sephora_GR_FACE_MASKS_Face"
@@ -1248,8 +1248,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.gr/shop/prosopo/maskes/maskes-c313703/",
     "file_name": "Greece_Sephora_GR_FACE_MASKS_Masks"
   },
@@ -1458,7 +1458,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
     "category": "Shaving",
-    "page": "SHAVING",
+    "page": "Shaving",
     "page_url": "https://www.sephora.gr/shop/prosopo/xurisma-c494/",
     "file_name": "Greece_Sephora_GR_FACE_SHAVING_SHAVING"
   },
@@ -1468,8 +1468,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "SUN PROTECTION",
-    "page": "SUN PROTECTION",
+    "category": "Sun Protection",
+    "page": "Sun Protection",
     "page_url": "https://www.sephora.gr/shop/prosopo/anthliaki-prostasia-c402/",
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_SUN|sp|PROTECTION"
   },
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "Sunscreen",
     "page_url": "https://www.sephora.gr/shop/prosopo/anthliaki-prostasia/anthliako-c438/",
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_Sunscreen"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "Self Tanning of the face",
     "page_url": "https://www.sephora.gr/shop/prosopo/anthliaki-prostasia/self-tanning-prosopou-c434/",
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_Self|sp|Tanning|sp|of|sp|the|sp|face"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "After Sun.",
     "page_url": "https://www.sephora.gr/shop/prosopo/anthliaki-prostasia/after-sun-c436/",
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_After|sp|Sun."
@@ -1523,8 +1523,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "GOOD FOR SKINCARE",
-    "page": "GOOD FOR SKINCARE",
+    "category": "Good Skincare",
+    "page": "Good Skincare",
     "page_url": "https://www.sephora.gr/prosopo/good-for-skincare-good-for-soin-visage/",
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_GOOD|sp|FOR|sp|SKINCARE"
   },
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "GOOD FOR SKINCARE",
+    "category": "Good Skincare",
     "page": "Natural products",
     "page_url": "https://www.sephora.gr/prosopo/good-for-skincare/fusika-proionta-soin-au-naturel/",
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_Natural|sp|products"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "GOOD FOR SKINCARE",
+    "category": "Good Skincare",
     "page": "Vegan Products",
     "page_url": "https://www.sephora.gr/prosopo/good-for-skincare/vegan-proionta-soin-vegan/",
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_Vegan|sp|Products"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Face",
-    "category": "GOOD FOR SKINCARE",
+    "category": "Good Skincare",
     "page": "Eco-responsible Products",
     "page_url": "https://www.sephora.gr/prosopo/good-for-skincare/eco-responsible-proionta-soin-eco-responsable/",
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_Eco|h|responsible|sp|Products"
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.sephora.gr/shop/soma-c304/",
     "file_name": "Greece_Sephora_GR_BODY_BODY_BODY"
   },
@@ -1600,8 +1600,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "NEW ARRIVALS",
-    "page": "NEW ARRIVALS",
+    "category": "New Arrivals",
+    "page": "New Arrivals",
     "page_url": "https://www.sephora.gr/oles-oi-nees-afixeis/nea-proionta-somatos-n-c304/",
     "file_name": "Greece_Sephora_GR_BODY_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
@@ -1622,8 +1622,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos-c298002/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Lotion",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/body-lotion-c426/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Lotion"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Scrub and Exfoliation",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/scrub-somatos-kai-apolepish-c482/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Scrub|sp|and|sp|Exfoliation"
@@ -1655,8 +1655,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "Hand care",
+    "category": "Bodycare",
+    "page": "Handcare",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-xerion-c431/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Hand|sp|care"
   },
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Milk",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/body-milk-c298003/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Milk"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorant",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/aposmhtiko-c429/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Deodorant"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Mist",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/body-mist-c432/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Mist"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Pedicure",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-podion-c7752/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Pedicure"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Moisturizing oil",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/ladi-enudatoshs-c479/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Moisturizing|sp|oil"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Neck care",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-laimou-c430/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Neck|sp|care"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Tired foot treatment",
     "page_url": "https://www.sephora.gr/shop/soma/peripoihsh-somatos/peripoihsh-kourasmenon-podion-c433/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Tired|sp|foot|sp|treatment"
@@ -1798,8 +1798,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "MEN'S BODY CARE",
-    "page": "MEN'S BODY CARE",
+    "category": "Mens Bodycare",
+    "page": "Mens Bodycare",
     "page_url": "https://www.sephora.gr/shop/soma/andriki-peripoihsh-somatos-c7641/",
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_MEN|sq|S|sp|BODY|sp|CARE"
   },
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "MEN'S BODY CARE",
+    "category": "Mens Bodycare",
     "page": "Deodorant",
     "page_url": "https://www.sephora.gr/shop/soma/andriki-peripoihsh-somatos/aposmhtiko-c7796/",
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_Deodorant"
@@ -1820,7 +1820,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "MEN'S BODY CARE",
+    "category": "Mens Bodycare",
     "page": "Shower gel and Soap",
     "page_url": "https://www.sephora.gr/shop/soma/andriki-peripoihsh-somatos/afroloutro-kai-sapouni-c495/",
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_Shower|sp|gel|sp|and|sp|Soap"
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "MEN'S BODY CARE",
+    "category": "Mens Bodycare",
     "page": "Moisturizing care",
     "page_url": "https://www.sephora.gr/shop/soma/andriki-peripoihsh-somatos/enudatiki-frontida-c7713/",
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_Moisturizing|sp|care"
@@ -1930,8 +1930,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "SUN PROTECTION",
-    "page": "SUN PROTECTION",
+    "category": "Sun Protection",
+    "page": "Sun Protection",
     "page_url": "https://www.sephora.gr/shop/soma/anthliaki-prostasia-c7784/",
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_SUN|sp|PROTECTION"
   },
@@ -1941,7 +1941,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "Body self-tanning product",
     "page_url": "https://www.sephora.gr/shop/soma/anthliaki-prostasia/proion-automaurismatos-somatos-c7786/",
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_Body|sp|self|h|tanning|sp|product"
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "Body sunscreen",
     "page_url": "https://www.sephora.gr/shop/soma/anthliaki-prostasia/anthliako-somatos-c7785/",
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_Body|sp|sunscreen"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "After Sun Body Care",
     "page_url": "https://www.sephora.gr/shop/soma/anthliaki-prostasia/after-sun-peripoihsh-somatos-c7783/",
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_After|sp|Sun|sp|Body|sp|Care"
@@ -1974,8 +1974,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "BODY ACCESSORIES",
-    "page": "BODY ACCESSORIES",
+    "category": "Body Accessories",
+    "page": "Body Accessories",
     "page_url": "https://www.sephora.gr/shop/soma/axesouar-somatos-c7652/",
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|ACCESSORIES_BODY|sp|ACCESSORIES"
   },
@@ -1985,8 +1985,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
-    "category": "ORAL HYGIENE",
-    "page": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
+    "page": "Oral Hygiene",
     "page_url": "https://www.sephora.gr/shop/soma/stomatiki-ugieini-c247301/",
     "file_name": "Greece_Sephora_GR_BODY_ORAL|sp|HYGIENE_ORAL|sp|HYGIENE"
   },
@@ -1997,7 +1997,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Body",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://www.sephora.gr/shop/soma/spiti-c214801/",
     "file_name": "Greece_Sephora_GR_BODY_HOME_HOME"
   },
@@ -2085,7 +2085,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.sephora.gr/shop/mallia-c307/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_HAIR"
   },
@@ -2095,8 +2095,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "NEW ARRIVALS",
-    "page": "NEW ARRIVALS",
+    "category": "New Arrivals",
+    "page": "New Arrivals",
     "page_url": "https://www.sephora.gr/noutati-ingrijire-par.html",
     "file_name": "Greece_Sephora_GR_HAIR_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
@@ -2107,7 +2107,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
     "category": "Shampoo & Conditioner",
-    "page": "SHAMPOO & CONDITIONER",
+    "page": "Shampoo & Conditioner",
     "page_url": "https://www.sephora.gr/shop/mallia/sampouan-conditioner-c299914/",
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_SHAMPOO|sp||as||sp|CONDITIONER"
   },
@@ -2205,8 +2205,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.sephora.gr/shop/mallia/axesouar-mallion-c453/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -2216,8 +2216,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "Hair accessories",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.sephora.gr/shop/mallia/axesouar-mallion/axesouar-mallion-c472/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Hair|sp|accessories"
   },
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Brushes and combs",
     "page_url": "https://www.sephora.gr/shop/mallia/axesouar-mallion/bourtses-kai-xtenes-c471/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Brushes|sp|and|sp|combs"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Curling irons and styling products",
     "page_url": "https://www.sephora.gr/shop/mallia/axesouar-mallion/sidera-kai-proionta-styling-c5231/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Curling|sp|irons|sp|and|sp|styling|sp|products"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Shower Cap & Towel",
     "page_url": "https://www.sephora.gr/shop/mallia/axesouar-mallion/skoufaki-petseta-gia-ntous-c285802/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Shower|sp|Cap|sp||as||sp|Towel"
@@ -2294,7 +2294,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
     "category": "STYLING & TREATMENT",
-    "page": "Candle",
+    "page": "Candles",
     "page_url": "https://www.sephora.gr/shop/mallia/styling-therapeia/keri-c226/",
     "file_name": "Greece_Sephora_GR_HAIR_STYLING|sp||as||sp|TREATMENT_Candle"
   },
@@ -2360,7 +2360,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
     "category": "PURCHASE BASED ON NEED",
-    "page": "Sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.sephora.gr/shop/mallia/agora-me-bash-thn-anagkh/anthliaki-prostasia-c450/",
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Sun|sp|protection"
   },
@@ -2414,8 +2414,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
-    "page": "HAIR TYPE",
+    "category": "Hair Type",
+    "page": "Hair Type",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion-c299918/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_HAIR|sp|TYPE"
   },
@@ -2425,7 +2425,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Split & Curly",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/spasta-sgoura-c457/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Split|sp||as||sp|Curly"
@@ -2436,7 +2436,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Dry & Distressed",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/xhra-talaiporhmena-c456/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Dry|sp||as||sp|Distressed"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Painted or with Highlights",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/bammena-i-me-antaugeies-c458/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Painted|sp|or|sp|with|sp|Highlights"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Minutes",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/lepta-c460/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Minutes"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "White / Mature Hair",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/leuka--orima-mallia-c369706/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_White|sp||fs||sp|Mature|sp|Hair"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Normally",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/kanonika-c455/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Normally"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Fat / Mixed",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/lipara-mikta-c459/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Fat|sp||fs||sp|Mixed"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
-    "category": "HAIR TYPE",
+    "category": "Hair Type",
     "page": "Dull Hair",
     "page_url": "https://www.sephora.gr/shop/mallia/tupos-mallion/thampa-mallia-c369705/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Dull|sp|Hair"
@@ -2525,7 +2525,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.sephora.gr/shop/mallia/mallia-c496/",
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_HAIR"
   },
@@ -2689,8 +2689,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Sephora Collection",
-    "category": "Sephora Collection Serums",
-    "page": "Sephora Collection Serums",
+    "category": "Sephora Serums Collection",
+    "page": "Sephora Serums Collection",
     "page_url": "https://www.sephora.gr/brands/a---z/sephora-collection-sepho/?scgid=C299903",
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Sephora|sp|Collection|sp|Serums_Sephora|sp|Collection|sp|Serums"
   },
@@ -2700,8 +2700,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Sephora Collection",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.sephora.gr/brands/a---z/sephora-collection-sepho/?scgid=C7685",
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Masks_Masks"
   },
@@ -2722,8 +2722,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "New",
-    "category": "NEW ARRIVALS",
-    "page": "NEW ARRIVALS",
+    "category": "New Arrivals",
+    "page": "New Arrivals",
     "page_url": "https://www.sephora.gr/nees-afixeis/",
     "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
@@ -2778,7 +2778,7 @@
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
     "department": "Gifts",
     "category": "Gifts",
-    "page": "GIFTS",
+    "page": "Gifts",
     "page_url": "https://www.sephora.gr/idei-cadouri.html",
     "file_name": "Greece_Sephora_GR_GIFTS_GIFTS_GIFTS"
   },
@@ -2831,9 +2831,9 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
-    "category": "Good For",
-    "page": "Good For",
+    "department": "Good",
+    "category": "Good",
+    "page": "Good",
     "page_url": "https://www.sephora.gr/Good-For.html",
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_GOOD|sp|FOR_GOOD|sp|FOR"
   },
@@ -2842,9 +2842,9 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
-    "category": "Natural Makeup",
-    "page": "Natural Makeup",
+    "department": "Good",
+    "category": "Natural Make Up",
+    "page": "Natural Make Up",
     "page_url": "https://www.sephora.gr/makigiaz/good-for-makeup/fusiko-makigiaz-maquillage-au-naturel/",
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Natural|sp|Makeup_Natural|sp|Makeup"
   },
@@ -2853,7 +2853,7 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Vegan Makeup Products",
     "page": "Vegan Makeup Products",
     "page_url": "https://www.sephora.gr/makigiaz/good-for-makeup/vegan-proionta-makigiaz-maquillage-vegan/",
@@ -2864,9 +2864,9 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
-    "category": "Eco-responsible Makeup",
-    "page": "Eco-responsible Makeup",
+    "department": "Good",
+    "category": "Ecological Make Up",
+    "page": "Ecological Make Up",
     "page_url": "https://www.sephora.gr/makigiaz/good-for-makeup/eco-responsible-makigiaz-maquillage-eco-responsable/",
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Eco|h|responsible|sp|Makeup_Eco|h|responsible|sp|Makeup"
   },
@@ -2875,7 +2875,7 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Natural products",
     "page": "Natural products",
     "page_url": "https://www.sephora.gr/prosopo/good-for-skincare/fusika-proionta-soin-au-naturel/",
@@ -2886,7 +2886,7 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Vegan Products",
     "page": "Vegan Products",
     "page_url": "https://www.sephora.gr/prosopo/good-for-skincare/vegan-proionta-soin-vegan/",
@@ -2897,7 +2897,7 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Eco-responsible Products",
     "page": "Eco-responsible Products",
     "page_url": "https://www.sephora.gr/prosopo/good-for-skincare/eco-responsible-proionta-soin-eco-responsable/",
@@ -2908,7 +2908,7 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Natural Hair Products",
     "page": "Natural Hair Products",
     "page_url": "https://www.sephora.gr/mallia/good-for-proionta-mallion/fusika-proionta-mallion-soin-cheveux-au-naturel/",
@@ -2919,7 +2919,7 @@
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
-    "department": "Good For",
+    "department": "Good",
     "category": "Vegan Hair Products",
     "page": "Vegan Hair Products",
     "page_url": "https://www.sephora.gr/mallia/good-for-proionta-mallion/vegan-proionta-mallion-soin-cheveux-vegan/",

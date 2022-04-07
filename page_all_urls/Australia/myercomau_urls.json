@@ -5,8 +5,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "All New",
-    "page": "All New",
+    "category": "All in New",
+    "page": "All in New",
     "page_url": "https://www.myer.com.au/c/new-in",
     "file_name": "Australia_Myer_New_All|sp|New_All|sp|New"
   },
@@ -226,7 +226,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
     "category": "Beauty",
-    "page": "New Perfume",
+    "page": "New in Perfumes",
     "page_url": "https://www.myer.com.au/c/new-in/beauty-709570--1/perfume-frangrance-new-in",
     "file_name": "Australia_Myer_New_Beauty_New|sp|Perfume"
   },
@@ -2041,17 +2041,6 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Top Brands",
-    "page": "Kiehl's",
-    "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/featured-brand-kiehls",
-    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Kiehl|sq|s"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
-    "category": "Top Brands",
     "page": "Lancome",
     "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/Lancome-1",
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Lancome"
@@ -2140,7 +2129,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Skincare",
-    "page": "Moisturiser",
+    "page": "Moisturizer",
     "page_url": "https://www.myer.com.au/c/beauty/skincare/skincare-Moisturiser",
     "file_name": "Australia_Myer_Beauty_Skincare_Moisturiser"
   },
@@ -2228,7 +2217,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Perfumes",
-    "page": "Womens Perfume",
+    "page": "Womens Perfumes",
     "page_url": "https://www.myer.com.au/c/beauty/all-fragrance/womens-fragrances",
     "file_name": "Australia_Myer_Beauty_Perfume_Women|sq|s|sp|Perfume"
   },
@@ -3107,8 +3096,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "All Sport",
-    "page": "All Sport",
+    "category": "All in Sports",
+    "page": "All in Sports",
     "page_url": "https://www.myer.com.au/c/sport",
     "file_name": "Australia_Myer_Sport_All|sp|Sport_All|sp|Sport"
   },
@@ -3481,8 +3470,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Recovery & Wellness",
-    "page": "Recovery & Wellness",
+    "category": "Wellbeing",
+    "page": "Wellbeing",
     "page_url": "https://www.myer.com.au/c/sport/recovery-wellness",
     "file_name": "Australia_Myer_Sport_Recovery|sp||as||sp|Wellness_Recovery|sp||as||sp|Wellness"
   },
@@ -3492,7 +3481,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Sports",
-    "category": "Recovery & Wellness",
+    "category": "Wellbeing",
     "page": "Massage & Therapy Devices",
     "page_url": "https://www.myer.com.au/c/sport/recovery-wellness/massage-therapy-devices",
     "file_name": "Australia_Myer_Sport_Recovery|sp||as||sp|Wellness_Massage|sp||as||sp|Therapy|sp|Devices"
@@ -4812,8 +4801,8 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "Personalised Gifts",
-    "page": "Personalised Gifts",
+    "category": "Personalized Gifts",
+    "page": "Personalized Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/personalised-gifts--1",
     "file_name": "Australia_Myer_Gifts_Personalised|sp|Gifts_Personalised|sp|Gifts"
   },
@@ -4911,7 +4900,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Gifts for Him",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Gifts|sp|for|sp|Him"
@@ -4922,7 +4911,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Accessories Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/accessories-765559-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Accessories|sp|Gifts"
@@ -4933,7 +4922,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Cologne & Grooming Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/grooming--1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Cologne|sp||as||sp|Grooming|sp|Gifts"
@@ -4944,7 +4933,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Home & Tech Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/home-entertainment--1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Home|sp||as||sp|Tech|sp|Gifts"
@@ -4955,7 +4944,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Toys & Novelty Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/novelty-toys-gifts-for-him",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Toys|sp||as||sp|Novelty|sp|Gifts"
@@ -4966,7 +4955,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Eating & Drinking Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/gifts-eating-drinking",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Eating|sp||as||sp|Drinking|sp|Gifts"
@@ -4977,7 +4966,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Underwear, Sleepwear & Socks Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/underwear-socks-765557-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Underwear,|sp|Sleepwear|sp||as||sp|Socks|sp|Gifts"
@@ -4988,7 +4977,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Him",
+    "category": "For Men",
     "page": "Health & Wellness Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-him/health-fitness-gifts-for-him",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Health|sp||as||sp|Wellness|sp|Gifts"
@@ -4999,7 +4988,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Gifts for Her",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Gifts|sp|for|sp|Her"
@@ -5010,7 +4999,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Perfume & Beauty Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/beauty-763051-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Perfume|sp||as||sp|Beauty|sp|Gifts"
@@ -5021,7 +5010,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Lingerie & Sleepwear Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/sleepwear-lingerie",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Lingerie|sp||as||sp|Sleepwear|sp|Gifts"
@@ -5032,7 +5021,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Health & Wellness Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/health-wellness",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Health|sp||as||sp|Wellness|sp|Gifts"
@@ -5043,7 +5032,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Home & Tech Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/home-entertaining",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Home|sp||as||sp|Tech|sp|Gifts"
@@ -5054,7 +5043,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Watches & Accessories Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/accessories-gifts",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Watches|sp||as||sp|Accessories|sp|Gifts"
@@ -5065,7 +5054,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Candles & Home Fragrance Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/candles-home-fragrances-763055-1",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Candles|sp||as||sp|Home|sp|Fragrance|sp|Gifts"
@@ -5076,7 +5065,7 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "For Her",
+    "category": "For Women",
     "page": "Handbags & Wallets Gifts",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-her/handbags-wallets-gifts",
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Handbags|sp||as||sp|Wallets|sp|Gifts"

@@ -193,7 +193,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Perfumes",
     "category": "Childish",
-    "page": "CHILDISH",
+    "page": "Childish",
     "page_url": "https://douglas.es/c/perfumes/infantil",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_CHILDISH_CHILDISH"
   },
@@ -622,7 +622,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
     "category": "Lip Treatment",
-    "page": "lip care",
+    "page": "Lip Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_de_labios/tratamiento_de_labios",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_LIP|sp|TREATMENT_lip|sp|care"
   },
@@ -1315,7 +1315,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
     "category": "Nails Make Up",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_unas/esmalte_laca",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|NAILS_Nail|sp|polish"
   },
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
     "category": "Hair Accessories",
-    "page": "brushes",
+    "page": "Brushes",
     "page_url": "https://douglas.es/c/cabello/profesional/accesorios/cepillos",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_brushes"
   },
@@ -1832,7 +1832,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
     "category": "Hair Accessories",
-    "page": "brushes",
+    "page": "Brushes",
     "page_url": "https://douglas.es/c/cabello/consumo/accesorios/cepillos",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_brushes"
   },
@@ -2492,7 +2492,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
     "category": "Beard Care",
-    "page": "BEARD CARE",
+    "page": "Beard Care",
     "page_url": "https://douglas.es/c/hombre/cuidado_barba",
     "file_name": "Spain_DOUGLAS_ES_MAN_BEARD|sp|CARE_BEARD|sp|CARE"
   },
@@ -3427,7 +3427,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://douglas.es/c/hogar",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOME_HOME"
   },

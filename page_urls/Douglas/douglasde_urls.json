@@ -336,7 +336,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfumes",
     "category": "Highlights",
-    "page": "gifts",
+    "page": "Gifts",
     "page_url": "https://www.douglas.de/de/c/geschenke/08",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Highlights_gifts"
   },
@@ -468,7 +468,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfumes",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/parfum/0501",
     "file_name": "Germany_DOUGLAS_DE_PERFUME_SALE_SALE"
   },
@@ -721,7 +721,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.douglas.de/de/c/make-up/naegel/nagellack/030401",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_Nail|sp|polish"
   },
@@ -1018,7 +1018,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Make Up",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/make-up/0510",
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_SALE_SALE"
   },
@@ -1073,7 +1073,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/c/gesicht/12",
     "file_name": "Germany_DOUGLAS_DE_FACE_FACE_FACE"
   },
@@ -1414,7 +1414,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
     "category": "Men",
-    "page": "beard care",
+    "page": "Beard Care",
     "page_url": "https://www.douglas.de/de/c/gesicht/herren/bartpflege/121004",
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_beard|sp|care"
   },
@@ -1601,7 +1601,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Face",
     "category": "Highlights",
-    "page": "Bless you",
+    "page": "Bless You",
     "page_url": "https://www.douglas.de/de/c/gesundheit/07",
     "file_name": "Germany_DOUGLAS_DE_FACE_Highlights_Bless|sp|you"
   },
@@ -2184,7 +2184,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Body",
     "category": "Highlights",
-    "page": "Bless you",
+    "page": "Bless You",
     "page_url": "https://www.douglas.de/de/c/gesundheit/07",
     "file_name": "Germany_DOUGLAS_DE_BODY_Highlights_Bless|sp|you"
   },
@@ -2657,7 +2657,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Hair",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/haare/0512",
     "file_name": "Germany_DOUGLAS_DE_HAIR_SALE_SALE"
   },
@@ -2855,7 +2855,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
     "category": "Home",
-    "page": "candles",
+    "page": "Candles",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/wohnen/kerzen/150502",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_candles"
   },
@@ -3064,7 +3064,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
     "category": "Pet Supplies",
-    "page": "grooming",
+    "page": "Grooming",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/tierbedarf/fellpflege/151701",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_pet|sp|supplies_grooming"
   },
@@ -3262,7 +3262,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
     "category": "Sale",
-    "page": "SALE",
+    "page": "Sale",
     "page_url": "https://www.douglas.de/de/c/sale/05",
     "file_name": "Germany_DOUGLAS_DE_SALE_SALE_SALE"
   },
@@ -3295,7 +3295,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Sale",
     "category": "Sale by Categories",
-    "page": "face",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/c/sale/gesicht/0502",
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_face"
   },
@@ -3427,7 +3427,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Douglas Collection",
     "category": "Face",
-    "page": "face",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/b/douglas-collection/gesicht/b9834_12",
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_face_face"
   },
@@ -3592,7 +3592,7 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "New",
     "category": "Face",
-    "page": "face",
+    "page": "Face",
     "page_url": "https://www.douglas.de/de/c/neuheiten/gesicht/0912",
     "file_name": "Germany_DOUGLAS_DE_NEW_face_face"
   },

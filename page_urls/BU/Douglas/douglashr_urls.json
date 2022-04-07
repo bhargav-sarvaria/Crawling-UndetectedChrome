@@ -215,7 +215,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Perfumes",
     "category": "Unisex Perfumes",
-    "page": "Unisex fragrance",
+    "page": "Unisex Fragrance",
     "page_url": "https://www.douglas.hr/c/parfemi/unisex-parfemi/unisex-mirisi/",
     "file_name": "Croatia_DOUGLAS_HR_PERFUMES_UNISEX|sp|PERFUMES_Unisex|sp|fragrance"
   },
@@ -743,7 +743,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.douglas.hr/c/make-up/nokti/lakovi-za-nokte/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_NAILS_Nail|sp|polish"
   },
@@ -864,7 +864,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Make Up",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.douglas.hr/c/make-up/pribor/",
     "file_name": "Croatia_DOUGLAS_HR_MAKE|sp|UP_ACCESSORIES_ACCESSORIES"
   },
@@ -1117,7 +1117,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.hr/c/lice/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE_FACE"
   },
@@ -1457,8 +1457,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "FACE SERUMS",
-    "page": "FACE SERUMS",
+    "category": "Face Serums",
+    "page": "Face Serums",
     "page_url": "https://www.douglas.hr/c/lice/serumi-za-lice/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE|sp|SERUMS_FACE|sp|SERUMS"
   },
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "FACE SERUMS",
+    "category": "Face Serums",
     "page": "Hydrating serums",
     "page_url": "https://www.douglas.hr/c/lice/serumi-za-lice/serumi-za-hidrataciju/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE|sp|SERUMS_Hydrating|sp|serums"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "FACE SERUMS",
+    "category": "Face Serums",
     "page": "Anti-age serums for the face",
     "page_url": "https://www.douglas.hr/c/lice/serumi-za-lice/anti-age-serumi-za-lice/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE|sp|SERUMS_Anti|h|age|sp|serums|sp|for|sp|the|sp|face"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "FACE SERUMS",
+    "category": "Face Serums",
     "page": "Hyaluronic acid serums",
     "page_url": "https://www.douglas.hr/c/lice/serumi-za-lice/serumi-hijaluronske-kiseline/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE|sp|SERUMS_Hyaluronic|sp|acid|sp|serums"
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "FACE SERUMS",
+    "category": "Face Serums",
     "page": "Ampoules",
     "page_url": "https://www.douglas.hr/c/lice/serumi-za-lice/ampule/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE|sp|SERUMS_Ampoules"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "FACE SERUMS",
+    "category": "Face Serums",
     "page": "Collagen serum",
     "page_url": "https://www.douglas.hr/c/lice/serumi-za-lice/kolagen-serumi/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE|sp|SERUMS_Collagen|sp|serum"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
-    "category": "FACE SERUMS",
+    "category": "Face Serums",
     "page": "Vitamin C serums",
     "page_url": "https://www.douglas.hr/c/lice/serumi-za-lice/vitamin-c-serumi/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_FACE|sp|SERUMS_Vitamin|sp|C|sp|serums"
@@ -1766,7 +1766,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Face",
     "category": "Lip Care",
-    "page": "LIP CARE",
+    "page": "Lip Care",
     "page_url": "https://www.douglas.hr/c/lice/njega-usana/",
     "file_name": "Croatia_DOUGLAS_HR_FACE_LIP|sp|CARE_LIP|sp|CARE"
   },
@@ -2679,7 +2679,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Body",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.douglas.hr/c/tijelo/pribor/",
     "file_name": "Croatia_DOUGLAS_HR_BODY_ACCESSORIES_ACCESSORIES"
   },
@@ -2899,7 +2899,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
     "category": "Hair Styling",
-    "page": "HAIR STYLING",
+    "page": "Hair Styling",
     "page_url": "https://www.douglas.hr/c/kosa/oblikovanje-kose/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
   },
@@ -3196,7 +3196,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Hair",
     "category": "HAIR CARE FOR MEN",
-    "page": "Hair styling",
+    "page": "Hair Styling",
     "page_url": "https://www.douglas.hr/c/kosa/njega-kose-za-muskarce/oblikovanje-kose/",
     "file_name": "Croatia_DOUGLAS_HR_HAIR_HAIR|sp|CARE|sp|FOR|sp|MEN_Hair|sp|styling"
   },
@@ -3427,7 +3427,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/pribor/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_ACCESSORIES_ACCESSORIES"
   },
@@ -3449,7 +3449,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/dom/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_HOME_HOME"
   },
@@ -3493,7 +3493,7 @@
     "gcloud_path": "crawl_data/Croatia/Douglas_HR/",
     "department": "Home & Lifestyle",
     "category": "Bathroom",
-    "page": "BATHROOM",
+    "page": "Bathroom",
     "page_url": "https://www.douglas.hr/c/home-lifestyle/kupaonica/",
     "file_name": "Croatia_DOUGLAS_HR_HOME|sp||as||sp|LIFESTYLE_BATHROOM_BATHROOM"
   },

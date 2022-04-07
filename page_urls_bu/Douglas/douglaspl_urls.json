@@ -16,7 +16,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/0101",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -27,7 +27,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Perfume kits",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/zestawy-perfum/010111",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Perfume|sp|kits"
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Deodorants",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/dezodoranty/010105",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Deodorants"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Womens Perfumes",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/perfumy/010106",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Women|sq|s|sp|perfumes"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Body lotions",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/pielegnacja-ciala/010108",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Body|sp|lotions"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "Shower gels",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/zele-pod-prysznic/010107",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_Shower|sp|gels"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Perfumes",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/perfumy/perfumy-damskie/0101",
     "file_name": "Poland_DOUGLAS_PL_PERFUME_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -424,7 +424,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/0304",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_NAILS"
   },
@@ -468,7 +468,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.pl/pl/c/makijaz/paznokcie/0304",
     "file_name": "Poland_DOUGLAS_PL_MAKEUP_NAILS_NAILS"
   },
@@ -599,8 +599,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Face Care",
-    "page": "Face Care",
+    "category": "Facecare",
+    "page": "Facecare",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-twarzy/1205",
     "file_name": "Poland_DOUGLAS_PL_FACE_FACE|sp|CARE_FACE|sp|CARE"
   },
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Face creams",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-twarzy/kremy-do-twarzy/120501",
     "file_name": "Poland_DOUGLAS_PL_FACE_FACE|sp|CARE_Face|sp|creams"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Face mists",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-twarzy/mgielki-do-twarzy/120502",
     "file_name": "Poland_DOUGLAS_PL_FACE_FACE|sp|CARE_Face|sp|mists"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Face oils",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-twarzy/olejki-do-twarzy/120503",
     "file_name": "Poland_DOUGLAS_PL_FACE_FACE|sp|CARE_Face|sp|oils"
@@ -643,8 +643,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Face Care",
-    "page": "Face Care",
+    "category": "Facecare",
+    "page": "Facecare",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-twarzy/1205",
     "file_name": "Poland_DOUGLAS_PL_FACE_FACE|sp|CARE_FACE|sp|CARE"
   },
@@ -654,8 +654,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Cleaning Face",
-    "page": "Cleaning Face",
+    "category": "Face Clean",
+    "page": "Face Clean",
     "page_url": "https://www.douglas.pl/pl/c/twarz/oczyszczanie-twarzy/1201",
     "file_name": "Poland_DOUGLAS_PL_FACE_CLEANNING|sp|FACE_CLEANNING|sp|FACE"
   },
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Cleaning Face",
+    "category": "Face Clean",
     "page": "Face gels",
     "page_url": "https://www.douglas.pl/pl/c/twarz/oczyszczanie-twarzy/zele-do-mycia-twarzy/120101",
     "file_name": "Poland_DOUGLAS_PL_FACE_CLEANNING|sp|FACE_Face|sp|gels"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Cleaning Face",
+    "category": "Face Clean",
     "page": "Face foams",
     "page_url": "https://www.douglas.pl/pl/c/twarz/oczyszczanie-twarzy/pianki-do-twarzy/120102",
     "file_name": "Poland_DOUGLAS_PL_FACE_CLEANNING|sp|FACE_Face|sp|foams"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Cleaning Face",
+    "category": "Face Clean",
     "page": "Face lotions",
     "page_url": "https://www.douglas.pl/pl/c/twarz/oczyszczanie-twarzy/mleczka-do-twarzy/120103",
     "file_name": "Poland_DOUGLAS_PL_FACE_CLEANNING|sp|FACE_Face|sp|lotions"
@@ -698,8 +698,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Cleaning Face",
-    "page": "Cleaning Face",
+    "category": "Face Clean",
+    "page": "Face Clean",
     "page_url": "https://www.douglas.pl/pl/c/twarz/oczyszczanie-twarzy/1201",
     "file_name": "Poland_DOUGLAS_PL_FACE_CLEANNING|sp|FACE_CLEANNING|sp|FACE"
   },
@@ -764,8 +764,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Eye Care",
-    "page": "Eye Care",
+    "category": "Eyecare",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-okolic-oczu/1204",
     "file_name": "Poland_DOUGLAS_PL_FACE_EYE|sp|AREA|sp|CARE_EYE|sp|AREA|sp|CARE"
   },
@@ -775,7 +775,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye creams",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-okolic-oczu/kremy-pod-oczy/120401",
     "file_name": "Poland_DOUGLAS_PL_FACE_EYE|sp|AREA|sp|CARE_Eye|sp|creams"
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye serum",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-okolic-oczu/serum-pod-oczy/120402",
     "file_name": "Poland_DOUGLAS_PL_FACE_EYE|sp|AREA|sp|CARE_Eye|sp|serum"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye gels",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-okolic-oczu/zele-pod-oczy/120403",
     "file_name": "Poland_DOUGLAS_PL_FACE_EYE|sp|AREA|sp|CARE_Eye|sp|gels"
@@ -808,8 +808,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "Eye Care",
-    "page": "Eye Care",
+    "category": "Eyecare",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.pl/pl/c/twarz/pielegnacja-okolic-oczu/1204",
     "file_name": "Poland_DOUGLAS_PL_FACE_EYE|sp|AREA|sp|CARE_EYE|sp|AREA|sp|CARE"
   },
@@ -874,8 +874,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Face",
-    "category": "HEALTH",
-    "page": "HEALTH",
+    "category": "Health",
+    "page": "Health",
     "page_url": "https://www.douglas.pl/pl/c/zdrowie/07",
     "file_name": "Poland_DOUGLAS_PL_FACE_HEALTH_HEALTH"
   },
@@ -886,7 +886,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.pl/pl/c/cialo/13",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY_BODY"
   },
@@ -896,8 +896,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/1302",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body lotions",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/balsamy-do-ciala/130202",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_Body|sp|lotions"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorants",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/dezodoranty/130201",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_Deodorants"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Mists",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/mgielki-do-ciala/130203",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_Body|sp|Mists"
@@ -940,8 +940,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-ciala/1302",
     "file_name": "Poland_DOUGLAS_PL_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -1006,8 +1006,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "SUNBATHING",
-    "page": "SUNBATHING",
+    "category": "Sun Bathing",
+    "page": "Sun Bathing",
     "page_url": "https://www.douglas.pl/pl/c/cialo/opalanie/1308",
     "file_name": "Poland_DOUGLAS_PL_BODY_SUNBATHING_SUNBATHING"
   },
@@ -1017,8 +1017,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "SUNBATHING",
-    "page": "Sun protection",
+    "category": "Sun Bathing",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.pl/pl/c/cialo/opalanie/ochrona-przeciwsloneczna/130801",
     "file_name": "Poland_DOUGLAS_PL_BODY_SUNBATHING_Sun|sp|protection"
   },
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "After tanning",
     "page_url": "https://www.douglas.pl/pl/c/cialo/opalanie/po-opalaniu/130802",
     "file_name": "Poland_DOUGLAS_PL_BODY_SUNBATHING_After|sp|tanning"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanners",
     "page_url": "https://www.douglas.pl/pl/c/cialo/opalanie/samoopalacze/130803",
     "file_name": "Poland_DOUGLAS_PL_BODY_SUNBATHING_Self|h|tanners"
@@ -1050,8 +1050,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "SUNBATHING",
-    "page": "SUNBATHING",
+    "category": "Sun Bathing",
+    "page": "Sun Bathing",
     "page_url": "https://www.douglas.pl/pl/c/cialo/opalanie/1308",
     "file_name": "Poland_DOUGLAS_PL_BODY_SUNBATHING_SUNBATHING"
   },
@@ -1073,7 +1073,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
     "category": "Men",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/dla-mezczyzn/pielegnacja-ciala/130901",
     "file_name": "Poland_DOUGLAS_PL_BODY_MEN_Body|sp|care"
   },
@@ -1116,8 +1116,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "HAND CARE",
-    "page": "HAND CARE",
+    "category": "Handcare",
+    "page": "Handcare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-dloni/1305",
     "file_name": "Poland_DOUGLAS_PL_BODY_HAND|sp|CARE_HAND|sp|CARE"
   },
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand creams",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-dloni/kremy-do-rak/130501",
     "file_name": "Poland_DOUGLAS_PL_BODY_HAND|sp|CARE_Hand|sp|creams"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand scrub",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-dloni/peeling-do-rak/130502",
     "file_name": "Poland_DOUGLAS_PL_BODY_HAND|sp|CARE_Hand|sp|scrub"
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand masks",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-dloni/maseczki-do-rak/130503",
     "file_name": "Poland_DOUGLAS_PL_BODY_HAND|sp|CARE_Hand|sp|masks"
@@ -1160,8 +1160,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "HAND CARE",
-    "page": "HAND CARE",
+    "category": "Handcare",
+    "page": "Handcare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-dloni/1305",
     "file_name": "Poland_DOUGLAS_PL_BODY_HAND|sp|CARE_HAND|sp|CARE"
   },
@@ -1171,8 +1171,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Foot Care",
-    "page": "FOOT CARE",
+    "category": "Footcare",
+    "page": "Footcare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/1307",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot creams",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/kremy-do-stop/130701",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_Foot|sp|creams"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot scrub",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/peeling-do-stop/130703",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_Foot|sp|scrub"
@@ -1204,8 +1204,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "Foot Care",
-    "page": "FOOT CARE",
+    "category": "Footcare",
+    "page": "Footcare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-stop/1307",
     "file_name": "Poland_DOUGLAS_PL_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -1215,8 +1215,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "NAIL CARE",
-    "page": "NAIL CARE",
+    "category": "Nailcare",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-paznokci/1306",
     "file_name": "Poland_DOUGLAS_PL_BODY_NAIL|sp|CARE_NAIL|sp|CARE"
   },
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Oils and sticks for nails",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-paznokci/sztyfty-do-paznokci/130601",
     "file_name": "Poland_DOUGLAS_PL_BODY_NAIL|sp|CARE_Oils|sp|and|sp|sticks|sp|for|sp|nails"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Nail files",
     "page_url": "https://www.douglas.pl/",
     "file_name": "Poland_DOUGLAS_PL_BODY_NAIL|sp|CARE_Nail|sp|files"
@@ -1248,8 +1248,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "NAIL CARE",
-    "page": "NAIL CARE",
+    "category": "Nailcare",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.pl/pl/c/cialo/pielegnacja-paznokci/1306",
     "file_name": "Poland_DOUGLAS_PL_BODY_NAIL|sp|CARE_NAIL|sp|CARE"
   },
@@ -1259,8 +1259,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "EPILATION",
-    "page": "EPILATION",
+    "category": "Epilation",
+    "page": "Epilation",
     "page_url": "https://www.douglas.pl/pl/c/cialo/depilacja-i-golenie/1303",
     "file_name": "Poland_DOUGLAS_PL_BODY_EPILATION_EPILATION"
   },
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "EPILATION",
+    "category": "Epilation",
     "page": "Shavers and epilators",
     "page_url": "https://www.douglas.pl/pl/c/cialo/depilacja-i-golenie/golarki-i-depilatory/130301",
     "file_name": "Poland_DOUGLAS_PL_BODY_EPILATION_Shavers|sp|and|sp|epilators"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "EPILATION",
+    "category": "Epilation",
     "page": "Depilatory creams",
     "page_url": "https://www.douglas.pl/pl/c/cialo/depilacja-i-golenie/kremy-i-pianki-do-golenia/130302",
     "file_name": "Poland_DOUGLAS_PL_BODY_EPILATION_Depilatory|sp|creams"
@@ -1292,8 +1292,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Body",
-    "category": "EPILATION",
-    "page": "EPILATION",
+    "category": "Epilation",
+    "page": "Epilation",
     "page_url": "https://www.douglas.pl/pl/c/cialo/depilacja-i-golenie/1303",
     "file_name": "Poland_DOUGLAS_PL_BODY_EPILATION_EPILATION"
   },
@@ -1304,7 +1304,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/14",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR_HAIR"
   },
@@ -1315,7 +1315,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/1401",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1359,7 +1359,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/pielegnacja-wlosow/1401",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1424,8 +1424,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "DEVICES FOR STYLING",
-    "page": "DEVICES FOR STYLING",
+    "category": "Styling Devices",
+    "page": "Styling Devices",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/urzadzenia-do-stylizacji/1403",
     "file_name": "Poland_DOUGLAS_PL_HAIR_DEVICES|sp|FOR|sp|STYLING_DEVICES|sp|FOR|sp|STYLING"
   },
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "DEVICES FOR STYLING",
+    "category": "Styling Devices",
     "page": "Straighteners",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/urzadzenia-do-stylizacji/prostownice/140301",
     "file_name": "Poland_DOUGLAS_PL_HAIR_DEVICES|sp|FOR|sp|STYLING_Straighteners"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "DEVICES FOR STYLING",
+    "category": "Styling Devices",
     "page": "MODELING BRUSHES",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/urzadzenia-do-stylizacji/szczotki-modelujace/140305",
     "file_name": "Poland_DOUGLAS_PL_HAIR_DEVICES|sp|FOR|sp|STYLING_MODELING|sp|BRUSHES"
@@ -1457,8 +1457,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "DEVICES FOR STYLING",
-    "page": "DEVICES FOR STYLING",
+    "category": "Styling Devices",
+    "page": "Styling Devices",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/urzadzenia-do-stylizacji/1403",
     "file_name": "Poland_DOUGLAS_PL_HAIR_DEVICES|sp|FOR|sp|STYLING_DEVICES|sp|FOR|sp|STYLING"
   },
@@ -1468,8 +1468,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR DYEING",
-    "page": "HAIR DYEING",
+    "category": "Hair Dyeing",
+    "page": "Hair Dyeing",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/farbowanie-wlosow/1405",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|DYEING_HAIR|sp|DYEING"
   },
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR DYEING",
+    "category": "Hair Dyeing",
     "page": "Hair toners",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/farbowanie-wlosow/tonery-do-wlosow/140501",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|DYEING_Hair|sp|toners"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR DYEING",
+    "category": "Hair Dyeing",
     "page": "Hair dyes",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/farbowanie-wlosow/farby-do-wlosow/140502",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|DYEING_Hair|sp|dyes"
@@ -1501,8 +1501,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR DYEING",
-    "page": "HAIR DYEING",
+    "category": "Hair Dyeing",
+    "page": "Hair Dyeing",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/farbowanie-wlosow/1405",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|DYEING_HAIR|sp|DYEING"
   },
@@ -1512,8 +1512,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/akcesoria-do-wlosow/1406",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Hair elastics",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/akcesoria-do-wlosow/gumki-do-wlosow/140602",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|ACCESSORIES_Hair|sp|elastics"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Clasps and hairpins",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/akcesoria-do-wlosow/klamry-i-spinki-do-wlosow/140603",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|ACCESSORIES_Clasps|sp|and|sp|hairpins"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Hair bands",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/akcesoria-do-wlosow/opaski-do-wlosow/140604",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|ACCESSORIES_Hair|sp|bands"
@@ -1556,8 +1556,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/akcesoria-do-wlosow/1406",
     "file_name": "Poland_DOUGLAS_PL_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Hair",
     "category": "Men",
-    "page": "hair care",
+    "page": "Haircare",
     "page_url": "https://www.douglas.pl/pl/c/wlosy/dla-mezczyzn/pielegnacja-wlosow/140803",
     "file_name": "Poland_DOUGLAS_PL_HAIR_MEN_hair|sp|care"
   },
@@ -1621,9 +1621,9 @@
     "retailer": "DOUGLAS_PL",
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
-    "department": "Drug Store",
-    "category": "Drug Store",
-    "page": "Drug Store",
+    "department": "Drugstore",
+    "category": "Drugstore",
+    "page": "Drugstore",
     "page_url": "https://www.douglas.pl/pl/c/drogeria/81",
     "file_name": "Poland_DOUGLAS_PL_DRUGSTORE_DRUGSTORE_DRUGSTORE"
   },
@@ -1633,8 +1633,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/15",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -1644,8 +1644,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "GALLANTRY",
-    "page": "GALLANTRY",
+    "category": "Gallantry",
+    "page": "Gallantry",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/galanteria/1501",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_GALLANTRY_GALLANTRY"
   },
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "GALLANTRY",
+    "category": "Gallantry",
     "page": "Beauticians",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/galanteria/kosmetyczki/150107",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_GALLANTRY_Beauticians"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "GALLANTRY",
+    "category": "Gallantry",
     "page": "Shoulder bags",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/galanteria/torby-na-ramie/150103",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_GALLANTRY_Shoulder|sp|bags"
@@ -1677,8 +1677,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "GALLANTRY",
-    "page": "GALLANTRY",
+    "category": "Gallantry",
+    "page": "Gallantry",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/galanteria/1501",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_GALLANTRY_GALLANTRY"
   },
@@ -1688,8 +1688,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/1502",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/naszyjniki/150202",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Necklaces"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Earrings",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/kolczyki/150203",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Earrings"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Rings",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/pierscionki/150204",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Rings"
@@ -1732,8 +1732,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/bizuteria/1502",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -1743,8 +1743,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "SALON",
-    "page": "SALON",
+    "category": "Salon",
+    "page": "Salon",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/salon/1505",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_SALON_SALON"
   },
@@ -1754,7 +1754,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "SALON",
+    "category": "Salon",
     "page": "Candles",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/salon/swieczki/150502",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_SALON_Candles"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "SALON",
+    "category": "Salon",
     "page": "Fragrance diffusers",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/salon/dyfuzory-zapachowe/150503",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_SALON_Fragrance|sp|diffusers"
@@ -1776,8 +1776,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "SALON",
-    "page": "SALON",
+    "category": "Salon",
+    "page": "Salon",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/salon/1505",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_SALON_SALON"
   },
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "SALON",
+    "category": "Salon",
     "page": "Side tables",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/salon/stoliki-boczne/150509",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_SALON_Side|sp|tables"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Home & Lifestyle",
-    "category": "SALON",
+    "category": "Salon",
     "page": "VASES",
     "page_url": "https://www.douglas.pl/pl/c/home-lifestyle/salon/wazony/150508",
     "file_name": "Poland_DOUGLAS_PL_HOME|sp||as||sp|LIFESTYLE_SALON_VASES"
@@ -1864,8 +1864,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "OFFER OF THE MONTH",
-    "page": "OFFER OF THE MONTH",
+    "category": "Offers of the Month",
+    "page": "Offers of the Month",
     "page_url": "https://www.douglas.pl/pl/c/promocje/oferta-miesiaca/0529",
     "file_name": "Poland_DOUGLAS_PL_SALE_OFFER|sp|OF|sp|THE|sp|MONTH_OFFER|sp|OF|sp|THE|sp|MONTH"
   },
@@ -1875,8 +1875,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "PRICES YOU WILL LOVE",
-    "page": "PRICES YOU WILL LOVE",
+    "category": "Prices you will Love",
+    "page": "Prices you will Love",
     "page_url": "https://www.douglas.pl/pl/c/beauty-inspiration/85",
     "file_name": "Poland_DOUGLAS_PL_SALE_PRICES|sp|YOU|sp|WILL|sp|LOVE_PRICES|sp|YOU|sp|WILL|sp|LOVE"
   },
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "Womens Perfume",
+    "category": "Womens Perfumes",
     "page": "WOMEN'S PERFUME",
     "page_url": "https://www.douglas.pl/pl/c/promocje/perfumy/0501",
     "file_name": "Poland_DOUGLAS_PL_SALE_WOMEN|sq|S|sp|PERFUME_WOMEN|sq|S|sp|PERFUME"
@@ -1931,7 +1931,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.pl/pl/c/promocje/cialo/0504",
     "file_name": "Poland_DOUGLAS_PL_SALE_BODY_BODY"
   },
@@ -1942,7 +1942,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.pl/pl/c/promocje/wlosy/0512",
     "file_name": "Poland_DOUGLAS_PL_SALE_HAIR_HAIR"
   },
@@ -1952,8 +1952,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "Sale",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.pl/pl/c/promocje/home-lifestyle/0515",
     "file_name": "Poland_DOUGLAS_PL_SALE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -1974,8 +1974,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "CONSCIOUS BEAUTY",
-    "page": "CONSCIOUS BEAUTY",
+    "category": "Conscious Beauty",
+    "page": "Conscious Beauty",
     "page_url": "https://www.douglas.pl/pl/c/sustainable-packaging/wybierz-refill/6701",
     "file_name": "Poland_DOUGLAS_PL_NEWS_CONSCIOUS|sp|BEAUTY_CONSCIOUS|sp|BEAUTY"
   },
@@ -1985,8 +1985,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
-    "category": "OVER 6000 NEW PRODUCTS",
-    "page": "OVER 6000 NEW PRODUCTS",
+    "category": "New Products",
+    "page": "New Products",
     "page_url": "https://www.douglas.pl/pl/c/tysiace-nowosci/46",
     "file_name": "Poland_DOUGLAS_PL_NEWS_OVER|sp|6000|sp|NEW|sp|PRODUCTS_OVER|sp|6000|sp|NEW|sp|PRODUCTS"
   },
@@ -2030,7 +2030,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/cialo/0913",
     "file_name": "Poland_DOUGLAS_PL_NEWS_BODY_BODY"
   },
@@ -2041,7 +2041,7 @@
     "gcloud_path": "crawl_data/Poland/Douglas_PL/",
     "department": "New",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.pl/pl/c/nowosci/wlosy/0904",
     "file_name": "Poland_DOUGLAS_PL_NEWS_HAIR_HAIR"
   }

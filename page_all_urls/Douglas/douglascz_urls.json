@@ -4,7 +4,7 @@
     "retailer": "DOUGLAS_CZ",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Giorgio Armani",
     "page": "Giorgio Armani",
     "page_url": "https://www.douglas.cz/b/giorgio-armani-410014/",
@@ -15,7 +15,7 @@
     "retailer": "DOUGLAS_CZ",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Lancome",
     "page": "Lancome",
     "page_url": "https://www.douglas.cz/b/lancome-410114/",
@@ -26,18 +26,7 @@
     "retailer": "DOUGLAS_CZ",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
-    "category": "Sisley",
-    "page": "Sisley",
-    "page_url": "https://www.douglas.cz/b/sisley-410415/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BRANDS_Sisley_Sisley"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "DIOR",
     "page": "DIOR",
     "page_url": "https://www.douglas.cz/b/dior-410690/",
@@ -48,7 +37,7 @@
     "retailer": "DOUGLAS_CZ",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "La Mer",
     "page": "La Mer",
     "page_url": "https://www.douglas.cz/b/la-mer-410899/",
@@ -59,7 +48,7 @@
     "retailer": "DOUGLAS_CZ",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Jo Malone London",
     "page": "Jo Malone London",
     "page_url": "https://www.douglas.cz/b/jo-malone-london-411016/",
@@ -70,22 +59,11 @@
     "retailer": "DOUGLAS_CZ",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Tom Ford",
     "page": "Tom Ford",
     "page_url": "https://www.douglas.cz/b/tom-ford-411161/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BRANDS_Tom|sp|Ford_Tom|sp|Ford"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "BRANDS",
-    "category": "Sensai",
-    "page": "Sensai",
-    "page_url": "https://www.douglas.cz/b/sensai-415700/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BRANDS_Sensai_Sensai"
   },
   {
     "country": "Czech Republic",
@@ -182,7 +160,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
     "category": "Womens Perfumes",
-    "page": "Sady",
+    "page": "Sets",
     "page_url": "https://www.douglas.cz/c/parfemy/damske-parfemy/sady-40010111/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_WOMEN|sq|S|sp|PERFUMES_Sady"
   },
@@ -248,7 +226,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
     "category": "Mens Perfumes",
-    "page": "Sady",
+    "page": "Sets",
     "page_url": "https://www.douglas.cz/c/parfemy/panske-parfemy/sady-40010212/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_MEN|sq|S|sp|PERFUMES_Sady"
   },
@@ -313,8 +291,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
-    "page": "Scent",
+    "category": "Scents",
+    "page": "Scents",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune-419998032/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_KIND|sp|OF|sp|SCENT"
   },
@@ -324,7 +302,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Musk scent",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/pizmove-vune-419998033/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Musk|sp|scent"
@@ -335,7 +313,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Vanilla scent",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/vanilkove-vune-419998034/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Vanilla|sp|scent"
@@ -346,7 +324,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Floral scent",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/kvetinove-vune-419998035/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Floral|sp|scent"
@@ -357,7 +335,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Oriental scent",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/orientalni-vune-419998036/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Oriental|sp|scent"
@@ -368,7 +346,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Fresh scent",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/svezi-vune-419998037/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Fresh|sp|scent"
@@ -379,7 +357,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Fruity aroma",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/ovocne-vune-419998038/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Fruity|sp|aroma"
@@ -390,7 +368,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Spicy aroma",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/korenene-vune-419998039/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Spicy|sp|aroma"
@@ -401,7 +379,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Woody scent",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/drevite-vune-419998040/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Woody|sp|scent"
@@ -412,7 +390,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Powdered scents",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/pudrove-vune-419998041/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Powdered|sp|scents"
@@ -423,7 +401,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Perfumes",
-    "category": "Scent",
+    "category": "Scents",
     "page": "Amber scents",
     "page_url": "https://www.douglas.cz/c/parfemy/druh-vune/ambrove-vune-419998042/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_PERFUMES_KIND|sp|OF|sp|SCENT_Amber|sp|scents"
@@ -435,7 +413,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.cz/c/oblicej-419998090/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE_FACE"
   },
@@ -445,8 +423,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
-    "page": "Face Care",
+    "category": "Facecare",
+    "page": "Facecare",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej-419998091/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_FACE|sp|CARE"
   },
@@ -456,7 +434,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Skin creams",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/pletove-kremy-419998102/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Skin|sp|creams"
@@ -467,7 +445,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Anti-aging",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/anti-aging-419998103/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Anti|h|aging"
@@ -478,7 +456,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Day care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/denni-pece-419998104/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Day|sp|care"
@@ -489,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Night care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/nocni-pece-419998105/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Night|sp|care"
@@ -500,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Face Masks",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/masky-na-oblicej-419998106/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Face|sp|masks"
@@ -511,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "CC and BB creams",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/cc-a-bb-kremy-419998107/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_CC|sp|and|sp|BB|sp|creams"
@@ -522,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Face oils",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/oleje-na-oblicej-419998108/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Face|sp|oils"
@@ -533,7 +511,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Face sprays",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/spreje-na-oblicej-419998109/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Face|sp|sprays"
@@ -544,7 +522,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Neck and cleavage",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/krk-a-dekolt-419998110/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Neck|sp|and|sp|cleavage"
@@ -555,7 +533,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Skin creams with SPF",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/pletove-kremy-s-spf-419998111/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Skin|sp|creams|sp|with|sp|SPF"
@@ -566,7 +544,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "Face care kits",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej/sady-pece-o-oblicej-419998112/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_Face|sp|care|sp|kits"
@@ -577,7 +555,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Face Care",
+    "category": "Facecare",
     "page": "All categories",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oblicej-419998091/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FACE|sp|CARE_All|sp|categories"
@@ -588,8 +566,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Eye Care",
-    "page": "Eye Care",
+    "category": "Eyecare",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oci-a-ocni-okoli-419998092/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_EYE|sp|AND|sp|EYE|sp|AREA|sp|CARE_EYE|sp|AND|sp|EYE|sp|AREA|sp|CARE"
   },
@@ -599,7 +577,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye creams",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oci-a-ocni-okoli/ocni-kremy-419998113/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_EYE|sp|AND|sp|EYE|sp|AREA|sp|CARE_Eye|sp|creams"
@@ -610,7 +588,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eyelash serum",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oci-a-ocni-okoli/sera-na-rasy-419998114/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_EYE|sp|AND|sp|EYE|sp|AREA|sp|CARE_Eyelash|sp|serum"
@@ -621,7 +599,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye serums",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oci-a-ocni-okoli/ocni-sera-419998115/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_EYE|sp|AND|sp|EYE|sp|AREA|sp|CARE_Eye|sp|serums"
@@ -632,7 +610,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye gels",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oci-a-ocni-okoli/ocni-gely-419998116/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_EYE|sp|AND|sp|EYE|sp|AREA|sp|CARE_Eye|sp|gels"
@@ -643,7 +621,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye masks and pillows",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-oci-a-ocni-okoli/ocni-masky-a-polstarky-419998117/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_EYE|sp|AND|sp|EYE|sp|AREA|sp|CARE_Eye|sp|masks|sp|and|sp|pillows"
@@ -654,8 +632,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
-    "page": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
+    "page": "Cleanser & Make Up Removers",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani-419998093/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL"
   },
@@ -665,7 +643,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Face toners",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/tonery-na-oblicej-419998118/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Face|sp|toners"
@@ -676,7 +654,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Cleansing foams for the skin",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/cistici-peny-na-plet-419998119/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Cleansing|sp|foams|sp|for|sp|the|sp|skin"
@@ -687,8 +665,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
-    "page": "Make Up Removers",
+    "category": "Cleanser & Make Up Removers",
+    "page": "Make Up Remover",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/odlicovace-419998120/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Make|h|up|sp|removers"
   },
@@ -698,7 +676,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Face scrubs",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/peelingy-na-oblicej-419998121/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Face|sp|scrubs"
@@ -709,7 +687,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Skin cleansing gels",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/cistici-gely-na-plet-419998122/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Skin|sp|cleansing|sp|gels"
@@ -720,7 +698,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Face soaps",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/mydla-na-oblicej-419998123/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Face|sp|soaps"
@@ -731,7 +709,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Cleansing oils for the skin",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/cistici-oleje-na-plet-419998124/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Cleansing|sp|oils|sp|for|sp|the|sp|skin"
@@ -742,7 +720,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Cleansing lotions",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/cistici-pletova-mleka-419998125/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Cleansing|sp|lotions"
@@ -753,7 +731,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Cleansing creams for the skin",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/cistici-kremy-na-plet-419998126/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Cleansing|sp|creams|sp|for|sp|the|sp|skin"
@@ -764,7 +742,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Lotions",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/pletove-vody-419998127/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Lotions"
@@ -775,7 +753,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "Micellar waters",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani/micelarni-vody-419998128/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_Micellar|sp|waters"
@@ -786,7 +764,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "Cleaning & Make Up Removal",
+    "category": "Cleanser & Make Up Removers",
     "page": "All categories",
     "page_url": "https://www.douglas.cz/c/oblicej/cisteni-a-odlicovani-419998093/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CLEANING|sp|AND|sp|MAKE|h|UP|sp|REMOVAL_All|sp|categories"
@@ -995,8 +973,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "SUNBATHING",
-    "page": "SUNBATHING",
+    "category": "Sun Bathing",
+    "page": "Sun Bathing",
     "page_url": "https://www.douglas.cz/c/oblicej/opalovani-419998096/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_SUNBATHING_SUNBATHING"
   },
@@ -1006,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Sunscreens for the face",
     "page_url": "https://www.douglas.cz/c/oblicej/opalovani/opalovaci-kremy-na-oblicej-419998146/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_SUNBATHING_Sunscreens|sp|for|sp|the|sp|face"
@@ -1017,7 +995,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanning face creams",
     "page_url": "https://www.douglas.cz/c/oblicej/opalovani/samoopalovaci-kremy-na-oblicej-419998147/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_SUNBATHING_Self|h|tanning|sp|face|sp|creams"
@@ -1028,8 +1006,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "FOR MEN",
-    "page": "FOR MEN",
+    "category": "For Men",
+    "page": "For Men",
     "page_url": "https://www.douglas.cz/c/oblicej/pro-muze-419998097/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FOR|sp|MEN_FOR|sp|MEN"
   },
@@ -1039,7 +1017,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Face",
     "page_url": "https://www.douglas.cz/c/oblicej/pro-muze/oblicej-419998148/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FOR|sp|MEN_Face"
@@ -1050,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Men's shaving",
     "page_url": "https://www.douglas.cz/c/oblicej/pro-muze/panske-holeni-419998149/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FOR|sp|MEN_Men|sq|s|sp|shaving"
@@ -1061,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Skin cleansing for men",
     "page_url": "https://www.douglas.cz/c/oblicej/pro-muze/cisteni-pleti-pro-muze-419998150/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FOR|sp|MEN_Skin|sp|cleansing|sp|for|sp|men"
@@ -1072,8 +1050,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "FOR MEN",
-    "page": "Beard care",
+    "category": "For Men",
+    "page": "Beard Care",
     "page_url": "https://www.douglas.cz/c/oblicej/pro-muze/pece-o-vousy-419998151/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FOR|sp|MEN_Beard|sp|care"
   },
@@ -1083,8 +1061,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "FOR MEN",
-    "page": "Sady",
+    "category": "For Men",
+    "page": "Sets",
     "page_url": "https://www.douglas.cz/c/oblicej/pro-muze/sady-419998152/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_FOR|sp|MEN_Sady"
   },
@@ -1095,7 +1073,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
     "category": "Lip Care",
-    "page": "LIP CARE",
+    "page": "Lip Care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-o-rty-419998098/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_LIP|sp|CARE_LIP|sp|CARE"
   },
@@ -1138,8 +1116,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCESSORIES",
-    "page": "CARE ACCESSORIES",
+    "category": "Care Accessories",
+    "page": "Care Accessories",
     "page_url": "https://www.douglas.cz/c/oblicej/doplnky-k-peci-419998099/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCESSORIES_CARE|sp|ACCESSORIES"
   },
@@ -1149,7 +1127,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCESSORIES",
+    "category": "Care Accessories",
     "page": "Skin cleansers",
     "page_url": "https://www.douglas.cz/c/oblicej/doplnky-k-peci/pristroje-na-cisteni-pleti-419998156/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCESSORIES_Skin|sp|cleansers"
@@ -1160,7 +1138,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCESSORIES",
+    "category": "Care Accessories",
     "page": "Face massage rollers",
     "page_url": "https://www.douglas.cz/c/oblicej/doplnky-k-peci/masazni-valecky-na-oblicej-419998157/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCESSORIES_Face|sp|massage|sp|rollers"
@@ -1171,8 +1149,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCORDING TO SKIN TYPE",
-    "page": "CARE ACCORDING TO SKIN TYPE",
+    "category": "Care by Skin Type",
+    "page": "Care by Skin Type",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-podle-typu-pleti-419998100/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE"
   },
@@ -1182,7 +1160,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCORDING TO SKIN TYPE",
+    "category": "Care by Skin Type",
     "page": "Dry skin care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-podle-typu-pleti/pece-o-suchou-plet-419998158/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE_Dry|sp|skin|sp|care"
@@ -1193,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCORDING TO SKIN TYPE",
+    "category": "Care by Skin Type",
     "page": "Oily skin care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-podle-typu-pleti/pece-o-mastnou-plet-419998159/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE_Oily|sp|skin|sp|care"
@@ -1204,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCORDING TO SKIN TYPE",
+    "category": "Care by Skin Type",
     "page": "Sensitive skin care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-podle-typu-pleti/pece-o-citlivou-plet-419998160/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE_Sensitive|sp|skin|sp|care"
@@ -1215,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCORDING TO SKIN TYPE",
+    "category": "Care by Skin Type",
     "page": "Problematic skin care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-podle-typu-pleti/pece-o-problematickou-plet-419998161/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE_Problematic|sp|skin|sp|care"
@@ -1226,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCORDING TO SKIN TYPE",
+    "category": "Care by Skin Type",
     "page": "Combination skin care",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-podle-typu-pleti/pece-o-smisenou-plet-419998162/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE_Combination|sp|skin|sp|care"
@@ -1237,7 +1215,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "CARE ACCORDING TO SKIN TYPE",
+    "category": "Care by Skin Type",
     "page": "Anti-aging",
     "page_url": "https://www.douglas.cz/c/oblicej/pece-podle-typu-pleti/anti-aging-419998163/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_CARE|sp|ACCORDING|sp|TO|sp|SKIN|sp|TYPE_Anti|h|aging"
@@ -1248,8 +1226,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "SADY",
-    "page": "SADY",
+    "category": "Sets",
+    "page": "Sets",
     "page_url": "https://www.douglas.cz/c/oblicej/sady-419998101/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_SADY_SADY"
   },
@@ -1259,7 +1237,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "SADY",
+    "category": "Sets",
     "page": "Face care kits",
     "page_url": "https://www.douglas.cz/c/oblicej/sady/sady-pece-o-oblicej-419998164/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_SADY_Face|sp|care|sp|kits"
@@ -1270,7 +1248,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "SADY",
+    "category": "Sets",
     "page": "Travel cosmetic sets",
     "page_url": "https://www.douglas.cz/c/oblicej/sady/cestovni-kosmeticke-sady-419998165/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_SADY_Travel|sp|cosmetic|sp|sets"
@@ -1281,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Face",
-    "category": "SADY",
+    "category": "Sets",
     "page": "Eye care kits",
     "page_url": "https://www.douglas.cz/c/oblicej/sady/sady-pece-o-oci-419998166/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_FACE_SADY_Eye|sp|care|sp|kits"
@@ -1304,7 +1282,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.cz/c/telo-419998211/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY_BODY"
   },
@@ -1314,8 +1292,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo-419998212/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -1325,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body lotions",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telova-mleka-419998213/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|lotions"
@@ -1336,7 +1314,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorants",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/deodoranty-419998214/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Deodorants"
@@ -1347,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body oils",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telove-oleje-419998215/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|oils"
@@ -1358,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body butter",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telova-masla-419998216/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|butter"
@@ -1369,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body creams",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/telove-kremy-419998217/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Body|sp|creams"
@@ -1380,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Massage and essential oils",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/masazni-a-esencialni-oleje-419998218/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Massage|sp|and|sp|essential|sp|oils"
@@ -1391,8 +1369,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "Intimate hygiene",
+    "category": "Bodycare",
+    "page": "Intimate Hygiene",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/intimni-hygiena-419998220/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Intimate|sp|hygiene"
   },
@@ -1402,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Against cellulite",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/proti-celulitide-419998222/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Against|sp|cellulite"
@@ -1413,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Neck & Decolletage Care",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-telo/pece-o-krk-a-dekolt-419998223/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_BODY|sp|CARE_Neck|sp|and|sp|decolletage|sp|care"
@@ -1523,8 +1501,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
-    "page": "SUNBATHING",
+    "category": "Sun Bathing",
+    "page": "Sun Bathing",
     "page_url": "https://www.douglas.cz/c/telo/opalovani-419998232/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_SUNBATHING"
   },
@@ -1534,7 +1512,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Sunscreen",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/kremy-na-opalovani-419998233/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Sunscreens"
@@ -1545,7 +1523,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Sunscreen sprays",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/opalovaci-spreje-419998234/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Sunscreen|sp|sprays"
@@ -1556,7 +1534,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Suntan lotions",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/opalovaci-mleka-419998235/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Suntan|sp|lotions"
@@ -1567,7 +1545,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Suntan oils",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/opalovaci-oleje-419998236/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Suntan|sp|oils"
@@ -1578,7 +1556,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanning creams",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/samoopalovaci-kremy-419998237/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Self|h|tanning|sp|creams"
@@ -1589,7 +1567,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanning sprays",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/samoopalovaci-spreje-419998238/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Self|h|tanning|sp|sprays"
@@ -1600,7 +1578,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanning milk",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/samoopalovaci-mleka-419998239/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Self|h|tanning|sp|milk"
@@ -1611,7 +1589,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanning oils",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/samoopalovaci-oleje-419998240/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Self|h|tanning|sp|oils"
@@ -1622,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "Self-tanning foams",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/samoopalovaci-peny-419998241/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_Self|h|tanning|sp|foams"
@@ -1633,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "After sun creams",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/kremy-po-opalovani-419998242/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_After|sp|sun|sp|creams"
@@ -1644,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "After sun sprays",
     "page_url": "https://www.douglas.cz/c/telo/opalovani/spreje-po-opalovani-419998243/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_After|sp|sun|sp|sprays"
@@ -1655,7 +1633,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SUNBATHING",
+    "category": "Sun Bathing",
     "page": "All categories",
     "page_url": "https://www.douglas.cz/c/telo/opalovani-419998232/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SUNBATHING_All|sp|categories"
@@ -1666,8 +1644,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOR MEN",
-    "page": "FOR MEN",
+    "category": "For Men",
+    "page": "For Men",
     "page_url": "https://www.douglas.cz/c/telo/pro-muze-419998247/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOR|sp|MEN_FOR|sp|MEN"
   },
@@ -1677,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Body care for men",
     "page_url": "https://www.douglas.cz/c/telo/pro-muze/pece-o-telo-pro-muze-419998248/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOR|sp|MEN_Body|sp|care|sp|for|sp|men"
@@ -1688,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Shower gels for men",
     "page_url": "https://www.douglas.cz/c/telo/pro-muze/sprchove-gely-pro-muze-419998249/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOR|sp|MEN_Shower|sp|gels|sp|for|sp|men"
@@ -1699,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Deodorants for men",
     "page_url": "https://www.douglas.cz/c/telo/pro-muze/deodoranty-pro-muze-419998250/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOR|sp|MEN_Deodorants|sp|for|sp|men"
@@ -1710,8 +1688,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "HAND CARE",
-    "page": "HAND CARE",
+    "category": "Handcare",
+    "page": "Handcare",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-ruce-419998251/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_HAND|sp|CARE_HAND|sp|CARE"
   },
@@ -1721,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand creams",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-ruce/kremy-na-ruce-419998252/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_HAND|sp|CARE_Hand|sp|creams"
@@ -1732,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand scrubs",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-ruce/peelingy-na-ruce-419998253/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_HAND|sp|CARE_Hand|sp|scrubs"
@@ -1743,7 +1721,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Masks on hands",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-ruce/masky-na-ruce-419998254/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_HAND|sp|CARE_Masks|sp|on|sp|hands"
@@ -1754,7 +1732,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand soaps",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-ruce/mydla-na-ruce-419998255/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_HAND|sp|CARE_Hand|sp|soaps"
@@ -1765,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Nail oils",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-ruce/oleje-na-nehty-419998256/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_HAND|sp|CARE_Nail|sp|oils"
@@ -1776,7 +1754,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand disinfection",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-ruce/dezinfekce-na-ruce-419998257/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_HAND|sp|CARE_Hand|sp|disinfection"
@@ -1787,8 +1765,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Foot Care",
-    "page": "FOOT CARE",
+    "category": "Footcare",
+    "page": "Footcare",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy-419998258/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -1798,7 +1776,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot creams",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/kremy-na-nohy-419998259/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Foot|sp|creams"
@@ -1809,7 +1787,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot sprays",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/spreje-na-nohy-419998260/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Foot|sp|sprays"
@@ -1820,7 +1798,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot masks",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/masky-na-nohy-419998261/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Foot|sp|masks"
@@ -1831,7 +1809,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Hardened skin removers",
     "page_url": "https://www.douglas.cz/c/telo/pece-o-nohy/odstranovace-ztvrdle-kuze-419998262/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_FOOT|sp|CARE_Hardened|sp|skin|sp|removers"
@@ -1842,8 +1820,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SADY",
-    "page": "SADY",
+    "category": "Sets",
+    "page": "Sets",
     "page_url": "https://www.douglas.cz/c/telo/sady-419998263/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SADY_SADY"
   },
@@ -1853,7 +1831,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SADY",
+    "category": "Sets",
     "page": "Body care kits",
     "page_url": "https://www.douglas.cz/c/telo/sady/sady-pece-o-telo-419998264/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SADY_Body|sp|care|sp|kits"
@@ -1864,7 +1842,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SADY",
+    "category": "Sets",
     "page": "Hand and nail care kits",
     "page_url": "https://www.douglas.cz/c/telo/sady/sady-pece-o-ruce-a-nehty-419998265/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SADY_Hand|sp|and|sp|nail|sp|care|sp|kits"
@@ -1875,7 +1853,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "SADY",
+    "category": "Sets",
     "page": "Bath sets",
     "page_url": "https://www.douglas.cz/c/telo/sady/koupelove-sady-419998266/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_SADY_Bath|sp|sets"
@@ -1886,8 +1864,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "CARE ACCESSORIES",
-    "page": "CARE ACCESSORIES",
+    "category": "Care Accessories",
+    "page": "Care Accessories",
     "page_url": "https://www.douglas.cz/c/telo/doplnky-k-peci-419998267/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_CARE|sp|ACCESSORIES_CARE|sp|ACCESSORIES"
   },
@@ -1897,7 +1875,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "CARE ACCESSORIES",
+    "category": "Care Accessories",
     "page": "Bottles",
     "page_url": "https://www.douglas.cz/c/telo/doplnky-k-peci/lahve-419998268/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_CARE|sp|ACCESSORIES_Bottles"
@@ -1908,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "CARE ACCESSORIES",
+    "category": "Care Accessories",
     "page": "Sleeping masks",
     "page_url": "https://www.douglas.cz/c/telo/doplnky-k-peci/masky-na-spani-419998269/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_CARE|sp|ACCESSORIES_Sleeping|sp|masks"
@@ -1919,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Body",
-    "category": "CARE ACCESSORIES",
+    "category": "Care Accessories",
     "page": "Accessories",
     "page_url": "https://www.douglas.cz/c/telo/doplnky-k-peci/doplnky-419998270/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BODY_CARE|sp|ACCESSORIES_Accessories"
@@ -1953,7 +1931,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Skin",
-    "page": "SKIN",
+    "page": "Skin",
     "page_url": "https://www.douglas.cz/c/liceni/plet-400301/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SKIN_SKIN"
   },
@@ -2338,7 +2316,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/laky-na-nehty-40030401/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|polish"
   },
@@ -2349,7 +2327,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail care",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/pece-o-nehty-40030402/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|care"
   },
@@ -2371,7 +2349,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/podkladovy-lak-na-nehty-419998021/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Nail|sp|polish"
   },
@@ -2393,7 +2371,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Gel nail polish",
+    "page": "Nail Polish Gel",
     "page_url": "https://www.douglas.cz/c/liceni/nehty/gelovy-lak-na-nehty-419998023/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_NAILS_Gel|sp|nail|sp|polish"
   },
@@ -2414,8 +2392,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
-    "page": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
+    "page": "Brushes & Applicators",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory-400307/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_BRUSHES|sp|AND|sp|APPLICATORS"
   },
@@ -2425,7 +2403,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Kabuki brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-kabuki-419997996/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Kabuki|sp|brushes"
@@ -2436,7 +2414,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Contouring brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-konturovani-419997997/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Contouring|sp|brushes"
@@ -2447,7 +2425,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Concealer brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-korektor-419997998/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Concealer|sp|brushes"
@@ -2458,7 +2436,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Liquid makeup brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-tekuty-make-up-419997999/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Liquid|sp|makeup|sp|brushes"
@@ -2469,7 +2447,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Brightening brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-rozjasnovani-419998000/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Brightening|sp|brushes"
@@ -2480,7 +2458,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Blush brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-tvarenku-419998001/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Blush|sp|brushes"
@@ -2491,7 +2469,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Powder brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-pudr-419998002/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Powder|sp|brushes"
@@ -2502,7 +2480,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Eyebrow brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-oboci-419998003/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Eyebrow|sp|brushes"
@@ -2513,7 +2491,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Eye brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-oci-419995723/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Eye|sp|brushes"
@@ -2524,7 +2502,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Lip brushes",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/stetce-na-rty-419995726/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Lip|sp|brushes"
@@ -2535,7 +2513,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "Brush sets",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory/sety-stetcu-419995729/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_Brush|sp|sets"
@@ -2546,7 +2524,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "BRUSHES AND APPLICATORS",
+    "category": "Brushes & Applicators",
     "page": "All categories",
     "page_url": "https://www.douglas.cz/c/liceni/stetce-a-aplikatory-400307/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_BRUSHES|sp|AND|sp|APPLICATORS_All|sp|categories"
@@ -2557,8 +2535,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Make Up",
-    "category": "SADY",
-    "page": "SADY",
+    "category": "Sets",
+    "page": "Sets",
     "page_url": "https://www.douglas.cz/c/liceni/sady-419994418/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_MAKEUP_SADY_SADY"
   },
@@ -2723,7 +2701,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.cz/c/vlasy-4019/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR_HAIR"
   },
@@ -2778,7 +2756,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "Sun protection",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/ochrana-vlasu-proti-slunci-419998295/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Sun|sp|protection"
   },
@@ -2844,7 +2822,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "Hair treatments",
+    "page": "Hair Treatments",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-o-vlasy/kury-na-vlasy-419997736/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|CARE_Hair|sp|treatments"
   },
@@ -2855,7 +2833,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
     "category": "Hair Styling",
-    "page": "HAIR STYLING",
+    "page": "Hair Styling",
     "page_url": "https://www.douglas.cz/c/vlasy/styling-na-vlasy-401907/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|STYLING_HAIR|sp|STYLING"
   },
@@ -2953,8 +2931,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.douglas.cz/c/vlasy/vlasove-doplnky-401908/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -2964,7 +2942,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Hair headbands",
     "page_url": "https://www.douglas.cz/c/vlasy/vlasove-doplnky/celenky-do-vlasu-419998302/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|ACCESSORIES_Hair|sp|headbands"
@@ -2975,7 +2953,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Rubber bands and headbands",
     "page_url": "https://www.douglas.cz/c/vlasy/vlasove-doplnky/gumicky-a-celenky-40190203/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|ACCESSORIES_Rubber|sp|bands|sp|and|sp|headbands"
@@ -2986,7 +2964,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Hair clips and clips",
     "page_url": "https://www.douglas.cz/c/vlasy/vlasove-doplnky/spony-a-skripce-do-vlasu-40190802/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|ACCESSORIES_Hair|sp|clips|sp|and|sp|clips"
@@ -2997,8 +2975,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR BRUSHES AND COMBS",
-    "page": "HAIR BRUSHES AND COMBS",
+    "category": "Hair Brushes & Combs",
+    "page": "Hair Brushes & Combs",
     "page_url": "https://www.douglas.cz/c/vlasy/kartace-a-hrebeny-na-vlasy-419998298/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|BRUSHES|sp|AND|sp|COMBS_HAIR|sp|BRUSHES|sp|AND|sp|COMBS"
   },
@@ -3008,7 +2986,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR BRUSHES AND COMBS",
+    "category": "Hair Brushes & Combs",
     "page": "Round hair brushes",
     "page_url": "https://www.douglas.cz/c/vlasy/kartace-a-hrebeny-na-vlasy/kulate-kartace-na-vlasy-419998299/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|BRUSHES|sp|AND|sp|COMBS_Round|sp|hair|sp|brushes"
@@ -3019,7 +2997,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR BRUSHES AND COMBS",
+    "category": "Hair Brushes & Combs",
     "page": "Detangler brushes",
     "page_url": "https://www.douglas.cz/c/vlasy/kartace-a-hrebeny-na-vlasy/detangler-kartace-419998300/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|BRUSHES|sp|AND|sp|COMBS_Detangler|sp|brushes"
@@ -3030,7 +3008,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR BRUSHES AND COMBS",
+    "category": "Hair Brushes & Combs",
     "page": "Flat hair brushes",
     "page_url": "https://www.douglas.cz/c/vlasy/kartace-a-hrebeny-na-vlasy/ploche-kartace-na-vlasy-419998301/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|BRUSHES|sp|AND|sp|COMBS_Flat|sp|hair|sp|brushes"
@@ -3041,7 +3019,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR BRUSHES AND COMBS",
+    "category": "Hair Brushes & Combs",
     "page": "Combs",
     "page_url": "https://www.douglas.cz/c/vlasy/kartace-a-hrebeny-na-vlasy/hrebeny-40190801/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|BRUSHES|sp|AND|sp|COMBS_Combs"
@@ -3052,8 +3030,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "FOR MEN",
-    "page": "FOR MEN",
+    "category": "For Men",
+    "page": "For Men",
     "page_url": "https://www.douglas.cz/c/vlasy/pro-muze-419998303/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_FOR|sp|MEN_FOR|sp|MEN"
   },
@@ -3063,7 +3041,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Shampoos for men",
     "page_url": "https://www.douglas.cz/c/vlasy/pro-muze/sampony-pro-muze-419998304/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_FOR|sp|MEN_Shampoos|sp|for|sp|men"
@@ -3074,7 +3052,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Hair styling for men",
     "page_url": "https://www.douglas.cz/c/vlasy/pro-muze/vlasovy-styling-pro-muze-419998305/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_FOR|sp|MEN_Hair|sp|styling|sp|for|sp|men"
@@ -3085,7 +3063,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "FOR MEN",
+    "category": "For Men",
     "page": "Hair care for men",
     "page_url": "https://www.douglas.cz/c/vlasy/pro-muze/pece-o-vlasy-pro-muze-419998306/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_FOR|sp|MEN_Hair|sp|care|sp|for|sp|men"
@@ -3096,8 +3074,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
-    "page": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
+    "page": "Care by Hair Type",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu-419998307/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_CARE|sp|BY|sp|HAIR|sp|TYPE"
   },
@@ -3107,7 +3085,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Oily hair care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-o-mastne-vlasy-419998308/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Oily|sp|hair|sp|care"
@@ -3118,7 +3096,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Care for fine and straight hair",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-o-jemne-a-rovne-vlasy-419998309/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Care|sp|for|sp|fine|sp|and|sp|straight|sp|hair"
@@ -3129,7 +3107,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Dry hair care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-o-suche-vlasy-419998310/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Dry|sp|hair|sp|care"
@@ -3140,7 +3118,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Damaged hair care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-o-poskozene-vlasy-419998311/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Damaged|sp|hair|sp|care"
@@ -3151,7 +3129,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Curly hair care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-o-kudrnate-vlasy-419998312/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Curly|sp|hair|sp|care"
@@ -3162,7 +3140,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Anti-frizz care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/anti-frizz-pece-419998313/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Anti|h|frizz|sp|care"
@@ -3173,7 +3151,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Colored hair care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-o-barvene-vlasy-419998314/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Colored|sp|hair|sp|care"
@@ -3184,7 +3162,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Dandruff care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-proti-lupum-419998315/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Dandruff|sp|care"
@@ -3195,7 +3173,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "CARE BY HAIR TYPE",
+    "category": "Care by Hair Type",
     "page": "Hair loss care",
     "page_url": "https://www.douglas.cz/c/vlasy/pece-podle-typu-vlasu/pece-proti-vypadavani-vlasu-419998316/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_CARE|sp|BY|sp|HAIR|sp|TYPE_Hair|sp|loss|sp|care"
@@ -3206,8 +3184,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Hair",
-    "category": "HAIR SETS",
-    "page": "HAIR SETS",
+    "category": "Hair Sets",
+    "page": "Hair Sets",
     "page_url": "https://www.douglas.cz/c/vlasy/sady-na-vlasy-419997735/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HAIR_HAIR|sp|SETS_HAIR|sp|SETS"
   },
@@ -3229,7 +3207,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Home",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://www.douglas.cz/c/home-419997511/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_HOME_HOME_HOME"
   },
@@ -3427,7 +3405,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "New",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.cz/c/novinky/vlasy-400805/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_NEWS_HAIR_HAIR"
   },
@@ -3448,8 +3426,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON PERFUMES",
-    "page": "DISCOUNT ON PERFUMES",
+    "category": "Discounts on Perfumes",
+    "page": "Discounts on Perfumes",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-parfemy-419834072/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|PERFUMES_DISCOUNT|sp|ON|sp|PERFUMES"
   },
@@ -3459,7 +3437,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON PERFUMES",
+    "category": "Discounts on Perfumes",
     "page": "Womens Fragrance",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-parfemy/damske-vune-419997217/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|PERFUMES_Women|sq|s|sp|fragrances"
@@ -3470,7 +3448,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON PERFUMES",
+    "category": "Discounts on Perfumes",
     "page": "Mens Fragrance",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-parfemy/panske-vune-419997220/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|PERFUMES_Men|sq|s|sp|fragrances"
@@ -3481,7 +3459,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON PERFUMES",
+    "category": "Discounts on Perfumes",
     "page": "Unisex scents",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-parfemy/unisexove-vune-419997223/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|PERFUMES_Unisex|sp|scents"
@@ -3492,7 +3470,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON PERFUMES",
+    "category": "Discounts on Perfumes",
     "page": "Niche scent",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-parfemy/niche-vune-419997226/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|PERFUMES_Niche|sp|scent"
@@ -3503,7 +3481,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON PERFUMES",
+    "category": "Discounts on Perfumes",
     "page": "Fragrance accessories",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-parfemy/doplnky-k-vunim-419997229/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|PERFUMES_Fragrance|sp|accessories"
@@ -3514,7 +3492,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON PERFUMES",
+    "category": "Discounts on Perfumes",
     "page": "Sets",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-parfemy/sety-419997280/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|PERFUMES_Sets"
@@ -3525,8 +3503,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON CARE",
-    "page": "DISCOUNT ON CARE",
+    "category": "Discount on Care",
+    "page": "Discount on Care",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci-400903/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|CARE_DISCOUNT|sp|ON|sp|CARE"
   },
@@ -3536,7 +3514,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON CARE",
+    "category": "Discount on Care",
     "page": "Skincare",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci/pece-o-plet-419997232/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|CARE_Skincare"
@@ -3547,8 +3525,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON CARE",
-    "page": "Body care",
+    "category": "Discount on Care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci/pece-o-telo-419997235/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|CARE_Body|sp|care"
   },
@@ -3558,7 +3536,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON CARE",
+    "category": "Discount on Care",
     "page": "Sunbathing care",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci/pece-na-opalovani-419997238/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|CARE_Sunbathing|sp|care"
@@ -3569,7 +3547,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON CARE",
+    "category": "Discount on Care",
     "page": "Care for men",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci/pece-pro-muze-419997241/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|CARE_Care|sp|for|sp|men"
@@ -3580,8 +3558,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON CARE",
-    "page": "Care accessories",
+    "category": "Discount on Care",
+    "page": "Care Accessories",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci/doplnky-k-peci-419997244/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|CARE_Care|sp|accessories"
   },
@@ -3591,7 +3569,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON CARE",
+    "category": "Discount on Care",
     "page": "Sets",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci/sety-419997283/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|CARE_Sets"
@@ -3602,8 +3580,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
-    "page": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
+    "page": "Make Up Discount",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up-419834066/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_MAKEUP|sp|DISCOUNT"
   },
@@ -3613,7 +3591,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
     "page": "Skin makeup",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/liceni-pleti-419997256/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Skin|sp|makeup"
@@ -3624,7 +3602,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
     "page": "Lip Make Up",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/liceni-rtu-419997259/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Lip|sp|makeup"
@@ -3635,7 +3613,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
     "page": "Eye Make Up",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/liceni-oci-419997262/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Eye|sp|makeup"
@@ -3646,7 +3624,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
     "page": "Eyebrow makeup",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/liceni-oboci-419997265/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Eyebrow|sp|makeup"
@@ -3657,7 +3635,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
     "page": "Nail makeup",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/liceni-nehtu-419997268/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Nail|sp|makeup"
@@ -3668,8 +3646,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
-    "page": "Brushes and applicators",
+    "category": "Make Up Discount",
+    "page": "Brushes & Applicators",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/stetce-a-aplikatory-419997271/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Brushes|sp|and|sp|applicators"
   },
@@ -3679,7 +3657,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
     "page": "Makeup accessories",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/doplnky-k-liceni-419997277/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Makeup|sp|accessories"
@@ -3690,7 +3668,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "MAKEUP DISCOUNT",
+    "category": "Make Up Discount",
     "page": "Sets",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-make-up/sety-419997274/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_MAKEUP|sp|DISCOUNT_Sets"
@@ -3701,8 +3679,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON HAIR CARE",
-    "page": "DISCOUNT ON HAIR CARE",
+    "category": "Discount on Haircare",
+    "page": "Discount on Haircare",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci-o-vlasy-400904/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|HAIR|sp|CARE_DISCOUNT|sp|ON|sp|HAIR|sp|CARE"
   },
@@ -3712,7 +3690,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON HAIR CARE",
+    "category": "Discount on Haircare",
     "page": "Haircare",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci-o-vlasy/vlasova-pece-419997247/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|HAIR|sp|CARE_Hair|sp|care"
@@ -3723,8 +3701,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON HAIR CARE",
-    "page": "Hair styling",
+    "category": "Discount on Haircare",
+    "page": "Hair Styling",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci-o-vlasy/vlasovy-styling-419997250/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|HAIR|sp|CARE_Hair|sp|styling"
   },
@@ -3734,8 +3712,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "DISCOUNT ON HAIR CARE",
-    "page": "Hair accessories",
+    "category": "Discount on Haircare",
+    "page": "Hair Accessories",
     "page_url": "https://www.douglas.cz/c/beauty-sale/sleva-na-peci-o-vlasy/vlasove-doplnky-419997253/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_DISCOUNT|sp|ON|sp|HAIR|sp|CARE_Hair|sp|accessories"
   },
@@ -3756,8 +3734,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Sale",
-    "category": "LIMITED OFFER",
-    "page": "LIMITED OFFER",
+    "category": "Limited Offer",
+    "page": "Limited Offer",
     "page_url": "https://www.douglas.cz/c/beauty-sale/limitovana-nabidka-419998369/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|SALE_LIMITED|sp|OFFER_LIMITED|sp|OFFER"
   },
@@ -3867,7 +3845,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Bestsellers",
     "category": "Care",
-    "page": "For men",
+    "page": "For Men",
     "page_url": "https://www.douglas.cz/c/bestsellery/pece/pro-muze-419997879/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_CARE_For|sp|men"
   },
@@ -3955,7 +3933,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Bestsellers",
     "category": "Make Up",
-    "page": "Brushes and applicators",
+    "page": "Brushes & Applicators",
     "page_url": "https://www.douglas.cz/c/bestsellery/liceni/stetce-a-aplikatory-419997886/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_MAKEUP_Brushes|sp|and|sp|applicators"
   },
@@ -3966,7 +3944,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Bestsellers",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.cz/c/bestsellery/vlasy-419997871/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_HAIR_HAIR"
   },
@@ -3977,7 +3955,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Bestsellers",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://www.douglas.cz/c/bestsellery/home-419997872/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BESTSELLERS_HOME_HOME"
   },
@@ -4021,7 +3999,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Clean Beauty",
     "category": "Face",
-    "page": "FACE",
+    "page": "Face",
     "page_url": "https://www.douglas.cz/c/clean-beauty/oblicej-419998457/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_CLEAN|sp|BEAUTY_FACE_FACE"
   },
@@ -4032,7 +4010,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Clean Beauty",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.cz/c/clean-beauty/telo-419998458/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_CLEAN|sp|BEAUTY_BODY_BODY"
   },
@@ -4043,7 +4021,7 @@
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Clean Beauty",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.cz/c/clean-beauty/vlasy-419998459/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_CLEAN|sp|BEAUTY_HAIR_HAIR"
   },
@@ -4064,8 +4042,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Events & Gifts",
-    "category": "PROMOTIONS AND DISCOUNTS",
-    "page": "PROMOTIONS AND DISCOUNTS",
+    "category": "Promotions & Discounts",
+    "page": "Promotions & Discounts",
     "page_url": "https://www.douglas.cz/c/akce-a-darky/akce-a-slevy-419997431/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_EVENTS|sp|AND|sp|GIFTS_PROMOTIONS|sp|AND|sp|DISCOUNTS_PROMOTIONS|sp|AND|sp|DISCOUNTS"
   },
@@ -4075,8 +4053,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Events & Gifts",
-    "category": "GIFTS TO BUY",
-    "page": "GIFTS TO BUY",
+    "category": "Gifts to Buy",
+    "page": "Gifts to Buy",
     "page_url": "https://www.douglas.cz/c/akce-a-darky/darky-k-nakupu-419997432/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_EVENTS|sp|AND|sp|GIFTS_GIFTS|sp|TO|sp|BUY_GIFTS|sp|TO|sp|BUY"
   },
@@ -4108,64 +4086,9 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
     "department": "Beauty Box",
-    "category": "GROWN ALCHEMIST",
-    "page": "GROWN ALCHEMIST",
-    "page_url": "https://www.douglas.cz/c/beauty-box/grown-alchemist-419998326/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_GROWN|sp|ALCHEMIST_GROWN|sp|ALCHEMIST"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "SISLEY",
-    "page": "SISLEY",
-    "page_url": "https://www.douglas.cz/c/beauty-box/sisley-419998397/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_SISLEY_SISLEY"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "SHISEIDO",
-    "page": "SHISEIDO",
-    "page_url": "https://www.douglas.cz/c/beauty-box/shiseido-419998437/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_SHISEIDO_SHISEIDO"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "MARIA NILA",
-    "page": "MARIA NILA",
-    "page_url": "https://www.douglas.cz/c/beauty-box/maria-nila-419998183/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_MARIA|sp|NILA_MARIA|sp|NILA"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "REVOLUTION",
-    "page": "REVOLUTION",
+    "category": "Revolution",
+    "page": "Revolution",
     "page_url": "https://www.douglas.cz/c/beauty-box/revolution-419998065/",
     "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_REVOLUTION_REVOLUTION"
-  },
-  {
-    "country": "Czech Republic",
-    "retailer": "DOUGLAS_CZ",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Czech Republic/Douglas_CZ/",
-    "department": "Beauty Box",
-    "category": "SENSAI",
-    "page": "SENSAI",
-    "page_url": "https://www.douglas.cz/c/beauty-box/sensai-419998064/",
-    "file_name": "Czech|sp|Republic_DOUGLAS_CZ_BEAUTY|sp|BOX_SENSAI_SENSAI"
   }
 ]

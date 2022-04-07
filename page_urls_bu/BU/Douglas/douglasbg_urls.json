@@ -16,8 +16,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "New",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://douglas.bg/novo?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_NEW_NEW_NEW"
   },
@@ -27,8 +27,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "New",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://douglas.bg/novo?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_NEW_NEW_NEW"
   },
@@ -38,7 +38,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "New",
-    "category": "NEW",
+    "category": "New",
     "page": "Sets",
     "page_url": "https://douglas.bg/novo/komplekti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_NEW_NEW_Sets"
@@ -49,7 +49,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "New",
-    "category": "NEW",
+    "category": "New",
     "page": "Perfumes",
     "page_url": "https://douglas.bg/novo/parfjumi?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_NEW_NEW_Perfumes"
@@ -60,7 +60,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "New",
-    "category": "NEW",
+    "category": "New",
     "page": "Makeup",
     "page_url": "https://douglas.bg/novo/grim?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_NEW_NEW_Makeup"
@@ -71,7 +71,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "New",
-    "category": "NEW",
+    "category": "New",
     "page": "Care",
     "page_url": "https://douglas.bg/novo/grizha?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_NEW_NEW_Care"
@@ -82,7 +82,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "New",
-    "category": "NEW",
+    "category": "New",
     "page": "Accessories",
     "page_url": "https://douglas.bg/novo/aksesoari?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_NEW_NEW_Accessories"
@@ -280,8 +280,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Perfumes",
-    "category": "SETS",
-    "page": "SETS",
+    "category": "Sets",
+    "page": "Sets",
     "page_url": "https://douglas.bg/parfjumi/akcenti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PERFUMES_SETS_SETS"
   },
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Perfumes",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Women's sets",
     "page_url": "https://douglas.bg/parfjumi/akcenti/damski-komplekti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PERFUMES_SETS_Women|sq|s|sp|sets"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Perfumes",
-    "category": "SETS",
+    "category": "Sets",
     "page": "Men's sets",
     "page_url": "https://douglas.bg/parfjumi/akcenti/m-zhki-komplekti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PERFUMES_SETS_Men|sq|s|sp|sets"
@@ -313,7 +313,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Perfumes",
-    "category": "SETS",
+    "category": "Sets",
     "page": "All categories",
     "page_url": "https://douglas.bg/parfjumi/akcenti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PERFUMES_SETS_All|sp|categories"
@@ -709,8 +709,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "Face Care",
-    "page": "Face Care",
+    "category": "Facecare",
+    "page": "Facecare",
     "page_url": "https://douglas.bg/vsichko-za-lice?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_FACE|sp|CARE_FACE|sp|CARE"
   },
@@ -754,7 +754,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
     "category": "FACE COSMETICS",
-    "page": "Face cleaning",
+    "page": "Face Cleansing",
     "page_url": "https://douglas.bg/vsichko-za-lice/kozmetika-za-lice/pochistvane-na-lice?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_FACE|sp|COSMETICS_Face|sp|cleaning"
   },
@@ -765,7 +765,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
     "category": "FACE COSMETICS",
-    "page": "Face mask",
+    "page": "Face Masks",
     "page_url": "https://douglas.bg/vsichko-za-lice/kozmetika-za-lice/maska-za-lice?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_FACE|sp|COSMETICS_Face|sp|mask"
   },
@@ -787,7 +787,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
     "category": "FACE COSMETICS",
-    "page": "Eye care",
+    "page": "Eyecare",
     "page_url": "https://douglas.bg/vsichko-za-lice/kozmetika-za-lice/anticelulitni?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_FACE|sp|COSMETICS_Eye|sp|care"
   },
@@ -896,8 +896,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "SUN PROTECTION",
-    "page": "SUN PROTECTION",
+    "category": "Sun Protection",
+    "page": "Sun Protection",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_SUN|sp|PROTECTION"
   },
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "Body sunscreen",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita/sl-ncezaschitni-za-tjalo?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_Body|sp|sunscreen"
@@ -918,8 +918,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "SUN PROTECTION",
-    "page": "Face sunscreen",
+    "category": "Sun Protection",
+    "page": "Face Sunscreen",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita/sl-ncezaschitni-za-lice?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_Face|sp|sunscreen"
   },
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "After sun products",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita/produkti-za-sled-sl-nce?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_After|sp|sun|sp|products"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "Self-tanners",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita/avtobronzanti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_Self|h|tanners"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "City protection",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita/gradska-zaschita?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_City|sp|protection"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "SUN PROTECTION",
+    "category": "Sun Protection",
     "page": "All categories",
     "page_url": "https://douglas.bg/vsichko-za-lice/sl-ncezaschita?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_SUN|sp|PROTECTION_All|sp|categories"
@@ -973,8 +973,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "MEN'S CARE",
-    "page": "MEN'S CARE",
+    "category": "Mens Care",
+    "page": "Mens Care",
     "page_url": "https://douglas.bg/vsichko-za-lice/m-zhka-grizha?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_MEN|sq|S|sp|CARE_MEN|sq|S|sp|CARE"
   },
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "MEN'S CARE",
+    "category": "Mens Care",
     "page": "Eye cream for men",
     "page_url": "https://douglas.bg/vsichko-za-lice/m-zhka-grizha/okoloochen-krem-za-m-zhe?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_MEN|sq|S|sp|CARE_Eye|sp|cream|sp|for|sp|men"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "MEN'S CARE",
+    "category": "Mens Care",
     "page": "Shaving Foam / Gel",
     "page_url": "https://douglas.bg/vsichko-za-lice/m-zhka-grizha/pjana?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_MEN|sq|S|sp|CARE_Shaving|sp|Foam|sp||fs||sp|Gel"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "MEN'S CARE",
+    "category": "Mens Care",
     "page": "Aging control",
     "page_url": "https://douglas.bg/vsichko-za-lice/m-zhka-grizha/kontrol-v-rhu-stareeneto?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_MEN|sq|S|sp|CARE_Aging|sp|control"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "MEN'S CARE",
+    "category": "Mens Care",
     "page": "Moisturizing cream for men",
     "page_url": "https://douglas.bg/vsichko-za-lice/m-zhka-grizha/hidratirasch-krem-za-m-zhe?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_MEN|sq|S|sp|CARE_Moisturizing|sp|cream|sp|for|sp|men"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "MEN'S CARE",
+    "category": "Mens Care",
     "page": "Washing",
     "page_url": "https://douglas.bg/vsichko-za-lice/m-zhka-grizha/izmivane?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_MEN|sq|S|sp|CARE_Washing"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Face",
-    "category": "MEN'S CARE",
+    "category": "Mens Care",
     "page": "All categories",
     "page_url": "https://douglas.bg/vsichko-za-lice/m-zhka-grizha?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_FACE|sp|CARE_MEN|sq|S|sp|CARE_All|sp|categories"
@@ -1193,10 +1193,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
-    "page": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
+    "page": "SPA & WELL-BEING",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_SPA|sp|\u0418|sp|WELL|h|BEING"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_SPA|sp|&|sp|WELL|h|BEING"
   },
   {
     "country": "Bulgaria",
@@ -1204,10 +1204,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Aroma of candles",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/aroma-sveschi?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Aroma|sp|of|sp|candles"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Aroma|sp|of|sp|candles"
   },
   {
     "country": "Bulgaria",
@@ -1215,10 +1215,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Soaps and bath",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/sapuni-i-banja?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Soaps|sp|and|sp|bath"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Soaps|sp|and|sp|bath"
   },
   {
     "country": "Bulgaria",
@@ -1226,10 +1226,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Body oils",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/masla-za-tjalo?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Body|sp|oils"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Body|sp|oils"
   },
   {
     "country": "Bulgaria",
@@ -1237,10 +1237,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "Scented sticks for the home",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being/aromatni-pr-chici-za-doma?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_Scented|sp|sticks|sp|for|sp|the|sp|home"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_Scented|sp|sticks|sp|for|sp|the|sp|home"
   },
   {
     "country": "Bulgaria",
@@ -1248,10 +1248,10 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "BODY AND SPA",
-    "category": "SPA \u0418 WELL-BEING",
+    "category": "SPA & WELL-BEING",
     "page": "All categories",
     "page_url": "https://douglas.bg/tjalo-i-spa/spa-i-well-being?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|\u0418|sp|WELL|h|BEING_All|sp|categories"
+    "file_name": "Bulgaria_DOUGLAS_BG_BODY|sp|AND|sp|SPA_SPA|sp|&|sp|WELL|h|BEING_All|sp|categories"
   },
   {
     "country": "Bulgaria",
@@ -1359,7 +1359,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://douglas.bg/kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR_HAIR"
   },
@@ -1502,7 +1502,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://douglas.bg/kosa/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1656,7 +1656,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "FOR MAN",
-    "page": "Hair care",
+    "page": "Haircare",
     "page_url": "https://douglas.bg/kosa/za-m-zhe/grizha-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_FOR|sp|MAN_Hair|sp|care"
   },
@@ -1842,8 +1842,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://douglas.bg/aksesoari/aksesoari-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Hair brushes",
     "page_url": "https://douglas.bg/aksesoari/aksesoari-za-kosa/chetki-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_HAIR|sp|ACCESSORIES_Hair|sp|brushes"
@@ -1864,7 +1864,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "All categories",
     "page_url": "https://douglas.bg/aksesoari/aksesoari-za-kosa?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_HAIR|sp|ACCESSORIES_All|sp|categories"
@@ -1875,8 +1875,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "BODY ACCESSORIES",
-    "page": "BODY ACCESSORIES",
+    "category": "Body Accessories",
+    "page": "Body Accessories",
     "page_url": "https://douglas.bg/aksesoari/aksesoari-za-tjalo?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_BODY|sp|ACCESSORIES_BODY|sp|ACCESSORIES"
   },
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "For nails",
     "page_url": "https://douglas.bg/aksesoari/aksesoari-za-tjalo/za-nokti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_BODY|sp|ACCESSORIES_For|sp|nails"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "Body sponges",
     "page_url": "https://douglas.bg/aksesoari/aksesoari-za-tjalo/g-bi-za-tjalo?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_BODY|sp|ACCESSORIES_Body|sp|sponges"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "All categories",
     "page_url": "https://douglas.bg/aksesoari/aksesoari-za-tjalo?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_BODY|sp|ACCESSORIES_All|sp|categories"
@@ -2011,16 +2011,5 @@
     "page": "Mens Perfumes",
     "page_url": "https://douglas.bg/promocii/m-zhki-parfjumi?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_MEN|sq|S|sp|PERFUMES"
-  },
-  {
-    "country": "Bulgaria",
-    "retailer": "DOUGLAS_BG",
-    "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
-    "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
-    "department": "8TH OF MARCH",
-    "category": "8TH OF MARCH",
-    "page": "8TH OF MARCH",
-    "page_url": "https://douglas.bg/8-mart?product_list_limit=72",
-    "file_name": "Bulgaria_DOUGLAS_BG_8TH|sp|OF|sp|MARCH_8TH|sp|OF|sp|MARCH_8TH|sp|OF|sp|MARCH"
   }
 ]

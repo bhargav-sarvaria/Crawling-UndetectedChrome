@@ -4,7 +4,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Clinique",
     "page": "Clinique",
     "page_url": "https://www.douglas.ro/b/clinique/",
@@ -15,7 +15,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "DIOR",
     "page": "DIOR",
     "page_url": "https://www.douglas.ro/b/dior/",
@@ -26,7 +26,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Estee Lauder",
     "page": "Estee Lauder",
     "page_url": "https://www.douglas.ro/b/estee-lauder/",
@@ -37,7 +37,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Armani",
     "page": "Armani",
     "page_url": "https://www.douglas.ro/b/armani/",
@@ -48,7 +48,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Givenchy",
     "page": "Givenchy",
     "page_url": "https://www.douglas.ro/b/givenchy/",
@@ -59,7 +59,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "La Prairie",
     "page": "La Prairie",
     "page_url": "https://www.douglas.ro/b/la-prairie/",
@@ -70,7 +70,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Lancome",
     "page": "Lancome",
     "page_url": "https://www.douglas.ro/b/lancome/",
@@ -81,7 +81,7 @@
     "retailer": "DOUGLAS_RO",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "BRANDS",
+    "department": "Brands",
     "category": "Sheriff",
     "page": "Sheriff",
     "page_url": "https://www.douglas.ro/b/xerjoff/",
@@ -138,7 +138,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Perfumes",
     "category": "Womens Perfumes",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.ro/c/parfumuri/parfumuri-dama/ingrijire-corporala/",
     "file_name": "Romania_DOUGLAS_RO_PERFUMERY_LADIES|sq||sp|PERFUMES_Body|sp|care"
   },
@@ -270,7 +270,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Perfumes",
     "category": "Mens Perfumes",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.ro/c/parfumuri/parfumuri-barbati/ingrijire-corporala/",
     "file_name": "Romania_DOUGLAS_RO_PERFUMERY_MEN|sq|S|sp|PERFUMES_Body|sp|care"
   },
@@ -457,7 +457,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.ro/c/make-up/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_MAKE|sp|UP_MAKE|sp|UP"
   },
@@ -820,7 +820,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://www.douglas.ro/c/make-up/unghii/lac-de-unghii/",
     "file_name": "Romania_DOUGLAS_RO_MAKE|sp|UP_NAILS_Nail|sp|polish"
   },
@@ -1248,8 +1248,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "NATURAL COSMETICS",
-    "page": "NATURAL COSMETICS",
+    "category": "Natural Cosmetics",
+    "page": "Natural Cosmetics",
     "page_url": "https://www.douglas.ro/c/ten/cosmetice-naturale/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_NATURAL|sp|COSMETICS_NATURAL|sp|COSMETICS"
   },
@@ -1259,8 +1259,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "DERMATOCOSMETICS",
-    "page": "DERMATOCOSMETICS",
+    "category": "DermatoCosmetics",
+    "page": "DermatoCosmetics",
     "page_url": "https://www.douglas.ro/c/ten/dermatocosmetice/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_DERMATOCOSMETICS_DERMATOCOSMETICS"
   },
@@ -1369,8 +1369,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
-    "page": "EYE CARE",
+    "category": "Eyecare",
+    "page": "Eyecare",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_EYE|sp|CARE"
   },
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye cream",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/crema-de-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|cream"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye serum",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/ser-pentru-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|serum"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye gel",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/gel-pentru-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|gel"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye Masks & Patches",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/masti-patches-pentru-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|Masks|sp||as||sp|Patches"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eyebrow serum",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/ser-sprancene/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eyebrow|sp|serum"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eyelash serum",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/ser-pentru-gene/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eyelash|sp|serum"
@@ -1446,7 +1446,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "Eye Care",
+    "category": "Eyecare",
     "page": "Eye lenses",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-ochilor/lentile-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_EYE|sp|CARE_Eye|sp|lenses"
@@ -1458,7 +1458,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
     "category": "Lip Care",
-    "page": "LIP CARE",
+    "page": "Lip Care",
     "page_url": "https://www.douglas.ro/c/ten/ingrijirea-buzelor/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_LIP|sp|CARE_LIP|sp|CARE"
   },
@@ -1501,8 +1501,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
-    "page": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
+    "page": "Skin Cleansing",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_SKIN|sp|CLEANSING"
   },
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Cleansing",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/demachiant/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Cleansing"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Cleaning foam",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/spuma-de-curatare/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Cleaning|sp|foam"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Cleansing gel",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/gel-de-curatare/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Cleansing|sp|gel"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Face soap",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/sapun-pentru-fata/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Face|sp|soap"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Cleansing milk",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/lapte-demachiant/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Cleansing|sp|milk"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Cleansing oil",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/ulei-demachiant/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Cleansing|sp|oil"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Cleansing cream",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/crema-de-curatare/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Cleansing|sp|cream"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Exfoliating face",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/exfoliere-fata/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Exfoliating|sp|face"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Micellar water",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/apa-micelara/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Micellar|sp|water"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CLEANSING",
+    "category": "Skin Cleansing",
     "page": "Tonic lotion",
     "page_url": "https://www.douglas.ro/c/ten/curatarea-tenului/lotiune-tonica/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CLEANSING_Tonic|sp|lotion"
@@ -1622,8 +1622,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SERUMS FOR THE GIRL",
-    "page": "SERUMS FOR THE GIRL",
+    "category": "Serums for Girls",
+    "page": "Serums for Girls",
     "page_url": "https://www.douglas.ro/c/ten/seruri-pentru-fata/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SERUMS|sp|FOR|sp|THE|sp|GIRL_SERUMS|sp|FOR|sp|THE|sp|GIRL"
   },
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SERUMS FOR THE GIRL",
+    "category": "Serums for Girls",
     "page": "Be moisturizing",
     "page_url": "https://www.douglas.ro/c/ten/seruri-pentru-fata/ser-hidratant/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SERUMS|sp|FOR|sp|THE|sp|GIRL_Be|sp|moisturizing"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SERUMS FOR THE GIRL",
+    "category": "Serums for Girls",
     "page": "Be vitamin C",
     "page_url": "https://www.douglas.ro/c/ten/seruri-pentru-fata/ser-vitamina-c/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SERUMS|sp|FOR|sp|THE|sp|GIRL_Be|sp|vitamin|sp|C"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SERUMS FOR THE GIRL",
+    "category": "Serums for Girls",
     "page": "Serum with hyaluronic acid",
     "page_url": "https://www.douglas.ro/c/ten/seruri-pentru-fata/ser-cu-acid-hialuronic/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SERUMS|sp|FOR|sp|THE|sp|GIRL_Serum|sp|with|sp|hyaluronic|sp|acid"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SERUMS FOR THE GIRL",
+    "category": "Serums for Girls",
     "page": "AMPOULES",
     "page_url": "https://www.douglas.ro/c/ten/seruri-pentru-fata/fiole/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SERUMS|sp|FOR|sp|THE|sp|GIRL_AMPOULES"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SERUMS FOR THE GIRL",
+    "category": "Serums for Girls",
     "page": "Be anti-aging",
     "page_url": "https://www.douglas.ro/c/ten/seruri-pentru-fata/ser-anti-age/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SERUMS|sp|FOR|sp|THE|sp|GIRL_Be|sp|anti|h|aging"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SERUMS FOR THE GIRL",
+    "category": "Serums for Girls",
     "page": "Ser collagen",
     "page_url": "https://www.douglas.ro/c/ten/seruri-pentru-fata/ser-colagen/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SERUMS|sp|FOR|sp|THE|sp|GIRL_Ser|sp|collagen"
@@ -1699,8 +1699,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
-    "page": "GIRL MASKS",
+    "category": "Girls Masks",
+    "page": "Girls Masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_GIRL|sp|MASKS"
   },
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Moisturizing masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masti-hidratante/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Moisturizing|sp|masks"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Skin cleansing mask",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masca-pentru-curatarea-tenului/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Skin|sp|cleansing|sp|mask"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Anti-aging mask",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masca-anti-imbatranire/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Anti|h|aging|sp|mask"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Eye masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masti-pentru-ochi/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Eye|sp|masks"
@@ -1754,7 +1754,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Activated carbon masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masti-cu-carbune-activ/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Activated|sp|carbon|sp|masks"
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Paper face masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masti-de-fata-din-hartie/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Paper|sp|face|sp|masks"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Mud masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masti-cu-namol/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Mud|sp|masks"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Glow Mask",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/glow-masca/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Glow|sp|Mask"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Black dot masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masti-puncte-negre/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Black|sp|dot|sp|masks"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "GIRL MASKS",
+    "category": "Girls Masks",
     "page": "Basket masks",
     "page_url": "https://www.douglas.ro/c/ten/masti-de-fata/masti-pentru-cosuri/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_GIRL|sp|MASKS_Basket|sp|masks"
@@ -1820,8 +1820,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SOLAR",
-    "page": "SOLAR",
+    "category": "Solar",
+    "page": "Solar",
     "page_url": "https://www.douglas.ro/c/ten/solare/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SOLAR_SOLAR"
   },
@@ -1831,7 +1831,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SOLAR",
+    "category": "Solar",
     "page": "bronzer",
     "page_url": "https://www.douglas.ro/c/ten/solare/autobronzant/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SOLAR_bronzer"
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SOLAR",
+    "category": "Solar",
     "page": "Sunscreen",
     "page_url": "https://www.douglas.ro/c/ten/solare/protectie-solara/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SOLAR_Sunscreen"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SOLAR",
+    "category": "Solar",
     "page": "After Sun.",
     "page_url": "https://www.douglas.ro/c/ten/solare/after-sun/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SOLAR_After|sp|Sun."
@@ -1963,8 +1963,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "DENTAL HYGIENE",
-    "page": "DENTAL HYGIENE",
+    "category": "Dental Hygiene",
+    "page": "Dental Hygiene",
     "page_url": "https://www.douglas.ro/c/ten/igiena-dentara/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_DENTAL|sp|HYGIENE_DENTAL|sp|HYGIENE"
   },
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "DENTAL HYGIENE",
+    "category": "Dental Hygiene",
     "page": "Toothpaste",
     "page_url": "https://www.douglas.ro/c/ten/igiena-dentara/pasta-de-dinti/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_DENTAL|sp|HYGIENE_Toothpaste"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "DENTAL HYGIENE",
+    "category": "Dental Hygiene",
     "page": "Mouthwash",
     "page_url": "https://www.douglas.ro/c/ten/igiena-dentara/apa-de-gura/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_DENTAL|sp|HYGIENE_Mouthwash"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "DENTAL HYGIENE",
+    "category": "Dental Hygiene",
     "page": "Toothbrushes",
     "page_url": "https://www.douglas.ro/c/ten/igiena-dentara/periute-de-dinti/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_DENTAL|sp|HYGIENE_Toothbrushes"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "DENTAL HYGIENE",
+    "category": "Dental Hygiene",
     "page": "Dental floss",
     "page_url": "https://www.douglas.ro/c/ten/igiena-dentara/ata-dentara/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_DENTAL|sp|HYGIENE_Dental|sp|floss"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "DENTAL HYGIENE",
+    "category": "Dental Hygiene",
     "page": "Care set",
     "page_url": "https://www.douglas.ro/c/ten/igiena-dentara/set-ingrijire/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_DENTAL|sp|HYGIENE_Care|sp|set"
@@ -2041,7 +2041,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
     "category": "Barbie",
-    "page": "Skin cleansing",
+    "page": "Skin Cleansing",
     "page_url": "https://www.douglas.ro/c/ten/barbati/curatarea-tenului/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_BARBIE_Skin|sp|cleansing"
   },
@@ -2085,7 +2085,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
     "category": "Barbie",
-    "page": "Beard care",
+    "page": "Beard Care",
     "page_url": "https://www.douglas.ro/c/ten/barbati/ingrijirea-barbii/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_BARBIE_Beard|sp|care"
   },
@@ -2117,8 +2117,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE ACCESSORIES",
-    "page": "SKIN CARE ACCESSORIES",
+    "category": "Skincare Accessories",
+    "page": "Skincare Accessories",
     "page_url": "https://www.douglas.ro/c/ten/accesorii-ingrijirea-tenului/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE|sp|ACCESSORIES_SKIN|sp|CARE|sp|ACCESSORIES"
   },
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE ACCESSORIES",
+    "category": "Skincare Accessories",
     "page": "Facial cleansing brushes",
     "page_url": "https://www.douglas.ro/c/ten/accesorii-ingrijirea-tenului/perii-de-curatare-a-fetei/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE|sp|ACCESSORIES_Facial|sp|cleansing|sp|brushes"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE ACCESSORIES",
+    "category": "Skincare Accessories",
     "page": "Facial cleansing accessories",
     "page_url": "https://www.douglas.ro/c/ten/accesorii-ingrijirea-tenului/accesorii-curatare-a-fetei/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE|sp|ACCESSORIES_Facial|sp|cleansing|sp|accessories"
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE ACCESSORIES",
+    "category": "Skincare Accessories",
     "page": "Facial massage device",
     "page_url": "https://www.douglas.ro/c/ten/accesorii-ingrijirea-tenului/aparat-masaj-facial/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE|sp|ACCESSORIES_Facial|sp|massage|sp|device"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE ACCESSORIES",
+    "category": "Skincare Accessories",
     "page": "Tweezers",
     "page_url": "https://www.douglas.ro/c/ten/accesorii-ingrijirea-tenului/penseta/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE|sp|ACCESSORIES_Tweezers"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE ACCESSORIES",
+    "category": "Skincare Accessories",
     "page": "Blotting Paper",
     "page_url": "https://www.douglas.ro/c/ten/accesorii-ingrijirea-tenului/blotting-paper/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE|sp|ACCESSORIES_Blotting|sp|Paper"
@@ -2183,8 +2183,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "SKIN CARE SET",
-    "page": "SKIN CARE SET",
+    "category": "Skincare Sets",
+    "page": "Skincare Sets",
     "page_url": "https://www.douglas.ro/c/ten/set-ingrijirea-tenului/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_SKIN|sp|CARE|sp|SET_SKIN|sp|CARE|sp|SET"
   },
@@ -2194,8 +2194,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Skin",
-    "category": "POPULAR BRANDS",
-    "page": "POPULAR BRANDS",
+    "category": "Popular Brands",
+    "page": "Popular Brands",
     "page_url": "https://www.douglas.ro/c/ten/branduri-populare/",
     "file_name": "Romania_DOUGLAS_RO_COMPLEXION_POPULAR|sp|BRANDS_POPULAR|sp|BRANDS"
   },
@@ -2206,7 +2206,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.ro/c/corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY_BODY"
   },
@@ -2216,8 +2216,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body lotion",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/lotiune-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|lotion"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorant",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/deodorant/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Deodorant"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Corp. Spray",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/spray-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Corp.|sp|Spray"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body oil",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/ulei-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|oil"
@@ -2271,7 +2271,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body butter",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/unt-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|butter"
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Massage oil",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/ulei-de-masaj/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Massage|sp|oil"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Make-up",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/body-make-up/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Body|sp|Make|h|up"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Anti-cellulite cream",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/crema-anticelulitica/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Anti|h|cellulite|sp|cream"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Neck & neckline",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/gat-decolteu/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Neck|sp||as||sp|neckline"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Corp. Powder",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-corporala/pudra-de-corp/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE_Corp.|sp|Powder"
@@ -2338,7 +2338,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
     "category": "Bath & Shower",
-    "page": "BATH & SHOWER",
+    "page": "Bath & Shower",
     "page_url": "https://www.douglas.ro/c/corp/baie-dus/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BATH|sp||as||sp|SHOWER_BATH|sp||as||sp|SHOWER"
   },
@@ -2426,7 +2426,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
     "category": "Bath & Shower",
-    "page": "Intimate hygiene",
+    "page": "Intimate Hygiene",
     "page_url": "https://www.douglas.ro/c/corp/baie-dus/igiena-intima/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BATH|sp||as||sp|SHOWER_Intimate|sp|hygiene"
   },
@@ -2436,8 +2436,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "SOLAR",
-    "page": "SOLAR",
+    "category": "Solar",
+    "page": "Solar",
     "page_url": "https://www.douglas.ro/c/corp/solare/",
     "file_name": "Romania_DOUGLAS_RO_BODY_SOLAR_SOLAR"
   },
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "SOLAR",
+    "category": "Solar",
     "page": "Sunscreen",
     "page_url": "https://www.douglas.ro/c/corp/solare/protectie-solara/",
     "file_name": "Romania_DOUGLAS_RO_BODY_SOLAR_Sunscreen"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "SOLAR",
+    "category": "Solar",
     "page": "After Sun.",
     "page_url": "https://www.douglas.ro/c/corp/solare/after-sun/",
     "file_name": "Romania_DOUGLAS_RO_BODY_SOLAR_After|sp|Sun."
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "SOLAR",
+    "category": "Solar",
     "page": "bronzer",
     "page_url": "https://www.douglas.ro/c/corp/solare/autobronzant/",
     "file_name": "Romania_DOUGLAS_RO_BODY_SOLAR_bronzer"
@@ -2492,7 +2492,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
     "category": "Barbie",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.ro/c/corp/barbati/ingrijirea-corporala/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BARBIE_Body|sp|care"
   },
@@ -2524,8 +2524,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "HAND CARE",
-    "page": "HAND CARE",
+    "category": "Handcare",
+    "page": "Handcare",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-mainilor/",
     "file_name": "Romania_DOUGLAS_RO_BODY_HAND|sp|CARE_HAND|sp|CARE"
   },
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand cream",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-mainilor/crema-de-maini/",
     "file_name": "Romania_DOUGLAS_RO_BODY_HAND|sp|CARE_Hand|sp|cream"
@@ -2546,7 +2546,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand mask",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-mainilor/masca-pentru-maini/",
     "file_name": "Romania_DOUGLAS_RO_BODY_HAND|sp|CARE_Hand|sp|mask"
@@ -2557,7 +2557,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Soaps",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-mainilor/sapunuri/",
     "file_name": "Romania_DOUGLAS_RO_BODY_HAND|sp|CARE_Soaps"
@@ -2568,7 +2568,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand disinfection",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-mainilor/dezinfectarea-mainilor/",
     "file_name": "Romania_DOUGLAS_RO_BODY_HAND|sp|CARE_Hand|sp|disinfection"
@@ -2579,8 +2579,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "NAIL CARE",
-    "page": "NAIL CARE",
+    "category": "Nailcare",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-unghiilor/",
     "file_name": "Romania_DOUGLAS_RO_BODY_NAIL|sp|CARE_NAIL|sp|CARE"
   },
@@ -2590,7 +2590,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Cuticle Oil & Treatments",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-unghiilor/ulei-cuticule-tratamente/",
     "file_name": "Romania_DOUGLAS_RO_BODY_NAIL|sp|CARE_Cuticle|sp|Oil|sp||as||sp|Treatments"
@@ -2601,7 +2601,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Nail file",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-unghiilor/pila-de-unghii/",
     "file_name": "Romania_DOUGLAS_RO_BODY_NAIL|sp|CARE_Nail|sp|file"
@@ -2612,7 +2612,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "Nail clippers",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-unghiilor/foarfece-de-unghii/",
     "file_name": "Romania_DOUGLAS_RO_BODY_NAIL|sp|CARE_Nail|sp|clippers"
@@ -2623,7 +2623,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "NAIL CARE",
+    "category": "Nailcare",
     "page": "nail clippers",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-unghiilor/unghiera/",
     "file_name": "Romania_DOUGLAS_RO_BODY_NAIL|sp|CARE_nail|sp|clippers"
@@ -2634,8 +2634,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "NAIL CARE",
-    "page": "Nail polish",
+    "category": "Nailcare",
+    "page": "Nail Polish",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-unghiilor/lac-de-unghii/",
     "file_name": "Romania_DOUGLAS_RO_BODY_NAIL|sp|CARE_Nail|sp|polish"
   },
@@ -2645,8 +2645,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Foot Care",
-    "page": "FOOT CARE",
+    "category": "Footcare",
+    "page": "Footcare",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-picioarelor/",
     "file_name": "Romania_DOUGLAS_RO_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot cream",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-picioarelor/crema-pentru-picioare/",
     "file_name": "Romania_DOUGLAS_RO_BODY_FOOT|sp|CARE_Foot|sp|cream"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Exfoliating feet",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-picioarelor/exfoliant-picioare/",
     "file_name": "Romania_DOUGLAS_RO_BODY_FOOT|sp|CARE_Exfoliating|sp|feet"
@@ -2678,7 +2678,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Foot masks",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-picioarelor/masti-pentru-picioare/",
     "file_name": "Romania_DOUGLAS_RO_BODY_FOOT|sp|CARE_Foot|sp|masks"
@@ -2689,7 +2689,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "Heel pile",
     "page_url": "https://www.douglas.ro/c/corp/ingrijirea-picioarelor/pila-calcaie/",
     "file_name": "Romania_DOUGLAS_RO_BODY_FOOT|sp|CARE_Heel|sp|pile"
@@ -2700,8 +2700,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "HAIR REMOVAL",
-    "page": "HAIR REMOVAL",
+    "category": "Hair Removal",
+    "page": "Hair Removal",
     "page_url": "https://www.douglas.ro/c/corp/epilare/",
     "file_name": "Romania_DOUGLAS_RO_BODY_HAIR|sp|REMOVAL_HAIR|sp|REMOVAL"
   },
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "HAIR REMOVAL",
+    "category": "Hair Removal",
     "page": "Shaver & Epilator",
     "page_url": "https://www.douglas.ro/c/corp/epilare/aparat-de-ras-epilator/",
     "file_name": "Romania_DOUGLAS_RO_BODY_HAIR|sp|REMOVAL_Shaver|sp||as||sp|Epilator"
@@ -2722,8 +2722,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "MOTHER AND CHILD",
-    "page": "MOTHER AND CHILD",
+    "category": "Mother & Child",
+    "page": "Mother & Child",
     "page_url": "https://www.douglas.ro/c/corp/mama-si-copilul/",
     "file_name": "Romania_DOUGLAS_RO_BODY_MOTHER|sp|AND|sp|CHILD_MOTHER|sp|AND|sp|CHILD"
   },
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "MOTHER AND CHILD",
+    "category": "Mother & Child",
     "page": "Pregnancy & lactation",
     "page_url": "https://www.douglas.ro/c/corp/mama-si-copilul/sarcina-alaptare/",
     "file_name": "Romania_DOUGLAS_RO_BODY_MOTHER|sp|AND|sp|CHILD_Pregnancy|sp||as||sp|lactation"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "MOTHER AND CHILD",
+    "category": "Mother & Child",
     "page": "Baby bath",
     "page_url": "https://www.douglas.ro/c/corp/mama-si-copilul/baie-bebelusi/",
     "file_name": "Romania_DOUGLAS_RO_BODY_MOTHER|sp|AND|sp|CHILD_Baby|sp|bath"
@@ -2755,7 +2755,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "MOTHER AND CHILD",
+    "category": "Mother & Child",
     "page": "Baby care products",
     "page_url": "https://www.douglas.ro/c/corp/mama-si-copilul/produse-ingrijire-bebelusi/",
     "file_name": "Romania_DOUGLAS_RO_BODY_MOTHER|sp|AND|sp|CHILD_Baby|sp|care|sp|products"
@@ -2766,7 +2766,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "MOTHER AND CHILD",
+    "category": "Mother & Child",
     "page": "Baby accessories",
     "page_url": "https://www.douglas.ro/c/corp/mama-si-copilul/accesorii-bebelusi/",
     "file_name": "Romania_DOUGLAS_RO_BODY_MOTHER|sp|AND|sp|CHILD_Baby|sp|accessories"
@@ -2777,7 +2777,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "MOTHER AND CHILD",
+    "category": "Mother & Child",
     "page": "Baby toothpaste",
     "page_url": "https://www.douglas.ro/c/corp/mama-si-copilul/pasta-de-dinti-bebelusi/",
     "file_name": "Romania_DOUGLAS_RO_BODY_MOTHER|sp|AND|sp|CHILD_Baby|sp|toothpaste"
@@ -2788,7 +2788,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "MOTHER AND CHILD",
+    "category": "Mother & Child",
     "page": "Baby sunscreen",
     "page_url": "https://www.douglas.ro/c/corp/mama-si-copilul/protectie-solara-bebelusi/",
     "file_name": "Romania_DOUGLAS_RO_BODY_MOTHER|sp|AND|sp|CHILD_Baby|sp|sunscreen"
@@ -2854,8 +2854,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "BODY CARE SETS",
-    "page": "BODY CARE SETS",
+    "category": "Bodycare Sets",
+    "page": "Bodycare Sets",
     "page_url": "https://www.douglas.ro/c/corp/seturi-ingrijire-corporala/",
     "file_name": "Romania_DOUGLAS_RO_BODY_BODY|sp|CARE|sp|SETS_BODY|sp|CARE|sp|SETS"
   },
@@ -2865,8 +2865,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Body",
-    "category": "POPULAR BRANDS",
-    "page": "POPULAR BRANDS",
+    "category": "Popular Brands",
+    "page": "Popular Brands",
     "page_url": "https://www.douglas.ro/c/corp/branduri-populare/",
     "file_name": "Romania_DOUGLAS_RO_BODY_POPULAR|sp|BRANDS_POPULAR|sp|BRANDS"
   },
@@ -2877,7 +2877,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.ro/c/par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR_HAIR"
   },
@@ -2997,8 +2997,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
-    "page": "HAIRSTYLING",
+    "category": "Hairstyling",
+    "page": "Hairstyling",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_HAIRSTYLING"
   },
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Hair mousse",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/spuma-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Hair|sp|mousse"
@@ -3019,7 +3019,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Thermal hair protection",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/protectie-termica-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Thermal|sp|hair|sp|protection"
@@ -3030,7 +3030,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Hair gel",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/gel-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Hair|sp|gel"
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Wax & Hair Cream",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/ceara-crema-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Wax|sp||as||sp|Hair|sp|Cream"
@@ -3052,7 +3052,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Hair fixative",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/fixativ-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Hair|sp|fixative"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Hair powder",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/pudra-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Hair|sp|powder"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Hair scent",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/parfum-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Hair|sp|scent"
@@ -3085,7 +3085,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Volume",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/volum/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Volume"
@@ -3096,7 +3096,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Hair curling",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/ondularea-parului/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Hair|sp|curling"
@@ -3107,7 +3107,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Hair straightening",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/indreptarea-parului/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Hair|sp|straightening"
@@ -3118,7 +3118,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "Shine",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/stralucire/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_Shine"
@@ -3129,7 +3129,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING",
+    "category": "Hairstyling",
     "page": "\" All categories",
     "page_url": "https://www.douglas.ro/c/par/hairstyling/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING_\"|sp|All|sp|categories"
@@ -3140,8 +3140,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING TOOLS",
-    "page": "HAIRSTYLING TOOLS",
+    "category": "Hairstyling Tools",
+    "page": "Hairstyling Tools",
     "page_url": "https://www.douglas.ro/c/par/hairstyling-tools/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING|sp|TOOLS_HAIRSTYLING|sp|TOOLS"
   },
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING TOOLS",
+    "category": "Hairstyling Tools",
     "page": "Hair straightener",
     "page_url": "https://www.douglas.ro/c/par/hairstyling-tools/placa-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING|sp|TOOLS_Hair|sp|straightener"
@@ -3162,7 +3162,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING TOOLS",
+    "category": "Hairstyling Tools",
     "page": "Hair curlers",
     "page_url": "https://www.douglas.ro/c/par/hairstyling-tools/ondulatoare-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING|sp|TOOLS_Hair|sp|curlers"
@@ -3173,7 +3173,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING TOOLS",
+    "category": "Hairstyling Tools",
     "page": "curlers",
     "page_url": "https://www.douglas.ro/c/par/hairstyling-tools/bigudiuri/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING|sp|TOOLS_curlers"
@@ -3184,7 +3184,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIRSTYLING TOOLS",
+    "category": "Hairstyling Tools",
     "page": "Hair dryer",
     "page_url": "https://www.douglas.ro/c/par/hairstyling-tools/uscator-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIRSTYLING|sp|TOOLS_Hair|sp|dryer"
@@ -3195,8 +3195,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "BRUSHES & COMBS PAR",
-    "page": "BRUSHES & COMBS PAR",
+    "category": "Brushes & Combs",
+    "page": "Brushes & Combs",
     "page_url": "https://www.douglas.ro/c/par/perii-piepteni-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_BRUSHES|sp||as||sp|COMBS|sp|PAR_BRUSHES|sp||as||sp|COMBS|sp|PAR"
   },
@@ -3206,7 +3206,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "BRUSHES & COMBS PAR",
+    "category": "Brushes & Combs",
     "page": "Round brush",
     "page_url": "https://www.douglas.ro/c/par/perii-piepteni-par/perie-rotunda/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_BRUSHES|sp||as||sp|COMBS|sp|PAR_Round|sp|brush"
@@ -3217,7 +3217,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "BRUSHES & COMBS PAR",
+    "category": "Brushes & Combs",
     "page": "Detangler",
     "page_url": "https://www.douglas.ro/c/par/perii-piepteni-par/detangler/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_BRUSHES|sp||as||sp|COMBS|sp|PAR_Detangler"
@@ -3228,7 +3228,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "BRUSHES & COMBS PAR",
+    "category": "Brushes & Combs",
     "page": "Flat brush",
     "page_url": "https://www.douglas.ro/c/par/perii-piepteni-par/perie-plata/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_BRUSHES|sp||as||sp|COMBS|sp|PAR_Flat|sp|brush"
@@ -3239,8 +3239,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "PAINT",
-    "page": "PAINT",
+    "category": "Paint",
+    "page": "Paint",
     "page_url": "https://www.douglas.ro/c/par/vopsea/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_PAINT_PAINT"
   },
@@ -3250,7 +3250,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "PAINT",
+    "category": "Paint",
     "page": "Hair dye",
     "page_url": "https://www.douglas.ro/c/par/vopsea/nuantator-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_PAINT_Hair|sp|dye"
@@ -3261,7 +3261,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "PAINT",
+    "category": "Paint",
     "page": "Hair dyes",
     "page_url": "https://www.douglas.ro/c/par/vopsea/vopsele-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_PAINT_Hair|sp|dyes"
@@ -3272,7 +3272,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "PAINT",
+    "category": "Paint",
     "page": "Hair bleach",
     "page_url": "https://www.douglas.ro/c/par/vopsea/decolorant-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_PAINT_Hair|sp|bleach"
@@ -3372,7 +3372,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
     "category": "Barbie",
-    "page": "Beard care",
+    "page": "Beard Care",
     "page_url": "https://www.douglas.ro/c/par/barbati/ingrijirea-barbii/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_BARBIE_Beard|sp|care"
   },
@@ -3404,8 +3404,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
-    "page": "HAIR TYPES",
+    "category": "Hair Type",
+    "page": "Hair Type",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_HAIR|sp|TYPES"
   },
@@ -3415,7 +3415,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Thick hair",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/par-gras/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Thick|sp|hair"
@@ -3426,7 +3426,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "They look normal",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/par-normal/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_They|sp|look|sp|normal"
@@ -3437,7 +3437,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Volume",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/volum/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Volume"
@@ -3448,7 +3448,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Dry hair",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/par-uscat/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Dry|sp|hair"
@@ -3459,7 +3459,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Damaged hair",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/par-deteriorat/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Damaged|sp|hair"
@@ -3470,7 +3470,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Curly hair",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/par-cret/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Curly|sp|hair"
@@ -3481,7 +3481,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Hair straightening",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/indreptarea-parului/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Hair|sp|straightening"
@@ -3492,7 +3492,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Dyed hair",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/par-vopsit/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Dyed|sp|hair"
@@ -3503,7 +3503,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Dandruff",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/anti-matreata/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Dandruff"
@@ -3514,7 +3514,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Sensitive scalp",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/scalp-sensibil/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Sensitive|sp|scalp"
@@ -3525,7 +3525,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "Hair loss treatment",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/tratament-pentru-caderea-parului/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_Hair|sp|loss|sp|treatment"
@@ -3536,7 +3536,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "HAIR TYPES",
+    "category": "Hair Type",
     "page": "\" All categories",
     "page_url": "https://www.douglas.ro/c/par/tipuri-de-par/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_HAIR|sp|TYPES_\"|sp|All|sp|categories"
@@ -3547,8 +3547,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Hair",
-    "category": "POPULAR BRANDS",
-    "page": "POPULAR BRANDS",
+    "category": "Popular Brands",
+    "page": "Popular Brands",
     "page_url": "https://www.douglas.ro/c/par/branduri-populare/",
     "file_name": "Romania_DOUGLAS_RO_HAIR_POPULAR|sp|BRANDS_POPULAR|sp|BRANDS"
   },
@@ -3570,7 +3570,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
     "category": "Gifts",
-    "page": "GIFTS",
+    "page": "Gifts",
     "page_url": "https://www.douglas.ro/c/reduceri/cadouri/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_GIFTS_GIFTS"
   },
@@ -3580,8 +3580,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "SHOPPING NIGHT",
-    "page": "SHOPPING NIGHT",
+    "category": "Shopping Night",
+    "page": "Shopping Night",
     "page_url": "https://www.douglas.ro/c/reduceri/shopping-night/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_SHOPPING|sp|NIGHT_SHOPPING|sp|NIGHT"
   },
@@ -3591,8 +3591,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "MIX & MATCH",
-    "page": "MIX & MATCH",
+    "category": "Mix & Match",
+    "page": "Mix & Match",
     "page_url": "https://www.douglas.ro/c/reduceri/mix-match/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_MIX|sp||as||sp|MATCH_MIX|sp||as||sp|MATCH"
   },
@@ -3602,8 +3602,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "OFFER OF THE MONTH",
-    "page": "OFFER OF THE MONTH",
+    "category": "Offers of the Month",
+    "page": "Offers of the Month",
     "page_url": "https://www.douglas.ro/c/reduceri/oferta-lunii/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_OFFER|sp|OF|sp|THE|sp|MONTH_OFFER|sp|OF|sp|THE|sp|MONTH"
   },
@@ -3613,8 +3613,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "SEEN ON TV",
-    "page": "SEEN ON TV",
+    "category": "Seen On TV",
+    "page": "Seen On TV",
     "page_url": "https://www.douglas.ro/c/reduceri/vazute-la-tv/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_SEEN|sp|ON|sp|TV_SEEN|sp|ON|sp|TV"
   },
@@ -3658,7 +3658,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.ro/c/reduceri/par/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_HAIR_HAIR"
   },
@@ -3679,8 +3679,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "SETS",
-    "page": "SETS",
+    "category": "Sets",
+    "page": "Sets",
     "page_url": "https://www.douglas.ro/c/reduceri/seturi/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_SETS_SETS"
   },
@@ -3690,8 +3690,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "UNDER 99 LEI",
-    "page": "UNDER 99 LEI",
+    "category": "Under 99 LEI",
+    "page": "Under 99 LEI",
     "page_url": "https://www.douglas.ro/c/reduceri/sub-99-lei/",
     "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_UNDER|sp|99|sp|LEI_UNDER|sp|99|sp|LEI"
   },
@@ -3735,7 +3735,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
     "category": "Make Up",
-    "page": "MAKE UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.ro/c/douglas-collection/make-up/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_MAKE|sp|UP_MAKE|sp|UP"
   },
@@ -3757,7 +3757,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.ro/c/douglas-collection/corp/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_BODY_BODY"
   },
@@ -3768,7 +3768,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Douglas Collection",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.ro/c/douglas-collection/par/",
     "file_name": "Romania_DOUGLAS_RO_DOUGLAS|sp|COLLECTION_HAIR_HAIR"
   },
@@ -3921,8 +3921,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Pharmacy",
-    "category": "PERSONAL HYGIENE",
-    "page": "PERSONAL HYGIENE",
+    "category": "Personal Hygiene",
+    "page": "Personal Hygiene",
     "page_url": "https://www.douglas.ro/c/drogherie/igiena-personala/",
     "file_name": "Romania_DOUGLAS_RO_PHARMACY_PERSONAL|sp|HYGIENE_PERSONAL|sp|HYGIENE"
   },
@@ -4065,7 +4065,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Barbie",
     "category": "Skin",
-    "page": "Beard care",
+    "page": "Beard Care",
     "page_url": "https://www.douglas.ro/c/barbati/ten/ingrijirea-barbii/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_COMPLEXION_Beard|sp|care"
   },
@@ -4087,7 +4087,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Barbie",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.ro/c/barbati/corp/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_BODY_BODY"
   },
@@ -4098,7 +4098,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Barbie",
     "category": "Body",
-    "page": "Body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.ro/c/barbati/corp/ingrijirea-corporala/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_BODY_Body|sp|care"
   },
@@ -4131,7 +4131,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Barbie",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.ro/c/barbati/par/",
     "file_name": "Romania_DOUGLAS_RO_BARBIE_HAIR_HAIR"
   },
@@ -4196,8 +4196,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -4207,8 +4207,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "FASHION",
-    "page": "FASHION",
+    "category": "Fashion",
+    "page": "Fashion",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/fashion/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_FASHION_FASHION"
   },
@@ -4229,8 +4229,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "DECORATIONS",
-    "page": "DECORATIONS",
+    "category": "Decorations",
+    "page": "Decorations",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/decoratiuni/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_DECORATIONS_DECORATIONS"
   },
@@ -4240,8 +4240,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "CANDLE",
-    "page": "CANDLE",
+    "category": "Candles",
+    "page": "Candles",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/lumanari/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_CANDLE_CANDLE"
   },
@@ -4251,8 +4251,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "SCENTED STICKS AND FLAVORINGS",
-    "page": "SCENTED STICKS AND FLAVORINGS",
+    "category": "Scented Sticks & Flavourings",
+    "page": "Scented Sticks & Flavourings",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/betisoare-parfumate-si-aromatizatoare/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_SCENTED|sp|STICKS|sp|AND|sp|FLAVORINGS_SCENTED|sp|STICKS|sp|AND|sp|FLAVORINGS"
   },
@@ -4262,8 +4262,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "TEXTILE PERFUME",
-    "page": "TEXTILE PERFUME",
+    "category": "Textile Perfumes",
+    "page": "Textile Perfumes",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/parfum-textile/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_TEXTILE|sp|PERFUME_TEXTILE|sp|PERFUME"
   },
@@ -4273,8 +4273,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "CAR AIR FRESHENER",
-    "page": "CAR AIR FRESHENER",
+    "category": "Car Air Freshner",
+    "page": "Car Air Freshner",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/odorizante-masina/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_CAR|sp|AIR|sp|FRESHENER_CAR|sp|AIR|sp|FRESHENER"
   },
@@ -4306,8 +4306,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "THE MASK",
-    "page": "THE MASK",
+    "category": "The Mask",
+    "page": "The Mask",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/masca/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_THE|sp|MASK_THE|sp|MASK"
   },
@@ -4317,8 +4317,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "SCRUB",
-    "page": "SCRUB",
+    "category": "Scrubs",
+    "page": "Scrubs",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/exfoliant/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_SCRUB_SCRUB"
   },
@@ -4328,8 +4328,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "Bathroom & Body",
-    "page": "Bathroom & Body",
+    "category": "Body & Bath",
+    "page": "Body & Bath",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/baie-si-corp/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_BATHROOM|sp|AND|sp|BODY_BATHROOM|sp|AND|sp|BODY"
   },
@@ -4339,8 +4339,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "PROFESSIONAL CARE",
-    "page": "PROFESSIONAL CARE",
+    "category": "Professional Care",
+    "page": "Professional Care",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/ingrijire-profesionala/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_PROFESSIONAL|sp|CARE_PROFESSIONAL|sp|CARE"
   },
@@ -4350,8 +4350,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "NAIL CARE",
-    "page": "NAIL CARE",
+    "category": "Nailcare",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/ingrijire-unghii/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_NAIL|sp|CARE_NAIL|sp|CARE"
   },
@@ -4361,8 +4361,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "Foot Care",
-    "page": "FOOT CARE",
+    "category": "Footcare",
+    "page": "Footcare",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/ingrijire-picioare/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -4372,8 +4372,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "MEN'S CARE",
-    "page": "MEN'S CARE",
+    "category": "Mens Care",
+    "page": "Mens Care",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/ingrijire-barbati/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_MEN|sq|S|sp|CARE_MEN|sq|S|sp|CARE"
   },
@@ -4383,8 +4383,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Home & Lifestyle",
-    "category": "CHILD CARE",
-    "page": "CHILD CARE",
+    "category": "Child Care",
+    "page": "Child Care",
     "page_url": "https://www.douglas.ro/c/home-lifestyle/ingrijire-copii/",
     "file_name": "Romania_DOUGLAS_RO_HOME|sp||as||sp|LIFESTYLE_CHILD|sp|CARE_CHILD|sp|CARE"
   },
@@ -4439,7 +4439,7 @@
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "New",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.ro/c/noutati/par/",
     "file_name": "Romania_DOUGLAS_RO_NEWS_HAIR_HAIR"
   },

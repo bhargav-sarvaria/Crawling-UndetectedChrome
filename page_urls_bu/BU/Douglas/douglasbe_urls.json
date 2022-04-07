@@ -193,7 +193,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Perfumes",
     "category": "Unisex Fragrance",
-    "page": "body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.be/nl/c/parfum/unisexparfum/lichaamsverzorging/010302",
     "file_name": "Belgium_DOUGLAS_BE_PERFUME_UNISEX|sp|GEURS_body|sp|care"
   },
@@ -336,7 +336,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.be/nl/c/make-up/03",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -578,7 +578,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/0304",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_NAILS"
   },
@@ -600,7 +600,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "nail care",
+    "page": "Nailcare",
     "page_url": "https://www.douglas.be/nl/c/make-up/nagels/nagelverzorging/030402",
     "file_name": "Belgium_DOUGLAS_BE_MAKE|h|UP_NAILS_nail|sp|care"
   },
@@ -896,8 +896,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "SIGHT",
-    "page": "SIGHT",
+    "category": "Face",
+    "page": "Face",
     "page_url": "https://www.douglas.be/nl/c/gezicht/12",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_SIGHT_SIGHT"
   },
@@ -984,8 +984,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "FACIAL CLEANING",
-    "page": "FACIAL CLEANING",
+    "category": "Facial Cleansers",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.be/nl/c/gezicht/gezichtsreiniging/1201",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_FACIAL|sp|CLEANING_FACIAL|sp|CLEANING"
   },
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "FACIAL CLEANING",
+    "category": "Facial Cleansers",
     "page": "Toner & Miccellair Water",
     "page_url": "https://www.douglas.be/nl/c/gezicht/gezichtsreiniging/toner-micellair-water/120108",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_FACIAL|sp|CLEANING_Toner|sp||as||sp|Miccellair|sp|Water"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "FACIAL CLEANING",
+    "category": "Facial Cleansers",
     "page": "cleaning foam",
     "page_url": "https://www.douglas.be/nl/c/gezicht/gezichtsreiniging/reinigingsschuim/120102",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_FACIAL|sp|CLEANING_cleaning|sp|foam"
@@ -1017,8 +1017,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "FACIAL CLEANING",
-    "page": "Make Up Removers",
+    "category": "Facial Cleansers",
+    "page": "Make Up Remover",
     "page_url": "https://www.douglas.be/nl/c/gezicht/gezichtsreiniging/make-up-remover/120109",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_FACIAL|sp|CLEANING_Make|h|Up|sp|remover"
   },
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "FACIAL CLEANING",
+    "category": "Facial Cleansers",
     "page": "Facial scrub and peeling",
     "page_url": "https://www.douglas.be/nl/c/gezicht/gezichtsreiniging/gezichtsscrub-en-peeling/120107",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_FACIAL|sp|CLEANING_Facial|sp|scrub|sp|and|sp|peeling"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "FACIAL CLEANING",
+    "category": "Facial Cleansers",
     "page": "cleaning gel",
     "page_url": "https://www.douglas.be/nl/c/gezicht/gezichtsreiniging/reinigingsgel/120101",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_FACIAL|sp|CLEANING_cleaning|sp|gel"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "FACIAL CLEANING",
+    "category": "Facial Cleansers",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/gezicht/gezichtsreiniging/1201",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_FACIAL|sp|CLEANING_>>|sp|All|sp|categories"
@@ -1138,8 +1138,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "SUN CARE & PROTECTION",
-    "page": "SUN CARE & PROTECTION",
+    "category": "Suncare",
+    "page": "Suncare",
     "page_url": "https://www.douglas.be/nl/c/gezicht/zonverzorging-bescherming/1209",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_SUN|sp|CARE|sp||as||sp|PROTECTION_SUN|sp|CARE|sp||as||sp|PROTECTION"
   },
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "SUN CARE & PROTECTION",
+    "category": "Suncare",
     "page": "self tanner",
     "page_url": "https://www.douglas.be/nl/c/gezicht/zonverzorging-bescherming/zelfbruiner/120903",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_SUN|sp|CARE|sp||as||sp|PROTECTION_self|sp|tanner"
@@ -1160,8 +1160,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "SUN CARE & PROTECTION",
-    "page": "sun protection",
+    "category": "Suncare",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.be/nl/c/gezicht/zonverzorging-bescherming/zonbescherming/120901",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_SUN|sp|CARE|sp||as||sp|PROTECTION_sun|sp|protection"
   },
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "SUN CARE & PROTECTION",
+    "category": "Suncare",
     "page": "After Sun",
     "page_url": "https://www.douglas.be/nl/c/gezicht/zonverzorging-bescherming/after-sun/120902",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_SUN|sp|CARE|sp||as||sp|PROTECTION_After|sp|Sun"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
-    "category": "SUN CARE & PROTECTION",
+    "category": "Suncare",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/gezicht/zonverzorging-bescherming/1209",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_SUN|sp|CARE|sp||as||sp|PROTECTION_>>|sp|All|sp|categories"
@@ -1216,7 +1216,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
     "category": "Men",
-    "page": "To shave",
+    "page": "To Shave",
     "page_url": "https://www.douglas.be/nl/c/gezicht/heren/scheren/121003",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_MEN_To|sp|shave"
   },
@@ -1227,7 +1227,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Face",
     "category": "Men",
-    "page": "Facial Cleaning",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.be/nl/c/gezicht/heren/gezichtsreiniging/121001",
     "file_name": "Belgium_DOUGLAS_BE_SIGHT_MEN_facial|sp|cleansing"
   },
@@ -1282,7 +1282,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.be/nl/c/lichaam/13",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY_BODY"
   },
@@ -1292,8 +1292,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/1302",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "body lotion",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/bodylotion/130202",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_body|sp|lotion"
@@ -1314,7 +1314,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Deodorant",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/deodorant/130201",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_Deodorant"
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Bodyspray",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/bodyspray/130203",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_Bodyspray"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Bodybutter",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/bodybutter/130205",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_Bodybutter"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "body oil",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/lichaamsolie/130204",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_body|sp|oil"
@@ -1358,7 +1358,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsverzorging/1302",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CARE_>>|sp|All|sp|categories"
@@ -1369,8 +1369,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CLEANSE",
-    "page": "BODY CLEANSE",
+    "category": "Body Cleansing",
+    "page": "Body Cleansing",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsreiniging/1301",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CLEANSE_BODY|sp|CLEANSE"
   },
@@ -1380,7 +1380,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CLEANSE",
+    "category": "Body Cleansing",
     "page": "Shower gel",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsreiniging/douchegel/130101",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CLEANSE_Shower|sp|gel"
@@ -1391,7 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CLEANSE",
+    "category": "Body Cleansing",
     "page": "Shower foam",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsreiniging/doucheschuim/130102",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CLEANSE_Shower|sp|foam"
@@ -1402,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CLEANSE",
+    "category": "Body Cleansing",
     "page": "Shower oil",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsreiniging/doucheolie/130103",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CLEANSE_Shower|sp|oil"
@@ -1413,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CLEANSE",
+    "category": "Body Cleansing",
     "page": "Soap",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsreiniging/zeep/130105",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CLEANSE_Soap"
@@ -1424,7 +1424,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CLEANSE",
+    "category": "Body Cleansing",
     "page": "Body scrub and peeling",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsreiniging/lichaamsscrub-en-peeling/130106",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CLEANSE_Body|sp|scrub|sp|and|sp|peeling"
@@ -1435,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "BODY CLEANSE",
+    "category": "Body Cleansing",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/lichaam/lichaamsreiniging/1301",
     "file_name": "Belgium_DOUGLAS_BE_BODY_BODY|sp|CLEANSE_>>|sp|All|sp|categories"
@@ -1446,8 +1446,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SUN CARE & PROTECTION",
-    "page": "SUN CARE & PROTECTION",
+    "category": "Suncare",
+    "page": "Suncare",
     "page_url": "https://www.douglas.be/nl/c/lichaam/zonverzorging-bescherming/1308",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SUN|sp|CARE|sp||as||sp|PROTECTION_SUN|sp|CARE|sp||as||sp|PROTECTION"
   },
@@ -1457,8 +1457,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SUN CARE & PROTECTION",
-    "page": "sun protection",
+    "category": "Suncare",
+    "page": "Sun Protection",
     "page_url": "https://www.douglas.be/nl/c/lichaam/zonverzorging-bescherming/zonbescherming/130801",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SUN|sp|CARE|sp||as||sp|PROTECTION_sun|sp|protection"
   },
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SUN CARE & PROTECTION",
+    "category": "Suncare",
     "page": "After Sun",
     "page_url": "https://www.douglas.be/nl/c/lichaam/zonverzorging-bescherming/aftersun/130802",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SUN|sp|CARE|sp||as||sp|PROTECTION_After|sp|Sun"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SUN CARE & PROTECTION",
+    "category": "Suncare",
     "page": "self tanner",
     "page_url": "https://www.douglas.be/nl/c/lichaam/zonverzorging-bescherming/zelfbruiner/130803",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SUN|sp|CARE|sp||as||sp|PROTECTION_self|sp|tanner"
@@ -1502,7 +1502,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
     "category": "Men",
-    "page": "body care",
+    "page": "Bodycare",
     "page_url": "https://www.douglas.be/nl/c/lichaam/heren/lichaamsverzorging/130901",
     "file_name": "Belgium_DOUGLAS_BE_BODY_MEN_body|sp|care"
   },
@@ -1513,7 +1513,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
     "category": "Men",
-    "page": "body cleansing",
+    "page": "Body Cleansing",
     "page_url": "https://www.douglas.be/nl/c/lichaam/heren/lichaamsreiniging/130902",
     "file_name": "Belgium_DOUGLAS_BE_BODY_MEN_body|sp|cleansing"
   },
@@ -1534,8 +1534,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Foot Care",
-    "page": "FOOT CARE",
+    "category": "Footcare",
+    "page": "Footcare",
     "page_url": "https://www.douglas.be/nl/c/lichaam/voetverzorging/1307",
     "file_name": "Belgium_DOUGLAS_BE_BODY_FOOT|sp|CARE_FOOT|sp|CARE"
   },
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "foot cream",
     "page_url": "https://www.douglas.be/nl/c/lichaam/voetverzorging/voetencreme/130701",
     "file_name": "Belgium_DOUGLAS_BE_BODY_FOOT|sp|CARE_foot|sp|cream"
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "foot bath",
     "page_url": "https://www.douglas.be/nl/c/lichaam/voetverzorging/voetenbad/130702",
     "file_name": "Belgium_DOUGLAS_BE_BODY_FOOT|sp|CARE_foot|sp|bath"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "foot scrub",
     "page_url": "https://www.douglas.be/nl/c/lichaam/voetverzorging/voetscrub/130703",
     "file_name": "Belgium_DOUGLAS_BE_BODY_FOOT|sp|CARE_foot|sp|scrub"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Foot Care",
+    "category": "Footcare",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/lichaam/voetverzorging/1307",
     "file_name": "Belgium_DOUGLAS_BE_BODY_FOOT|sp|CARE_>>|sp|All|sp|categories"
@@ -1589,8 +1589,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "HAND CARE",
-    "page": "HAND CARE",
+    "category": "Handcare",
+    "page": "Handcare",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/1305",
     "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_HAND|sp|CARE"
   },
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Handcreme",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/handcreme/130501",
     "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_Handcreme"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand peeling",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/handpeeling/130502",
     "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_Hand|sp|peeling"
@@ -1622,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand masks",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/handmaskers/130503",
     "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_Hand|sp|masks"
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "handshake",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/handzeep/130504",
     "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_handshake"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "Hand disinfection",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/handdesinfectie/130505",
     "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_Hand|sp|disinfection"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "HAND CARE",
+    "category": "Handcare",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/lichaam/handverzorging/1305",
     "file_name": "Belgium_DOUGLAS_BE_BODY_HAND|sp|CARE_>>|sp|All|sp|categories"
@@ -1666,8 +1666,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SEX-TOYS",
-    "page": "SEX-TOYS",
+    "category": "Sextoys",
+    "page": "Sextoys",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/1313",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_SEX|h|TOYS"
   },
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SEX-TOYS",
+    "category": "Sextoys",
     "page": "Vibrators",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/vibrators/131301",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_Vibrators"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SEX-TOYS",
+    "category": "Sextoys",
     "page": "Lubricant",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/glijmiddel/131302",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_Lubricant"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "SEX-TOYS",
+    "category": "Sextoys",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/1313",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_>>|sp|All|sp|categories"
@@ -1722,7 +1722,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.be/nl/c/haren/14",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_HAIR_HAIR"
   },
@@ -1733,7 +1733,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.be/nl/c/haren/haarverzorging/1401",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1974,8 +1974,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
-    "page": "STYLING TOOLS",
+    "category": "Styling Tools",
+    "page": "Styling Tools",
     "page_url": "https://www.douglas.be/nl/c/haren/styling-tools/1403",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_STYLING|sp|TOOLS_STYLING|sp|TOOLS"
   },
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "hair straighteners",
     "page_url": "https://www.douglas.be/nl/c/haren/styling-tools/stijltangen/140301",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_STYLING|sp|TOOLS_hair|sp|straighteners"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "curling irons",
     "page_url": "https://www.douglas.be/nl/c/haren/styling-tools/krultangen/140302",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_STYLING|sp|TOOLS_curling|sp|irons"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "Curlsets",
     "page_url": "https://www.douglas.be/nl/c/haren/styling-tools/krulsets/140303",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_STYLING|sp|TOOLS_Curlsets"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/haren/styling-tools/1403",
     "file_name": "Belgium_DOUGLAS_BE_HAIR_STYLING|sp|TOOLS_>>|sp|All|sp|categories"
@@ -2084,8 +2084,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "HEALTH",
-    "page": "HEALTH",
+    "category": "Health",
+    "page": "Health",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/07",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_HEALTH_HEALTH"
   },
@@ -2095,8 +2095,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "ORAL HYGIENE",
-    "page": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
+    "page": "Oral Hygiene",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/mondhygiene/0701",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_ORAL|sp|HYGIENE_ORAL|sp|HYGIENE"
   },
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Oral care, rinsing and spraying",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/mondhygiene/mondverzorging-spoelen-sprayen/070101",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_ORAL|sp|HYGIENE_Oral|sp|care,|sp|rinsing|sp|and|sp|spraying"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Toothpaste",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/mondhygiene/tandpasta/070102",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_ORAL|sp|HYGIENE_Toothpaste"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Toothbrushes",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/mondhygiene/tandenborstels/070103",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_ORAL|sp|HYGIENE_Toothbrushes"
@@ -2139,7 +2139,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/mondhygiene/0701",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_ORAL|sp|HYGIENE_>>|sp|All|sp|categories"
@@ -2150,8 +2150,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "COLD & IMMUNE DEFENSE",
-    "page": "COLD & IMMUNE DEFENSE",
+    "category": "Cold & Immune Defence",
+    "page": "Cold & Immune Defence",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/verkoudheid/0702",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_COLD|sp||as||sp|IMMUNE|sp|DEFENSE_COLD|sp||as||sp|IMMUNE|sp|DEFENSE"
   },
@@ -2161,8 +2161,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "VITAMINS & MINERALS",
-    "page": "VITAMINS & MINERALS",
+    "category": "Vitamins & Minerals",
+    "page": "Vitamins & Minerals",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/vitaminen-mineralen/0703",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_VITAMINS|sp||as||sp|MINERALS_VITAMINS|sp||as||sp|MINERALS"
   },
@@ -2216,8 +2216,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Health",
-    "category": "DIET, EXERCISE & WEIGHT LOSS",
-    "page": "DIET, EXERCISE & WEIGHT LOSS",
+    "category": "Diet, Exercise & Weight loss",
+    "page": "Diet, Exercise & Weight loss",
     "page_url": "https://www.douglas.be/nl/c/gezondheid/voeding-sport/0705",
     "file_name": "Belgium_DOUGLAS_BE_HEALTH_DIET,|sp|EXERCISE|sp||as||sp|WEIGHT|sp|LOSS_DIET,|sp|EXERCISE|sp||as||sp|WEIGHT|sp|LOSS"
   },
@@ -2227,8 +2227,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/15",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -2250,7 +2250,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
     "category": "BAGS AND LUGGAGE",
-    "page": "handbags",
+    "page": "Handbags",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/tassen-bagage/handtassen/150101",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_BAGS|sp|AND|sp|LUGGAGE_handbags"
   },
@@ -2282,8 +2282,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
-    "page": "JEWELRY",
+    "category": "Jewellery",
+    "page": "Jewellery",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/1502",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_JEWELRY"
   },
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "bracelets",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/armbanden/150201",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_bracelets"
@@ -2304,7 +2304,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "Chains",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/kettingen/150202",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_Chains"
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "JEWELRY",
+    "category": "Jewellery",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/sieraden/1502",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_JEWELRY_>>|sp|All|sp|categories"
@@ -2359,8 +2359,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "LIVING",
-    "page": "LIVING",
+    "category": "Living",
+    "page": "Living",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/wonen/1505",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_LIVING_LIVING"
   },
@@ -2370,7 +2370,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "LIVING",
+    "category": "Living",
     "page": "candles",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/wonen/kaarsen/150502",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_LIVING_candles"
@@ -2381,7 +2381,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "LIVING",
+    "category": "Living",
     "page": "room scents",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/wonen/kamergeuren/150503",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_LIVING_room|sp|scents"
@@ -2392,7 +2392,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "LIVING",
+    "category": "Living",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/wonen/1505",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_LIVING_>>|sp|All|sp|categories"
@@ -2447,8 +2447,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "TO SLEEP",
-    "page": "TO SLEEP",
+    "category": "To Sleep",
+    "page": "To Sleep",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/slapen/1507",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_TO|sp|SLEEP"
   },
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "TO SLEEP",
+    "category": "To Sleep",
     "page": "Pillow sprays",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/slapen/kussen-sprays/150701",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_TO|sp|SLEEP_Pillow|sp|sprays"
@@ -2469,8 +2469,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "MODE",
-    "page": "MODE",
+    "category": "Fashion",
+    "page": "Fashion",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/mode/1513",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_MODE_MODE"
   },
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Home & Lifestyle",
-    "category": "MODE",
+    "category": "Fashion",
     "page": "Underwear",
     "page_url": "https://www.douglas.be/nl/c/home-lifestyle/mode/ondergoed/151311",
     "file_name": "Belgium_DOUGLAS_BE_HOME|sp||as||sp|LIFESTYLE_MODE_Underwear"
@@ -2547,7 +2547,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Outlet",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.be/nl/c/sale/make-up/0510",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_MAKE|h|UP_MAKE|h|UP"
   },
@@ -2557,8 +2557,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Outlet",
-    "category": "SIGHT",
-    "page": "SIGHT",
+    "category": "Face",
+    "page": "Face",
     "page_url": "https://www.douglas.be/nl/c/sale/gezicht/0502",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_SIGHT_SIGHT"
   },
@@ -2569,7 +2569,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Outlet",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.be/nl/c/sale/lichaam/0504",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_BODY_BODY"
   },
@@ -2580,7 +2580,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Outlet",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.be/nl/c/sale/haren/0512",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_HAIR_HAIR"
   },
@@ -2590,8 +2590,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Outlet",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.be/nl/c/sale/home-lifestyle/0515",
     "file_name": "Belgium_DOUGLAS_BE_OUTLET_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
@@ -2601,8 +2601,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
-    "category": "NEW",
-    "page": "NEW",
+    "category": "New",
+    "page": "New",
     "page_url": "https://www.douglas.be/nl/c/nieuw/09",
     "file_name": "Belgium_DOUGLAS_BE_NEW_NEW_NEW"
   },
@@ -2624,7 +2624,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.be/nl/c/nieuw/make-up/0903",
     "file_name": "Belgium_DOUGLAS_BE_NEW_MAKE|h|UP_MAKE|h|UP"
   },
@@ -2634,8 +2634,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
-    "category": "SIGHT",
-    "page": "SIGHT",
+    "category": "Face",
+    "page": "Face",
     "page_url": "https://www.douglas.be/nl/c/nieuw/gezicht/0912",
     "file_name": "Belgium_DOUGLAS_BE_NEW_SIGHT_SIGHT"
   },
@@ -2646,7 +2646,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.be/nl/c/nieuw/lichaam/0913",
     "file_name": "Belgium_DOUGLAS_BE_NEW_BODY_BODY"
   },
@@ -2657,7 +2657,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.be/nl/c/nieuw/haar/0904",
     "file_name": "Belgium_DOUGLAS_BE_NEW_HAIR_HAIR"
   },
@@ -2667,8 +2667,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "New",
-    "category": "HOME & LIFESTYLE",
-    "page": "HOME & LIFESTYLE",
+    "category": "Home & Lifestyle",
+    "page": "Home & Lifestyle",
     "page_url": "https://www.douglas.be/nl/c/nieuw/home-lifestyle/0915",
     "file_name": "Belgium_DOUGLAS_BE_NEW_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },

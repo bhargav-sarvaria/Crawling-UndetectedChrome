@@ -61,7 +61,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Perfumes",
     "category": "Womens Fragrance",
-    "page": "fragrances",
+    "page": "Fragrance",
     "page_url": "https://douglas.es/c/perfumes/mujer/colonia",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_FEMININE_fragrances"
   },
@@ -171,7 +171,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Perfumes",
     "category": "Unisex",
-    "page": "fragrances",
+    "page": "Fragrance",
     "page_url": "https://douglas.es/c/perfumes/unisex/colonia",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_UNISEX_fragrances"
   },
@@ -193,7 +193,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Perfumes",
     "category": "Childish",
-    "page": "CHILDISH",
+    "page": "Childish",
     "page_url": "https://douglas.es/c/perfumes/infantil",
     "file_name": "Spain_DOUGLAS_ES_PERFUMES_CHILDISH_CHILDISH"
   },
@@ -435,7 +435,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
     "category": "Neck & Decolletage Care",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://douglas.es/c/tratamiento_facial/cuidado_cuello_y_escote/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_NECK|sp|AND|sp|DeCOLLETAGE|sp|CARE_Masks"
   },
@@ -445,8 +445,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "Facial Cleaning",
-    "page": "Facial Cleaning",
+    "category": "Facial Cleansers",
+    "page": "Facial Cleansers",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_FACIAL|sp|CLEANSING"
   },
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing milk",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/leche_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|milk"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing Gel",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/gel_limpiador",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|Gel"
@@ -478,7 +478,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing Foam",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/espuma_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|Foam"
@@ -489,7 +489,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing Balm",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial/balsamo_limpiador",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_Cleansing|sp|Balm"
@@ -500,7 +500,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_facial/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_FACIAL|sp|CLEANSING_See|sp|all|sp|categories"
@@ -622,7 +622,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
     "category": "Lip Treatment",
-    "page": "lip care",
+    "page": "Lip Care",
     "page_url": "https://douglas.es/c/tratamiento_facial/tratamiento_de_labios/tratamiento_de_labios",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_LIP|sp|TREATMENT_lip|sp|care"
   },
@@ -655,7 +655,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
     "category": "Scrubs & Masks",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://douglas.es/c/tratamiento_facial/exfoliantes_y_mascarillas/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SCRUBS|sp|AND|sp|MASKS_Masks"
   },
@@ -776,7 +776,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://douglas.es/c/tratamiento_corporal",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY_BODY"
   },
@@ -786,8 +786,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Creams and Lotions",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/cremas_y_lociones",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_Body|sp|Creams|sp|and|sp|Lotions"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Hand Creams",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/cremas_de_manos",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_Hand|sp|Creams"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Essential oils",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/aceites_esenciales",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_Essential|sp|oils"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "scrubs",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_scrubs"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_See|sp|all|sp|categories"
@@ -896,8 +896,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY TREATMENTS",
-    "page": "BODY TREATMENTS",
+    "category": "Treatments for Body",
+    "page": "Treatments for Body",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_BODY|sp|TREATMENTS"
   },
@@ -907,7 +907,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY TREATMENTS",
+    "category": "Treatments for Body",
     "page": "Anti-cellulite",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos/anticeluliticos",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_Anti|h|cellulite"
@@ -918,7 +918,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY TREATMENTS",
+    "category": "Treatments for Body",
     "page": "reducers",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos/reductores",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_reducers"
@@ -929,7 +929,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY TREATMENTS",
+    "category": "Treatments for Body",
     "page": "Anti stretch marks",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos/antiestrias",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_Anti|sp|stretch|sp|marks"
@@ -940,7 +940,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY TREATMENTS",
+    "category": "Treatments for Body",
     "page": "Serums",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos/serum",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_Serums"
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "BODY TREATMENTS",
+    "category": "Treatments for Body",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_See|sp|all|sp|categories"
@@ -962,8 +962,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SCENTED LINE",
-    "page": "SCENTED LINE",
+    "category": "Scented Line",
+    "page": "Scented Line",
     "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada",
     "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_SCENTED|sp|LINE"
   },
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SCENTED LINE",
+    "category": "Scented Line",
     "page": "Body Creams and Lotions",
     "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/cremas_y_lociones_corporales",
     "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Body|sp|Creams|sp|and|sp|Lotions"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SCENTED LINE",
+    "category": "Scented Line",
     "page": "Body Mist",
     "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/body_mist",
     "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Body|sp|Mist"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SCENTED LINE",
+    "category": "Scented Line",
     "page": "Handcream",
     "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/crema_de_manos",
     "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Handcream"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
-    "category": "SCENTED LINE",
+    "category": "Scented Line",
     "page": "Other Treatments",
     "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/otros",
     "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Other|sp|Treatments"
@@ -1160,8 +1160,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "LIPS MAKEUP",
-    "page": "LIPS MAKEUP",
+    "category": "Lips Make Up",
+    "page": "Lips Make Up",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_labios",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_LIPS|sp|MAKEUP_LIPS|sp|MAKEUP"
   },
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "LIPS MAKEUP",
+    "category": "Lips Make Up",
     "page": "Primer",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_labios/primer",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_LIPS|sp|MAKEUP_Primer"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "LIPS MAKEUP",
+    "category": "Lips Make Up",
     "page": "Lipstick",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_labios/barra_de_labios",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_LIPS|sp|MAKEUP_Lipstick"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "LIPS MAKEUP",
+    "category": "Lips Make Up",
     "page": "Gloss",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_labios/gloss",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_LIPS|sp|MAKEUP_Gloss"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "LIPS MAKEUP",
+    "category": "Lips Make Up",
     "page": "profiler",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_labios/perfilador",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_LIPS|sp|MAKEUP_profiler"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "LIPS MAKEUP",
+    "category": "Lips Make Up",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_labios",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_LIPS|sp|MAKEUP_See|sp|all|sp|categories"
@@ -1292,8 +1292,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP NAILS",
-    "page": "MAKEUP NAILS",
+    "category": "Nails Make Up",
+    "page": "Nails Make Up",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_unas",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|NAILS_MAKEUP|sp|NAILS"
   },
@@ -1303,7 +1303,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP NAILS",
+    "category": "Nails Make Up",
     "page": "Top y Base Coat",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_unas/top_y_base_coat",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|NAILS_Top|sp|y|sp|Base|sp|Coat"
@@ -1314,8 +1314,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP NAILS",
-    "page": "Nail polish",
+    "category": "Nails Make Up",
+    "page": "Nail Polish",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_unas/esmalte_laca",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|NAILS_Nail|sp|polish"
   },
@@ -1325,7 +1325,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP NAILS",
+    "category": "Nails Make Up",
     "page": "Nail Treatment",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_unas/tratamiento",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|NAILS_Nail|sp|Treatment"
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP NAILS",
+    "category": "Nails Make Up",
     "page": "Nail Kit",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_unas/kit",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|NAILS_Nail|sp|Kit"
@@ -1347,7 +1347,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Make Up",
-    "category": "MAKEUP NAILS",
+    "category": "Nails Make Up",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/maquillaje/maquillaje_unas",
     "file_name": "Spain_DOUGLAS_ES_MAKE|h|UP_MAKEUP|sp|NAILS_See|sp|all|sp|categories"
@@ -1414,7 +1414,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://douglas.es/c/cabello",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR_HAIR"
   },
@@ -1469,7 +1469,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://douglas.es/c/cabello/profesional/cuidado/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_Masks"
   },
@@ -1490,8 +1490,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
-    "page": "FIXATION",
+    "category": "Fixation",
+    "page": "Fixation",
     "page_url": "https://douglas.es/c/cabello/profesional/fijacion",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_FIXATION"
   },
@@ -1501,7 +1501,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "Lacquers and Spray",
     "page_url": "https://douglas.es/c/cabello/profesional/fijacion/lacas_y_spray",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_Lacquers|sp|and|sp|Spray"
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "foams",
     "page_url": "https://douglas.es/c/cabello/profesional/fijacion/espumas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_foams"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "Geles and Gominas",
     "page_url": "https://douglas.es/c/cabello/profesional/fijacion/geles_y_gominas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_Geles|sp|and|sp|Gominas"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "waxes",
     "page_url": "https://douglas.es/c/cabello/profesional/fijacion/ceras",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_waxes"
@@ -1545,7 +1545,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/cabello/profesional/fijacion",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_See|sp|all|sp|categories"
@@ -1556,8 +1556,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://douglas.es/c/cabello/profesional/accesorios",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "plates",
     "page_url": "https://douglas.es/c/cabello/profesional/accesorios/planchas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_plates"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "dryers",
     "page_url": "https://douglas.es/c/cabello/profesional/accesorios/secadores",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_dryers"
@@ -1589,8 +1589,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "brushes",
+    "category": "Hair Accessories",
+    "page": "Brushes",
     "page_url": "https://douglas.es/c/cabello/profesional/accesorios/cepillos",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_brushes"
   },
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "rubber bands",
     "page_url": "https://douglas.es/c/cabello/profesional/accesorios/gomas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_rubber|sp|bands"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/cabello/profesional/accesorios",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_See|sp|all|sp|categories"
@@ -1656,7 +1656,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://douglas.es/c/cabello/consumo/cuidado/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|CARE_Masks"
   },
@@ -1688,8 +1688,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "COLORATION",
-    "page": "COLORATION",
+    "category": "Colouring",
+    "page": "Colouring",
     "page_url": "https://douglas.es/c/cabello/consumo/coloracion",
     "file_name": "Spain_DOUGLAS_ES_HAIR_COLORATION_COLORATION"
   },
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "COLORATION",
+    "category": "Colouring",
     "page": "Permanent Coloring",
     "page_url": "https://douglas.es/c/cabello/consumo/coloracion/permanente",
     "file_name": "Spain_DOUGLAS_ES_HAIR_COLORATION_Permanent|sp|Coloring"
@@ -1710,7 +1710,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "COLORATION",
+    "category": "Colouring",
     "page": "Color bath",
     "page_url": "https://douglas.es/c/cabello/consumo/coloracion/bano_de_color",
     "file_name": "Spain_DOUGLAS_ES_HAIR_COLORATION_Color|sp|bath"
@@ -1721,7 +1721,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "COLORATION",
+    "category": "Colouring",
     "page": "Non-Permanent Coloration",
     "page_url": "https://douglas.es/c/cabello/consumo/coloracion/no_permanente",
     "file_name": "Spain_DOUGLAS_ES_HAIR_COLORATION_Non|h|Permanent|sp|Coloration"
@@ -1732,7 +1732,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "COLORATION",
+    "category": "Colouring",
     "page": "Retouches and Highlights",
     "page_url": "https://douglas.es/c/cabello/consumo/coloracion/retoques_y_mechas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_COLORATION_Retouches|sp|and|sp|Highlights"
@@ -1743,7 +1743,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "COLORATION",
+    "category": "Colouring",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/cabello/consumo/coloracion",
     "file_name": "Spain_DOUGLAS_ES_HAIR_COLORATION_See|sp|all|sp|categories"
@@ -1754,8 +1754,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
-    "page": "FIXATION",
+    "category": "Fixation",
+    "page": "Fixation",
     "page_url": "https://douglas.es/c/cabello/consumo/fijacion",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_FIXATION"
   },
@@ -1765,7 +1765,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "Lacquers and Spray",
     "page_url": "https://douglas.es/c/cabello/consumo/fijacion/lacas_y_spray",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_Lacquers|sp|and|sp|Spray"
@@ -1776,7 +1776,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "foams",
     "page_url": "https://douglas.es/c/cabello/consumo/fijacion/espumas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_foams"
@@ -1787,7 +1787,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "Geles and Gominas",
     "page_url": "https://douglas.es/c/cabello/consumo/fijacion/geles_y_gominas",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_Geles|sp|and|sp|Gominas"
@@ -1798,7 +1798,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "waxes",
     "page_url": "https://douglas.es/c/cabello/consumo/fijacion/ceras",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_waxes"
@@ -1809,7 +1809,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "FIXATION",
+    "category": "Fixation",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/cabello/consumo/fijacion",
     "file_name": "Spain_DOUGLAS_ES_HAIR_FIXATION_See|sp|all|sp|categories"
@@ -1820,8 +1820,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://douglas.es/c/cabello/consumo/accesorios",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -1831,8 +1831,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "brushes",
+    "category": "Hair Accessories",
+    "page": "Brushes",
     "page_url": "https://douglas.es/c/cabello/consumo/accesorios/cepillos",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_brushes"
   },
@@ -1842,7 +1842,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "combs",
     "page_url": "https://douglas.es/c/cabello/consumo/accesorios/peines",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_combs"
@@ -1853,7 +1853,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Others",
     "page_url": "https://douglas.es/c/cabello/consumo/accesorios/otros",
     "file_name": "Spain_DOUGLAS_ES_HAIR_HAIR|sp|ACCESSORIES_Others"
@@ -1864,8 +1864,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "HYGIENE",
-    "page": "HYGIENE",
+    "category": "Hygiene",
+    "page": "Hygiene",
     "page_url": "https://douglas.es/c/higiene",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_HYGIENE_HYGIENE"
   },
@@ -1875,8 +1875,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "CORPORAL HYGIENE",
-    "page": "CORPORAL HYGIENE",
+    "category": "Body Hygiene",
+    "page": "Body Hygiene",
     "page_url": "https://douglas.es/c/higiene/corporal",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_CORPORAL|sp|HYGIENE_CORPORAL|sp|HYGIENE"
   },
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "CORPORAL HYGIENE",
+    "category": "Body Hygiene",
     "page": "bath gels",
     "page_url": "https://douglas.es/c/higiene/corporal/geles_de_bano",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_CORPORAL|sp|HYGIENE_bath|sp|gels"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "CORPORAL HYGIENE",
+    "category": "Body Hygiene",
     "page": "Hand soap",
     "page_url": "https://douglas.es/c/higiene/corporal/jabon_de_manos",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_CORPORAL|sp|HYGIENE_Hand|sp|soap"
@@ -1908,7 +1908,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "CORPORAL HYGIENE",
+    "category": "Body Hygiene",
     "page": "Wet wipes",
     "page_url": "https://douglas.es/c/higiene/corporal/toallitas_humedas",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_CORPORAL|sp|HYGIENE_Wet|sp|wipes"
@@ -1919,7 +1919,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "CORPORAL HYGIENE",
+    "category": "Body Hygiene",
     "page": "Bath salts",
     "page_url": "https://douglas.es/c/higiene/corporal/sales_de_bano",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_CORPORAL|sp|HYGIENE_Bath|sp|salts"
@@ -1930,7 +1930,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "CORPORAL HYGIENE",
+    "category": "Body Hygiene",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/higiene/corporal",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_CORPORAL|sp|HYGIENE_See|sp|all|sp|categories"
@@ -1941,8 +1941,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEODORANTS",
-    "page": "DEODORANTS",
+    "category": "Deodorants",
+    "page": "Deodorants",
     "page_url": "https://douglas.es/c/higiene/desodorantes",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEODORANTS_DEODORANTS"
   },
@@ -1952,7 +1952,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "Desodorantes Spray",
     "page_url": "https://douglas.es/c/higiene/desodorantes/spray",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEODORANTS_Desodorantes|sp|Spray"
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "Desodorantes Roll On",
     "page_url": "https://douglas.es/c/higiene/desodorantes/roll_on",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEODORANTS_Desodorantes|sp|Roll|sp|On"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "Desodorantes Stick",
     "page_url": "https://douglas.es/c/higiene/desodorantes/stick",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEODORANTS_Desodorantes|sp|Stick"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "Cream Deodorants",
     "page_url": "https://douglas.es/c/higiene/desodorantes/en_crema",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEODORANTS_Cream|sp|Deodorants"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/higiene/desodorantes",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEODORANTS_See|sp|all|sp|categories"
@@ -2007,8 +2007,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "ORAL HYGIENE",
-    "page": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
+    "page": "Oral Hygiene",
     "page_url": "https://douglas.es/c/higiene/bucal",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_ORAL|sp|HYGIENE_ORAL|sp|HYGIENE"
   },
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Manual Toothbrushes",
     "page_url": "https://douglas.es/c/higiene/bucal/cepillos_dentales_manuales",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_ORAL|sp|HYGIENE_Manual|sp|Toothbrushes"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Electric Toothbrushes",
     "page_url": "https://douglas.es/c/higiene/bucal/cepillos_dentales_electricos",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_ORAL|sp|HYGIENE_Electric|sp|Toothbrushes"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Electric Dental Parts",
     "page_url": "https://douglas.es/c/higiene/bucal/recambios_dentales_electricos",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_ORAL|sp|HYGIENE_Electric|sp|Dental|sp|Parts"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "Toothpaste",
     "page_url": "https://douglas.es/c/higiene/bucal/pastas_dentales",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_ORAL|sp|HYGIENE_Toothpaste"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "ORAL HYGIENE",
+    "category": "Oral Hygiene",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/higiene/bucal",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_ORAL|sp|HYGIENE_See|sp|all|sp|categories"
@@ -2095,8 +2095,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "BODY ACCESSORIES",
-    "page": "BODY ACCESSORIES",
+    "category": "Body Accessories",
+    "page": "Body Accessories",
     "page_url": "https://douglas.es/c/higiene/accesorios_corporales",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_BODY|sp|ACCESSORIES_BODY|sp|ACCESSORIES"
   },
@@ -2106,7 +2106,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "sponges",
     "page_url": "https://douglas.es/c/higiene/accesorios_corporales/esponjas_y_accesorios",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_BODY|sp|ACCESSORIES_sponges"
@@ -2117,7 +2117,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "Nail clipper",
     "page_url": "https://douglas.es/c/higiene/accesorios_corporales/cortaunas",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_BODY|sp|ACCESSORIES_Nail|sp|clipper"
@@ -2128,7 +2128,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/higiene/accesorios_corporales",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_BODY|sp|ACCESSORIES_See|sp|all|sp|categories"
@@ -2139,8 +2139,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEPILATORIOS",
-    "page": "DEPILATORIOS",
+    "category": "Depilatories",
+    "page": "Depilatories",
     "page_url": "https://douglas.es/c/higiene/depilatorios",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEPILATORIOS_DEPILATORIOS"
   },
@@ -2150,7 +2150,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEPILATORIOS",
+    "category": "Depilatories",
     "page": "cold wax",
     "page_url": "https://douglas.es/c/higiene/depilatorios/cera_fria",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEPILATORIOS_cold|sp|wax"
@@ -2161,7 +2161,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEPILATORIOS",
+    "category": "Depilatories",
     "page": "hot wax",
     "page_url": "https://douglas.es/c/higiene/depilatorios/cera_caliente",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEPILATORIOS_hot|sp|wax"
@@ -2172,7 +2172,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEPILATORIOS",
+    "category": "Depilatories",
     "page": "Cream Depilatories",
     "page_url": "https://douglas.es/c/higiene/depilatorios/cremas_depilatorias",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEPILATORIOS_Cream|sp|Depilatories"
@@ -2183,7 +2183,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEPILATORIOS",
+    "category": "Depilatories",
     "page": "Disposables and Systems",
     "page_url": "https://douglas.es/c/higiene/depilatorios/maquinilla_y_desechable",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEPILATORIOS_Disposables|sp|and|sp|Systems"
@@ -2194,7 +2194,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "DEPILATORIOS",
+    "category": "Depilatories",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/higiene/depilatorios",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_DEPILATORIOS_See|sp|all|sp|categories"
@@ -2205,8 +2205,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "INTIMATE HYGIENE",
-    "page": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
+    "page": "Intimate Hygiene",
     "page_url": "https://douglas.es/c/higiene/intima",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_INTIMATE|sp|HYGIENE_INTIMATE|sp|HYGIENE"
   },
@@ -2216,7 +2216,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "compresses",
     "page_url": "https://douglas.es/c/higiene/intima/compresas",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_INTIMATE|sp|HYGIENE_compresses"
@@ -2227,7 +2227,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "tampons",
     "page_url": "https://douglas.es/c/higiene/intima/tampones",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_INTIMATE|sp|HYGIENE_tampons"
@@ -2238,7 +2238,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "Protege Slips",
     "page_url": "https://douglas.es/c/higiene/intima/protege_slips",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_INTIMATE|sp|HYGIENE_Protege|sp|Slips"
@@ -2249,7 +2249,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "Intimate Gel and Wipes",
     "page_url": "https://douglas.es/c/higiene/intima/gel_y_toallitas_intimas",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_INTIMATE|sp|HYGIENE_Intimate|sp|Gel|sp|and|sp|Wipes"
@@ -2260,7 +2260,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "INTIMATE HYGIENE",
+    "category": "Intimate Hygiene",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/higiene/intima",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_INTIMATE|sp|HYGIENE_See|sp|all|sp|categories"
@@ -2271,8 +2271,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "GIFT BASKETS",
-    "page": "GIFT BASKETS",
+    "category": "Gift Baskets",
+    "page": "Gift Baskets",
     "page_url": "https://douglas.es/c/higiene/estuche_regalo",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_GIFT|sp|BASKETS_GIFT|sp|BASKETS"
   },
@@ -2282,7 +2282,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "GIFT BASKETS",
+    "category": "Gift Baskets",
     "page": "Bath and Spa Baskets",
     "page_url": "https://douglas.es/c/higiene/estuche_regalo/bano_y_spa",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_GIFT|sp|BASKETS_Bath|sp|and|sp|Spa|sp|Baskets"
@@ -2293,7 +2293,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "GIFT BASKETS",
+    "category": "Gift Baskets",
     "page": "Body Baskets",
     "page_url": "https://douglas.es/c/higiene/estuche_regalo/estuche_corporales",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_GIFT|sp|BASKETS_Body|sp|Baskets"
@@ -2304,8 +2304,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "SCENTED LINE",
-    "page": "SCENTED LINE",
+    "category": "Scented Line",
+    "page": "Scented Line",
     "page_url": "https://douglas.es/c/higiene/linea_perfumada",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_SCENTED|sp|LINE_SCENTED|sp|LINE"
   },
@@ -2315,7 +2315,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "SCENTED LINE",
+    "category": "Scented Line",
     "page": "bath gels",
     "page_url": "https://douglas.es/c/higiene/linea_perfumada/geles_de_bano",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_SCENTED|sp|LINE_bath|sp|gels"
@@ -2326,7 +2326,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Hygiene",
-    "category": "SCENTED LINE",
+    "category": "Scented Line",
     "page": "Hand soap",
     "page_url": "https://douglas.es/c/higiene/linea_perfumada/jabon_de_manos",
     "file_name": "Spain_DOUGLAS_ES_HYGIENE_SCENTED|sp|LINE_Hand|sp|soap"
@@ -2392,8 +2392,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "PERFUME CASES",
-    "page": "PERFUME CASES",
+    "category": "Perfume Cases",
+    "page": "Perfume Cases",
     "page_url": "https://douglas.es/c/hombre/estuche",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUME|sp|CASES_PERFUME|sp|CASES"
   },
@@ -2403,7 +2403,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "PERFUME CASES",
+    "category": "Perfume Cases",
     "page": "Perfumes",
     "page_url": "https://douglas.es/c/hombre/estuche/eau_de_parfum",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUME|sp|CASES_Perfume"
@@ -2414,7 +2414,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "PERFUME CASES",
+    "category": "Perfume Cases",
     "page": "Cologne",
     "page_url": "https://douglas.es/c/hombre/estuche/eau_de_toilette",
     "file_name": "Spain_DOUGLAS_ES_MAN_PERFUME|sp|CASES_Cologne"
@@ -2425,8 +2425,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SHAVED OFF",
-    "page": "SHAVED OFF",
+    "category": "Shaved Off",
+    "page": "Shaved Off",
     "page_url": "https://douglas.es/c/hombre/afeitado",
     "file_name": "Spain_DOUGLAS_ES_MAN_SHAVED|sp|OFF_SHAVED|sp|OFF"
   },
@@ -2436,7 +2436,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SHAVED OFF",
+    "category": "Shaved Off",
     "page": "Shaving foams",
     "page_url": "https://douglas.es/c/hombre/afeitado/espumas_afeitado",
     "file_name": "Spain_DOUGLAS_ES_MAN_SHAVED|sp|OFF_Shaving|sp|foams"
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SHAVED OFF",
+    "category": "Shaved Off",
     "page": "Shaving Creams",
     "page_url": "https://douglas.es/c/hombre/afeitado/cremas_afeitado",
     "file_name": "Spain_DOUGLAS_ES_MAN_SHAVED|sp|OFF_Shaving|sp|Creams"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SHAVED OFF",
+    "category": "Shaved Off",
     "page": "Shaving Gels",
     "page_url": "https://douglas.es/c/hombre/afeitado/geles_afeitado",
     "file_name": "Spain_DOUGLAS_ES_MAN_SHAVED|sp|OFF_Shaving|sp|Gels"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SHAVED OFF",
+    "category": "Shaved Off",
     "page": "Razors",
     "page_url": "https://douglas.es/c/hombre/afeitado/maquinillas_de_afeitar",
     "file_name": "Spain_DOUGLAS_ES_MAN_SHAVED|sp|OFF_Razors"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "SHAVED OFF",
+    "category": "Shaved Off",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/hombre/afeitado",
     "file_name": "Spain_DOUGLAS_ES_MAN_SHAVED|sp|OFF_See|sp|all|sp|categories"
@@ -2492,7 +2492,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
     "category": "Beard Care",
-    "page": "BEARD CARE",
+    "page": "Beard Care",
     "page_url": "https://douglas.es/c/hombre/cuidado_barba",
     "file_name": "Spain_DOUGLAS_ES_MAN_BEARD|sp|CARE_BEARD|sp|CARE"
   },
@@ -2634,8 +2634,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "DEODORANTS",
-    "page": "DEODORANTS",
+    "category": "Deodorants",
+    "page": "Deodorants",
     "page_url": "https://douglas.es/c/hombre/desodorantes",
     "file_name": "Spain_DOUGLAS_ES_MAN_DEODORANTS_DEODORANTS"
   },
@@ -2645,7 +2645,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "Desodorante Roll On",
     "page_url": "https://douglas.es/c/hombre/desodorantes/roll_on",
     "file_name": "Spain_DOUGLAS_ES_MAN_DEODORANTS_Desodorante|sp|Roll|sp|On"
@@ -2656,7 +2656,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "spray deodorant",
     "page_url": "https://douglas.es/c/hombre/desodorantes/spray",
     "file_name": "Spain_DOUGLAS_ES_MAN_DEODORANTS_spray|sp|deodorant"
@@ -2667,7 +2667,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "DEODORANTS",
+    "category": "Deodorants",
     "page": "Desodorante Stick",
     "page_url": "https://douglas.es/c/hombre/desodorantes/stick",
     "file_name": "Spain_DOUGLAS_ES_MAN_DEODORANTS_Desodorante|sp|Stick"
@@ -2678,8 +2678,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "DEPILATORIOS",
-    "page": "DEPILATORIOS",
+    "category": "Depilatories",
+    "page": "Depilatories",
     "page_url": "https://douglas.es/c/hombre/depilatorios",
     "file_name": "Spain_DOUGLAS_ES_MAN_DEPILATORIOS_DEPILATORIOS"
   },
@@ -2689,7 +2689,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "DEPILATORIOS",
+    "category": "Depilatories",
     "page": "Cream Depilatories",
     "page_url": "https://douglas.es/c/hombre/depilatorios/cremas_depilatorias",
     "file_name": "Spain_DOUGLAS_ES_MAN_DEPILATORIOS_Cream|sp|Depilatories"
@@ -2700,8 +2700,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://douglas.es/c/hombre/cuidado",
     "file_name": "Spain_DOUGLAS_ES_MAN_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Body Creams and Lotions",
     "page_url": "https://douglas.es/c/hombre/cuidado/cremas_y_lociones",
     "file_name": "Spain_DOUGLAS_ES_MAN_BODY|sp|CARE_Body|sp|Creams|sp|and|sp|Lotions"
@@ -2778,7 +2778,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
     "category": "Scrubs & Masks",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://douglas.es/c/hombre/exfoliantes_y_mascarillas/mascarillas",
     "file_name": "Spain_DOUGLAS_ES_MAN_SCRUBS|sp|AND|sp|MASKS_Masks"
   },
@@ -2832,8 +2832,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "FIRST AID KIT",
-    "page": "FIRST AID KIT",
+    "category": "First Aid Kit",
+    "page": "First Aid Kit",
     "page_url": "https://douglas.es/c/parafarmacia/botiquin",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_FIRST|sp|AID|sp|KIT"
   },
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "FIRST AID KIT",
+    "category": "First Aid Kit",
     "page": "Dressings",
     "page_url": "https://douglas.es/c/parafarmacia/botiquin/apositos",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_Dressings"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "FIRST AID KIT",
+    "category": "First Aid Kit",
     "page": "antiseptics",
     "page_url": "https://douglas.es/c/parafarmacia/botiquin/antisepticos",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_antiseptics"
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "FIRST AID KIT",
+    "category": "First Aid Kit",
     "page": "Insect repellent",
     "page_url": "https://douglas.es/c/parafarmacia/botiquin/repelente_insectos",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_Insect|sp|repellent"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "FIRST AID KIT",
+    "category": "First Aid Kit",
     "page": "plaster",
     "page_url": "https://douglas.es/c/parafarmacia/botiquin/esparadrapo",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_plaster"
@@ -2887,7 +2887,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "FIRST AID KIT",
+    "category": "First Aid Kit",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/parafarmacia/botiquin",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_See|sp|all|sp|categories"
@@ -2964,8 +2964,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Facial Cleaning",
-    "page": "Facial Cleaning",
+    "category": "Facial Cleansers",
+    "page": "Facial Cleansers",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_FACIAL|sp|CLEANSING"
   },
@@ -2975,7 +2975,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing milk",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/leche_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|milk"
@@ -2986,7 +2986,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing Gel",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/gel_limpiador",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|Gel"
@@ -2997,7 +2997,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing Foam",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/espuma_limpiadora",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|Foam"
@@ -3008,7 +3008,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "Cleansing Oil",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial/aceite_limpiador",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_Cleansing|sp|Oil"
@@ -3019,7 +3019,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Facial Cleaning",
+    "category": "Facial Cleansers",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/parafarmacia/limpieza_facial",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FACIAL|sp|CLEANSING_See|sp|all|sp|categories"
@@ -3030,8 +3030,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Body Care",
-    "page": "BODY CARE",
+    "category": "Bodycare",
+    "page": "Bodycare",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_BODY|sp|CARE"
   },
@@ -3041,7 +3041,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Essential oils",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado/aceites_esenciales",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_Essential|sp|oils"
@@ -3052,7 +3052,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "scrubs",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_scrubs"
@@ -3063,7 +3063,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "Hand Creams",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado/cremas_de_manos",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_Hand|sp|Creams"
@@ -3074,7 +3074,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "Body Care",
+    "category": "Bodycare",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_See|sp|all|sp|categories"
@@ -3140,8 +3140,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "BODY ACCESSORIES",
-    "page": "BODY ACCESSORIES",
+    "category": "Body Accessories",
+    "page": "Body Accessories",
     "page_url": "https://douglas.es/c/parafarmacia/accesorios_corporales",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|ACCESSORIES_BODY|sp|ACCESSORIES"
   },
@@ -3151,7 +3151,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "Sponges and Accessories",
     "page_url": "https://douglas.es/c/parafarmacia/accesorios_corporales/esponjas_y_accesorios",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|ACCESSORIES_Sponges|sp|and|sp|Accessories"
@@ -3162,7 +3162,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
-    "category": "BODY ACCESSORIES",
+    "category": "Body Accessories",
     "page": "Other Accessories",
     "page_url": "https://douglas.es/c/parafarmacia/accesorios/otros",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|ACCESSORIES_Other|sp|Accessories"
@@ -3173,8 +3173,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Accesories New",
-    "page": "Douglas Accesories New",
+    "category": "New in Douglas Accessories",
+    "page": "New in Douglas Accessories",
     "page_url": "https://douglas.es/b/douglas_accesories_new",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Accesories|sp|New_Douglas|sp|Accesories|sp|New"
   },
@@ -3184,8 +3184,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Accesories New",
-    "page": "Douglas Accesories New",
+    "category": "New in Douglas Accessories",
+    "page": "New in Douglas Accessories",
     "page_url": "https://douglas.es/b/douglas_accesories_new",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Accesories|sp|New_Douglas|sp|Accesories|sp|New"
   },
@@ -3195,7 +3195,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Accesories New",
+    "category": "New in Douglas Accessories",
     "page": "Douglas Essential New",
     "page_url": "https://douglas.es/b/douglas_essential_new",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Accesories|sp|New_Douglas|sp|Essential|sp|New"
@@ -3206,7 +3206,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Accesories New",
+    "category": "New in Douglas Accessories",
     "page": "Douglas Home Spa New",
     "page_url": "https://douglas.es/b/douglas_home_spa_new",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Accesories|sp|New_Douglas|sp|Home|sp|Spa|sp|New"
@@ -3217,8 +3217,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Make Up New",
-    "page": "Douglas Make Up New",
+    "category": "New in Douglas Make Up",
+    "page": "New in Douglas Make Up",
     "page_url": "https://douglas.es/b/douglas_make_up_new",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Make|sp|Up|sp|New_Douglas|sp|Make|sp|Up|sp|New"
   },
@@ -3228,8 +3228,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Make Up New",
-    "page": "Douglas Make Up New",
+    "category": "New in Douglas Make Up",
+    "page": "New in Douglas Make Up",
     "page_url": "https://douglas.es/b/douglas_make_up_new",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Make|sp|Up|sp|New_Douglas|sp|Make|sp|Up|sp|New"
   },
@@ -3239,7 +3239,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Make Up New",
+    "category": "New in Douglas Make Up",
     "page": "Douglas Mask",
     "page_url": "https://douglas.es/b/douglas_mask",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Make|sp|Up|sp|New_Douglas|sp|Mask"
@@ -3250,7 +3250,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Douglas Collection",
-    "category": "Douglas Make Up New",
+    "category": "New in Douglas Make Up",
     "page": "Douglas Sun New",
     "page_url": "https://douglas.es/b/douglas_sun_new",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Make|sp|Up|sp|New_Douglas|sp|Sun|sp|New"
@@ -3298,83 +3298,6 @@
     "page": "Douglas Seasonal",
     "page_url": "https://douglas.es/b/douglas_seasonal",
     "file_name": "Spain_DOUGLAS_ES_DOUGLAS|sp|COLLECTION_Douglas|sp|Skin|sp|Focus_Douglas|sp|Seasonal"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Florence by Mills",
-    "page": "Florence by Mills",
-    "page_url": "https://douglas.es/b/florence_by_mills",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_Florence|sp|by|sp|Mills"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Florence by Mills",
-    "page": "Florence by Mills",
-    "page_url": "https://douglas.es/b/florence_by_mills",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_Florence|sp|by|sp|Mills"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Florence by Mills",
-    "page": "Goodin",
-    "page_url": "https://douglas.es/b/goodin",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_Goodin"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Florence by Mills",
-    "page": "Honest Beauty",
-    "page_url": "https://douglas.es/b/honest_beauty",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_Honest|sp|Beauty"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Florence by Mills",
-    "page": "Isadora",
-    "page_url": "https://douglas.es/b/isadora",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_Isadora"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Florence by Mills",
-    "page": "bohemian garden",
-    "page_url": "https://douglas.es/b/jardin_boheme",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_bohemian|sp|garden"
-  },
-  {
-    "country": "Spain",
-    "retailer": "DOUGLAS_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Florence by Mills",
-    "page": "Kylie Skin",
-    "page_url": "https://douglas.es/b/kylie_skin",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_Kylie|sp|Skin"
   },
   {
     "country": "Spain",
@@ -3449,7 +3372,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
     "category": "Home",
-    "page": "HOME",
+    "page": "Home",
     "page_url": "https://douglas.es/c/hogar",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOME_HOME"
   },
@@ -3459,8 +3382,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD CLEANERS",
-    "page": "HOUSEHOLD CLEANERS",
+    "category": "Household Cleaners",
+    "page": "Household Cleaners",
     "page_url": "https://douglas.es/c/hogar/limpiadores",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|CLEANERS_HOUSEHOLD|sp|CLEANERS"
   },
@@ -3470,7 +3393,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD CLEANERS",
+    "category": "Household Cleaners",
     "page": "Toilet disinfectants",
     "page_url": "https://douglas.es/c/hogar/limpiadores/desinfectantes_wc",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|CLEANERS_Toilet|sp|disinfectants"
@@ -3481,7 +3404,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD CLEANERS",
+    "category": "Household Cleaners",
     "page": "multipurpose",
     "page_url": "https://douglas.es/c/hogar/limpiadores/multiusos",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|CLEANERS_multipurpose"
@@ -3492,7 +3415,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD CLEANERS",
+    "category": "Household Cleaners",
     "page": "Wood Surfaces",
     "page_url": "https://douglas.es/c/hogar/limpiadores/superficies_madera",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|CLEANERS_Wood|sp|Surfaces"
@@ -3503,7 +3426,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD CLEANERS",
+    "category": "Household Cleaners",
     "page": "metal cleaners",
     "page_url": "https://douglas.es/c/hogar/limpiadores/limpia_metales",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|CLEANERS_metal|sp|cleaners"
@@ -3514,7 +3437,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD CLEANERS",
+    "category": "Household Cleaners",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/hogar/limpiadores",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|CLEANERS_See|sp|all|sp|categories"
@@ -3525,8 +3448,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "SOFTENERS AND PEARLS",
-    "page": "SOFTENERS AND PEARLS",
+    "category": "Softners & Pearls",
+    "page": "Softners & Pearls",
     "page_url": "https://douglas.es/c/hogar/suavizantes_y_perlas",
     "file_name": "Spain_DOUGLAS_ES_HOME_SOFTENERS|sp|AND|sp|PEARLS_SOFTENERS|sp|AND|sp|PEARLS"
   },
@@ -3536,7 +3459,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "SOFTENERS AND PEARLS",
+    "category": "Softners & Pearls",
     "page": "Perfuming Pearls",
     "page_url": "https://douglas.es/c/hogar/suavizantes_y_perlas/perlas_perfumadoras",
     "file_name": "Spain_DOUGLAS_ES_HOME_SOFTENERS|sp|AND|sp|PEARLS_Perfuming|sp|Pearls"
@@ -3547,8 +3470,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISPOSABLES AND CONSERVATION",
-    "page": "DISPOSABLES AND CONSERVATION",
+    "category": "Disposable",
+    "page": "Disposable",
     "page_url": "https://douglas.es/c/hogar/desechables_y_conservacion",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISPOSABLES|sp|AND|sp|CONSERVATION_DISPOSABLES|sp|AND|sp|CONSERVATION"
   },
@@ -3558,7 +3481,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISPOSABLES AND CONSERVATION",
+    "category": "Disposable",
     "page": "Trash bags",
     "page_url": "https://douglas.es/c/hogar/desechables_y_conservacion/bolsas_basura",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISPOSABLES|sp|AND|sp|CONSERVATION_Trash|sp|bags"
@@ -3569,7 +3492,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISPOSABLES AND CONSERVATION",
+    "category": "Disposable",
     "page": "Conservation Bags",
     "page_url": "https://douglas.es/c/hogar/desechables_y_conservacion/bolsas_conservacion",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISPOSABLES|sp|AND|sp|CONSERVATION_Conservation|sp|Bags"
@@ -3580,7 +3503,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISPOSABLES AND CONSERVATION",
+    "category": "Disposable",
     "page": "Aluminum Foil",
     "page_url": "https://douglas.es/c/hogar/desechables_y_conservacion/papel_aluminio",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISPOSABLES|sp|AND|sp|CONSERVATION_Aluminum|sp|Foil"
@@ -3591,7 +3514,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISPOSABLES AND CONSERVATION",
+    "category": "Disposable",
     "page": "papel film",
     "page_url": "https://douglas.es/c/hogar/desechables_y_conservacion/papel_film",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISPOSABLES|sp|AND|sp|CONSERVATION_papel|sp|film"
@@ -3602,7 +3525,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISPOSABLES AND CONSERVATION",
+    "category": "Disposable",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/hogar/desechables_y_conservacion",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISPOSABLES|sp|AND|sp|CONSERVATION_See|sp|all|sp|categories"
@@ -3613,8 +3536,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DETERGENTS",
-    "page": "DETERGENTS",
+    "category": "Detergents",
+    "page": "Detergents",
     "page_url": "https://douglas.es/c/hogar/detergentes",
     "file_name": "Spain_DOUGLAS_ES_HOME_DETERGENTS_DETERGENTS"
   },
@@ -3624,7 +3547,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DETERGENTS",
+    "category": "Detergents",
     "page": "Washing machine cleaner and anti-limescale",
     "page_url": "https://douglas.es/c/hogar/detergentes/limpia_lavadoras_y_antical",
     "file_name": "Spain_DOUGLAS_ES_HOME_DETERGENTS_Washing|sp|machine|sp|cleaner|sp|and|sp|anti|h|limescale"
@@ -3635,7 +3558,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DETERGENTS",
+    "category": "Detergents",
     "page": "Capsules Machine",
     "page_url": "https://douglas.es/c/hogar/detergentes/maquina_capsulas",
     "file_name": "Spain_DOUGLAS_ES_HOME_DETERGENTS_Capsules|sp|Machine"
@@ -3646,7 +3569,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DETERGENTS",
+    "category": "Detergents",
     "page": "Liquid Machine",
     "page_url": "https://douglas.es/c/hogar/detergentes/maquina_liquido",
     "file_name": "Spain_DOUGLAS_ES_HOME_DETERGENTS_Liquid|sp|Machine"
@@ -3657,8 +3580,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISHWASHER",
-    "page": "DISHWASHER",
+    "category": "Dishwasher",
+    "page": "Dishwasher",
     "page_url": "https://douglas.es/c/hogar/lavavajillas",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISHWASHER_DISHWASHER"
   },
@@ -3668,7 +3591,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISHWASHER",
+    "category": "Dishwasher",
     "page": "Accessories for Dishwashers",
     "page_url": "https://douglas.es/c/hogar/lavavajillas/complementos",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISHWASHER_Accessories|sp|for|sp|Dishwashers"
@@ -3679,7 +3602,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "DISHWASHER",
+    "category": "Dishwasher",
     "page": "Dishwasher Machine Tablets",
     "page_url": "https://douglas.es/c/hogar/lavavajillas/maquina_pastillas",
     "file_name": "Spain_DOUGLAS_ES_HOME_DISHWASHER_Dishwasher|sp|Machine|sp|Tablets"
@@ -3723,8 +3646,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD PAPER",
-    "page": "HOUSEHOLD PAPER",
+    "category": "Household Paper",
+    "page": "Household Paper",
     "page_url": "https://douglas.es/c/hogar/papel",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|PAPER_HOUSEHOLD|sp|PAPER"
   },
@@ -3734,7 +3657,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD PAPER",
+    "category": "Household Paper",
     "page": "Handkerchiefs and Tissues",
     "page_url": "https://douglas.es/c/hogar/papel/panuelos_y_tisues",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|PAPER_Handkerchiefs|sp|and|sp|Tissues"
@@ -3745,7 +3668,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD PAPER",
+    "category": "Household Paper",
     "page": "Napkins",
     "page_url": "https://douglas.es/c/hogar/papel/servilletas",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|PAPER_Napkins"
@@ -3756,7 +3679,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD PAPER",
+    "category": "Household Paper",
     "page": "Wet Toilet",
     "page_url": "https://douglas.es/c/hogar/papel/higienico_humedo",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD|sp|PAPER_Wet|sp|Toilet"
@@ -3767,8 +3690,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "INSECTICIDES",
-    "page": "INSECTICIDES",
+    "category": "Insecticides",
+    "page": "Insecticides",
     "page_url": "https://douglas.es/c/hogar/insecticidas",
     "file_name": "Spain_DOUGLAS_ES_HOME_INSECTICIDES_INSECTICIDES"
   },
@@ -3778,7 +3701,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "INSECTICIDES",
+    "category": "Insecticides",
     "page": "Aerosol sprays",
     "page_url": "https://douglas.es/c/hogar/insecticidas/aerosoles",
     "file_name": "Spain_DOUGLAS_ES_HOME_INSECTICIDES_Aerosol|sp|sprays"
@@ -3789,7 +3712,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "INSECTICIDES",
+    "category": "Insecticides",
     "page": "Antipolillas",
     "page_url": "https://douglas.es/c/hogar/insecticidas/antipolillas",
     "file_name": "Spain_DOUGLAS_ES_HOME_INSECTICIDES_Antipolillas"
@@ -3800,7 +3723,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "INSECTICIDES",
+    "category": "Insecticides",
     "page": "Electrical Appliances and Spare Parts",
     "page_url": "https://douglas.es/c/hogar/insecticidas/aparatos_y_recambios_electricos",
     "file_name": "Spain_DOUGLAS_ES_HOME_INSECTICIDES_Electrical|sp|Appliances|sp|and|sp|Spare|sp|Parts"
@@ -3811,7 +3734,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "INSECTICIDES",
+    "category": "Insecticides",
     "page": "Baits and Traps",
     "page_url": "https://douglas.es/c/hogar/insecticidas/cebos_y_trampas",
     "file_name": "Spain_DOUGLAS_ES_HOME_INSECTICIDES_Baits|sp|and|sp|Traps"
@@ -3822,7 +3745,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "INSECTICIDES",
+    "category": "Insecticides",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/hogar/insecticidas",
     "file_name": "Spain_DOUGLAS_ES_HOME_INSECTICIDES_See|sp|all|sp|categories"
@@ -3833,8 +3756,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD",
-    "page": "HOUSEHOLD",
+    "category": "Household",
+    "page": "Household",
     "page_url": "https://douglas.es/c/hogar/menaje",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD_HOUSEHOLD"
   },
@@ -3844,7 +3767,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "HOUSEHOLD",
+    "category": "Household",
     "page": "containers",
     "page_url": "https://douglas.es/c/hogar/menaje/recipientes",
     "file_name": "Spain_DOUGLAS_ES_HOME_HOUSEHOLD_containers"
@@ -3921,8 +3844,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "CLEANING STUFF",
-    "page": "CLEANING STUFF",
+    "category": "Cleanser",
+    "page": "Cleanser",
     "page_url": "https://douglas.es/c/hogar/utiles_de_limpieza",
     "file_name": "Spain_DOUGLAS_ES_HOME_CLEANING|sp|STUFF_CLEANING|sp|STUFF"
   },
@@ -3932,7 +3855,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "CLEANING STUFF",
+    "category": "Cleanser",
     "page": "Household Gloves",
     "page_url": "https://douglas.es/c/hogar/utiles_de_limpieza/guantes_domesticos",
     "file_name": "Spain_DOUGLAS_ES_HOME_CLEANING|sp|STUFF_Household|sp|Gloves"
@@ -3943,7 +3866,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "CLEANING STUFF",
+    "category": "Cleanser",
     "page": "scouring pads",
     "page_url": "https://douglas.es/c/hogar/utiles_de_limpieza/estropajos",
     "file_name": "Spain_DOUGLAS_ES_HOME_CLEANING|sp|STUFF_scouring|sp|pads"
@@ -3954,7 +3877,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "CLEANING STUFF",
+    "category": "Cleanser",
     "page": "Bayetas",
     "page_url": "https://douglas.es/c/hogar/utiles_de_limpieza/bayetas",
     "file_name": "Spain_DOUGLAS_ES_HOME_CLEANING|sp|STUFF_Bayetas"
@@ -3965,7 +3888,7 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Home",
-    "category": "CLEANING STUFF",
+    "category": "Cleanser",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/hogar/utiles_de_limpieza/guantes_domesticos",
     "file_name": "Spain_DOUGLAS_ES_HOME_CLEANING|sp|STUFF_See|sp|all|sp|categories"

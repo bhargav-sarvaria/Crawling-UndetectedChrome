@@ -303,7 +303,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Contemporary",
-    "page": "Men'S",
+    "page": "Men",
     "page_url": "https://www.macys.com/s/contemporary/browse/?gender=men&id=315757&cm_sp=us_hdr-_-own-your-style-_-men%27s-_COL3",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Men|sq|S"
   },
@@ -655,7 +655,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
     "category": "Complete Your Look",
-    "page": "Fine Jewelry",
+    "page": "Fine Jewellery",
     "page_url": "https://www.macys.com/shop/jewelry-watches/all-fine-jewelry?id=65993&cm_sp=us_hdr-_-women-_-65993_fine-jewelry_COL3",
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Fine|sp|Jewelry"
   },
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Active & Outdoor",
+    "category": "Mens Active & Outdoor",
     "page": "All Activewear",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-activewear?id=3296&cm_sp=us_hdr-_-men-_-3296_all-activewear_COL2",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Active|sp||as||sp|Outdoor_All|sp|Activewear"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Active & Outdoor",
+    "category": "Mens Active & Outdoor",
     "page": "Outdoor Apparel & Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/outdoor-camping?id=159271&cm_sp=us_hdr-_-men-_-159271_outdoor-apparel-%26-shoes_COL2",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Active|sp||as||sp|Outdoor_Outdoor|sp|Apparel|sp||as||sp|Shoes"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Active & Outdoor",
+    "category": "Mens Active & Outdoor",
     "page": "Sports Fan Shop",
     "page_url": "https://www.macys.com/s/sports-fan-shop/?cm_sp=us_hdr-_-men-_-sports-fan-shop_COL2",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Active|sp||as||sp|Outdoor_Sports|sp|Fan|sp|Shop"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Big & Tall",
+    "category": "Mens Big & Tall",
     "page": "All Big & Tall",
     "page_url": "https://www.macys.com/shop/mens-clothing/big-and-tall?id=45758&cm_sp=us_hdr-_-men-_-45758_all-big-%26-tall_COL2",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Big|sp||as||sp|Tall_All|sp|Big|sp||as||sp|Tall"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Big & Tall",
+    "category": "Mens Big & Tall",
     "page": "Bottoms",
     "page_url": "https://www.macys.com/shop/mens-clothing/big-and-tall/Mens_product_type/Jeans%7CPants%7CShorts?id=45758&cm_sp=us_hdr-_-men-_-bottoms_COL2",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Big|sp||as||sp|Tall_Bottoms"
@@ -1017,7 +1017,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Big & Tall",
+    "category": "Mens Big & Tall",
     "page": "Tops",
     "page_url": "https://www.macys.com/shop/mens-clothing/big-and-tall/Mens_product_type/Casual%20Shirts%7CSweaters%7CSweatshirts?id=45758&cm_sp=us_hdr-_-men-_-tops_COL2",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Big|sp||as||sp|Tall_Tops"
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Athletic Shoes & Sneakers",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-sneakers?id=55642&cm_sp=us_hdr-_-men-_-55642_athletic-shoes-%26-sneakers_COL3",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Athletic|sp|Shoes|sp||as||sp|Sneakers"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Boots",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-boots?id=55637&cm_sp=us_hdr-_-men-_-55637_boots_COL3",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Boots"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Casual Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-casual-shoes?id=59851&cm_sp=us_hdr-_-men-_-59851_casual-shoes_COL3",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Casual|sp|Shoes"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Dress Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/dress-shoes?id=70405&cm_sp=us_hdr-_-men-_-70405_dress-shoes_COL3",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Dress|sp|Shoes"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Men",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Slippers",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-slippers?id=55641&cm_sp=us_hdr-_-men-_-55641_slippers_COL3",
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Slippers"
@@ -1238,7 +1238,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
     "category": "Fragrance",
-    "page": "All Fragrance",
+    "page": "All in Fragrance",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/all-fragrance?id=277259&cm_sp=us_hdr-_-beauty-_-277259_all-fragrance_COL2",
     "file_name": "United|sp|States_Macys_Beauty_Fragrance_All|sp|Fragrance"
   },
@@ -1392,7 +1392,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
     "category": "Make Up",
-    "page": "All Make Up",
+    "page": "All in Make Up",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/makeup?id=30077&cm_sp=us_hdr-_-beauty-_-30077_all-makeup_COL3",
     "file_name": "United|sp|States_Macys_Beauty_Makeup_All|sp|Makeup"
   },
@@ -1590,7 +1590,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Beauty",
     "category": "Beauty Gifts",
-    "page": "Gifts With Purchase",
+    "page": "Gifts with Purchase",
     "page_url": "https://www.macys.com/shop/makeup-and-perfume/beauty-gift-with-purchase?id=58476&cm_sp=us_hdr-_-beauty-_-58476_gifts-with-purchase_COL4",
     "file_name": "United|sp|States_Macys_Beauty_Beauty|sp|Gifts_Gifts|sp|With|sp|Purchase"
   },
@@ -1798,8 +1798,8 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home",
-    "category": "All Luggage",
-    "page": "All Luggage",
+    "category": "All in Luggage",
+    "page": "All in Luggage",
     "page_url": "https://www.macys.com/shop/luggage?id=16908&cm_sp=us_hdr-_-home-_-16908_all-luggage_COL1",
     "file_name": "United|sp|States_Macys_Home_All|sp|Luggage_All|sp|Luggage"
   },
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home",
-    "category": "Decor",
+    "category": "Decorations",
     "page": "All Home Decor",
     "page_url": "https://www.macys.com/shop/all-home-decor?id=190331&cm_sp=us_hdr-_-home-_-190331_all-home-d%C3%A9cor_COL3",
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_All|sp|Home|sp|Decor"
@@ -2029,7 +2029,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home",
-    "category": "Decor",
+    "category": "Decorations",
     "page": "Art & Wall Decor",
     "page_url": "https://www.macys.com/shop/all-home-decor/all-wall-decor-mirrors?id=190362&cm_sp=us_hdr-_-home-_-190362_art-%26-wall-d%C3%A9cor_COL3",
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Art|sp||as||sp|Wall|sp|Decor"
@@ -2040,7 +2040,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home",
-    "category": "Decor",
+    "category": "Decorations",
     "page": "Artificial Plants",
     "page_url": "https://www.macys.com/shop/all-home-decor/artificial-plants?id=190626&cm_sp=us_hdr-_-home-_-190626_artificial-plants_COL3",
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Artificial|sp|Plants"
@@ -2051,7 +2051,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home",
-    "category": "Decor",
+    "category": "Decorations",
     "page": "Curtains & Drapes",
     "page_url": "https://www.macys.com/shop/window-treatments-blinds/curtains-drapes?id=198065&cm_sp=us_hdr-_-home-_-198065_curtains-%26-drapes_COL3",
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Curtains|sp||as||sp|Drapes"
@@ -2062,7 +2062,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home",
-    "category": "Decor",
+    "category": "Decorations",
     "page": "Home Accents",
     "page_url": "https://www.macys.com/shop/all-home-decor/all-home-accents?id=190357&cm_sp=us_hdr-_-home-_-190357_home-accents_COL3",
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Home|sp|Accents"
@@ -2073,7 +2073,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home",
-    "category": "Decor",
+    "category": "Decorations",
     "page": "Lighting",
     "page_url": "https://www.macys.com/shop/all-home-decor/lighting-lamps?id=39267&cm_sp=us_hdr-_-home-_-39267_lighting_COL3",
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Lighting"
@@ -2700,7 +2700,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "New Arrivals",
     "page_url": "https://www.macys.com/shop/kids-clothes/new-arrivals?id=166942&cm_sp=us_hdr-_-kids-_-166942_new-arrivals_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_New|sp|Arrivals"
@@ -2711,7 +2711,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Activewear",
     "page_url": "https://www.macys.com/shop/kids-clothes/girls-activewear?id=177142&cm_sp=us_hdr-_-kids-_-177142_activewear_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Activewear"
@@ -2722,7 +2722,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Basics",
     "page_url": "https://www.macys.com/shop/kids-clothes/basics/Gender/Girls?id=196409&cm_sp=us_hdr-_-kids-_-basics_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Basics"
@@ -2733,7 +2733,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Coats & Jackets",
     "page_url": "https://www.macys.com/shop/kids-clothes/girls-coats-jackets?id=188692&cm_sp=us_hdr-_-kids-_-188692_coats-%26-jackets_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Coats|sp||as||sp|Jackets"
@@ -2744,7 +2744,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Dresses",
     "page_url": "https://www.macys.com/shop/kids-clothes/girls-dresses?id=31460&cm_sp=us_hdr-_-kids-_-31460_dresses_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Dresses"
@@ -2755,7 +2755,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Leggings & Pants",
     "page_url": "https://www.macys.com/shop/kids-clothes/girls-leggings-pants?id=188693&cm_sp=us_hdr-_-kids-_-188693_leggings-%26-pants_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Leggings|sp||as||sp|Pants"
@@ -2766,7 +2766,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Pajamas",
     "page_url": "https://www.macys.com/shop/kids-clothes/girls-pajamas?id=188694&cm_sp=us_hdr-_-kids-_-188694_pajamas_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Pajamas"
@@ -2777,7 +2777,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Sets & Outfits",
     "page_url": "https://www.macys.com/shop/kids-clothes/sets-outfits?id=121243&cm_sp=us_hdr-_-kids-_-121243_sets-%26-outfits_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Sets|sp||as||sp|Outfits"
@@ -2788,7 +2788,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Shirts & Tops",
     "page_url": "https://www.macys.com/shop/kids-clothes/shirts-tops?id=121343&cm_sp=us_hdr-_-kids-_-121343_shirts-%26-tops_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Shirts|sp||as||sp|Tops"
@@ -2799,7 +2799,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Shorts & Skirts",
     "page_url": "https://www.macys.com/shop/kids-clothes/shorts-skirts?id=287859&cm_sp=us_hdr-_-kids-_-287859_shorts-%26-skirts_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Shorts|sp||as||sp|Skirts"
@@ -2810,7 +2810,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Swimwear",
     "page_url": "https://www.macys.com/shop/kids-clothes/girls-swimsuits?id=188699&cm_sp=us_hdr-_-kids-_-188699_swimwear_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Swimwear"
@@ -2821,7 +2821,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Girls' Clothing",
+    "category": "Girls Clothing",
     "page": "Underwear & Socks",
     "page_url": "https://www.macys.com/shop/kids-clothes/underwear-socks?id=72681&cm_sp=us_hdr-_-kids-_-72681_underwear-%26-socks_COL2",
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Underwear|sp||as||sp|Socks"
@@ -2832,7 +2832,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "New Arrivals",
     "page_url": "https://www.macys.com/shop/kids-clothes/new-arrivals?id=166943&cm_sp=us_hdr-_-kids-_-166943_new-arrivals_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_New|sp|Arrivals"
@@ -2843,7 +2843,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Activewear",
     "page_url": "https://www.macys.com/shop/kids-clothes/boys-activewear?id=177143&cm_sp=us_hdr-_-kids-_-177143_activewear_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Activewear"
@@ -2854,7 +2854,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Basics",
     "page_url": "https://www.macys.com/shop/kids-clothes/basics/Gender/Boys?id=196409&cm_sp=us_hdr-_-kids-_-basics-_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Basics"
@@ -2865,7 +2865,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Coats & Jackets",
     "page_url": "https://www.macys.com/shop/kids-clothes/boys-coats-jackets?id=188754&cm_sp=us_hdr-_-kids-_-188754_coats-%26-jackets_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Coats|sp||as||sp|Jackets"
@@ -2876,7 +2876,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Pajamas",
     "page_url": "https://www.macys.com/shop/kids-clothes/boys-pajamas?id=188759&cm_sp=us_hdr-_-kids-_-188759_pajamas_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Pajamas"
@@ -2887,7 +2887,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Pants",
     "page_url": "https://www.macys.com/shop/kids-clothes/boys-pants?id=188756&cm_sp=us_hdr-_-kids-_-188756_pants_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Pants"
@@ -2898,7 +2898,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Sets & Outfits",
     "page_url": "https://www.macys.com/shop/kids-clothes/sets-outfits?id=121344&cm_sp=us_hdr-_-kids-_-121344_sets-%26-outfits_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Sets|sp||as||sp|Outfits"
@@ -2909,7 +2909,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Shirts",
     "page_url": "https://www.macys.com/shop/kids-clothes/boys-shirts?id=121345&cm_sp=us_hdr-_-kids-_-121345_shirts_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Shirts"
@@ -2920,7 +2920,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Shorts",
     "page_url": "https://www.macys.com/shop/kids-clothes/shorts?id=121346&cm_sp=us_hdr-_-kids-_-121346_shorts_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Shorts"
@@ -2931,7 +2931,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Suits & Dress Shirts",
     "page_url": "https://www.macys.com/shop/kids-clothes/suits-dress-shirts?id=63016&cm_sp=us_hdr-_-kids-_-63016_suits-%26-dress-shirts_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Suits|sp||as||sp|Dress|sp|Shirts"
@@ -2942,7 +2942,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Swimwear",
     "page_url": "https://www.macys.com/shop/kids-clothes/boys-swimwear?id=188762&cm_sp=us_hdr-_-kids-_-188762_swimwear_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Swimwear"
@@ -2953,7 +2953,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Kids",
-    "category": "Boys' Clothing",
+    "category": "Boys Clothing",
     "page": "Underwear & Socks",
     "page_url": "https://www.macys.com/shop/kids-clothes/underwear-socks?id=72674&cm_sp=us_hdr-_-kids-_-72674_underwear-%26-socks_COL3",
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Underwear|sp||as||sp|Socks"
@@ -3580,7 +3580,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "All Men'S Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/shop-all-mens-footwear?id=55822&cm_sp=us_hdr-_-shoes-_-55822_all-men%27s-shoes_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_All|sp|Men|sq|S|sp|Shoes"
@@ -3591,7 +3591,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Athletic & Sneakers",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-sneakers?id=55642&cm_sp=us_hdr-_-shoes-_-55642_athletic-%26-sneakers_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Athletic|sp||as||sp|Sneakers"
@@ -3602,7 +3602,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Boots",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-boots?id=55637&cm_sp=us_hdr-_-shoes-_-55637_boots_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Boots"
@@ -3613,7 +3613,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Casual Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-casual-shoes?id=59851&cm_sp=us_hdr-_-shoes-_-59851_casual-shoes_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Casual|sp|Shoes"
@@ -3624,7 +3624,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Dress Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/dress-shoes?id=70405&cm_sp=us_hdr-_-shoes-_-70405_dress-shoes_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Dress|sp|Shoes"
@@ -3635,7 +3635,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Loafers & Drivers",
     "page_url": "https://www.macys.com/shop/mens-clothing/drivers?id=79687&cm_sp=us_hdr-_-shoes-_-79687_loafers-%26-drivers_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Loafers|sp||as||sp|Drivers"
@@ -3646,7 +3646,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Sandals & Flip-Flops",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-sandals?id=55640&cm_sp=us_hdr-_-shoes-_-55640_sandals-%26-flip-flops_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Sandals|sp||as||sp|Flip|h|Flops"
@@ -3657,7 +3657,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Men's Shoes",
+    "category": "Mens Shoes",
     "page": "Slippers",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-slippers?id=55641&cm_sp=us_hdr-_-shoes-_-55641_slippers_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Slippers"
@@ -3668,7 +3668,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Kids' Shoes",
+    "category": "Kids Shoes",
     "page": "All Kids' Shoes",
     "page_url": "https://www.macys.com/shop/kids-clothes/kids-shoes?id=48561&cm_sp=us_hdr-_-shoes-_-48561_all-kids%27-shoes_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_All|sp|Kids|sq||sp|Shoes"
@@ -3679,7 +3679,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Kids' Shoes",
+    "category": "Kids Shoes",
     "page": "Baby Shoes",
     "page_url": "https://www.macys.com/shop/kids-clothes/baby-shoes?id=73512&cm_sp=us_hdr-_-shoes-_-73512_baby-shoes_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_Baby|sp|Shoes"
@@ -3690,7 +3690,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Kids' Shoes",
+    "category": "Kids Shoes",
     "page": "Boys' Shoes",
     "page_url": "https://www.macys.com/shop/kids-clothes/boys-shoes?id=209702&cm_sp=us_hdr-_-shoes-_-209702_boys%27-shoes_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_Boys|sq||sp|Shoes"
@@ -3701,7 +3701,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
-    "category": "Kids' Shoes",
+    "category": "Kids Shoes",
     "page": "Girls' Shoes",
     "page_url": "https://www.macys.com/shop/kids-clothes/girls-shoes?id=209698&cm_sp=us_hdr-_-shoes-_-209698_girls%27-shoes_COL3",
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_Girls|sq||sp|Shoes"
@@ -3745,7 +3745,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "All Fine Jewelry",
     "page_url": "https://www.macys.com/shop/jewelry-watches/all-fine-jewelry?id=65993&cm_sp=us_hdr-_-jewelry-_-65993_all-fine-jewelry_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_All|sp|Fine|sp|Jewelry"
@@ -3756,7 +3756,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Bracelets",
     "page_url": "https://www.macys.com/shop/jewelry-watches/bracelets?id=10834&cm_sp=us_hdr-_-jewelry-_-10834_bracelets_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Bracelets"
@@ -3767,7 +3767,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Earrings",
     "page_url": "https://www.macys.com/shop/jewelry-watches/earrings?id=10835&cm_sp=us_hdr-_-jewelry-_-10835_earrings_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Earrings"
@@ -3778,7 +3778,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.macys.com/shop/jewelry-watches/necklaces?id=9569&cm_sp=us_hdr-_-jewelry-_-9569_necklaces_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Necklaces"
@@ -3789,7 +3789,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Rings",
     "page_url": "https://www.macys.com/shop/jewelry-watches/rings?id=21176&cm_sp=us_hdr-_-jewelry-_-21176_rings_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Rings"
@@ -3800,7 +3800,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Diamonds",
     "page_url": "https://www.macys.com/shop/jewelry-watches/diamond-jewelry?id=57702&cm_sp=us_hdr-_-jewelry-_-57702_diamonds_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Diamonds"
@@ -3811,7 +3811,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Diamond Earrings",
     "page_url": "https://www.macys.com/shop/jewelry-watches/diamond-earrings?id=240928&cm_sp=us_hdr-_-jewelry-_-240928_diamond-earrings_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Diamond|sp|Earrings"
@@ -3822,7 +3822,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Gemstones",
     "page_url": "https://www.macys.com/shop/jewelry-watches/gemstones?id=2903&cm_sp=us_hdr-_-jewelry-_-2903_gemstones_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Gemstones"
@@ -3833,7 +3833,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Gold",
     "page_url": "https://www.macys.com/shop/jewelry-watches/gold-jewelry?id=2904&cm_sp=us_hdr-_-jewelry-_-2904_gold_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Gold"
@@ -3844,7 +3844,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fine Jewelry",
+    "category": "Fine Jewellery",
     "page": "Pearls",
     "page_url": "https://www.macys.com/shop/jewelry-watches/pearls?id=42771&cm_sp=us_hdr-_-jewelry-_-42771_pearls_COL1",
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Pearls"
@@ -3877,7 +3877,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fashion Jewelry",
+    "category": "Fashion Jewellery",
     "page": "All Fashion Jewelry",
     "page_url": "https://www.macys.com/shop/jewelry-watches/all-fashion-jewelry?id=55352&cm_sp=us_hdr-_-jewelry-_-55352_all-fashion-jewelry_COL2",
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_All|sp|Fashion|sp|Jewelry"
@@ -3888,7 +3888,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fashion Jewelry",
+    "category": "Fashion Jewellery",
     "page": "Bracelets",
     "page_url": "https://www.macys.com/shop/jewelry-watches/bracelets?id=78232&cm_sp=us_hdr-_-jewelry-_-78232_bracelets_COL2",
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Bracelets"
@@ -3899,7 +3899,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fashion Jewelry",
+    "category": "Fashion Jewellery",
     "page": "Earrings",
     "page_url": "https://www.macys.com/shop/jewelry-watches/earrings?id=78233&cm_sp=us_hdr-_-jewelry-_-78233_earrings_COL2",
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Earrings"
@@ -3910,7 +3910,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fashion Jewelry",
+    "category": "Fashion Jewellery",
     "page": "Necklaces",
     "page_url": "https://www.macys.com/shop/jewelry-watches/necklaces?id=78234&cm_sp=us_hdr-_-jewelry-_-78234_necklaces_COL2",
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Necklaces"
@@ -3921,7 +3921,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Fashion Jewelry",
+    "category": "Fashion Jewellery",
     "page": "Rings",
     "page_url": "https://www.macys.com/shop/jewelry-watches/rings?id=78235&cm_sp=us_hdr-_-jewelry-_-78235_rings_COL2",
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Rings"
@@ -3932,7 +3932,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Men's Jewelry",
+    "category": "Mens Jewellery",
     "page": "Men'S Jewelry & Cufflinks",
     "page_url": "https://www.macys.com/shop/jewelry-watches/mens-jewelry-accessories?id=43877&cm_sp=us_hdr-_-jewelry-_-43877_men%27s-jewelry-%26-cufflinks_COL2",
     "file_name": "United|sp|States_Macys_Jewelry_Men|sq|s|sp|Jewelry_Men|sq|S|sp|Jewelry|sp||as||sp|Cufflinks"
@@ -3998,7 +3998,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Jewelry & Watch Gifts",
+    "category": "Jewellery & Watches Gifts",
     "page": "Shop All Gifts",
     "page_url": "https://www.macys.com/shop/jewelry-watches/shop-all-gifts?id=244108&cm_sp=us_hdr-_-jewelry-_-244108_shop-all-gifts_COL4",
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Shop|sp|All|sp|Gifts"
@@ -4009,7 +4009,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Jewelry & Watch Gifts",
+    "category": "Jewellery & Watches Gifts",
     "page": "Gift Sets",
     "page_url": "https://www.macys.com/shop/jewelry-watches/gift-sets?id=66424&cm_sp=us_hdr-_-jewelry-_-66424_gift-sets_COL4",
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Gift|sp|Sets"
@@ -4020,7 +4020,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Jewelry & Watch Gifts",
+    "category": "Jewellery & Watches Gifts",
     "page": "Gifts $25 & Under",
     "page_url": "https://www.macys.com/shop/jewelry-watches/gifts-25-under?id=264958&cm_sp=us_hdr-_-jewelry-_-264958_gifts-%2425-%26-under_COL4",
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Gifts|sp||dol|25|sp||as||sp|Under"
@@ -4031,7 +4031,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Jewelry & Watch Gifts",
+    "category": "Jewellery & Watches Gifts",
     "page": "Gifts $100 & Under",
     "page_url": "https://www.macys.com/shop/jewelry-watches/gifts-100-under?id=267462&cm_sp=us_hdr-_-jewelry-_-267462_gifts-%24100-%26-under_COL4",
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Gifts|sp||dol|100|sp||as||sp|Under"
@@ -4042,7 +4042,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Jewellery",
-    "category": "Jewelry & Watch Gifts",
+    "category": "Jewellery & Watches Gifts",
     "page": "Luxe Gifts",
     "page_url": "https://www.macys.com/shop/jewelry-watches/luxe-gifts?id=304456&cm_sp=us_hdr-_-jewelry-_-304456_luxe-gifts_COL4",
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Luxe|sp|Gifts"
@@ -4328,7 +4328,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Handbags",
-    "category": "Sunglasses & Eyeglasses",
+    "category": "Sunglasses & Eyewear",
     "page": "Sunglasses By Sunglass Hut",
     "page_url": "https://www.macys.com/shop/handbags-accessories/sunglass-hut?id=301960&cm_sp=us_hdr-_-handbags-_-301960_sunglasses-by-sunglass-hut_COL3",
     "file_name": "United|sp|States_Macys_Handbags_Sunglasses|sp||as||sp|Eyeglasses_Sunglasses|sp|By|sp|Sunglass|sp|Hut"
@@ -4339,7 +4339,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Handbags",
-    "category": "Sunglasses & Eyeglasses",
+    "category": "Sunglasses & Eyewear",
     "page": "Eyeglasses By LensCrafters",
     "page_url": "https://www.macys.com/shop/handbags-accessories/eyeglasses-by-lenscrafters?id=144142&cm_sp=us_hdr-_-handbags-_-144142_eyeglasses-by-lenscrafters_COL3",
     "file_name": "United|sp|States_Macys_Handbags_Sunglasses|sp||as||sp|Eyeglasses_Eyeglasses|sp|By|sp|LensCrafters"
@@ -4350,7 +4350,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Handbags",
-    "category": "Sunglasses & Eyeglasses",
+    "category": "Sunglasses & Eyewear",
     "page": "Ray-Ban",
     "page_url": "https://www.macys.com/shop/handbags-accessories/ray-ban-shop?id=78258&cm_sp=us_hdr-_-handbags-_-78258_ray-ban_COL3",
     "file_name": "United|sp|States_Macys_Handbags_Sunglasses|sp||as||sp|Eyeglasses_Ray|h|Ban"
@@ -4406,7 +4406,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Handbags",
     "category": "Luggage & Travel",
-    "page": "All Luggage",
+    "page": "All in Luggage",
     "page_url": "https://www.macys.com/shop/luggage/all-luggage?id=76877&cm_sp=us_hdr-_-handbags-_-76877_all-luggage_COL4",
     "file_name": "United|sp|States_Macys_Handbags_Luggage|sp||as||sp|Travel_All|sp|Luggage"
   },
@@ -4504,7 +4504,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Men's Sale",
+    "category": "Mens Sale",
     "page": "Men'S Clothing",
     "page_url": "https://www.macys.com/shop/mens-clothing/sale-clearance?id=9559&cm_sp=us_hdr-_-sale-_-9559_men%27s-clothing_COL2",
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Men|sq|S|sp|Clothing"
@@ -4515,8 +4515,8 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Men's Sale",
-    "page": "Men'S Shoes",
+    "category": "Mens Sale",
+    "page": "Mens Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/sale-clearance?id=43387&cm_sp=us_hdr-_-sale-_-43387_men%27s-shoes_COL2",
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Men|sq|S|sp|Shoes"
   },
@@ -4526,7 +4526,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Men's Sale",
+    "category": "Mens Sale",
     "page": "Bags & Accessories",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-accessories/Special_offers/Sales%20%26%20Discounts?id=47665&cm_sp=us_hdr-_-sale-_-bags-%26-accessories-_COL2",
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Bags|sp||as||sp|Accessories"
@@ -4537,7 +4537,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Men's Sale",
+    "category": "Mens Sale",
     "page": "Activewear",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-activewear/Special_offers/Sales%20%26%20Discounts?id=3296&cm_sp=us_hdr-_-sale-_-activewear_COL2",
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Activewear"
@@ -4548,7 +4548,7 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Sale",
-    "category": "Men's Sale",
+    "category": "Mens Sale",
     "page": "Watches",
     "page_url": "https://www.macys.com/shop/jewelry-watches/watch-sale/Gender/Men?id=28067&edge=hybrid&cm_sp=us_hdr-_-sale-_-watches_COL2",
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Watches"
@@ -4670,7 +4670,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
     "category": "Gifts for Everyone",
-    "page": "For Her",
+    "page": "For Women",
     "page_url": "https://www.macys.com/shop/gift-guide/gifts-for-her?id=143743&cm_sp=us_hdr-_-gifts-_-143743_for-her_COL1",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Her"
   },
@@ -4681,7 +4681,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
     "category": "Gifts for Everyone",
-    "page": "For Him",
+    "page": "For Men",
     "page_url": "https://www.macys.com/shop/gift-guide/gifts-for-him?id=143744&cm_sp=us_hdr-_-gifts-_-143744_for-him_COL1",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Him"
   },
@@ -4934,7 +4934,7 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Gifts",
     "category": "Gifts by Category",
-    "page": "Tech",
+    "page": "Technology",
     "page_url": "https://www.macys.com/shop/gift-guide/tech?id=313769&cm_sp=us_hdr-_-gifts-_-313769_tech_COL2",
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Tech"
   },

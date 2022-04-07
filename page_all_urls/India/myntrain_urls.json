@@ -1337,7 +1337,7 @@
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Women",
     "category": "Beauty & Personal Care",
-    "page": "Fragrances",
+    "page": "Fragrance",
     "page_url": "https://www.myntra.com/women-perfumes",
     "file_name": "India_Myntra_WOMEN_Beauty|sp||as||sp|Personal|sp|Care_Fragrances"
   },
@@ -3349,8 +3349,8 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
-    "category": "Masks",
-    "page": "Masks",
+    "category": "Maks",
+    "page": "Maks",
     "page_url": "https://www.myntra.com/mask",
     "file_name": "India_Myntra_BEAUTY_Masks_Masks"
   },
@@ -3427,7 +3427,7 @@
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
     "category": "Haircare",
-    "page": "Hair Color",
+    "page": "Hair Colour",
     "page_url": "https://www.myntra.com/hair-colour",
     "file_name": "India_Myntra_BEAUTY_Haircare_Hair|sp|Color"
   },
@@ -3459,8 +3459,8 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
-    "category": "Fragrances",
-    "page": "Fragrances",
+    "category": "Fragrance",
+    "page": "Fragrance",
     "page_url": "https://www.myntra.com/fragrance",
     "file_name": "India_Myntra_BEAUTY_Fragrances_Fragrances"
   },
@@ -3470,7 +3470,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
-    "category": "Fragrances",
+    "category": "Fragrance",
     "page": "Perfumes",
     "page_url": "https://www.myntra.com/perfumes",
     "file_name": "India_Myntra_BEAUTY_Fragrances_Perfume"
@@ -3481,7 +3481,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
-    "category": "Fragrances",
+    "category": "Fragrance",
     "page": "Deodorant",
     "page_url": "https://www.myntra.com/deodorant",
     "file_name": "India_Myntra_BEAUTY_Fragrances_Deodorant"
@@ -3492,7 +3492,7 @@
     "parsing_config": "./retailer_config/myntra_parsing.json",
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
-    "category": "Fragrances",
+    "category": "Fragrance",
     "page": "Body Mist",
     "page_url": "https://www.myntra.com/body-mist",
     "file_name": "India_Myntra_BEAUTY_Fragrances_Body|sp|Mist"

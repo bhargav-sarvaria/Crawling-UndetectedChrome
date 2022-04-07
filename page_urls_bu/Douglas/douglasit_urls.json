@@ -237,7 +237,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
     "category": "Make Up",
-    "page": "MAKE-UP",
+    "page": "Make Up",
     "page_url": "https://www.douglas.it/Make-up/index_03.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
@@ -413,7 +413,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Make Up",
     "category": "Nails",
-    "page": "NAILS",
+    "page": "Nails",
     "page_url": "https://www.douglas.it/Make-up/Unghie/index_0304.html",
     "file_name": "Italy_DOUGLAS_IT_MAKE|h|UP_NAILS_NAILS"
   },
@@ -633,7 +633,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
     "category": "Face",
-    "page": "Facial cleaning",
+    "page": "Facial Cleansers",
     "page_url": "https://www.douglas.it/Trattamento/Viso/Pulizia-Viso/index_020101.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_FACE_Facial|sp|cleaning"
   },
@@ -677,7 +677,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
     "category": "Body",
-    "page": "BODY",
+    "page": "Body",
     "page_url": "https://www.douglas.it/Trattamento/Corpo/index_0202.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_BODY_BODY"
   },
@@ -786,8 +786,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "Sex Toys",
-    "page": "Sex Toys",
+    "category": "Sextoys",
+    "page": "Sextoys",
     "page_url": "https://www.douglas.it/Trattamento/Sex-Toys/index_0234.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_SEX|sp|TOYS_SEX|sp|TOYS"
   },
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Vibrators",
     "page_url": "https://www.douglas.it/Trattamento/Sex-Toys/Vibratori/index_023401.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_SEX|sp|TOYS_Vibrators"
@@ -808,7 +808,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Lubricants",
     "page_url": "https://www.douglas.it/Trattamento/Sex-Toys/Lubrificanti/index_023402.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_SEX|sp|TOYS_Lubricants"
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Trattamento/Sex-Toys/index_0234.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_SEX|sp|TOYS_\"|sp|All|sp|the|sp|categories"
@@ -841,8 +841,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "NATURAL COSMETICS",
-    "page": "NATURAL COSMETICS",
+    "category": "Natural Cosmetics",
+    "page": "Natural Cosmetics",
     "page_url": "https://www.douglas.it/Trattamento/Cosmetica-Naturale/index_0214.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_NATURAL|sp|COSMETICS_NATURAL|sp|COSMETICS"
   },
@@ -852,8 +852,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "CASKETS",
-    "page": "CASKETS",
+    "category": "Caskets",
+    "page": "Caskets",
     "page_url": "https://www.douglas.it/Trattamento/Cofanetti/index_0215.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_CASKETS_CASKETS"
   },
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "CASKETS",
+    "category": "Caskets",
     "page": "Face",
     "page_url": "https://www.douglas.it/Trattamento/Cofanetti/Viso/index_021501.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_CASKETS_Face"
@@ -874,7 +874,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "CASKETS",
+    "category": "Caskets",
     "page": "Body",
     "page_url": "https://www.douglas.it/Trattamento/Cofanetti/Corpo/index_021502.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_CASKETS_Body"
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "CASKETS",
+    "category": "Caskets",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Trattamento/Cofanetti/index_0215.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_CASKETS_\"|sp|All|sp|the|sp|categories"
@@ -995,8 +995,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "SUPPLEMENTS & DETOX",
-    "page": "SUPPLEMENTS & DETOX",
+    "category": "Supplements & Detox",
+    "page": "Supplements & Detox",
     "page_url": "https://www.douglas.it/Trattamento/Integratori-%26-Detox/index_0216.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_SUPPLEMENTS|sp||as||sp|DETOX_SUPPLEMENTS|sp||as||sp|DETOX"
   },
@@ -1007,7 +1007,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
     "category": "Hair",
-    "page": "HAIR",
+    "page": "Hair",
     "page_url": "https://www.douglas.it/Capelli/index_18.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR_HAIR"
   },
@@ -1018,7 +1018,7 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "HAIR CARE",
+    "page": "Haircare",
     "page_url": "https://www.douglas.it/Capelli/Cura-dei-Capelli/index_1802.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
@@ -1127,8 +1127,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "COLORING",
-    "page": "COLORING",
+    "category": "Colouring",
+    "page": "Colouring",
     "page_url": "https://www.douglas.it/Capelli/Colorazione/index_1810.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_COLORING_COLORING"
   },
@@ -1138,8 +1138,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "COLORING",
-    "page": "Coloring",
+    "category": "Colouring",
+    "page": "Colouring",
     "page_url": "https://www.douglas.it/Capelli/Colorazione/Colorazione/index_181001.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_COLORING_Coloring"
   },
@@ -1149,7 +1149,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "COLORING",
+    "category": "Colouring",
     "page": "Retouching",
     "page_url": "https://www.douglas.it/Capelli/Colorazione/Ritocco/index_181002.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_COLORING_Retouching"
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "COLORING",
+    "category": "Colouring",
     "page": "Bleaches & Lighteners",
     "page_url": "https://www.douglas.it/Capelli/Colorazione/Decoloranti-%26-Schiarenti/index_181003.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_COLORING_Bleaches|sp||as||sp|Lighteners"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "COLORING",
+    "category": "Colouring",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Capelli/Colorazione/index_1810.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_COLORING_\"|sp|All|sp|the|sp|categories"
@@ -1182,8 +1182,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
-    "page": "STYLING TOOLS",
+    "category": "Styling Tools",
+    "page": "Styling Tools",
     "page_url": "https://www.douglas.it/Capelli/Strumenti-Styling/index_1811.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING|sp|TOOLS_STYLING|sp|TOOLS"
   },
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "Phon",
     "page_url": "https://www.douglas.it/Capelli/Strumenti-Styling/Phon/index_181103.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING|sp|TOOLS_Phon"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "Straighteners & Curlers",
     "page_url": "https://www.douglas.it/Capelli/Strumenti-Styling/Piastre-%26-Arricciacapelli/index_181102.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING|sp|TOOLS_Straighteners|sp||as||sp|Curlers"
@@ -1215,7 +1215,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "Hair clipper & beard trimmer",
     "page_url": "https://www.douglas.it/Capelli/Strumenti-Styling/Tagliacapelli-%26-Regolabarba/index_181101.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING|sp|TOOLS_Hair|sp|clipper|sp||as||sp|beard|sp|trimmer"
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "STYLING TOOLS",
+    "category": "Styling Tools",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Capelli/Strumenti-Styling/index_1811.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_STYLING|sp|TOOLS_\"|sp|All|sp|the|sp|categories"
@@ -1237,8 +1237,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
-    "page": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
+    "page": "Hair Accessories",
     "page_url": "https://www.douglas.it/Capelli/Accessori-Capelli/index_1809.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Clasps, Headbands & Headbands",
     "page_url": "https://www.douglas.it/Capelli/Accessori-Capelli/Fermagli%2C-Fasce-%26-Cerchietti/index_180903.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|ACCESSORIES_Clasps,|sp|Headbands|sp||as||sp|Headbands"
@@ -1259,7 +1259,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Pliers & Clothespins",
     "page_url": "https://www.douglas.it/Capelli/Accessori-Capelli/Pinze-%26-Mollette/index_180905.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|ACCESSORIES_Pliers|sp||as||sp|Clothespins"
@@ -1270,7 +1270,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "Elastics & Clips",
     "page_url": "https://www.douglas.it/Capelli/Accessori-Capelli/Elastici-%26-Clip/index_180906.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|ACCESSORIES_Elastics|sp||as||sp|Clips"
@@ -1281,7 +1281,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "HAIR ACCESSORIES",
+    "category": "Hair Accessories",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Capelli/Accessori-Capelli/index_1809.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_HAIR|sp|ACCESSORIES_\"|sp|All|sp|the|sp|categories"
@@ -1347,8 +1347,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Hair",
-    "category": "NATURAL COSMETICS",
-    "page": "NATURAL COSMETICS",
+    "category": "Natural Cosmetics",
+    "page": "Natural Cosmetics",
     "page_url": "https://www.douglas.it/Capelli/Cosmetica-naturale/index_1822.html",
     "file_name": "Italy_DOUGLAS_IT_HAIR_NATURAL|sp|COSMETICS_NATURAL|sp|COSMETICS"
   },
@@ -1391,18 +1391,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "VALENTINE'S BOX",
-    "page": "Valentine's Box",
-    "page_url": "https://www.douglas.it/Douglas-Collection/Valentine%27s-Box/Valentine%27s-Box/index_b983485.html",
-    "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_VALENTINE|sq|S|sp|BOX_Valentine|sq|s|sp|Box"
-  },
-  {
-    "country": "Italy",
-    "retailer": "DOUGLAS_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Douglas Collection",
-    "category": "DOUGLAS BEAUTY KITS",
+    "category": "Douglas Beauty Kits",
     "page": "Beauty Kits",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Beauty-Kits-/Beauty-Kits/index_b983499.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|BEAUTY|sp|KITS_Beauty|sp|Kits"
@@ -1413,7 +1402,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP FACE",
+    "category": "Douglas Make Up Face",
     "page": "Foundation",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Viso/Fondotinta/index_b983401.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|FACE_Foundation"
@@ -1424,7 +1413,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP FACE",
+    "category": "Douglas Make Up Face",
     "page": "Face powder",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Viso/Cipria/index_b983402.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|FACE_Face|sp|powder"
@@ -1435,7 +1424,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP FACE",
+    "category": "Douglas Make Up Face",
     "page": "Blush",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Viso/Blush/index_b983403.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|FACE_Blush"
@@ -1446,7 +1435,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP FACE",
+    "category": "Douglas Make Up Face",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Viso/index_b9834-01.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|FACE_\"|sp|All|sp|the|sp|categories"
@@ -1457,7 +1446,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP EYES",
+    "category": "Douglas Make Up Eyes",
     "page": "Eyeshadows",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Occhi/Ombretti/index_b983407.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|EYES_Eyeshadows"
@@ -1468,7 +1457,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP EYES",
+    "category": "Douglas Make Up Eyes",
     "page": "Mascara",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Occhi/Mascara/index_b983408.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|EYES_Mascara"
@@ -1479,7 +1468,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP EYES",
+    "category": "Douglas Make Up Eyes",
     "page": "Pencils",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Occhi/Matite/index_b983409.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|EYES_Pencils"
@@ -1490,7 +1479,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP EYES",
+    "category": "Douglas Make Up Eyes",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Occhi/index_b9834-02.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|EYES_\"|sp|All|sp|the|sp|categories"
@@ -1501,7 +1490,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP LIPS",
+    "category": "Douglas Make Up Lips",
     "page": "Lipsticks",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Labbra/Rossetti/index_b983412.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|LIPS_Lipsticks"
@@ -1512,7 +1501,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP LIPS",
+    "category": "Douglas Make Up Lips",
     "page": "Lip Contour",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Labbra/Contorno-Labbra/index_b983416.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|LIPS_Lip|sp|Contour"
@@ -1523,7 +1512,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP LIPS",
+    "category": "Douglas Make Up Lips",
     "page": "Gloss",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Labbra/Gloss/index_b983413.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|LIPS_Gloss"
@@ -1534,7 +1523,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP LIPS",
+    "category": "Douglas Make Up Lips",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Labbra/index_b9834-03.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|LIPS_\"|sp|All|sp|the|sp|categories"
@@ -1545,7 +1534,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS MAKE-UP NAILS",
+    "category": "Douglas Make Up Nails",
     "page": "Enamels",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Make-up-Unghie/Smalti/index_b983417.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|MAKE|h|UP|sp|NAILS_Enamels"
@@ -1556,7 +1545,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS ACCESSORIES",
+    "category": "Douglas Accessories",
     "page": "Eyelash",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Accessories/Ciglia/index_b983445.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|ACCESSORIES_Eyelash"
@@ -1567,7 +1556,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS ACCESSORIES",
+    "category": "Douglas Accessories",
     "page": "Face",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Accessories/Viso/index_b983448.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|ACCESSORIES_Face"
@@ -1578,7 +1567,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS ACCESSORIES",
+    "category": "Douglas Accessories",
     "page": "Nails",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Accessories/Unghie/index_b983446.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|ACCESSORIES_Nails"
@@ -1589,7 +1578,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS ACCESSORIES",
+    "category": "Douglas Accessories",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Accessories/index_b9834-66.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|ACCESSORIES_\"|sp|All|sp|the|sp|categories"
@@ -1600,7 +1589,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS HAIR",
+    "category": "Douglas Hair",
     "page": "Balm and Masks",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Hair/Balsamo-e-Maschere/index_b983421.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HAIR_Balm|sp|and|sp|Masks"
@@ -1611,7 +1600,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS HAIR",
+    "category": "Douglas Hair",
     "page": "Travel Size",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Hair/Travel-Size/index_b983487.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HAIR_Travel|sp|Size"
@@ -1622,7 +1611,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS HAIR",
+    "category": "Douglas Hair",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Hair/index_b9834-07.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HAIR_\"|sp|All|sp|the|sp|categories"
@@ -1633,7 +1622,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS HOME SPA",
+    "category": "Douglas Home Spa",
     "page": "Harmony of Ayurveda",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Home-Spa/Harmony-of-Ayurveda/index_b983443.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HOME|sp|SPA_Harmony|sp|of|sp|Ayurveda"
@@ -1644,7 +1633,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS HOME SPA",
+    "category": "Douglas Home Spa",
     "page": "Spirit of Asia",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Home-Spa/Spirit-of-Asia/index_b983469.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HOME|sp|SPA_Spirit|sp|of|sp|Asia"
@@ -1655,7 +1644,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS HOME SPA",
+    "category": "Douglas Home Spa",
     "page": "Seathalasso",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Home-Spa/Seathalasso/index_b983470.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HOME|sp|SPA_Seathalasso"
@@ -1666,7 +1655,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS HOME SPA",
+    "category": "Douglas Home Spa",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Home-Spa/index_b9834-21.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HOME|sp|SPA_\"|sp|All|sp|the|sp|categories"
@@ -1677,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS FOCUS",
+    "category": "Douglas Focus",
     "page": "Aqua Focus",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/Aqua-Focus/index_b983486.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_Aqua|sp|Focus"
@@ -1688,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS FOCUS",
+    "category": "Douglas Focus",
     "page": "Age Focus",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/Age-Focus/index_b983493.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_Age|sp|Focus"
@@ -1699,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS FOCUS",
+    "category": "Douglas Focus",
     "page": "Feed Focus",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/Nutri-Focus/index_b983496.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_Feed|sp|Focus"
@@ -1710,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
-    "category": "DOUGLAS FOCUS",
+    "category": "Douglas Focus",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/index_b9834-14.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_\"|sp|All|sp|the|sp|categories"
@@ -1732,8 +1721,8 @@
     "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Offers",
-    "category": "OFFERS",
-    "page": "OFFERS",
+    "category": "Offers",
+    "page": "Offers",
     "page_url": "https://www.douglas.it/Offerte/index_07.html",
     "file_name": "Italy_DOUGLAS_IT_OFFERS_OFFERS_OFFERS"
   }

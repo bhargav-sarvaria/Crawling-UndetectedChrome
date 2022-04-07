@@ -59,9 +59,9 @@
     "retailer": "Sephora_BR",
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "BEAUTY TO GO",
-    "category": "BEAUTY TO GO",
-    "page": "BEAUTY TO GO",
+    "department": "Travel Beauty",
+    "category": "Travel Beauty",
+    "page": "Travel Beauty",
     "page_url": "https://www.sephora.com.br/search/?cgid=TravelSize",
     "file_name": "Brazil_Sephora_BR_BEAUTY|sp|TO|sp|GO_BEAUTY|sp|TO|sp|GO_BEAUTY|sp|TO|sp|GO"
   },

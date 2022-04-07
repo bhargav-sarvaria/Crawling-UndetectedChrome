@@ -622,7 +622,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Make Up",
     "category": "MANICURE",
-    "page": "Nail polish",
+    "page": "Nail Polish",
     "page_url": "https://douglas.bg/grim/manikjur/lak-za-nokti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_MAKEUP_MANICURE_Nail|sp|polish"
   },
@@ -1568,7 +1568,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Hair",
     "category": "Styling",
-    "page": "STYLING",
+    "page": "Styling",
     "page_url": "https://douglas.bg/kosa/stajling?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_HAIR_STYLING_STYLING"
   },
@@ -1788,7 +1788,7 @@
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Accessories",
     "category": "Accessories",
-    "page": "ACCESSORIES",
+    "page": "Accessories",
     "page_url": "https://douglas.bg/aksesoari?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_ACCESSORIES_ACCESSORIES_ACCESSORIES"
   },
@@ -1952,8 +1952,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Promotions",
-    "category": "BY CATEGORY",
-    "page": "BY CATEGORY",
+    "category": "By Category",
+    "page": "By Category",
     "page_url": "https://douglas.bg/promocii?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_BY|sp|CATEGORY"
   },
@@ -1963,7 +1963,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Promotions",
-    "category": "BY CATEGORY",
+    "category": "By Category",
     "page": "TOP OFFERS",
     "page_url": "https://douglas.bg/promocii/top-oferti?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_TOP|sp|OFFERS"
@@ -1974,7 +1974,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Promotions",
-    "category": "BY CATEGORY",
+    "category": "By Category",
     "page": "Womens Perfumes",
     "page_url": "https://douglas.bg/promocii/damski-parfjumi?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_WOMEN|sq|S|sp|PERFUMES"
@@ -1985,7 +1985,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Promotions",
-    "category": "BY CATEGORY",
+    "category": "By Category",
     "page": "Outlet",
     "page_url": "https://douglas.bg/promocii/outlet?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_OUTLET"
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Promotions",
-    "category": "BY CATEGORY",
+    "category": "By Category",
     "page": "COSMETICS",
     "page_url": "https://douglas.bg/promocii/grizha?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_COSMETICS"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Bulgaria/Douglas_BG/",
     "department": "Promotions",
-    "category": "BY CATEGORY",
+    "category": "By Category",
     "page": "Mens Perfumes",
     "page_url": "https://douglas.bg/promocii/m-zhki-parfjumi?product_list_limit=72",
     "file_name": "Bulgaria_DOUGLAS_BG_PROMOTIONS_BY|sp|CATEGORY_MEN|sq|S|sp|PERFUMES"

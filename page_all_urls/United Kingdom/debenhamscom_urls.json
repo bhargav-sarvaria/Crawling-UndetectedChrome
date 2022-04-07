@@ -115,8 +115,8 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "All Beauty",
-    "page": "All Beauty",
+    "category": "All in Beauty",
+    "page": "All in Beauty",
     "page_url": "https://www.debenhams.com/category/beauty",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_All|sp|Beauty_All|sp|Beauty"
   },
@@ -325,7 +325,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
     "category": "Skincare",
-    "page": "Masks",
+    "page": "Maks",
     "page_url": "https://www.debenhams.com/category/beauty-skin-care-face-masks",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Skincare_Masks"
   },
@@ -423,8 +423,8 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Electricals",
-    "page": "Electricals",
+    "category": "Electronics",
+    "page": "Electronics",
     "page_url": "https://www.debenhams.com/category/beauty-electricals",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Electricals"
   },
@@ -434,7 +434,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Hair Electricals",
     "page_url": "https://www.debenhams.com/category/beauty-electricals-hair",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Hair|sp|Electricals"
@@ -445,7 +445,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Haircare",
     "page_url": "https://www.debenhams.com/category/beauty-hair-care",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Hair|sp|Care"
@@ -456,7 +456,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Grooming",
     "page_url": "https://www.debenhams.com/category/beauty-electricals-grooming",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Grooming"
@@ -467,7 +467,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Beauty",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Electric Toothbrushes",
     "page_url": "https://www.debenhams.com/category/beauty-electricals-dental",
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Electric|sp|Toothbrushes"
@@ -1644,8 +1644,8 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Accessories",
-    "category": "All Shoes",
-    "page": "All Shoes",
+    "category": "All in Shoes",
+    "page": "All in Shoes",
     "page_url": "https://www.debenhams.com/category/shoes",
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_All|sp|Shoes_All|sp|Shoes"
   },
@@ -3118,8 +3118,8 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Lingerie",
-    "category": "DD+ Lingerie & Swimwear",
-    "page": "DD+ Lingerie & Swimwear",
+    "category": "DD Plus Lingerie & Swimwear",
+    "page": "DD Plus Lingerie & Swimwear",
     "page_url": "https://www.debenhams.com/category/womens-lingerie-dd",
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_DD+|sp|Lingerie|sp||as||sp|Swimwear_DD+|sp|Lingerie|sp||as||sp|Swimwear"
   },
@@ -3129,7 +3129,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Lingerie",
-    "category": "DD+ Lingerie & Swimwear",
+    "category": "DD Plus Lingerie & Swimwear",
     "page": "DD+ Lingerie",
     "page_url": "https://www.debenhams.com/category/womens-lingerie-dd-lingerie",
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_DD+|sp|Lingerie|sp||as||sp|Swimwear_DD+|sp|Lingerie"
@@ -3140,7 +3140,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Lingerie",
-    "category": "DD+ Lingerie & Swimwear",
+    "category": "DD Plus Lingerie & Swimwear",
     "page": "DD+ Swimwear",
     "page_url": "https://www.debenhams.com/category/womens-lingerie-dd-swimwear",
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_DD+|sp|Lingerie|sp||as||sp|Swimwear_DD+|sp|Swimwear"
@@ -4053,7 +4053,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Home Electricals",
     "page_url": "https://www.debenhams.com/category/home-electricals",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Home|sp|Electricals"
@@ -4064,7 +4064,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Toasters",
     "page_url": "https://www.debenhams.com/category/home-electricals-toasters",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Toasters"
@@ -4075,7 +4075,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Kitchen Gadgets",
     "page_url": "https://www.debenhams.com/category/home-electricals-kitchen-gadgets",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Kitchen|sp|Gadgets"
@@ -4086,7 +4086,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Coffee Machines",
     "page_url": "https://www.debenhams.com/category/home-electricals-coffee-machines",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Coffee|sp|Machines"
@@ -4097,7 +4097,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Irons",
     "page_url": "https://www.debenhams.com/category/home-electricals-irons",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Irons"
@@ -4108,7 +4108,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Air Fryers",
     "page_url": "https://www.debenhams.com/category/home-electricals-air-fryers",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Air|sp|Fryers"
@@ -4119,7 +4119,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Kettles",
     "page_url": "https://www.debenhams.com/category/home-electricals-kettles",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Kettles"
@@ -4130,7 +4130,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Home",
-    "category": "Electricals",
+    "category": "Electronics",
     "page": "Food Processors",
     "page_url": "https://www.debenhams.com/category/home-electricals-food-processors",
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Food|sp|Processors"
@@ -4273,7 +4273,7 @@
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Sale",
-    "category": "All Sales",
+    "category": "All in Sales",
     "page": "View All Sale",
     "page_url": "https://www.debenhams.com/category/sale",
     "file_name": "United|sp|Kingdom_Debenhams_Sale_View|sp|All|sp|Sale_View|sp|All|sp|Sale"
@@ -4318,7 +4318,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Sale",
     "category": "Beauty Sale",
-    "page": "Fragrances",
+    "page": "Fragrance",
     "page_url": "https://www.debenhams.com/category/beauty-sale-fragrance",
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Fragrances"
   },
