@@ -1456,31 +1456,9 @@
     "retailer": "Sephora",
     "department": "Hair",
     "category": "Help Me Choose",
-    "page": "Clean Hair Care Guide",
-    "page_url": "https://www.sephora.com/beauty/clean-beauty-products?activeTab=clean0719_cleanhaircare_tab_UFE",
-    "file_name": "United|sp|States_Sephora_Hair_Help|sp|Me|sp|Choose_Clean|sp|Hair|sp|Care|sp|Guide",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "United States",
-    "retailer": "Sephora",
-    "department": "Hair",
-    "category": "Help Me Choose",
     "page": "Healthy Hair Care Guide",
     "page_url": "https://www.sephora.com/beauty/best-hair-products-for-every-hair-type",
     "file_name": "United|sp|States_Sephora_Hair_Help|sp|Me|sp|Choose_Healthy|sp|Hair|sp|Care|sp|Guide",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "United States",
-    "retailer": "Sephora",
-    "department": "Hair",
-    "category": "Help Me Choose",
-    "page": "Healthy Scalp Care Guide",
-    "page_url": "https://www.sephora.com/beauty/best-scalp-health-products",
-    "file_name": "United|sp|States_Sephora_Hair_Help|sp|Me|sp|Choose_Healthy|sp|Scalp|sp|Care|sp|Guide",
     "parsing_config": "./retailer_config/sephoracom_parsing.json",
     "gcloud_path": "crawl_data/United States/Sephora/"
   },

@@ -533,17 +533,6 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "Sephora Collection",
-    "page": "Sephora Collection",
-    "page_url": "https://www.sephora.com.br/sephora-collection/?scgid=27&listview=true",
-    "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Make Up",
     "category": "Clean Beauty",
     "page": "Clean Beauty",
     "page_url": "https://www.sephora.com.br/maquiagem/clean-beauty/",
@@ -1445,17 +1434,6 @@
     "retailer": "Sephora_BR",
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Skincare",
-    "category": "Sephora Collection",
-    "page": "Sephora Collection",
-    "page_url": "https://www.sephora.com.br/sephora-collection/?scgid=28&listview=true",
-    "file_name": "Brazil_Sephora_BR_SKINCARE_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
     "category": "Hair",
     "page": "Hair",
@@ -1934,16 +1912,5 @@
     "page": "Exclusive",
     "page_url": "https://www.sephora.com.br/exclusivas/",
     "file_name": "Brazil_Sephora_BR_EXCLUSIVE_EXCLUSIVE_EXCLUSIVE"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Offers",
-    "category": "Offers",
-    "page": "Offers",
-    "page_url": "https://www.sephora.com.br/busca/?q=ofertas&pageType=hotsite&sortType=descDate",
-    "file_name": "Brazil_Sephora_BR_OFFERS_OFFERS_OFFERS"
   }
 ]

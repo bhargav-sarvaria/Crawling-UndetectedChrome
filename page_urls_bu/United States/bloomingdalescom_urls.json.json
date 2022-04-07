@@ -3195,17 +3195,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Kids",
-    "category": "Kids",
-    "page": "KIDS",
-    "page_url": "https://www.bloomingdales.com/shop/kids?id=3866&cm_sp=NAVIGATION-_-TOP_NAV-_-KIDS-n-n",
-    "file_name": "United|sp|States_Bloomingdales_KIDS_KIDS_KIDS"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Kids",
     "category": "Girls",
     "page": "Girls",
     "page_url": "https://www.bloomingdales.com/shop/kids/girls?id=10104&cm_sp=NAVIGATION-_-TOP_NAV-_-10104-KIDS-Girls",

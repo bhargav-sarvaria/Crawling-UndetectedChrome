@@ -75,16 +75,5 @@
     "page": "Exclusive",
     "page_url": "https://www.sephora.com.br/exclusivas/",
     "file_name": "Brazil_Sephora_BR_EXCLUSIVE_EXCLUSIVE_EXCLUSIVE"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Offers",
-    "category": "Offers",
-    "page": "Offers",
-    "page_url": "https://www.sephora.com.br/busca/?q=ofertas&pageType=hotsite&sortType=descDate",
-    "file_name": "Brazil_Sephora_BR_OFFERS_OFFERS_OFFERS"
   }
 ]
