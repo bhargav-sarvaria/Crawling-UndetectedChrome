@@ -25,6 +25,7 @@ class Driver:
     def get_driver(self, 
     country_name='United States', 
     hoxx = False, 
+    timeout = 10,
     device = 'Desktop',
     use_proxy=False
     ):
@@ -55,7 +56,7 @@ class Driver:
                 opt.add_argument("--headless")
 
             driver = uc.ChromeWithPrefs(options = opt, use_subprocess=True)
-            driver.set_page_load_timeout(10)
+            driver.set_page_load_timeout(timeout)
 
             if hoxx:
                 handles = driver.window_handles

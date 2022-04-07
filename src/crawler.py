@@ -143,13 +143,15 @@ class Crawler:
 
     def processConfig(self, page_configs,thread_name):
         use_proxy = False
+        timeout = 10
         devices = ['Desktop', 'Mobile']
         if 'Proxy' in self.crawl_folder:
             use_proxy = True
         if 'device' in page_configs[0]:
+            timeout = 20
             devices = [page_configs[0]['device']]
         for device in devices:
-            d = self.driver.get_driver(use_proxy=use_proxy, device=device)
+            d = self.driver.get_driver(use_proxy=use_proxy, device=device, timeout=timeout)
             active_driver = self.get_activeDriver(d)
             self.ACTIVE_DRIVERS.append(active_driver)
             for page_config in page_configs:
@@ -163,7 +165,7 @@ class Crawler:
                         LOGGING.error(e)
                         self.quitDriver(d)
                         self.activeDriverRemove(active_driver)
-                        d = self.driver.get_driver(use_proxy=use_proxy, device=device)
+                        d = self.driver.get_driver(use_proxy=use_proxy, device=device,timeout=timeout)
                         active_driver = self.get_activeDriver(d)
                         self.ACTIVE_DRIVERS.append(active_driver)
                         d.get(page_config['page_url'])
