@@ -12,6 +12,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 import pandas as pd
 import os
+import sys
 from os import listdir
 from os.path import isfile, join
 from datetime import datetime
@@ -66,7 +67,8 @@ class Crawler:
         if not self.consumerRunning:
             self.consumerRunning = True
             threading.Thread(target = self.runConfigConsumer).start()
-            threading.Thread(target = self.driverCleaner).start()        
+            if sys.platform.endswith("linux"):
+                threading.Thread(target = self.driverCleaner).start()        
     
     def queueNotEmpty(self):
         for retailer, retailer_q in self.queueMap.items():
