@@ -2217,17 +2217,6 @@
     "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
     "department": "Eyewear",
     "category": "Most Wanted",
-    "page": "Salvatore Ferragamo",
-    "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Salvatore|sp|Ferragamo",
-    "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B11675&isSortFlow=false"
-  },
-  {
-    "country": "India",
-    "retailer": "Tata Cliq Luxury",
-    "parsing_config": "./retailer_config/tatacliqluxury_parsing.json",
-    "gcloud_path": "crawl_data/India/Tata Cliq Luxury/",
-    "department": "Eyewear",
-    "category": "Most Wanted",
     "page": "Stella Mccartney",
     "file_name": "India_Tata|sp|Cliq|sp|Luxury_Eyewear_MOST|sp|WANTED_Stella|sp|Mccartney",
     "page_url": "https://luxury.tatacliq.com/luxury/c-lsh1?page=0&q=:relevance:category:LSH1810:brand:MBH16B12835&isSortFlow=false"

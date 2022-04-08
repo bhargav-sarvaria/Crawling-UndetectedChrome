@@ -1985,8 +1985,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "NEED",
-    "page": "NEED",
+    "category": "Needs",
+    "page": "Needs",
     "page_url": "https://www.sephora.ro/shop/baie-corp/nevoi-c298703/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_NEED_NEED"
   },
@@ -1996,7 +1996,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Weakness & Firmness",
     "page_url": "https://www.sephora.ro/shop/baie-corp/nevoi/slabit-fermitate-c428/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_NEED_Weakness|sp||as||sp|Firmness"
@@ -2007,7 +2007,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Anti-Stretch",
     "page_url": "https://www.sephora.ro/shop/baie-corp/nevoi/anti-vergeturi-c443/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_NEED_Anti|h|Stretch"
@@ -2018,7 +2018,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Body",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Moisturizing & Nourishing",
     "page_url": "https://www.sephora.ro/shop/baie-corp/nevoi/hidratant-hranitor-c7655/",
     "file_name": "Romania_Sephora_RO_BAIE|sp||as||sp|CORP_NEED_Moisturizing|sp||as||sp|Nourishing"
@@ -2436,8 +2436,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
-    "page": "NEED",
+    "category": "Needs",
+    "page": "Needs",
     "page_url": "https://www.sephora.ro/shop/par/nevoi-c299920/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_NEED"
   },
@@ -2447,7 +2447,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Anti-fall",
     "page_url": "https://www.sephora.ro/c449/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Anti|h|fall"
@@ -2458,7 +2458,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Moisturizing hair",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/hidratarea-parului-c299921/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Moisturizing|sp|hair"
@@ -2469,7 +2469,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Volume",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/volum-c467/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Volume"
@@ -2480,7 +2480,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Dry scalp",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/scalp-uscat-c520/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Dry|sp|scalp"
@@ -2491,7 +2491,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Sunscreen",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/protectie-solara-c450/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Sunscreen"
@@ -2502,7 +2502,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Curly curly hair",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/par-cret-ondulat-c299919/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Curly|sp|curly|sp|hair"
@@ -2513,7 +2513,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "polishing",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/netezire-c7766/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_polishing"
@@ -2524,7 +2524,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Dandruff treatments",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/tratamente-antimatreata-c7761/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Dandruff|sp|treatments"
@@ -2535,7 +2535,7 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Romania/Sephora_RO/",
     "department": "Hair",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Dyed hair",
     "page_url": "https://www.sephora.ro/shop/par/nevoi/par-vopsit-c465/",
     "file_name": "Romania_Sephora_RO_HAIR_NEED_Dyed|sp|hair"

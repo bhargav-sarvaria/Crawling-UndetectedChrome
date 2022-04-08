@@ -13,7 +13,7 @@ git config --global user.name "bhargav-sarvaria"
 git config --global user.email "bhargav.sarvaria@gmail.com"
 gh auth login
 
-token = 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
+token = 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
 
 sudo git config --global credential.helper cache
 gh repo clone bhargav-sarvaria/DigitalShelfPlatform

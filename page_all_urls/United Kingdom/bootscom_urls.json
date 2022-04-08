@@ -104,8 +104,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "new in",
-    "category": "new in fragrance",
-    "page": "new in fragrance",
+    "category": "New in Fragrance",
+    "page": "New in Fragrance",
     "page_url": "https://www.boots.com/new-to-boots/new-in-fragrance",
     "file_name": "United|sp|Kingdom_Boots_new|sp|in_new|sp|in|sp|fragrance_new|sp|in|sp|fragrance"
   },
@@ -159,8 +159,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "new in",
-    "category": "new in hair",
-    "page": "new in hair",
+    "category": "New in Hair",
+    "page": "New in Hair",
     "page_url": "https://www.boots.com/new-to-boots/new-in-hair",
     "file_name": "United|sp|Kingdom_Boots_new|sp|in_new|sp|in|sp|hair_new|sp|in|sp|hair"
   },
@@ -655,7 +655,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "health & pharmacy",
     "category": "medicines & treatments",
-    "page": "footcare",
+    "page": "Footcare",
     "page_url": "https://www.boots.com/health-pharmacy/medicines-treatments/footcare",
     "file_name": "United|sp|Kingdom_Boots_health|sp||as||sp|pharmacy_medicines|sp||as||sp|treatments_footcare"
   },
@@ -2767,7 +2767,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "Hair",
-    "page": "new in hair",
+    "page": "New in Hair",
     "page_url": "https://www.boots.com/beauty/hair/new-in-hair",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_hair_new|sp|in|sp|hair"
   },
@@ -2800,7 +2800,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "Hair",
-    "page": "shampoo",
+    "page": "Shampoo",
     "page_url": "https://www.boots.com/beauty/hair/shampoo",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_hair_shampoo"
   },
@@ -2811,7 +2811,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "beauty & skincare",
     "category": "Hair",
-    "page": "conditioner",
+    "page": "Conditioner",
     "page_url": "https://www.boots.com/beauty/hair/conditioner",
     "file_name": "United|sp|Kingdom_Boots_beauty|sp||as||sp|skincare_hair_conditioner"
   },
@@ -3481,8 +3481,8 @@
     "parsing_config": "./retailer_config/bootscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "Fragrance",
-    "category": "new in fragrance",
-    "page": "new in fragrance",
+    "category": "New in Fragrance",
+    "page": "New in Fragrance",
     "page_url": "https://www.boots.com/fragrance/new-in-fragrance",
     "file_name": "United|sp|Kingdom_Boots_fragrance_new|sp|in|sp|fragrance_new|sp|in|sp|fragrance"
   },
@@ -7156,7 +7156,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
     "category": "Hair",
-    "page": "new in hair",
+    "page": "New in Hair",
     "page_url": "https://www.boots.com/toiletries/hair/new-in-hair",
     "file_name": "United|sp|Kingdom_Boots_toiletries_hair_new|sp|in|sp|hair"
   },
@@ -7189,7 +7189,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
     "category": "Hair",
-    "page": "shampoo",
+    "page": "Shampoo",
     "page_url": "https://www.boots.com/toiletries/hair/shampoo",
     "file_name": "United|sp|Kingdom_Boots_toiletries_hair_shampoo"
   },
@@ -7200,7 +7200,7 @@
     "gcloud_path": "crawl_data/United Kingdom/Boots/",
     "department": "toiletries",
     "category": "Hair",
-    "page": "conditioner",
+    "page": "Conditioner",
     "page_url": "https://www.boots.com/toiletries/hair/conditioner",
     "file_name": "United|sp|Kingdom_Boots_toiletries_hair_conditioner"
   },

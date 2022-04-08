@@ -973,8 +973,8 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Perfumes",
-    "category": "SEPHORA COLLECTION PERFUMES FOR LESS THAN EURO 30",
-    "page": "SEPHORA COLLECTION PERFUMES FOR LESS THAN EURO 30",
+    "category": "Sephora Collection Perfumes under 30 EURO",
+    "page": "Sephora Collection Perfumes under 30 EURO",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/profumi-c301/?prefn1=brand&prefv1=SEPHO&srule=rank9#topbreadcrumb",
     "file_name": "Italy_Sephora_IT_PERFUMES_SEPHORA|sp|COLLECTION|sp|PERFUMES|sp|FOR|sp|LESS|sp|THAN|sp|EURO|sp|30_SEPHORA|sp|COLLECTION|sp|PERFUMES|sp|FOR|sp|LESS|sp|THAN|sp|EURO|sp|30"
   },
@@ -1502,7 +1502,7 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
     "category": "Make Up Remover",
-    "page": "Facial cleansers",
+    "page": "Facial Cleansers",
     "page_url": "https://www.sephora.it/tutti-i-prodotti/trattamenti-viso/struccare-e-detergere/detergenti-viso-c361/",
     "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_REMOVE|sp|MAKE|h|UP|sp|AND|sp|CLEANSE_Facial|sp|cleansers"
   },

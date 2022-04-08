@@ -3801,17 +3801,6 @@
     "gcloud_path": "crawl_data/India/Myntra/",
     "department": "Beauty",
     "category": "Top Brands",
-    "page": "M.A.C",
-    "page_url": "https://www.myntra.com/m.a.c",
-    "file_name": "India_Myntra_BEAUTY_Top|sp|Brands_M.A.C"
-  },
-  {
-    "country": "India",
-    "retailer": "Myntra",
-    "parsing_config": "./retailer_config/myntra_parsing.json",
-    "gcloud_path": "crawl_data/India/Myntra/",
-    "department": "Beauty",
-    "category": "Top Brands",
     "page": "Forest Essentials",
     "page_url": "https://www.myntra.com/forest-essentials",
     "file_name": "India_Myntra_BEAUTY_Top|sp|Brands_Forest|sp|Essentials"

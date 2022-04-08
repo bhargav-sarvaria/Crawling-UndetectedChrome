@@ -886,17 +886,6 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
     "category": "Featured Designers",
-    "page": "Salvatore Ferragamo",
-    "page_url": "https://www.bloomingdales.com/shop/salvatore-ferragamo/salvatore-ferragamo-womens-shoes?id=19210&cm_sp=NAVIGATION-_-TOP_NAV-_-19210-Featured-Designers-Salvatore-Ferragamo",
-    "file_name": "United|sp|States_Bloomingdales_SHOES_Featured|sp|Designers_Salvatore|sp|Ferragamo"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Shoes",
-    "category": "Featured Designers",
     "page": "Sam Edelman",
     "page_url": "https://www.bloomingdales.com/shop/sam-edelman/shoes-sandals-flats-pumps?id=1003830&cm_sp=NAVIGATION-_-TOP_NAV-_-1003830-Featured-Designers-Sam-Edelman",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Featured|sp|Designers_Sam|sp|Edelman"
@@ -1318,17 +1307,6 @@
     "page": "Saint Laurent",
     "page_url": "https://www.bloomingdales.com/shop/saint-laurent/saint-laurent-handbags?id=1136659&cm_sp=NAVIGATION-_-TOP_NAV-_-1136659-Featured-Designers-Saint-Laurent",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_Featured|sp|Designers_Saint|sp|Laurent"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Handbags",
-    "category": "Featured Designers",
-    "page": "Salvatore Ferragamo",
-    "page_url": "https://www.bloomingdales.com/shop/salvatore-ferragamo/womens-handbags?id=19209&cm_sp=NAVIGATION-_-TOP_NAV-_-19209-Featured-Designers-Salvatore-Ferragamo",
-    "file_name": "United|sp|States_Bloomingdales_HANDBAGS_Featured|sp|Designers_Salvatore|sp|Ferragamo"
   },
   {
     "country": "United States",
@@ -3111,17 +3089,6 @@
     "page": "Polo Ralph Lauren",
     "page_url": "https://www.bloomingdales.com/shop/ralph-lauren/mens-clothing-accessories?id=1003160&cm_sp=NAVIGATION-_-TOP_NAV-_-1003160-Featured-Designers-Polo-Ralph-Lauren",
     "file_name": "United|sp|States_Bloomingdales_MEN_Featured|sp|Designers_Polo|sp|Ralph|sp|Lauren"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Men",
-    "category": "Featured Designers",
-    "page": "Salvatore Ferragamo",
-    "page_url": "https://www.bloomingdales.com/shop/salvatore-ferragamo/mens-shoes-accessories?id=11945&cm_sp=NAVIGATION-_-TOP_NAV-_-11945-Featured-Designers-Salvatore-Ferragamo",
-    "file_name": "United|sp|States_Bloomingdales_MEN_Featured|sp|Designers_Salvatore|sp|Ferragamo"
   },
   {
     "country": "United States",
@@ -4970,17 +4937,6 @@
     "page": "Saint Laurent",
     "page_url": "https://www.bloomingdales.com/shop/search?keyword=Saint+Laurent&cm_sp=NAVIGATION-_-TOP_NAV-_-1129464-Featured-Designers-Saint-Laurent",
     "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Saint|sp|Laurent"
-  },
-  {
-    "country": "United States",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Designers",
-    "category": "Featured Designers",
-    "page": "Salvatore Ferragamo",
-    "page_url": "https://www.bloomingdales.com/shop/salvatore-ferragamo?id=11943&cm_sp=NAVIGATION-_-TOP_NAV-_-11943-Featured-Designers-Salvatore-Ferragamo",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Salvatore|sp|Ferragamo"
   },
   {
     "country": "United States",

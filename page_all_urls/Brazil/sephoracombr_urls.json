@@ -247,8 +247,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "EYEBROW",
-    "page": "EYEBROW",
+    "category": "Eyebrows",
+    "page": "Eyebrows",
     "page_url": "https://www.sephora.com.br/maquiagem/sobrancelha/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_EYEBROW_EYEBROW"
   },
@@ -258,7 +258,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "EYEBROW",
+    "category": "Eyebrows",
     "page": "Pencil",
     "page_url": "https://www.sephora.com.br/maquiagem/sobrancelha/lapis/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_EYEBROW_Pencil"
@@ -269,7 +269,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "EYEBROW",
+    "category": "Eyebrows",
     "page": "eyeliner",
     "page_url": "https://www.sephora.com.br/maquiagem/sobrancelha/caneta/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_EYEBROW_eyeliner"
@@ -280,7 +280,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "EYEBROW",
+    "category": "Eyebrows",
     "page": "eyebrow kit",
     "page_url": "https://www.sephora.com.br/maquiagem/sobrancelha/kit-de-sobrancelha/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_EYEBROW_eyebrow|sp|kit"
@@ -291,7 +291,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "EYEBROW",
+    "category": "Eyebrows",
     "page": "eyebrow mask",
     "page_url": "https://www.sephora.com.br/maquiagem/sobrancelha/mascara/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_EYEBROW_eyebrow|sp|mask"
@@ -302,7 +302,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "EYEBROW",
+    "category": "Eyebrows",
     "page": "powder eyeshadow",
     "page_url": "https://www.sephora.com.br/maquiagem/sobrancelha/po/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_EYEBROW_powder|sp|eyeshadow"
@@ -313,8 +313,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "KITS AND PALETTES",
-    "page": "KITS AND PALETTES",
+    "category": "Kits & Palettes",
+    "page": "Kits & Palettes",
     "page_url": "https://www.sephora.com.br/maquiagem/kits-de-maquiagem/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_KITS|sp|AND|sp|PALETTES_KITS|sp|AND|sp|PALETTES"
   },
@@ -324,7 +324,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "KITS AND PALETTES",
+    "category": "Kits & Palettes",
     "page": "shadow palette",
     "page_url": "https://www.sephora.com.br/maquiagem/kits-de-maquiagem/sombras/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_KITS|sp|AND|sp|PALETTES_shadow|sp|palette"
@@ -335,7 +335,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "KITS AND PALETTES",
+    "category": "Kits & Palettes",
     "page": "contour palette",
     "page_url": "https://www.sephora.com.br/maquiagem/kits-de-maquiagem/contorno/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_KITS|sp|AND|sp|PALETTES_contour|sp|palette"
@@ -346,7 +346,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "KITS AND PALETTES",
+    "category": "Kits & Palettes",
     "page": "highlighter palette",
     "page_url": "https://www.sephora.com.br/maquiagem/kits-de-maquiagem/iluminador/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_KITS|sp|AND|sp|PALETTES_highlighter|sp|palette"
@@ -357,7 +357,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "KITS AND PALETTES",
+    "category": "Kits & Palettes",
     "page": "concealer palette",
     "page_url": "https://www.sephora.com.br/maquiagem/kits-de-maquiagem/corretivo/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_KITS|sp|AND|sp|PALETTES_concealer|sp|palette"
@@ -368,7 +368,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "KITS AND PALETTES",
+    "category": "Kits & Palettes",
     "page": "eyebrow kits",
     "page_url": "https://www.sephora.com.br/maquiagem/kits-de-maquiagem/sobrancelha/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_KITS|sp|AND|sp|PALETTES_eyebrow|sp|kits"
@@ -379,7 +379,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "KITS AND PALETTES",
+    "category": "Kits & Palettes",
     "page": "brush kits",
     "page_url": "https://www.sephora.com.br/maquiagem/kits-de-maquiagem/pinceis/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_KITS|sp|AND|sp|PALETTES_brush|sp|kits"
@@ -544,8 +544,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "SEPHORA EXCLUSIVES",
-    "page": "SEPHORA EXCLUSIVES",
+    "category": "Sephora Exclusives",
+    "page": "Sephora Exclusives",
     "page_url": "https://www.sephora.com.br/maquiagem/exclusivos/",
     "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_SEPHORA|sp|EXCLUSIVES_SEPHORA|sp|EXCLUSIVES"
   },
@@ -566,8 +566,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "FEMALE",
-    "page": "FEMALE",
+    "category": "Women",
+    "page": "Women",
     "page_url": "https://www.sephora.com.br/perfumes/feminino/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_FEMALE_FEMALE"
   },
@@ -577,7 +577,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "FEMALE",
+    "category": "Women",
     "page": "Perfumes",
     "page_url": "https://www.sephora.com.br/perfumes/feminino/feminino/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_FEMALE_Perfumes"
@@ -588,7 +588,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "FEMALE",
+    "category": "Women",
     "page": "Travel Size & Roller Pearl",
     "page_url": "https://www.sephora.com.br/perfumes/feminino/roller-pearl-travel-size/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_FEMALE_Travel|sp|Size|sp||as||sp|Roller|sp|Pearl"
@@ -599,7 +599,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "FEMALE",
+    "category": "Women",
     "page": "Hair Mist",
     "page_url": "https://www.sephora.com.br/perfumes/feminino/hair-mist/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_FEMALE_Hair|sp|Mist"
@@ -610,7 +610,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "FEMALE",
+    "category": "Women",
     "page": "Deodorant",
     "page_url": "https://www.sephora.com.br/perfumes/feminino/desodorante/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_FEMALE_Deodorant"
@@ -621,7 +621,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "FEMALE",
+    "category": "Women",
     "page": "Body & Bath",
     "page_url": "https://www.sephora.com.br/perfumes/feminino/corpo-e-banho/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_FEMALE_body|sp|and|sp|bath"
@@ -632,7 +632,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "FEMALE",
+    "category": "Women",
     "page": "Women's Kits",
     "page_url": "https://www.sephora.com.br/perfumes/feminino/kits-femininos/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_FEMALE_Women|sq|s|sp|Kits"
@@ -643,8 +643,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "MALE",
-    "page": "MALE",
+    "category": "Men",
+    "page": "Men",
     "page_url": "https://www.sephora.com.br/perfumes/masculino/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_MALE_MALE"
   },
@@ -654,7 +654,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "MALE",
+    "category": "Men",
     "page": "Perfumes",
     "page_url": "https://www.sephora.com.br/perfumes/masculino/masculino/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_MALE_Perfumes"
@@ -665,7 +665,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "MALE",
+    "category": "Men",
     "page": "Travel Size & Roller Pearl",
     "page_url": "https://www.sephora.com.br/perfumes/masculino/roller-pearl-travel-size/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_MALE_Travel|sp|Size|sp||as||sp|Roller|sp|Pearl"
@@ -676,7 +676,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "MALE",
+    "category": "Men",
     "page": "Deodorant",
     "page_url": "https://www.sephora.com.br/perfumes/masculino/desodorante/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_MALE_Deodorant"
@@ -687,7 +687,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "MALE",
+    "category": "Men",
     "page": "Body & Bath",
     "page_url": "https://www.sephora.com.br/perfumes/masculino/corpo-e-banho/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_MALE_body|sp|and|sp|bath"
@@ -698,7 +698,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "MALE",
+    "category": "Men",
     "page": "Men's Kits",
     "page_url": "https://www.sephora.com.br/perfumes/masculino/kits-masculinos/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_MALE_Men|sq|s|sp|Kits"
@@ -753,8 +753,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "GIFTABLE KITS",
-    "page": "GIFTABLE KITS",
+    "category": "Giftable Kits",
+    "page": "Giftable Kits",
     "page_url": "https://www.sephora.com.br/perfumes/kits-presenteaveis/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_GIFTABLE|sp|KITS_GIFTABLE|sp|KITS"
   },
@@ -764,8 +764,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "GIFTABLE KITS",
-    "page": "Female",
+    "category": "Giftable Kits",
+    "page": "Women",
     "page_url": "https://www.sephora.com.br/perfumes/kits-presenteaveis/kits-de-perfumes-para-ela/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_GIFTABLE|sp|KITS_Female"
   },
@@ -775,8 +775,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "GIFTABLE KITS",
-    "page": "Male",
+    "category": "Giftable Kits",
+    "page": "Men",
     "page_url": "https://www.sephora.com.br/perfumes/kits-presenteaveis/kits-de-perfumes-para-ele/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_GIFTABLE|sp|KITS_Male"
   },
@@ -786,7 +786,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "GIFTABLE KITS",
+    "category": "Giftable Kits",
     "page": "Unisex",
     "page_url": "https://www.sephora.com.br/perfumes/kits-presenteaveis/kits-unissex/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_GIFTABLE|sp|KITS_Unisex"
@@ -797,7 +797,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "GIFTABLE KITS",
+    "category": "Giftable Kits",
     "page": "Sephora Favourite",
     "page_url": "https://www.sephora.com.br/perfumes/kits-presenteaveis/favoritos-sephora/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_GIFTABLE|sp|KITS_Sephora|sp|Favorites"
@@ -808,8 +808,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "OLFACTORY FAMILIES",
-    "page": "OLFACTORY FAMILIES",
+    "category": "Olfactory",
+    "page": "Olfactory",
     "page_url": "https://www.sephora.com.br/perfumes/familias-olfativas/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_OLFACTORY|sp|FAMILIES_OLFACTORY|sp|FAMILIES"
   },
@@ -819,7 +819,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "OLFACTORY FAMILIES",
+    "category": "Olfactory",
     "page": "Floral",
     "page_url": "https://www.sephora.com.br/perfumes/familias-olfativas/floral/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_OLFACTORY|sp|FAMILIES_Floral"
@@ -830,7 +830,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "OLFACTORY FAMILIES",
+    "category": "Olfactory",
     "page": "woody",
     "page_url": "https://www.sephora.com.br/perfumes/familias-olfativas/amadeirado/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_OLFACTORY|sp|FAMILIES_woody"
@@ -841,7 +841,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "OLFACTORY FAMILIES",
+    "category": "Olfactory",
     "page": "Oriental",
     "page_url": "https://www.sephora.com.br/perfumes/familias-olfativas/oriental/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_OLFACTORY|sp|FAMILIES_Oriental"
@@ -852,7 +852,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "OLFACTORY FAMILIES",
+    "category": "Olfactory",
     "page": "Citric",
     "page_url": "https://www.sephora.com.br/perfumes/familias-olfativas/citrico/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_OLFACTORY|sp|FAMILIES_Citric"
@@ -863,7 +863,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "OLFACTORY FAMILIES",
+    "category": "Olfactory",
     "page": "Aromatic",
     "page_url": "https://www.sephora.com.br/perfumes/familias-olfativas/aromatico/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_OLFACTORY|sp|FAMILIES_Aromatic"
@@ -874,8 +874,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "CANDLES & AMBIENT FRAGRANCES",
-    "page": "CANDLES & AMBIENT FRAGRANCES",
+    "category": "Candles & Ambient Fragrances",
+    "page": "Candles & Ambient Fragrances",
     "page_url": "https://www.sephora.com.br/perfumes/velas-fragrancias-de-ambiente/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_CANDLES|sp||as||sp|AMBIENT|sp|FRAGRANCES_CANDLES|sp||as||sp|AMBIENT|sp|FRAGRANCES"
   },
@@ -885,7 +885,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "CANDLES & AMBIENT FRAGRANCES",
+    "category": "Candles & Ambient Fragrances",
     "page": "Diffusers and Environment Perfumes",
     "page_url": "https://www.sephora.com.br/perfumes/velas-fragrancias-de-ambiente/difusores-perfumes-de-ambiente/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_CANDLES|sp||as||sp|AMBIENT|sp|FRAGRANCES_Diffusers|sp|and|sp|Environment|sp|Perfumes"
@@ -896,7 +896,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "CANDLES & AMBIENT FRAGRANCES",
+    "category": "Candles & Ambient Fragrances",
     "page": "Candles",
     "page_url": "https://www.sephora.com.br/perfumes/velas-fragrancias-de-ambiente/velas/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_CANDLES|sp||as||sp|AMBIENT|sp|FRAGRANCES_Candles"
@@ -907,8 +907,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "HIGH PERFUMERY",
-    "page": "HIGH PERFUMERY",
+    "category": "High Perfumery",
+    "page": "High Perfumery",
     "page_url": "https://www.sephora.com.br/perfumes/alta-perfumaria/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_HIGH|sp|PERFUMERY_HIGH|sp|PERFUMERY"
   },
@@ -918,8 +918,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Perfumes",
-    "category": "SEPHORA EXCLUSIVES",
-    "page": "SEPHORA EXCLUSIVES",
+    "category": "Sephora Exclusives",
+    "page": "Sephora Exclusives",
     "page_url": "https://www.sephora.com.br/perfumes/exclusivos/",
     "file_name": "Brazil_Sephora_BR_PERFUMES_SEPHORA|sp|EXCLUSIVES_SEPHORA|sp|EXCLUSIVES"
   },
@@ -940,8 +940,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "SKIN TYPE",
-    "page": "SKIN TYPE",
+    "category": "Skin Type",
+    "page": "Skin Type",
     "page_url": "https://www.sephora.com.br/skincare/tipo-de-pele/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_SKIN|sp|TYPE_SKIN|sp|TYPE"
   },
@@ -951,7 +951,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "SKIN TYPE",
+    "category": "Skin Type",
     "page": "Mixed skin",
     "page_url": "https://www.sephora.com.br/skincare/tipo-de-pele/mista/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_SKIN|sp|TYPE_Mixed|sp|skin"
@@ -962,7 +962,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "SKIN TYPE",
+    "category": "Skin Type",
     "page": "Oily skin",
     "page_url": "https://www.sephora.com.br/skincare/tipo-de-pele/oleosa/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_SKIN|sp|TYPE_Oily|sp|skin"
@@ -973,7 +973,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "SKIN TYPE",
+    "category": "Skin Type",
     "page": "Dry skin",
     "page_url": "https://www.sephora.com.br/skincare/tipo-de-pele/seca/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_SKIN|sp|TYPE_Dry|sp|skin"
@@ -984,7 +984,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "SKIN TYPE",
+    "category": "Skin Type",
     "page": "Sensitive skin",
     "page_url": "https://www.sephora.com.br/skincare/tipo-de-pele/sensivel/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_SKIN|sp|TYPE_Sensitive|sp|skin"
@@ -995,7 +995,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "SKIN TYPE",
+    "category": "Skin Type",
     "page": "Normal Skin",
     "page_url": "https://www.sephora.com.br/skincare/tipo-de-pele/normal/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_SKIN|sp|TYPE_Normal|sp|Skin"
@@ -1006,7 +1006,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "SKIN TYPE",
+    "category": "Skin Type",
     "page": "mature skin",
     "page_url": "https://www.sephora.com.br/skincare/tipo-de-pele/madura/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_SKIN|sp|TYPE_mature|sp|skin"
@@ -1017,8 +1017,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "NEED",
-    "page": "NEED",
+    "category": "Needs",
+    "page": "Needs",
     "page_url": "https://www.sephora.com.br/skincare/necessidade/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_NEED_NEED"
   },
@@ -1028,7 +1028,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Acne",
     "page_url": "https://www.sephora.com.br/skincare/necessidade/acne/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_NEED_Acne"
@@ -1039,7 +1039,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "NEED",
+    "category": "Needs",
     "page": "anti-oil",
     "page_url": "https://www.sephora.com.br/skincare/necessidade/anti-oleosidade/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_NEED_anti|h|oil"
@@ -1050,7 +1050,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "NEED",
+    "category": "Needs",
     "page": "pro age",
     "page_url": "https://www.sephora.com.br/skincare/necessidade/pro-idade/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_NEED_pro|sp|age"
@@ -1061,7 +1061,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Stains",
     "page_url": "https://www.sephora.com.br/skincare/necessidade/manchas/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_NEED_Stains"
@@ -1072,7 +1072,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Poros",
     "page_url": "https://www.sephora.com.br/skincare/necessidade/poros/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_NEED_Poros"
@@ -1083,7 +1083,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "NEED",
+    "category": "Needs",
     "page": "Wrinkles and Fine Lines",
     "page_url": "https://www.sephora.com.br/skincare/necessidade/rugas-linhas-finas/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_NEED_Wrinkles|sp|and|sp|Fine|sp|Lines"
@@ -1094,8 +1094,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "ROUTINE",
-    "page": "ROUTINE",
+    "category": "Routine",
+    "page": "Routine",
     "page_url": "https://www.sephora.com.br/skincare/rotina/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_ROUTINE_ROUTINE"
   },
@@ -1105,7 +1105,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "ROUTINE",
+    "category": "Routine",
     "page": "Cleaning Routine",
     "page_url": "https://www.sephora.com.br/skincare/rotina/limpeza/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_ROUTINE_Cleaning|sp|Routine"
@@ -1116,7 +1116,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "ROUTINE",
+    "category": "Routine",
     "page": "Hydration Routine",
     "page_url": "https://www.sephora.com.br/skincare/rotina/hidratacao/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_ROUTINE_Hydration|sp|Routine"
@@ -1127,7 +1127,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "ROUTINE",
+    "category": "Routine",
     "page": "Day Routine",
     "page_url": "https://www.sephora.com.br/skincare/rotina/diurna/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_ROUTINE_Day|sp|Routine"
@@ -1138,7 +1138,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "ROUTINE",
+    "category": "Routine",
     "page": "night routine",
     "page_url": "https://www.sephora.com.br/skincare/rotina/noturna/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_ROUTINE_night|sp|routine"
@@ -1149,8 +1149,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "EYES & LIPS",
-    "page": "EYES & LIPS",
+    "category": "Eyes & Lips",
+    "page": "Eyes & Lips",
     "page_url": "https://www.sephora.com.br/skincare/olhos-labios/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_EYES|sp||as||sp|LIPS_EYES|sp||as||sp|LIPS"
   },
@@ -1160,7 +1160,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "EYES & LIPS",
+    "category": "Eyes & Lips",
     "page": "moisturizers",
     "page_url": "https://www.sephora.com.br/skincare/olhos-labios/hidratantes/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_EYES|sp||as||sp|LIPS_moisturizers"
@@ -1171,7 +1171,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "EYES & LIPS",
+    "category": "Eyes & Lips",
     "page": "exfoliants",
     "page_url": "https://www.sephora.com.br/skincare/olhos-labios/esfoliantes-labios/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_EYES|sp||as||sp|LIPS_exfoliants"
@@ -1182,7 +1182,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "EYES & LIPS",
+    "category": "Eyes & Lips",
     "page": "Anti Dark circles",
     "page_url": "https://www.sephora.com.br/skincare/olhos-labios/anti-olheiras/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_EYES|sp||as||sp|LIPS_Anti|sp|Dark|sp|circles"
@@ -1193,7 +1193,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "EYES & LIPS",
+    "category": "Eyes & Lips",
     "page": "pro age",
     "page_url": "https://www.sephora.com.br/skincare/olhos-labios/pro-idade/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_EYES|sp||as||sp|LIPS_pro|sp|age"
@@ -1204,7 +1204,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "EYES & LIPS",
+    "category": "Eyes & Lips",
     "page": "Eyelashes & Eyebrows",
     "page_url": "https://www.sephora.com.br/skincare/olhos-labios/cilios-sobrancelhas/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_EYES|sp||as||sp|LIPS_Eyelashes|sp||as||sp|Eyebrows"
@@ -1215,8 +1215,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "MORE EXPENSIVE",
-    "page": "MORE EXPENSIVE",
+    "category": "More Expensive",
+    "page": "More Expensive",
     "page_url": "https://www.sephora.com.br/skincare/mascaras/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_MORE|sp|EXPENSIVE_MORE|sp|EXPENSIVE"
   },
@@ -1226,7 +1226,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "MORE EXPENSIVE",
+    "category": "More Expensive",
     "page": "facials",
     "page_url": "https://www.sephora.com.br/skincare/mascaras/faciais/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_MORE|sp|EXPENSIVE_facials"
@@ -1237,7 +1237,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "MORE EXPENSIVE",
+    "category": "More Expensive",
     "page": "Very",
     "page_url": "https://www.sephora.com.br/skincare/mascaras/labiais/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_MORE|sp|EXPENSIVE_Very"
@@ -1248,7 +1248,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "MORE EXPENSIVE",
+    "category": "More Expensive",
     "page": "Eyes",
     "page_url": "https://www.sephora.com.br/skincare/mascaras/olhos/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_MORE|sp|EXPENSIVE_Eyes"
@@ -1325,8 +1325,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "KITS DE SKINCARE",
-    "page": "KITS DE SKINCARE",
+    "category": "Skincare Kits",
+    "page": "Skincare Kits",
     "page_url": "https://www.sephora.com.br/skincare/kits-de-skincare/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_KITS|sp|DE|sp|SKINCARE_KITS|sp|DE|sp|SKINCARE"
   },
@@ -1336,7 +1336,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "KITS DE SKINCARE",
+    "category": "Skincare Kits",
     "page": "Kits",
     "page_url": "https://www.sephora.com.br/skincare/kits-de-skincare/kits/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_KITS|sp|DE|sp|SKINCARE_Kits"
@@ -1424,8 +1424,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Skincare",
-    "category": "HYPOALLERGENIC",
-    "page": "HYPOALLERGENIC",
+    "category": "Hypoallergenic",
+    "page": "Hypoallergenic",
     "page_url": "https://www.sephora.com.br/skincare/hipoalergenico/",
     "file_name": "Brazil_Sephora_BR_SKINCARE_HYPOALLERGENIC_HYPOALLERGENIC"
   },
@@ -1446,8 +1446,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "SHAMPOO",
-    "page": "SHAMPOO",
+    "category": "Shampoo",
+    "page": "Shampoo",
     "page_url": "https://www.sephora.com.br/cabelos/shampoo/",
     "file_name": "Brazil_Sephora_BR_HAIR_SHAMPOO_SHAMPOO"
   },
@@ -1457,7 +1457,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "Shampoo",
     "page_url": "https://www.sephora.com.br/cabelos/shampoo/shampoo/",
     "file_name": "Brazil_Sephora_BR_HAIR_SHAMPOO_Shampoo"
@@ -1468,7 +1468,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "Modeling Foam",
     "page_url": "https://www.sephora.com.br/cabelos/shampoo/espuma-modeladora/",
     "file_name": "Brazil_Sephora_BR_HAIR_SHAMPOO_Modeling|sp|Foam"
@@ -1479,7 +1479,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "Shampoo and conditioner",
     "page_url": "https://www.sephora.com.br/cabelos/shampoo/shampoo-e-condicionador/",
     "file_name": "Brazil_Sephora_BR_HAIR_SHAMPOO_Shampoo|sp|and|sp|conditioner"
@@ -1490,7 +1490,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "Curl Enhancer",
     "page_url": "https://www.sephora.com.br/cabelos/shampoo/realcador-de-curvas/",
     "file_name": "Brazil_Sephora_BR_HAIR_SHAMPOO_Curl|sp|Enhancer"
@@ -1501,8 +1501,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "CONDITIONER",
-    "page": "CONDITIONER",
+    "category": "Conditioner",
+    "page": "Conditioner",
     "page_url": "https://www.sephora.com.br/cabelos/condicionador/",
     "file_name": "Brazil_Sephora_BR_HAIR_CONDITIONER_CONDITIONER"
   },
@@ -1512,7 +1512,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "CONDITIONER",
+    "category": "Conditioner",
     "page": "Conditioner",
     "page_url": "https://www.sephora.com.br/cabelos/condicionador/condicionador/",
     "file_name": "Brazil_Sephora_BR_HAIR_CONDITIONER_Conditioner"
@@ -1523,7 +1523,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "CONDITIONER",
+    "category": "Conditioner",
     "page": "no-rinse conditioner",
     "page_url": "https://www.sephora.com.br/cabelos/condicionador/condicionador-sem-enxague/",
     "file_name": "Brazil_Sephora_BR_HAIR_CONDITIONER_no|h|rinse|sp|conditioner"
@@ -1534,7 +1534,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "CONDITIONER",
+    "category": "Conditioner",
     "page": "Leave-in conditioner",
     "page_url": "https://www.sephora.com.br/cabelos/condicionador/condicionador-leave-in/",
     "file_name": "Brazil_Sephora_BR_HAIR_CONDITIONER_Leave|h|in|sp|conditioner"
@@ -1545,8 +1545,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "MASK",
-    "page": "MASK",
+    "category": "Mask",
+    "page": "Mask",
     "page_url": "https://www.sephora.com.br/cabelos/mascara/",
     "file_name": "Brazil_Sephora_BR_HAIR_MASK_MASK"
   },
@@ -1556,7 +1556,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "MASK",
+    "category": "Mask",
     "page": "Nutrition",
     "page_url": "https://www.sephora.com.br/cabelos/mascara/mascara-de-nutricao/",
     "file_name": "Brazil_Sephora_BR_HAIR_MASK_Nutrition"
@@ -1567,7 +1567,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "MASK",
+    "category": "Mask",
     "page": "Purifying",
     "page_url": "https://www.sephora.com.br/cabelos/mascara/mascara-purificante/",
     "file_name": "Brazil_Sephora_BR_HAIR_MASK_Purifying"
@@ -1578,7 +1578,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "MASK",
+    "category": "Mask",
     "page": "Volume",
     "page_url": "https://www.sephora.com.br/cabelos/mascara/mascara-de-volume/",
     "file_name": "Brazil_Sephora_BR_HAIR_MASK_Volume"
@@ -1589,7 +1589,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "MASK",
+    "category": "Mask",
     "page": "defrizzing",
     "page_url": "https://www.sephora.com.br/cabelos/mascara/mascara-defrizante/",
     "file_name": "Brazil_Sephora_BR_HAIR_MASK_defrizzing"
@@ -1600,7 +1600,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "MASK",
+    "category": "Mask",
     "page": "repairer",
     "page_url": "https://www.sephora.com.br/cabelos/mascara/mascara-reparadora/",
     "file_name": "Brazil_Sephora_BR_HAIR_MASK_repairer"
@@ -1611,7 +1611,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "MASK",
+    "category": "Mask",
     "page": "revitalizing",
     "page_url": "https://www.sephora.com.br/cabelos/mascara/mascara-revitalizante/",
     "file_name": "Brazil_Sephora_BR_HAIR_MASK_revitalizing"
@@ -1622,8 +1622,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "FINISHER",
-    "page": "FINISHER",
+    "category": "Finisher",
+    "page": "Finisher",
     "page_url": "https://www.sephora.com.br/cabelos/finalizador/",
     "file_name": "Brazil_Sephora_BR_HAIR_FINISHER_FINISHER"
   },
@@ -1633,7 +1633,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "FINISHER",
+    "category": "Finisher",
     "page": "straightening cream",
     "page_url": "https://www.sephora.com.br/cabelos/finalizador/creme-alisante/",
     "file_name": "Brazil_Sephora_BR_HAIR_FINISHER_straightening|sp|cream"
@@ -1644,7 +1644,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "FINISHER",
+    "category": "Finisher",
     "page": "Smoothing Balm",
     "page_url": "https://www.sephora.com.br/cabelos/finalizador/balsamo-suavizante/",
     "file_name": "Brazil_Sephora_BR_HAIR_FINISHER_Smoothing|sp|Balm"
@@ -1655,7 +1655,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "FINISHER",
+    "category": "Finisher",
     "page": "Tip Repair",
     "page_url": "https://www.sephora.com.br/cabelos/finalizador/reparador-de-pontas/",
     "file_name": "Brazil_Sephora_BR_HAIR_FINISHER_Tip|sp|Repair"
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "FINISHER",
+    "category": "Finisher",
     "page": "No-rinse spray",
     "page_url": "https://www.sephora.com.br/cabelos/finalizador/spray-sem-enxague/",
     "file_name": "Brazil_Sephora_BR_HAIR_FINISHER_No|h|rinse|sp|spray"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "FINISHER",
+    "category": "Finisher",
     "page": "Defrizzer and Shine Intensifier Fluid",
     "page_url": "https://www.sephora.com.br/cabelos/finalizador/fluido-defrizante-e-intensificador-de-brilho/",
     "file_name": "Brazil_Sephora_BR_HAIR_FINISHER_Defrizzer|sp|and|sp|Shine|sp|Intensifier|sp|Fluid"
@@ -1688,87 +1688,10 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "FINISHER",
+    "category": "Finisher",
     "page": "Shine Spray",
     "page_url": "https://www.sephora.com.br/cabelos/finalizador/spray-de-brilho/",
     "file_name": "Brazil_Sephora_BR_HAIR_FINISHER_Shine|sp|Spray"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Hair",
-    "category": "MODELER",
-    "page": "MODELER",
-    "page_url": "https://www.sephora.com.br/cabelos/modelador/",
-    "file_name": "Brazil_Sephora_BR_HAIR_MODELER_MODELER"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Hair",
-    "category": "MODELER",
-    "page": "Mousse",
-    "page_url": "https://www.sephora.com.br/cabelos/modelador/mousse/",
-    "file_name": "Brazil_Sephora_BR_HAIR_MODELER_Mousse"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Hair",
-    "category": "MODELER",
-    "page": "Fixative Spray",
-    "page_url": "https://www.sephora.com.br/cabelos/modelador/spray-fixador/",
-    "file_name": "Brazil_Sephora_BR_HAIR_MODELER_Fixative|sp|Spray"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Hair",
-    "category": "MODELER",
-    "page": "Fixing Gel",
-    "page_url": "https://www.sephora.com.br/cabelos/modelador/gel-fixador/",
-    "file_name": "Brazil_Sephora_BR_HAIR_MODELER_Fixing|sp|Gel"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Hair",
-    "category": "MODELER",
-    "page": "Gel",
-    "page_url": "https://www.sephora.com.br/cabelos/modelador/gel/",
-    "file_name": "Brazil_Sephora_BR_HAIR_MODELER_Gel"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Hair",
-    "category": "MODELER",
-    "page": "Ointment",
-    "page_url": "https://www.sephora.com.br/cabelos/modelador/pomada/",
-    "file_name": "Brazil_Sephora_BR_HAIR_MODELER_Ointment"
-  },
-  {
-    "country": "Brazil",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Hair",
-    "category": "MODELER",
-    "page": "Lipstick Anti-Frizz",
-    "page_url": "https://www.sephora.com.br/cabelos/modelador/pomada-anti-frizz/",
-    "file_name": "Brazil_Sephora_BR_HAIR_MODELER_Lipstick|sp|Anti|h|Frizz"
   },
   {
     "country": "Brazil",
@@ -1853,8 +1776,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "HAIR KITS",
-    "page": "HAIR KITS",
+    "category": "Hair Kits",
+    "page": "Hair Kits",
     "page_url": "https://www.sephora.com.br/cabelos/kits-para-cabelos/",
     "file_name": "Brazil_Sephora_BR_HAIR_HAIR|sp|KITS_HAIR|sp|KITS"
   },
@@ -1864,8 +1787,8 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Hair",
-    "category": "HAIR KITS",
-    "page": "hair kits",
+    "category": "Hair Kits",
+    "page": "Hair Kits",
     "page_url": "https://www.sephora.com.br/cabelos/kits-para-cabelos/kits-para-cabelos/",
     "file_name": "Brazil_Sephora_BR_HAIR_HAIR|sp|KITS_hair|sp|kits"
   },

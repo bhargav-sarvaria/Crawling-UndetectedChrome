@@ -1655,8 +1655,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "SHAMPOO",
-    "page": "SHAMPOO",
+    "category": "Shampoo",
+    "page": "Shampoo",
     "page_url": "https://www.douglas.hu/c/haj/sampon/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_SHAMPOO_SHAMPOO"
   },
@@ -1666,7 +1666,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "For normal hair",
     "page_url": "https://www.douglas.hu/c/haj/sampon/normal-hajra/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_SHAMPOO_For|sp|normal|sp|hair"
@@ -1677,7 +1677,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "For used, dry hair",
     "page_url": "https://www.douglas.hu/c/haj/sampon/igenybevett-szaraz-hajra/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_SHAMPOO_For|sp|used,|sp|dry|sp|hair"
@@ -1688,7 +1688,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "For colored / dyed hair",
     "page_url": "https://www.douglas.hu/c/haj/sampon/szinezett-festett-hajra/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_SHAMPOO_For|sp|colored|sp||fs||sp|dyed|sp|hair"
@@ -1699,7 +1699,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
     "department": "HAJ",
-    "category": "SHAMPOO",
+    "category": "Shampoo",
     "page": "Dry shampoos",
     "page_url": "https://www.douglas.hu/c/haj/sampon/szarazsamponok/",
     "file_name": "Hungary_DOUGLAS_HU_HAJ_SHAMPOO_Dry|sp|shampoos"
@@ -2105,9 +2105,9 @@
     "retailer": "Douglas_HU",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Hungary/Douglas_HU/",
-    "department": "NEW PRODUCTS",
-    "category": "NEW PRODUCTS",
-    "page": "NEW PRODUCTS",
+    "department": "New Products",
+    "category": "New Products",
+    "page": "New Products",
     "page_url": "https://www.douglas.hu/c/uj-termekek/",
     "file_name": "Hungary_DOUGLAS_HU_NEW|sp|PRODUCTS_NEW|sp|PRODUCTS_NEW|sp|PRODUCTS"
   },

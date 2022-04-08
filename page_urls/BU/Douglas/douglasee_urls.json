@@ -390,7 +390,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "TANNING",
+    "category": "Tanning",
     "page": "Pre-tanning",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/P%C3%A4evitamine/P%C3%A4evituseelsed/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TANNING_Pre|h|tanning"
@@ -401,7 +401,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "TANNING",
+    "category": "Tanning",
     "page": "After sunbathing",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/P%C3%A4evitamine/P%C3%A4evitusj%C3%A4rgsed/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TANNING_After|sp|sunbathing"
@@ -412,7 +412,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
     "department": "Skin",
-    "category": "TANNING",
+    "category": "Tanning",
     "page": "Self-tanning",
     "page_url": "https://www.douglas.ee/ee/kataloog/NAHAHOOLDUS/P%C3%A4evitamine/Isepruunistajad/",
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TANNING_Self|h|tanning"

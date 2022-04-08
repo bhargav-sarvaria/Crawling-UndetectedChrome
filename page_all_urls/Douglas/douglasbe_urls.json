@@ -138,7 +138,7 @@
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Brands",
     "category": "New Brands",
-    "page": "NEONAIL",
+    "page": "Neonail",
     "page_url": "https://www.douglas.be/nl/b/neonail/b5190",
     "file_name": "Belgium_DOUGLAS_BE_BRANDS_NEW|sp|BRANDS_NEONAIL"
   },
@@ -1864,8 +1864,8 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Sex Toys",
-    "page": "Sex Toys",
+    "category": "Sextoys",
+    "page": "Sextoys",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/1313",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_SEX|h|TOYS"
   },
@@ -1875,7 +1875,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Vibrators",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/vibrators/131301",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_Vibrators"
@@ -1886,7 +1886,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "Lubricant",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/glijmiddel/131302",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_Lubricant"
@@ -1897,7 +1897,7 @@
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Belgium/Douglas_BE/",
     "department": "Body",
-    "category": "Sex Toys",
+    "category": "Sextoys",
     "page": "All categories",
     "page_url": "https://www.douglas.be/nl/c/lichaam/seksspeeltjes/1313",
     "file_name": "Belgium_DOUGLAS_BE_BODY_SEX|h|TOYS_>>|sp|All|sp|categories"

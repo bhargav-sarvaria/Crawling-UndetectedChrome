@@ -1403,7 +1403,7 @@
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Face",
     "category": "Mens Facial Care",
-    "page": "moisturizer",
+    "page": "Moisturizer",
     "page_url": "https://www.sephora.de/shop/gesicht/gesichtspflege-herren/feuchtigkeitscreme-c507/",
     "file_name": "Germany_Sephora_DE_FACE_FACIAL|sp|CARE|sp|GENTLEMEN_moisturizer"
   },
@@ -2679,7 +2679,7 @@
     "gcloud_path": "crawl_data/Germany/Sephora_DE/",
     "department": "Hair",
     "category": "Haircare",
-    "page": "shampoo",
+    "page": "Shampoo",
     "page_url": "https://www.sephora.de/shop/haare/haarpflege/shampoo-c447/",
     "file_name": "Germany_Sephora_DE_HAIR_HAIR|sp|CARE_shampoo"
   },

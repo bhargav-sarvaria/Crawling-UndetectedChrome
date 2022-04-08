@@ -3140,17 +3140,6 @@
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
     "department": "Beauty",
-    "category": "Just landed: Hermes Plein Air Complexion Collection",
-    "page": "Just landed: Hermes Plein Air Complexion Collection",
-    "page_url": "https://www.selfridges.com/GB/en/cat/hermes/beauty/make-up/complexion/",
-    "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Just|sp|landed|cln||sp|Hermes|sp|Plein|sp|Air|sp|Complexion|sp|Collection_Just|sp|landed|cln||sp|Hermes|sp|Plein|sp|Air|sp|Complexion|sp|Collection"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/selfridgescom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
-    "department": "Beauty",
     "category": "Bags",
     "page": "Shop now",
     "page_url": "https://www.selfridges.com/GB/en/cat/hermes/beauty/make-up/complexion/",

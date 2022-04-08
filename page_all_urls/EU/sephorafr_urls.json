@@ -1799,7 +1799,7 @@
     "gcloud_path": "crawl_data/France/Sephora_FR/",
     "department": "Body",
     "category": "Bodycare",
-    "page": "moisturizer",
+    "page": "Moisturizer",
     "page_url": "https://www.sephora.fr/shop/corps-et-bain/soin-du-corps/creme-hydratante-c426/",
     "file_name": "France_Sephora_FR_CORPS|sp||as||sp|BAIN_BODY|sp|CARE_moisturizer"
   },
@@ -2968,17 +2968,6 @@
     "page": "New in Hair",
     "page_url": "https://www.sephora.fr/nouveautes-soins-cheveux.html",
     "file_name": "France_Sephora_FR_NEWS_Hair|sp|News_Hair|sp|News"
-  },
-  {
-    "country": "France",
-    "retailer": "Sephora_FR",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/France/Sephora_FR/",
-    "department": "New",
-    "category": "M.A.C",
-    "page": "M.A.C",
-    "page_url": "https://www.sephora.fr/MAC-HubPage.html",
-    "file_name": "France_Sephora_FR_NEWS_M.A.C_M.A.C"
   },
   {
     "country": "France",

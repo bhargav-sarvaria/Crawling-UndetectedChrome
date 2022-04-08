@@ -666,7 +666,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Face",
     "category": "Scrubs & Masks",
-    "page": "scrubs",
+    "page": "Scrubs",
     "page_url": "https://douglas.es/c/tratamiento_facial/exfoliantes_y_mascarillas/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_FACIAL_SCRUBS|sp|AND|sp|MASKS_scrubs"
   },
@@ -831,7 +831,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
     "category": "Bodycare",
-    "page": "scrubs",
+    "page": "Scrubs",
     "page_url": "https://douglas.es/c/tratamiento_corporal/cuidado/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|CARE_scrubs"
   },
@@ -955,61 +955,6 @@
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_See|sp|all|sp|categories"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Body",
-    "category": "Scented Line",
-    "page": "Scented Line",
-    "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada",
-    "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_SCENTED|sp|LINE"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Body",
-    "category": "Scented Line",
-    "page": "Body Creams and Lotions",
-    "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/cremas_y_lociones_corporales",
-    "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Body|sp|Creams|sp|and|sp|Lotions"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Body",
-    "category": "Scented Line",
-    "page": "Body Mist",
-    "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/body_mist",
-    "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Body|sp|Mist"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Body",
-    "category": "Scented Line",
-    "page": "Handcream",
-    "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/crema_de_manos",
-    "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Handcream"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Body",
-    "category": "Scented Line",
-    "page": "Other Treatments",
-    "page_url": "https://douglas.es/c/tratamiento_corporal/linea_perfumada/otros",
-    "file_name": "Spain_DOUGLAS_ES_BODY_SCENTED|sp|LINE_Other|sp|Treatments"
   },
   {
     "country": "Spain",
@@ -2303,39 +2248,6 @@
     "retailer": "Douglas_ES",
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Hygiene",
-    "category": "Scented Line",
-    "page": "Scented Line",
-    "page_url": "https://douglas.es/c/higiene/linea_perfumada",
-    "file_name": "Spain_DOUGLAS_ES_HYGIENE_SCENTED|sp|LINE_SCENTED|sp|LINE"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Hygiene",
-    "category": "Scented Line",
-    "page": "bath gels",
-    "page_url": "https://douglas.es/c/higiene/linea_perfumada/geles_de_bano",
-    "file_name": "Spain_DOUGLAS_ES_HYGIENE_SCENTED|sp|LINE_bath|sp|gels"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Hygiene",
-    "category": "Scented Line",
-    "page": "Hand soap",
-    "page_url": "https://douglas.es/c/higiene/linea_perfumada/jabon_de_manos",
-    "file_name": "Spain_DOUGLAS_ES_HYGIENE_SCENTED|sp|LINE_Hand|sp|soap"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
     "category": "Men",
     "page": "Men",
@@ -2767,7 +2679,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Men",
     "category": "Scrubs & Masks",
-    "page": "scrubs",
+    "page": "Scrubs",
     "page_url": "https://douglas.es/c/hombre/exfoliantes_y_mascarillas/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_MAN_SCRUBS|sp|AND|sp|MASKS_scrubs"
   },
@@ -3053,7 +2965,7 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
     "category": "Bodycare",
-    "page": "scrubs",
+    "page": "Scrubs",
     "page_url": "https://douglas.es/c/parafarmacia/cuidado/exfoliantes",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_BODY|sp|CARE_scrubs"
   },
@@ -3305,8 +3217,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Only In Douglas",
-    "category": "Goodin",
-    "page": "Goodin",
+    "category": "Good in",
+    "page": "Good in",
     "page_url": "https://douglas.es/b/goodin",
     "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_Goodin"
   },
@@ -3338,8 +3250,8 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Only In Douglas",
-    "category": "bohemian garden",
-    "page": "bohemian garden",
+    "category": "Bohemian Garden",
+    "page": "Bohemian Garden",
     "page_url": "https://douglas.es/b/jardin_boheme",
     "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Florence|sp|by|sp|Mills_bohemian|sp|garden"
   },
@@ -3382,43 +3294,10 @@
     "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Only In Douglas",
-    "category": "Miss Kay",
-    "page": "Miss Kay",
-    "page_url": "https://douglas.es/b/miss_kay",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Kora|sp|Organics_Miss|sp|Kay"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
     "category": "Neonail",
     "page": "Neonail",
     "page_url": "https://douglas.es/b/neonail",
     "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Kora|sp|Organics_Neonail"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "One.two.free",
-    "page": "One.two.free!",
-    "page_url": "https://douglas.es/b/onetwofree",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Kora|sp|Organics_One.two.free!"
-  },
-  {
-    "country": "Spain",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Only In Douglas",
-    "category": "Salvatore Ferragamo",
-    "page": "Salvatore Ferragamo",
-    "page_url": "https://douglas.es/b/salvatore_ferragamo",
-    "file_name": "Spain_DOUGLAS_ES_ONLY|sp|IN|sp|DOUGLAS_Kora|sp|Organics_Salvatore|sp|Ferragamo"
   },
   {
     "country": "Spain",

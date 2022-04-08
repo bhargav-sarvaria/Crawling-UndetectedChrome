@@ -2052,17 +2052,6 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Top Brands",
-    "page": "M.A.C",
-    "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/featured-brand-mac",
-    "file_name": "Australia_Myer_Beauty_Top|sp|Brands_M.A.C"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Beauty",
-    "category": "Top Brands",
     "page": "GUCCI",
     "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/beauty-brands-gucci",
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_GUCCI"
