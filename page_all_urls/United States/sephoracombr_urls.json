@@ -37,7 +37,7 @@
     "retailer": "Sephora_BR",
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Skincare",
+    "department": "Skin",
     "category": "Skincare",
     "page": "Skincare",
     "page_url": "https://www.sephora.com.br/skincare/",
