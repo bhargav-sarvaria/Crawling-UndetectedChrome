@@ -2690,17 +2690,6 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
     "category": "Perfumes",
-    "page": "POO POURRI",
-    "page_url": "https://www.flaconi.de/poo-pourri/",
-    "file_name": "Germany_Flaconi_NEW_PERFUME_POO|sp|POURRI"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "New",
-    "category": "Perfumes",
     "page": "Roberto Ugolini",
     "page_url": "https://www.flaconi.de/roberto-ugolini/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_Roberto|sp|Ugolini"

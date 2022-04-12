@@ -1139,17 +1139,6 @@
     "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
     "department": "Face",
     "category": "Facecare",
-    "page": "Booster",
-    "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/booster/",
-    "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Booster"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Douglas_PT",
-    "parsing_config": "./retailer_config/Douglas/douglascz_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Douglas_PT/",
-    "department": "Face",
-    "category": "Facecare",
     "page": "Face cream",
     "page_url": "https://www.douglas.pt/c/rosto/cuidados-de-rosto/creme-de-rosto/",
     "file_name": "Portugal_DOUGLAS_PT_FACE_FACE|sp|CARE_Face|sp|cream"
