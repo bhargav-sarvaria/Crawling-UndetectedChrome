@@ -29,6 +29,17 @@ class Mongo:
         result = list(self.db[collection].find())
         return result
 
+    
+    def getAllDocumentsForRetry(self, device):
+        filt = {"device": device}
+        failed_urls = []
+        for collection in self.db.list_collection_names():
+            filt = {"device": 'Desktop'}
+            result = list(self.db[collection].find(filt))
+            failed_urls.extend(result)
+        #     self.db[collection].delete_many(filt)
+        print(failed_urls)
+
     def getDocumentsForRetry(self, collection, device):
         filt = {"device": device}
         result = list(self.db[collection].find(filt))

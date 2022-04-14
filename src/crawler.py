@@ -99,7 +99,10 @@ class Crawler:
             self.crawl_folder = crawl_folder.split('_')[1]
             region = crawl_folder.split('_')[1]
             device = crawl_folder.split('_')[2]
-            crawl_urls = mongo.getDocumentsForRetry(region, device)
+            if region.lower() == 'all':
+                crawl_urls = mongo.getAllDocumentsForRetry(device)
+            else:
+                crawl_urls = mongo.getDocumentsForRetry(region, device)
 
             for idx, page_config in enumerate(crawl_urls):
                 if page_config['retailer'] not in self.parser_map:
