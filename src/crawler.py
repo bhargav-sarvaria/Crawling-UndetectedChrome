@@ -24,6 +24,8 @@ import logging as LOGGING
 import psutil
 import re
 from typing import List
+from PIL import Image
+import os
 
 RENDER_WAIT_LIMIT = 3
 MEMORY_THRESHOLD = 15
@@ -39,7 +41,7 @@ level=LOGGING.WARN
 )
 
 mongo = Mongo()
-COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date"]
+COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date", "sponsored_flag"]
 
 
 class Crawler:
@@ -181,8 +183,11 @@ class Crawler:
                     
                     source = BeautifulSoup(d.page_source, 'html.parser')
                     
-                    threading.Thread(target = self.parsePage, args=(source,page_config,device,)).start()      
-                    # self.parsePage(source,page_config, device)
+                    img_path = './' + str(time.time())+ '.jpg'
+                    self.save_screenshot(d, img_path)
+                    
+                    threading.Thread(target = self.parsePage, args=(source,page_config,device,img_path,)).start()
+                    # self.parsePage(source,page_config, device, img_path)
 
                 except Exception as e:
                     LOGGING.error(e)
@@ -195,6 +200,17 @@ class Crawler:
         if len(self.RUNNING_THREADS) == 0 and not self.queueNotEmpty():
             self.consumerRunning = False
     
+    def save_screenshot(self, driver, path) -> None:
+        path = path.replace('.jpg', '.png')
+        original_size = driver.get_window_size()
+        required_width = driver.execute_script('return document.body.parentNode.scrollWidth')
+        required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
+        driver.set_window_size(required_width, required_height)
+        # driver.save_screenshot(path)  # has scrollbar
+        driver.find_element_by_tag_name('body').screenshot(path)  # avoids scrollbar
+        self.compressPngToJpg(path)
+        driver.set_window_size(original_size['width'], original_size['height'])
+
     def quitDriver(self, d):
         try:
             d.close()
@@ -208,7 +224,7 @@ class Crawler:
             LOGGING.error(e)
             LOGGING.error('Could not quit driver')
 
-    def parsePage(self, source, page_config, device):
+    def parsePage(self, source, page_config, device, img_path):
         try:
             parser = self.parser_map[page_config['retailer']]
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
@@ -224,10 +240,13 @@ class Crawler:
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             filname = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
             np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
-            gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname;
+            gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname
+            gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filname.replace('.csv', '.jpg')
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
+            self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
             if os.path.exists(filname):
                 os.remove(filname)
+                os.remove(img_path)
                 LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
             LOGGING.error(e)
@@ -347,6 +366,12 @@ class Crawler:
                     value = el.getText()
                 elif selector['type'] == 'delete_classname':
                     element.find(class_= selector['value']).decompose()
+                elif selector['type'] == 'classname_value_flag':
+                    value = '0'
+                    if element.find(class_= selector['classname']):
+                        if element.find(class_= selector['classname']).getText().lower() == selector['value'].lower():
+                            value = '1'
+
                 
             except:
                 value = ''
@@ -460,26 +485,21 @@ class Crawler:
 
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
+
+
     def activeDriverRemove(self, active_driver):
         if active_driver in self.ACTIVE_DRIVERS:
             self.ACTIVE_DRIVERS.remove(active_driver)
 
-    def driverCleanerBU(self):
-        while self.consumerRunning:
-            to_remove = None
-            for active_driver in self.ACTIVE_DRIVERS:
-                if time.time() - active_driver["create_time"] > DRIVER_CLEAN_TIME:
-                    try:
-                        active_driver["obj"].quit()
-                    except:
-                        pass
-                    os.system('kill -9 ' + active_driver["pids"])
-                    to_remove = active_driver
-                    LOGGING.error('Driver Cleaner removed a chrome instance')
-                    break
-            if to_remove:
-                self.ACTIVE_DRIVERS.remove(to_remove)
-
+    def compressPngToJpg(self, img_path):
+        im = Image.open(img_path)
+        jpg_img_path = img_path.replace('.png', '.jpg')
+        rgb_im = im.convert('RGB')
+        rgb_im.save(jpg_img_path)
+        os.remove(img_path)
+        im = Image.open(jpg_img_path)
+        im.save(jpg_img_path,optimize=True,quality=30) 
+    
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []
         for proc in psutil.process_iter(['pid', 'name', 'username', 'cmdline']):
