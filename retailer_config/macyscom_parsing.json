@@ -138,7 +138,13 @@
     {
       "field": "sponsored_flag",
       "field_name": "Sponsored Flag",
-      "selectors": []
+      "selectors": [
+        {
+          "type": "classname_value_flag",
+          "classname": "bottomOverlayWrapper",
+          "value": "Sponsored"
+        }
+      ]
     },
     {
       "field": "full_page_snapshot",

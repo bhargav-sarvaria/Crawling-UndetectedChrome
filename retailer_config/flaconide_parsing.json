@@ -117,7 +117,13 @@
     {
       "field": "sponsored_flag",
       "field_name": "Sponsored Flag",
-      "selectors": []
+      "selectors": [
+        {
+          "type": "classname_value_flag",
+          "classname": "ProductItemVerticalstyle__SponsoredBadge-sc-1ihgv7p-10",
+          "value": "Sponsored"
+        }
+      ]
     },
     {
       "field": "full_page_snapshot",
