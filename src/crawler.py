@@ -186,6 +186,7 @@ class Crawler:
                     img_path = './' + str(time.time())+ '.jpg'
                     self.save_screenshot(d, img_path)
                     
+                    
                     threading.Thread(target = self.parsePage, args=(source,page_config,device,img_path,)).start()
                     # self.parsePage(source,page_config, device, img_path)
 
@@ -201,15 +202,17 @@ class Crawler:
             self.consumerRunning = False
     
     def save_screenshot(self, driver, path) -> None:
-        path = path.replace('.jpg', '.png')
-        original_size = driver.get_window_size()
-        required_width = driver.execute_script('return document.body.parentNode.scrollWidth')
-        required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
-        driver.set_window_size(required_width, required_height)
-        # driver.save_screenshot(path)  # has scrollbar
-        driver.find_element_by_tag_name('body').screenshot(path)  # avoids scrollbar
-        self.compressPngToJpg(path)
-        driver.set_window_size(original_size['width'], original_size['height'])
+        try:
+            path = path.replace('.jpg', '.png')
+            original_size = driver.get_window_size()
+            required_width = driver.execute_script('return document.body.parentNode.scrollWidth')
+            required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
+            driver.set_window_size(required_width, required_height)
+            driver.find_element_by_tag_name('body').screenshot(path)
+            self.compressPngToJpg(path)
+            driver.set_window_size(original_size['width'], original_size['height'])
+        except:
+            return
 
     def quitDriver(self, d):
         try:
@@ -492,13 +495,16 @@ class Crawler:
             self.ACTIVE_DRIVERS.remove(active_driver)
 
     def compressPngToJpg(self, img_path):
-        im = Image.open(img_path)
-        jpg_img_path = img_path.replace('.png', '.jpg')
-        rgb_im = im.convert('RGB')
-        rgb_im.save(jpg_img_path)
-        os.remove(img_path)
-        im = Image.open(jpg_img_path)
-        im.save(jpg_img_path,optimize=True,quality=30) 
+        try:
+            im = Image.open(img_path)
+            jpg_img_path = img_path.replace('.png', '.jpg')
+            rgb_im = im.convert('RGB')
+            rgb_im.save(jpg_img_path)
+            os.remove(img_path)
+            im = Image.open(jpg_img_path)
+            im.save(jpg_img_path,optimize=True,quality=30) 
+        except:
+            return
     
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []
