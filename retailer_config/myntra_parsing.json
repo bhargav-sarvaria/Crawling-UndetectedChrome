@@ -107,6 +107,11 @@
       "field": "sponsored_flag",
       "field_name": "Sponsored Flag",
       "selectors": []
+    },
+    {
+      "field": "full_page_snapshot",
+      "field_name": "Full Page Snapshot",
+      "selectors": [{ "type": "config_value", "value": "file_name" }]
     }
   ]
 }

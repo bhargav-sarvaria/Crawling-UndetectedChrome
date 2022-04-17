@@ -113,6 +113,11 @@
           "value": "Sponsored"
         }
       ]
+    },
+    {
+      "field": "full_page_snapshot",
+      "field_name": "Full Page Snapshot",
+      "selectors": [{ "type": "config_value", "value": "file_name" }]
     }
   ]
 }
