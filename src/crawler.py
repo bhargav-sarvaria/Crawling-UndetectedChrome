@@ -41,7 +41,7 @@ level=LOGGING.WARN
 )
 
 mongo = Mongo()
-COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date", "sponsored_flag"]
+COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date", "sponsored_flag", "full_page_snapshot"]
 
 
 class Crawler:
