@@ -186,7 +186,6 @@ class Crawler:
                     img_path = './' + str(time.time())+ '.jpg'
                     self.save_screenshot(d, img_path)
                     
-                    
                     threading.Thread(target = self.parsePage, args=(source,page_config,device,img_path,)).start()
                     # self.parsePage(source,page_config, device, img_path)
 
@@ -207,7 +206,7 @@ class Crawler:
             original_size = driver.get_window_size()
             required_width = driver.execute_script('return document.body.parentNode.scrollWidth')
             required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
-            driver.set_window_size(required_width, required_height)
+            driver.set_window_size(required_width, min(6000, required_height))
             driver.find_element_by_tag_name('body').screenshot(path)
             self.compressPngToJpg(path)
             driver.set_window_size(original_size['width'], original_size['height'])
