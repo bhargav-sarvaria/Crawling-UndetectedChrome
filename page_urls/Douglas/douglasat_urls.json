@@ -391,17 +391,6 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Make Up",
     "category": "Eyes",
-    "page": "eyebrow color",
-    "page_url": "https://www.douglas.at/",
-    "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_eyebrow|sp|color"
-  },
-  {
-    "country": "Austria",
-    "retailer": "Douglas_AT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Make Up",
-    "category": "Eyes",
     "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/make-up/augen/0303",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_EYES_>>|sp|All|sp|in|sp|Kategorien"
@@ -680,17 +669,6 @@
     "page": "Alle Beauty Storys",
     "page_url": "https://www.douglas.at/de/c/make-up/beauty-storys/0320",
     "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_BEAUTY|sp|STORIES_>>|sp|Alle|sp|Beauty|sp|Storys"
-  },
-  {
-    "country": "Austria",
-    "retailer": "Douglas_AT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Make Up",
-    "category": "Highlights",
-    "page": "Highlights",
-    "page_url": "https://www.douglas.at/",
-    "file_name": "Austria_DOUGLAS_AT_MAKE|h|UP_HIGHLIGHTS_HIGHLIGHTS"
   },
   {
     "country": "Austria",
@@ -1043,17 +1021,6 @@
     "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/gesicht/herren/1210",
     "file_name": "Austria_DOUGLAS_AT_FACE_MEN|sq|S_>>|sp|All|sp|in|sp|Kategorien"
-  },
-  {
-    "country": "Austria",
-    "retailer": "Douglas_AT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Face",
-    "category": "Highlights",
-    "page": "Highlights",
-    "page_url": "https://www.douglas.at/",
-    "file_name": "Austria_DOUGLAS_AT_FACE_HIGHLIGHTS_HIGHLIGHTS"
   },
   {
     "country": "Austria",
@@ -1568,17 +1535,6 @@
     "gcloud_path": "crawl_data/Austria/Douglas_AT/",
     "department": "Body",
     "category": "Highlights",
-    "page": "Highlights",
-    "page_url": "https://www.douglas.at/",
-    "file_name": "Austria_DOUGLAS_AT_BODY_HIGHLIGHTS_HIGHLIGHTS"
-  },
-  {
-    "country": "Austria",
-    "retailer": "Douglas_AT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Body",
-    "category": "Highlights",
     "page": "Bless You",
     "page_url": "https://www.douglas.at/de/c/gesundheit/07",
     "file_name": "Austria_DOUGLAS_AT_BODY_HIGHLIGHTS_Bless|sp|you"
@@ -1978,17 +1934,6 @@
     "page": "All in Kategorien",
     "page_url": "https://www.douglas.at/de/c/haare/herren/1408",
     "file_name": "Austria_DOUGLAS_AT_HAIR_MEN|sq|S_>>|sp|All|sp|in|sp|Kategorien"
-  },
-  {
-    "country": "Austria",
-    "retailer": "Douglas_AT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Austria/Douglas_AT/",
-    "department": "Hair",
-    "category": "Highlights",
-    "page": "Highlights",
-    "page_url": "https://www.douglas.at/",
-    "file_name": "Austria_DOUGLAS_AT_HAIR_HIGHLIGHTS_HIGHLIGHTS"
   },
   {
     "country": "Austria",
