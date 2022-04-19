@@ -171,17 +171,6 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
     "category": "Men",
-    "page": "New Swimwear",
-    "page_url": "https://www.myer.com.au/c/new-in/men-709563--1/swimwear-men-new-in",
-    "file_name": "Australia_Myer_New_Men_New|sp|Swimwear"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "New",
-    "category": "Men",
     "page": "New Suiting",
     "page_url": "https://www.myer.com.au/c/new-in/men-709563--1/suiting-new-in",
     "file_name": "Australia_Myer_New_Men_New|sp|Suiting"

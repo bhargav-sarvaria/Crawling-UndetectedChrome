@@ -207,10 +207,13 @@ class Crawler:
             required_width = driver.execute_script('return document.body.parentNode.scrollWidth')
             required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
             driver.set_window_size(required_width, min(6000, required_height))
-            driver.find_element_by_tag_name('body').screenshot(path)
+            try:
+                driver.find_element_by_tag_name('body').screenshot(path)
+            except:
+                driver.save_screenshot(path);
             self.compressPngToJpg(path)
             driver.set_window_size(original_size['width'], original_size['height'])
-        except:
+        except Exception as e:
             return
 
     def quitDriver(self, d):
@@ -231,11 +234,11 @@ class Crawler:
             parser = self.parser_map[page_config['retailer']]
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
-                self.pageError(page_config, 'No products')
+                self.pageError(page_config, 'No products', delete=img_path)
                 return
             products_data = self.getProductsData(products, parser['fetch_product'], page_config)
             if len(products_data) == 0:
-                self.pageError(page_config, 'No product details')
+                self.pageError(page_config, 'No product details', delete=img_path)
                 return
             df = pd.DataFrame(products_data)
             df = df.reindex(columns=COLUMN_ORDER)
@@ -246,13 +249,15 @@ class Crawler:
             gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filname.replace('.csv', '.jpg')
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
             self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
-            os.remove(img_path)
+            
+            if os.path.exists(img_path):
+                os.remove(img_path)
             if os.path.exists(filname):
                 os.remove(filname)
                 LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
             LOGGING.error(e)
-            self.pageError(page_config, 'parsePage exception')
+            self.pageError(page_config, 'parsePage exception', delete=img_path)
 
     def fetchProductsinPage(self, element, selectors):
         elements = []
@@ -542,10 +547,12 @@ class Crawler:
                 pass
         return ' '.join(chromes_pids)
 
-    def pageError(self, page_config, msg):
+    def pageError(self, page_config, msg, delete= 'dummy.svg'):
         page_config['message'] = msg
         mongo.addErrorDocument(self.crawl_folder, page_config)
         print(page_config['page_url'] + ' ' + '0')
         LOGGING.warn(page_config['page_url'] + ' ' + '0')
+        if os.path.exists(delete):
+            os.remove(delete)
 
     

@@ -2964,17 +2964,6 @@
     "parsing_config": "./retailer_config/flaconide_parsing.json",
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
-    "category": "Hair",
-    "page": "Grow Gorgeous",
-    "page_url": "https://www.flaconi.de/grow-gorgeous/",
-    "file_name": "Germany_Flaconi_NEW_HAIR_Grow|sp|Gorgeous"
-  },
-  {
-    "country": "Germany",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "New",
     "category": "Make Up",
     "page": "Make Up",
     "page_url": "https://www.flaconi.de/neuheiten-make-up/",
