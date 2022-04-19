@@ -246,9 +246,9 @@ class Crawler:
             gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filname.replace('.csv', '.jpg')
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
             self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
+            os.remove(img_path)
             if os.path.exists(filname):
                 os.remove(filname)
-                os.remove(img_path)
                 LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
             LOGGING.error(e)
