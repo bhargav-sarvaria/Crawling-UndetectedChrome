@@ -1029,7 +1029,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Skin",
     "category": "Facial Care",
-    "page": "",
+    "page": "Facial Care",
     "page_url": "https://www.sephora.se/shop/hudvard/ansiktsvard-c399702/",
     "file_name": "Sweden_Sephora_SE_SKINCARE_FACIAL|sp|CARE_"
   },
@@ -2877,7 +2877,7 @@
     "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
     "department": "Hair",
     "category": "Hair Type",
-    "page": "",
+    "page": "Hair Type",
     "page_url": "https://www.sephora.se/shop/har/hartyp-c369705/",
     "file_name": "Sweden_Sephora_SE_HAIR_HAIR|sp|TYPE_"
   },
@@ -3034,17 +3034,6 @@
     "page": "Styling",
     "page_url": "https://www.sephora.se/shop/har/for-man/styling-c516/",
     "file_name": "Sweden_Sephora_SE_HAIR_FOR|sp|MEN_Styling"
-  },
-  {
-    "country": "Sweden",
-    "retailer": "Sephora_SE",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Sweden/Sephora_SE/",
-    "department": "Hair",
-    "category": "For Men",
-    "page": "Hair pillows",
-    "page_url": "https://www.sephora.se/shop/har/for-man/harpuder-c243101/",
-    "file_name": "Sweden_Sephora_SE_HAIR_FOR|sp|MEN_Hair|sp|pillows"
   },
   {
     "country": "Sweden",

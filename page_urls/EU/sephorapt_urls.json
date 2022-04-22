@@ -1205,7 +1205,7 @@
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
     "department": "Treatments",
     "category": "Mens Facial Treatment",
-    "page": "",
+    "page": "Mens Facial Treatment",
     "page_url": "https://www.sephora.es/pasos-rutina-hombre.html#tratamiento",
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_"
   },
@@ -1505,17 +1505,6 @@
     "page": "Soap and Shower Gel",
     "page_url": "https://www.sephora.pt/perfumes/perfumes-homem/sabonete-e-gel-de-banho-c297821/",
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Soap|sp|and|sp|Shower|sp|Gel"
-  },
-  {
-    "country": "Portugal",
-    "retailer": "Sephora_PT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
-    "department": "Perfumes",
-    "category": "Mens Perfumes",
-    "page": "",
-    "page_url": "https://www.sephora.es/pasos-rutina-hombre.html#perfume",
-    "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_"
   },
   {
     "country": "Portugal",

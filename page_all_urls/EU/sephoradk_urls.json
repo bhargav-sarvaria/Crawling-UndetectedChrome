@@ -1029,7 +1029,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Skin",
     "category": "Facial Care",
-    "page": "",
+    "page": "Facial Care",
     "page_url": "https://www.sephora.dk/shop/hudpleje/ansigtspleje-c399702/",
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_"
   },
@@ -2877,7 +2877,7 @@
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
     "department": "Hair",
     "category": "Hair Type",
-    "page": "",
+    "page": "Hair Type",
     "page_url": "https://www.sephora.dk/shop/har/hartype-c369705/",
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_"
   },

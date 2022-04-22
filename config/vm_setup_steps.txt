@@ -27,3 +27,7 @@ crontab -e
 40 7 * * * cd /home/labsbhargav/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py EU 1 >>  ./file.log
 
 15 12 * * * cd /root/DigitalShelfPlatform/  && /usr/bin/python3 ./src/main.py Australia 1 >>  ./running.log
+
+
+scp root@188.166.152.244:/root/DigitalShelfPlatform/run.log  .
+

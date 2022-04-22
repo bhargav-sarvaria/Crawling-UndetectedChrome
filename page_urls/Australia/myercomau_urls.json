@@ -974,31 +974,9 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Women",
     "category": "Bags & Wallets",
-    "page": "Pouches",
-    "page_url": "https://www.myer.com.au/c/women/handbags/pouches",
-    "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Pouches"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Women",
-    "category": "Bags & Wallets",
     "page": "Laptop & Business Bags",
     "page_url": "https://www.myer.com.au/c/women/handbags/laptop-business-bags",
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Laptop|sp||as||sp|Business|sp|Bags"
-  },
-  {
-    "country": "Australia",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Women",
-    "category": "Bags & Wallets",
-    "page": "Hobo Bags",
-    "page_url": "https://www.myer.com.au/c/women/handbags/hobo--1",
-    "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Hobo|sp|Bags"
   },
   {
     "country": "Australia",
@@ -2074,7 +2052,7 @@
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Beauty",
     "category": "Top Brands",
-    "page": "",
+    "page": "Hermes",
     "page_url": "https://www.myer.com.au/c/beauty/featured-beauty-brands/hermes-1",
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_"
   },
