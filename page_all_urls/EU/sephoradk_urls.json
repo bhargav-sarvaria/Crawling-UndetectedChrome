@@ -1,6 +1,6 @@
 [
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -11,7 +11,7 @@
     "file_name": "Denmark_Sephora_DK_NEWS_NEWS_NEWS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -22,7 +22,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKEUP_MAKEUP"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -33,7 +33,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_NEWS_NEWS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -44,7 +44,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_FACE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -55,7 +55,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Foundation"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -66,7 +66,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Concealer|sp||as||sp|Corrector"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -77,7 +77,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Bronzer"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -88,7 +88,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Primer|sp||as||sp|setting|sp|spray"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -99,7 +99,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Blush"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -110,7 +110,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Highlighter"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -121,7 +121,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Powder"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -132,7 +132,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Loose|sp|powder"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -143,7 +143,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_BB|sp||as||sp|CC|sp|cream"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -154,7 +154,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Palettes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -165,7 +165,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Contour"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -176,7 +176,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_FACE_Tinted|sp|day|sp|cream"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -187,7 +187,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_EYES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -198,7 +198,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Palette"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -209,7 +209,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Mascara"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -220,7 +220,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Eyeshadow"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -231,7 +231,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Eyeliner"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -242,7 +242,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Pencils|sp||as||sp|khol"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -253,7 +253,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Primer"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -264,7 +264,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYES_Artificial|sp|eyelashes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -275,7 +275,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYEBROW_EYEBROW"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -286,7 +286,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYEBROW_Pencils|sp||as||sp|Powder"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -297,7 +297,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYEBROW_Mascara|sp||as||sp|Gel"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -308,7 +308,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_EYEBROW_Kits|sp||as||sp|Palettes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -319,7 +319,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_LIPS_LIPS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -330,7 +330,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_LIPS_Lipstick"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -341,7 +341,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_LIPS_Gloss"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -352,7 +352,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_LIPS_Lip|sp|balm"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -363,7 +363,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_LIPS_Lipliner"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -374,7 +374,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_LIPS_Primer|sp||as||sp|Plumper"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -385,7 +385,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_LIPS_Mat"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -396,7 +396,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_NAILS_NAILS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -407,7 +407,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_NAILS_Nail|sp|polish"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -418,7 +418,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_NAILS_Nail|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -429,7 +429,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_NAILS_Top|sp|coat|sp||as||sp|base"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -440,7 +440,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_NAILS_Gel|sp|polish"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -451,7 +451,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_NAILS_Nail|sp|polish|sp|remover"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -462,7 +462,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_PALETTES_PALETTES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -473,7 +473,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_PALETTES_Eyes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -484,7 +484,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_PALETTES_Face"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -495,7 +495,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_PALETTES_Multifunction"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -506,7 +506,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_PALETTES_Contour"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -517,7 +517,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_MAKE|h|UP|sp|BRUSHES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -528,7 +528,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_Face"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -539,7 +539,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_Mushrooms"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -550,7 +550,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_Set"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -561,7 +561,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_Eyes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -572,7 +572,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_Eyebrow"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -583,7 +583,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_Lips"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -594,7 +594,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|BRUSHES_Cleaners"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -605,7 +605,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|REMOVER_MAKE|h|UP|sp|REMOVER"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -616,7 +616,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|REMOVER_Facial|sp|cleanser"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -627,7 +627,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|REMOVER_Cleaning|sp|oil"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -638,7 +638,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|REMOVER_Purifying|sp|milk"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -649,7 +649,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MAKE|h|UP|sp|REMOVER_Eye|sp|makeup|sp|remover"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -660,7 +660,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_SET_SET"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -671,7 +671,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_SET_Face"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -682,7 +682,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_SET_Lips"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -693,7 +693,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_SET_Eyes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -704,7 +704,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_SET_Multifunction"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -715,7 +715,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_GOOD|sp|MAKEUP_GOOD|sp|MAKEUP"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -726,7 +726,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_GOOD|sp|MAKEUP_Vegan|sp|makeup"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -737,7 +737,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_GOOD|sp|MAKEUP_Natural|sp|makeup"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -748,7 +748,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_GOOD|sp|MAKEUP_Sustainable|sp|packaging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -759,7 +759,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_MINIS_MINIS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -770,7 +770,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_SEPHORA|sp|COLLECTION|sp|MAKEUP_SEPHORA|sp|COLLECTION|sp|MAKEUP"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -781,7 +781,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_INSPIRATION_INSPIRATION"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -792,7 +792,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_INSPIRATION_Mascara|sp|Guide"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -803,7 +803,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_INSPIRATION_All|sp|Eyes|sp|On|sp|Me|sp|Magazine"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -814,7 +814,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_INSPIRATION_Brow|sp|Guide"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -825,7 +825,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_INSPIRATION_Palette|sp|Stories"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -836,7 +836,7 @@
     "file_name": "Denmark_Sephora_DK_MAKEUP_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -847,7 +847,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SKIN|sp|CARE_SKIN|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -858,7 +858,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_NEWS_NEWS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -869,7 +869,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_PREMIUM_PREMIUM"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -880,7 +880,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUN|sp|CARE_SUN|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -891,7 +891,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUN|sp|CARE_Sun|sp|protection"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -902,7 +902,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUN|sp|CARE_Self|h|tanning"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -913,7 +913,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUN|sp|CARE_Aftersun"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -924,7 +924,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_FACIAL|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -935,7 +935,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Serum"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -946,7 +946,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Day|sp|cream"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -957,7 +957,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Natcreme"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -968,7 +968,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Eye|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -979,7 +979,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Scrub|sp||as||sp|Peeling"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -990,7 +990,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Lip|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1001,7 +1001,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Clean|sp|Skincare"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1012,7 +1012,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Neck|sp||as||sp|decolletage"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1023,7 +1023,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_Eyelash|sp||as||sp|Brow|sp|Care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1034,7 +1034,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FACIAL|sp|CARE_"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1045,7 +1045,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_CLEANING|sp|PRODUCTS_CLEANING|sp|PRODUCTS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1056,7 +1056,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_CLEANING|sp|PRODUCTS_Lotion"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1067,7 +1067,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_CLEANING|sp|PRODUCTS_Toner"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1078,7 +1078,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_CLEANING|sp|PRODUCTS_Eye|sp|makeup|sp|remover"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1089,7 +1089,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_CLEANING|sp|PRODUCTS_Micellar|sp|Water"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1100,7 +1100,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_CLEANING|sp|PRODUCTS_Cleaning|sp|wipes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1111,7 +1111,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_BEST|sp|FOR"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1122,7 +1122,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Problematic|sp|skin"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1133,7 +1133,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Moisturizing|sp|and|sp|nourishing"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1144,7 +1144,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Mattifying"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1155,7 +1155,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Anti|h|Aging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1166,7 +1166,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Firming"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1177,7 +1177,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Sensitive|sp|skin"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1188,7 +1188,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Coverage"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1199,7 +1199,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_BEST|sp|FOR_Blush"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1210,7 +1210,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_ACCESSORIES_ACCESSORIES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1221,7 +1221,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_ACCESSORIES_Face|sp|brushes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1232,7 +1232,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_ACCESSORIES_Tools"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1243,7 +1243,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_ACCESSORIES_Tweezers"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1254,7 +1254,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_ACCESSORIES_Toiletry|sp|bags"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1265,7 +1265,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_ACCESSORIES_Empty|sp|containers"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1276,7 +1276,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_MASKS_MASKS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1287,7 +1287,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_MASKS_Face|sp|masks"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1298,7 +1298,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_MASKS_Sheet|sp|Masks"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1309,7 +1309,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_SUPER|sp|MOLECULES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1320,7 +1320,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_AHA|sp|BHA"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1331,7 +1331,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_Hyaluronic|sp|acid"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1342,7 +1342,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_Salicylic|sp|acid"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1353,7 +1353,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_Collagen"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1364,7 +1364,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_Retinol"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1375,7 +1375,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_Vitamin|sp|C"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1386,7 +1386,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SUPER|sp|MOLECULES_Vitamin|sp|E"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1397,7 +1397,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FOR|sp|MEN_FOR|sp|MEN"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1408,7 +1408,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FOR|sp|MEN_Skin|sp|care|sp|set"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1419,7 +1419,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FOR|sp|MEN_Moisturizing"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1430,7 +1430,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FOR|sp|MEN_Anti|h|age"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1441,7 +1441,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FOR|sp|MEN_Eye|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1452,7 +1452,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_FOR|sp|MEN_Cleaning|sp||as||sp|Scrub"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1463,7 +1463,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SHAVING_SHAVING"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1474,7 +1474,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SHAVING_Beard|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1485,7 +1485,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SHAVING_Shaving"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1496,7 +1496,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SHAVING_After|sp|shave"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1507,7 +1507,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_GOOD|sp|SKIN|sp|CARE_GOOD|sp|SKIN|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1518,7 +1518,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_GOOD|sp|SKIN|sp|CARE_Vegan|sp|skin|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1529,7 +1529,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_GOOD|sp|SKIN|sp|CARE_Natural|sp|skin|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1540,7 +1540,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_GOOD|sp|SKIN|sp|CARE_Sustainable|sp|packaging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1551,7 +1551,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_MINIS_MINIS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1562,7 +1562,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_GIFT|sp|BOXES_GIFT|sp|BOXES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1573,7 +1573,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SEPHORA|sp|COLLECTION|sp|SKIN|sp|CARE_SEPHORA|sp|COLLECTION|sp|SKIN|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1584,7 +1584,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_INSPIRATION_INSPIRATION"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1595,7 +1595,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_INSPIRATION_#SKINCAREBUZZ"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1606,7 +1606,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_INSPIRATION_Night|sp|Rituals"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1617,7 +1617,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_INSPIRATION_Beauty|sp|for|sp|Men"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1628,7 +1628,7 @@
     "file_name": "Denmark_Sephora_DK_SKIN|sp|CARE_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1639,7 +1639,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp||as||sp|BATH_BODY|sp||as||sp|BATH"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1650,7 +1650,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_NEWS_NEWS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1661,7 +1661,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_SUN|sp|CARE_SUN|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1672,7 +1672,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_SUN|sp|CARE_Sun|sp|protection"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1683,7 +1683,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_SUN|sp|CARE_Self|h|tanning"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1694,7 +1694,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_SUN|sp|CARE_Aftersun"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1705,7 +1705,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_BODY|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1716,7 +1716,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Body|sp|lotion"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1727,7 +1727,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Scrub|sp||as||sp|peeling"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1738,7 +1738,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Hands"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1749,7 +1749,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Body|sp|Milk"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1760,7 +1760,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Body|sp|mist"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1771,7 +1771,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Deodorant"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1782,7 +1782,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Feet"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1793,7 +1793,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Oil"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1804,7 +1804,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Chest|sp||as||sp|decolletage"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1815,7 +1815,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BODY|sp|CARE_Hair|sp|removal"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1826,7 +1826,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_BATH"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1837,7 +1837,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Shower|sp|gel"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1848,7 +1848,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Bath|sp|products"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1859,7 +1859,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Soap"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1870,7 +1870,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BATH_Bath|sp|oil"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1881,7 +1881,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_BEST|sp|FOR"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1892,7 +1892,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_Tightening"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1903,7 +1903,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_Stretch|sp|mark|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1914,7 +1914,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_BEST|sp|FOR_Moisturizing|sp||as||sp|nourishing"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1925,7 +1925,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_FOR|sp|MEN_FOR|sp|MEN"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1936,7 +1936,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_FOR|sp|MEN_Deodorant"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1947,7 +1947,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_FOR|sp|MEN_Shower|sp|gel"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1958,7 +1958,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_FOR|sp|MEN_Body|sp|lotion"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1969,7 +1969,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_GOOD|sp|BODY|sp|CARE_GOOD|sp|BODY|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1980,7 +1980,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_GOOD|sp|BODY|sp|CARE_Vegan|sp|body|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -1991,7 +1991,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_GOOD|sp|BODY|sp|CARE_Natural|sp|body|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2002,7 +2002,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_GOOD|sp|BODY|sp|CARE_Sustainable|sp|packaging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2013,7 +2013,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_ACCESSORIES_ACCESSORIES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2024,7 +2024,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_FOR|sp|THE|sp|HOME_FOR|sp|THE|sp|HOME"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2035,7 +2035,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_ORAL|sp|AND|sp|DENTAL|sp|CARE_ORAL|sp|AND|sp|DENTAL|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2046,7 +2046,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_DIETARY|sp|SUPPLEMENTS_DIETARY|sp|SUPPLEMENTS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2057,7 +2057,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_WELLNESS_WELLNESS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2068,7 +2068,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_WELLNESS_Sex|sp|toys"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2079,7 +2079,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_WELLNESS_Lubricant"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2090,7 +2090,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_WELLNESS_Intimate|sp|hygiene"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2101,7 +2101,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_GIFT|sp|BOXES_GIFT|sp|BOXES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2112,7 +2112,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_SEPHORA|sp|COLLECTION|sp|KROP|sp||as||sp|BAD_SEPHORA|sp|COLLECTION|sp|KROP|sp||as||sp|BAD"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2123,7 +2123,7 @@
     "file_name": "Denmark_Sephora_DK_BODY|sp||as||sp|BATH_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2134,7 +2134,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_PERFUME_PERFUME"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2145,7 +2145,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_NEWS_NEWS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2156,7 +2156,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_RED|sp|SENSUALITY_RED|sp|SENSUALITY"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2167,7 +2167,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|WOMEN_FOR|sp|WOMEN"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2178,7 +2178,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|WOMEN_Eau|sp|de|sp|Parfum"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2189,7 +2189,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|WOMEN_Eau|sp|de|sp|Toilette"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2200,7 +2200,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|WOMEN_Body|sp|Lotion"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2211,7 +2211,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|WOMEN_Eau|sp|de|sp|Cologne"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2222,7 +2222,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|WOMEN_Essence"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2233,7 +2233,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|MEN_FOR|sp|MEN"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2244,7 +2244,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|MEN_Eau|sp|de|sp|Toilette"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2255,7 +2255,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|MEN_Eau|sp|de|sp|Parfum"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2266,7 +2266,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|MEN_Eau|sp|de|sp|Cologne"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2277,7 +2277,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|MEN_Deodorant"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2288,7 +2288,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|MEN_Shower|sp|Gel|sp||as||sp|Soap"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2299,7 +2299,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FOR|sp|MEN_Gel|sp||as||sp|Aftershave"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2310,7 +2310,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|FAMILY_FRAGRANCE|sp|FAMILY"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2321,7 +2321,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|FAMILY_Floral"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2332,7 +2332,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|FAMILY_Wood"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2343,7 +2343,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|FAMILY_Spicy"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2354,7 +2354,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|FAMILY_Fresh"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2365,7 +2365,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|FAMILY_Powdery"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2376,7 +2376,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|FAMILY_Water"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2387,7 +2387,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_GIFT|sp|BOXES_GIFT|sp|BOXES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2398,7 +2398,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_GIFT|sp|BOXES_Woman"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2409,7 +2409,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_GIFT|sp|BOXES_Male"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2420,7 +2420,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_FRAGRANCE|sp|TO|sp|GO_FRAGRANCE|sp|TO|sp|GO"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2431,7 +2431,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_NICHE|sp|PERFUMES_NICHE|sp|PERFUMES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2442,7 +2442,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_NICHE|sp|PERFUMES_Acqua|sp|Di|sp|Parma"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2453,7 +2453,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_NICHE|sp|PERFUMES_Jo|sp|Malone|sp|London"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2464,7 +2464,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_NICHE|sp|PERFUMES_Tom|sp|Ford"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2475,7 +2475,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_GOOD|sp|PERFUME_GOOD|sp|PERFUME"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2486,7 +2486,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_GOOD|sp|PERFUME_Vegan|sp|perfume"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2497,7 +2497,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_UNISEX_UNISEX"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2508,7 +2508,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_WELLNESS_WELLNESS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2519,7 +2519,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_WELLNESS_Essential|sp|oils"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2530,7 +2530,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_WELLNESS_Fragrance|sp|for|sp|the|sp|home"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2541,7 +2541,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_SEPHORA|sp|COLLECTION|sp|PERFUME_SEPHORA|sp|COLLECTION|sp|PERFUME"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2552,7 +2552,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_INSPIRATION_INSPIRATION"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2563,7 +2563,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_INSPIRATION_Perfume|sp|Guide"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2574,7 +2574,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_INSPIRATION_Niche|sp|Perfumer"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2585,7 +2585,7 @@
     "file_name": "Denmark_Sephora_DK_PERFUME_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2596,7 +2596,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR_HAIR"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2607,7 +2607,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_NEWS_NEWS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2618,7 +2618,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_HAIR|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2629,7 +2629,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Shampoo"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2640,7 +2640,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Conditioner"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2651,7 +2651,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Hair|sp|masks"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2662,7 +2662,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Hair|sp|treatment"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2673,7 +2673,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Hair|sp|oil"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2684,7 +2684,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Hair|sp|color"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2695,7 +2695,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Dry|sp|shampoo"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2706,7 +2706,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|CARE_Hair|sp|Mist"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2717,7 +2717,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_STYLING_STYLING"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2728,7 +2728,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_STYLING_Spray"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2739,7 +2739,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_STYLING_Cream"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2750,7 +2750,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_STYLING_Salt|sp|water|sp|spray"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2761,7 +2761,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_STYLING_Mousse"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2772,7 +2772,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_STYLING_Gel"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2783,7 +2783,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_STYLING_Wax"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2794,7 +2794,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_HAIR|sp|TYPE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2805,7 +2805,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_Curly|sp|Hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2816,7 +2816,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_Dry|sp|hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2827,7 +2827,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_Dyed|sp|hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2838,7 +2838,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_Bleached|sp|hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2849,7 +2849,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_Nice|sp|hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2860,7 +2860,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_Normal|sp|hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2871,7 +2871,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_Oiled|sp|hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2882,7 +2882,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|TYPE_"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2893,7 +2893,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_BEST|sp|FOR"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2904,7 +2904,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Hair|sp|loss"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2915,7 +2915,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Moisture"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2926,7 +2926,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Volume"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2937,7 +2937,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Smoothing"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2948,7 +2948,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Scalp"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2959,7 +2959,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Curls"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2970,7 +2970,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Sun|sp|protection"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2981,7 +2981,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Anti|h|dandruff"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -2992,7 +2992,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_BEST|sp|FOR_Dyed|sp|hair"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3003,7 +3003,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_HAIR|sp|VITAMINS_HAIR|sp|VITAMINS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3014,7 +3014,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_FOR|sp|MEN_FOR|sp|MEN"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3025,7 +3025,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_FOR|sp|MEN_Shampoo"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3036,7 +3036,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_FOR|sp|MEN_Styling"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3047,7 +3047,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_FOR|sp|MEN_Hair|sp|powder"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3058,7 +3058,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_FOR|sp|MEN_Care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3069,7 +3069,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_PROFESSIONAL|sp|HAIRCARE_PROFESSIONAL|sp|HAIRCARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3080,7 +3080,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_GOOD|sp|HAIR|sp|CARE_GOOD|sp|HAIR|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3091,7 +3091,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_GOOD|sp|HAIR|sp|CARE_Natural|sp|hair|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3102,7 +3102,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_GOOD|sp|HAIR|sp|CARE_Sustainable|sp|packaging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3113,7 +3113,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_MINIS_MINIS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3124,7 +3124,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_GIFT|sp|BOXES_GIFT|sp|BOXES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3135,7 +3135,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_SOS|sp|DAMAGED|sp|HAIR_SOS|sp|DAMAGED|sp|HAIR"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3146,7 +3146,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_SEPHORA|sp|COLLECTION|sp|HAIR_SEPHORA|sp|COLLECTION|sp|HAIR"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3157,7 +3157,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_INSPIRATION_INSPIRATION"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3168,7 +3168,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_INSPIRATION_Hair|sp|Care|sp|Guide"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3179,7 +3179,7 @@
     "file_name": "Denmark_Sephora_DK_HAIR_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3190,7 +3190,7 @@
     "file_name": "Denmark_Sephora_DK_MINIS_MINIS_MINIS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3201,7 +3201,7 @@
     "file_name": "Denmark_Sephora_DK_MINIS_MINI|sp|MAKEUP_MINI|sp|MAKEUP"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3212,7 +3212,7 @@
     "file_name": "Denmark_Sephora_DK_MINIS_MINI|sp|SKIN|sp|CARE_MINI|sp|SKIN|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3223,7 +3223,7 @@
     "file_name": "Denmark_Sephora_DK_MINIS_MINI|sp|PERFUME_MINI|sp|PERFUME"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3234,7 +3234,7 @@
     "file_name": "Denmark_Sephora_DK_MINIS_MINI|sp|HAIR|sp|CARE_MINI|sp|HAIR|sp|CARE"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3245,7 +3245,7 @@
     "file_name": "Denmark_Sephora_DK_MINIS_MINI|sp|TRAVEL|sp|FAVORITES_MINI|sp|TRAVEL|sp|FAVORITES"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3256,7 +3256,7 @@
     "file_name": "Denmark_Sephora_DK_MINIS_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3267,7 +3267,7 @@
     "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3278,7 +3278,7 @@
     "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Good|sp|for|sp|Skincare_Good|sp|for|sp|Skincare"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3289,7 +3289,7 @@
     "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Care|sp|Makeup_Care|sp|Makeup"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3300,7 +3300,7 @@
     "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Super|sp|Charged|sp|Serums_Super|sp|Charged|sp|Serums"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3311,7 +3311,7 @@
     "file_name": "Denmark_Sephora_DK_SEPHORA|sp|COLLECTION_Sephora|sp|Collection|sp|Engagement_Sephora|sp|Collection|sp|Engagement"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3322,7 +3322,7 @@
     "file_name": "Denmark_Sephora_DK_OFFER_Shop|sp|by|sp|category_Shop|sp|by|sp|category"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3333,7 +3333,7 @@
     "file_name": "Denmark_Sephora_DK_OFFER_Shop|sp|at|sp|a|sp|discount_Shop|sp|at|sp|a|sp|discount"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3344,7 +3344,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_GOOD|sp|FOR_GOOD|sp|FOR"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3355,7 +3355,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Natural|sp|makeup_Natural|sp|makeup"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3366,7 +3366,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Sustainable|sp|packaging_Sustainable|sp|packaging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3377,7 +3377,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Vegan|sp|makeup_Vegan|sp|makeup"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3388,7 +3388,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Natural|sp|skin|sp|care_Natural|sp|skin|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3399,7 +3399,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Sustainable|sp|packaging_Sustainable|sp|packaging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3410,7 +3410,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Vegan|sp|skin|sp|care_Vegan|sp|skin|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3421,7 +3421,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Organic|sp|skin|sp|care_Organic|sp|skin|sp|care"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3432,7 +3432,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Natural|sp|perfume_Natural|sp|perfume"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3443,7 +3443,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Sustainable|sp|packaging_Sustainable|sp|packaging"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3454,7 +3454,7 @@
     "file_name": "Denmark_Sephora_DK_GOOD|sp|FOR_Vegan|sp|perfume_Vegan|sp|perfume"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3465,7 +3465,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_PRESENTS_PRESENTS"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3476,7 +3476,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Makeup|sp|gift|sp|boxes_Makeup|sp|gift|sp|boxes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3487,7 +3487,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Skin|sp|care|sp|gift|sp|boxes_Skin|sp|care|sp|gift|sp|boxes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3498,7 +3498,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Perfume|sp|gift|sp|boxes_Perfume|sp|gift|sp|boxes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3509,7 +3509,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Body|sp||as||sp|Bath|sp|gift|sp|boxes_Body|sp||as||sp|Bath|sp|gift|sp|boxes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3520,7 +3520,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Hair|sp|care|sp|gift|sp|boxes_Hair|sp|care|sp|gift|sp|boxes"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3531,7 +3531,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Gift|sp|boxes|sp|for|sp|men_Gift|sp|boxes|sp|for|sp|men"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3542,7 +3542,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Under|sp|150|sp|kr_Under|sp|150|sp|kr"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3553,7 +3553,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Between|sp|150|sp||h||sp|300|sp|kr_Between|sp|150|sp||h||sp|300|sp|kr"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3564,7 +3564,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Between|sp|300|sp||h||sp|500|sp|kr_Between|sp|300|sp||h||sp|500|sp|kr"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",
@@ -3575,7 +3575,7 @@
     "file_name": "Denmark_Sephora_DK_PRESENTS_Over|sp|DKK|sp|500_Over|sp|DKK|sp|500"
   },
   {
-    "country": "Denmark",
+    "country": "DK",
     "retailer": "Sephora_DK",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Denmark/Sephora_DK/",

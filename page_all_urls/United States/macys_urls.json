@@ -1,6 +1,6 @@
 [
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -11,7 +11,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_Find|sp|Your|sp|Pastel"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -22,7 +22,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Fashion|sp|Slide"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -33,7 +33,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Matching|sp|Set"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -44,7 +44,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|New|sp|Prep"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -55,7 +55,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Oversized|sp|Shirt"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -66,7 +66,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Pearl|sp|Accessory"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -77,7 +77,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Relaxed|sp|Jean"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -88,7 +88,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Shoulder|sp|Bag"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -99,7 +99,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Smocked|sp|Dress"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -110,7 +110,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Names|sp|to|sp|Know_Nicole|sp|Williams|sp|English"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -121,7 +121,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Names|sp|to|sp|Know_Nina|sp|Parker"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -132,7 +132,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Names|sp|to|sp|Know_Robin|sp|Wilson|sp|Home"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -143,7 +143,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Chore|sp|Jacket"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -154,7 +154,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|New|sp|Neutral"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -165,7 +165,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|New|sp|Prep"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -176,7 +176,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Patterned|sp|Sneaker"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -187,7 +187,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Relaxed|sp|Jean"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -198,7 +198,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_All|sp|Things|sp|Prom"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -209,7 +209,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Dress|sp|Destination"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -220,7 +220,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Hello|sp|There,|sp|Sunshine"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -231,7 +231,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Swim|sp|Finder"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -242,7 +242,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Vacation|sp|Shop"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -253,7 +253,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Conscious|sp|Beauty"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -264,7 +264,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Inclusive|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -275,7 +275,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Sustainability"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -286,7 +286,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Women|sq|S|sp|History|sp|Month"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -297,7 +297,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Women|sq|S"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -308,7 +308,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Men|sq|S"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -319,7 +319,7 @@
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Home"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -330,7 +330,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_All|sp|Women|sq|S|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -341,7 +341,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -352,7 +352,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Activewear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -363,7 +363,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Bras,|sp|Underwear|sp||as||sp|Lingerie"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -374,7 +374,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -385,7 +385,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Dresses"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -396,7 +396,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Jeans"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -407,7 +407,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Jumpsuits|sp||as||sp|Rompers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -418,7 +418,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Loungewear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -429,7 +429,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Pajamas|sp||as||sp|Robes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -440,7 +440,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Pants|sp||as||sp|Capris"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -451,7 +451,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Shorts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -462,7 +462,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Skirts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -473,7 +473,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Sweaters"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -484,7 +484,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Swimsuits|sp||as||sp|Cover|h|Ups"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -495,7 +495,7 @@
     "file_name": "United|sp|States_Macys_Women_Women|sq|s|sp|Clothing_Tops"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -506,7 +506,7 @@
     "file_name": "United|sp|States_Macys_Women_Juniors_All|sp|Juniors|sq||sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -517,7 +517,7 @@
     "file_name": "United|sp|States_Macys_Women_Juniors_Dresses"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -528,7 +528,7 @@
     "file_name": "United|sp|States_Macys_Women_Juniors_Jeans"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -539,7 +539,7 @@
     "file_name": "United|sp|States_Macys_Women_Juniors_Swimsuits|sp||as||sp|Cover|sp|Ups"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -550,7 +550,7 @@
     "file_name": "United|sp|States_Macys_Women_Juniors_Tops"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -561,7 +561,7 @@
     "file_name": "United|sp|States_Macys_Women_Plus|sp|Sizes_All|sp|Plus|sp|Size|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -572,7 +572,7 @@
     "file_name": "United|sp|States_Macys_Women_Plus|sp|Sizes_All|sp|Trendy|sp|Plus|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -583,7 +583,7 @@
     "file_name": "United|sp|States_Macys_Women_Plus|sp|Sizes_Dresses"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -594,7 +594,7 @@
     "file_name": "United|sp|States_Macys_Women_Plus|sp|Sizes_Swimsuits|sp||as||sp|Cover|sp|Ups"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -605,7 +605,7 @@
     "file_name": "United|sp|States_Macys_Women_Plus|sp|Sizes_Tops"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -616,7 +616,7 @@
     "file_name": "United|sp|States_Macys_Women_More|sp|Sizes_Maternity"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -627,7 +627,7 @@
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -638,7 +638,7 @@
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Handbags|sp||as||sp|Wallets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -649,7 +649,7 @@
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -660,7 +660,7 @@
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Fine|sp|Jewelry"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -671,7 +671,7 @@
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -682,7 +682,7 @@
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Makeup"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -693,7 +693,7 @@
     "file_name": "United|sp|States_Macys_Women_Complete|sp|Your|sp|Look_Perfume"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -704,7 +704,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Evening"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -715,7 +715,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Outdoor|sp||as||sp|Camping"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -726,7 +726,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Prom"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -737,7 +737,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Vacation"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -748,7 +748,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Wear|sp|To|sp|Work"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -759,7 +759,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|By|sp|Occasion_Wedding"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -770,7 +770,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|Collections_Contemporary|sp|Trends"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -781,7 +781,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|Collections_Dress|sp|Trends"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -792,7 +792,7 @@
     "file_name": "United|sp|States_Macys_Women_Shop|sp|Collections_Swim|sp|Trends"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -803,7 +803,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_All|sp|Men|sq|S|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -814,7 +814,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -825,7 +825,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Blazers|sp||as||sp|Sport|sp|Coats"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -836,7 +836,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -847,7 +847,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Dress|sp|Shirts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -858,7 +858,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -869,7 +869,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Jeans"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -880,7 +880,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Pajamas|sp||as||sp|Robes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -891,7 +891,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Pants"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -902,7 +902,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Shirts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -913,7 +913,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Shorts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -924,7 +924,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Suits|sp||as||sp|Tuxedos"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -935,7 +935,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Sweaters"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -946,7 +946,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Swimwear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -957,7 +957,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Clothing_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -968,7 +968,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Active|sp||as||sp|Outdoor_All|sp|Activewear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -979,7 +979,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Active|sp||as||sp|Outdoor_Outdoor|sp|Apparel|sp||as||sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -990,7 +990,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Active|sp||as||sp|Outdoor_Sports|sp|Fan|sp|Shop"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1001,7 +1001,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Big|sp||as||sp|Tall_All|sp|Big|sp||as||sp|Tall"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1012,7 +1012,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Big|sp||as||sp|Tall_Bottoms"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1023,7 +1023,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Big|sp||as||sp|Tall_Tops"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1034,7 +1034,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Athletic|sp|Shoes|sp||as||sp|Sneakers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1045,7 +1045,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Boots"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1056,7 +1056,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Casual|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1067,7 +1067,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Dress|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1078,7 +1078,7 @@
     "file_name": "United|sp|States_Macys_Men_Men|sq|s|sp|Shoes_Slippers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1089,7 +1089,7 @@
     "file_name": "United|sp|States_Macys_Men_Bags|sp||as||sp|Accessories_All|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1100,7 +1100,7 @@
     "file_name": "United|sp|States_Macys_Men_Bags|sp||as||sp|Accessories_Belts|sp||as||sp|Suspenders"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1111,7 +1111,7 @@
     "file_name": "United|sp|States_Macys_Men_Bags|sp||as||sp|Accessories_Hats,|sp|Gloves|sp||as||sp|Scarves"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1122,7 +1122,7 @@
     "file_name": "United|sp|States_Macys_Men_Bags|sp||as||sp|Accessories_Watches|sp||as||sp|Jewelry"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1133,7 +1133,7 @@
     "file_name": "United|sp|States_Macys_Men_Cologne|sp||as||sp|Grooming_All|sp|Cologne"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1144,7 +1144,7 @@
     "file_name": "United|sp|States_Macys_Men_Cologne|sp||as||sp|Grooming_All|sp|Grooming|sp||as||sp|Skin|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1155,7 +1155,7 @@
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Business|sp|Casual"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1166,7 +1166,7 @@
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Contemporary|sp|Trends"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1177,7 +1177,7 @@
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Finish|sp|Line|sp|Men|sq|S|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1188,7 +1188,7 @@
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Inclusive|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1199,7 +1199,7 @@
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_March|sp|Madness|sp|2022"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1210,7 +1210,7 @@
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Sunglasses|sp|By|sp|Sunglass|sp|Hut"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1221,7 +1221,7 @@
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Wedding"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1232,7 +1232,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Beauty_Beauty"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1243,7 +1243,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Fragrance_All|sp|Fragrance"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1254,7 +1254,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Fragrance_Perfume"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1265,7 +1265,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Fragrance_Cologne"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1276,7 +1276,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Fragrance_Fragrance|sp|Gift|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1287,7 +1287,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Fragrance_Jumbo|sp||as||sp|Value|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1298,7 +1298,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Fragrance_Home|sp|Fragrance|sp||as||sp|Candles"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1309,7 +1309,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_All|sp|Skin|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1320,7 +1320,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Bath|sp||as||sp|Body"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1331,7 +1331,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Cleansers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1342,7 +1342,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Eye|sp|Creams|sp||as||sp|Treatments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1353,7 +1353,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Moisturizers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1364,7 +1364,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Serums"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1375,7 +1375,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Sun|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1386,7 +1386,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Skin|sp|Care_Tools|sp||as||sp|Devices"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1397,7 +1397,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_All|sp|Makeup"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1408,7 +1408,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Blush"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1419,7 +1419,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Brushes|sp||as||sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1430,7 +1430,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Eye|sp|Shadow"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1441,7 +1441,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Eyebrows"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1452,7 +1452,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Eyeliner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1463,7 +1463,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Foundation"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1474,7 +1474,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Lip|sp|Balm|sp||as||sp|Treatment"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1485,7 +1485,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Lipstick"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1496,7 +1496,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Makeup_Mascara|sp||as||sp|Lashes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1507,7 +1507,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_All|sp|Hair|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1518,7 +1518,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_Hair|sp|Tools|sp||as||sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1529,7 +1529,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_Shampoo|sp||as||sp|Conditioner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1540,7 +1540,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Hair|sp|Care_Styling|sp||as||sp|Treatment"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1551,7 +1551,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Beauty|sp|Gifts_|dol|15|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1562,7 +1562,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Beauty|sp|Gifts_|dol|25|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1573,7 +1573,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Beauty|sp|Gifts_|dol|50|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1584,7 +1584,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Beauty|sp|Gifts_Beauty|sp|Gift|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1595,7 +1595,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Beauty|sp|Gifts_Gifts|sp|With|sp|Purchase"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1606,7 +1606,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Shop|sp|Collections_Best|sp|Sellers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1617,7 +1617,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Shop|sp|Collections_Conscious|sp|Beauty"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1628,7 +1628,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Shop|sp|Collections_Inclusive|sp|Beauty"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1639,7 +1639,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Shop|sp|Collections_Luxury|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1650,7 +1650,7 @@
     "file_name": "United|sp|States_Macys_Beauty_Shop|sp|Collections_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1661,7 +1661,7 @@
     "file_name": "United|sp|States_Macys_Home_Home_Home"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1672,7 +1672,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_All|sp|Bedding"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1683,7 +1683,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_Blankets|sp||as||sp|Throws"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1694,7 +1694,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_Comforter|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1705,7 +1705,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_Comforters"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1716,7 +1716,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_Designer|sp|Bedding"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1727,7 +1727,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_Duvet|sp|Covers|sp||as||sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1738,7 +1738,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_Pillows"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1749,7 +1749,7 @@
     "file_name": "United|sp|States_Macys_Home_Bedding_Sheets|sp||as||sp|Pillowcases"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1760,7 +1760,7 @@
     "file_name": "United|sp|States_Macys_Home_Bath_All|sp|Bath"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1771,7 +1771,7 @@
     "file_name": "United|sp|States_Macys_Home_Bath_Bath|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1782,7 +1782,7 @@
     "file_name": "United|sp|States_Macys_Home_Bath_Bath|sp|Rugs|sp||as||sp|Bath|sp|Mats"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1793,7 +1793,7 @@
     "file_name": "United|sp|States_Macys_Home_Bath_Bath|sp|Towels"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1804,7 +1804,7 @@
     "file_name": "United|sp|States_Macys_Home_All|sp|Luggage_All|sp|Luggage"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1815,7 +1815,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_All|sp|Kitchen"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1826,7 +1826,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Air|sp|Fryers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1837,7 +1837,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Bakeware"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1848,7 +1848,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Blenders|sp||as||sp|Juicers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1859,7 +1859,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Coffee|sp|Makers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1870,7 +1870,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Cookware"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1881,7 +1881,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Cutlery|sp||as||sp|Knives"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1892,7 +1892,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Food|sp||as||sp|Gourmet|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1903,7 +1903,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Grilling"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1914,7 +1914,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Kitchen|sp|Gadgets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1925,7 +1925,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Mixers|sp||as||sp|Attachments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1936,7 +1936,7 @@
     "file_name": "United|sp|States_Macys_Home_Kitchen_Small|sp|Appliances"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1947,7 +1947,7 @@
     "file_name": "United|sp|States_Macys_Home_Furniture|sp||as||sp|Mattresses_All|sp|Furniture"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1958,7 +1958,7 @@
     "file_name": "United|sp|States_Macys_Home_Dining_Dinnerware"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1969,7 +1969,7 @@
     "file_name": "United|sp|States_Macys_Home_Dining_Flatware"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1980,7 +1980,7 @@
     "file_name": "United|sp|States_Macys_Home_Dining_Glassware|sp||as||sp|Drinkware"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -1991,7 +1991,7 @@
     "file_name": "United|sp|States_Macys_Home_Dining_Outdoor|sp|Dining|sp||as||sp|Entertaining"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2002,7 +2002,7 @@
     "file_name": "United|sp|States_Macys_Home_Dining_Serveware"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2013,7 +2013,7 @@
     "file_name": "United|sp|States_Macys_Home_Dining_Table|sp|Linens"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2024,7 +2024,7 @@
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_All|sp|Home|sp|Decor"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2035,7 +2035,7 @@
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Art|sp||as||sp|Wall|sp|Decor"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2046,7 +2046,7 @@
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Artificial|sp|Plants"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2057,7 +2057,7 @@
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Curtains|sp||as||sp|Drapes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2068,7 +2068,7 @@
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Home|sp|Accents"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2079,7 +2079,7 @@
     "file_name": "United|sp|States_Macys_Home_Home|sp|Decor_Lighting"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2090,7 +2090,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_Easter|sp|Shop"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2101,7 +2101,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_Electronics"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2112,7 +2112,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_Exercise|sp|Equipment|sp||as||sp|Gear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2123,7 +2123,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_Fresh|sp|Flowers|sp||as||sp|Live|sp|Plants"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2134,7 +2134,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_Home|sp|Fragrance|sp||as||sp|Candles"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2145,7 +2145,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2156,7 +2156,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_Personal|sp|Care|sp||as||sp|Hygiene"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2167,7 +2167,7 @@
     "file_name": "United|sp|States_Macys_Home_Shop|sp|Collections_Pet|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2178,7 +2178,7 @@
     "file_name": "United|sp|States_Macys_Home_Cleaning|sp||as||sp|Organization_All|sp|Cleaning|sp||as||sp|Organization"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2189,7 +2189,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Furniture_Furniture"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2200,7 +2200,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Living|sp|Room|sp|Furniture_All|sp|Living|sp|Room"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2211,7 +2211,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Living|sp|Room|sp|Furniture_Chairs"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2222,7 +2222,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Living|sp|Room|sp|Furniture_Coffee|sp||as||sp|Accent|sp|Tables"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2233,7 +2233,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Living|sp|Room|sp|Furniture_Couches|sp||as||sp|Sofas"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2244,7 +2244,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Living|sp|Room|sp|Furniture_Recliners"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2255,7 +2255,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Living|sp|Room|sp|Furniture_Sectional|sp|Sofas"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2266,7 +2266,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Living|sp|Room|sp|Furniture_TV|sp|Stands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2277,7 +2277,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Dining|sp|Room|sp||as||sp|Kitchen|sp|Furniture_All|sp|Dining|sp|Room|sp||as||sp|Kitchen"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2288,7 +2288,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Dining|sp|Room|sp||as||sp|Kitchen|sp|Furniture_Dining|sp|Room|sp|Chairs|sp||as||sp|Benches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2299,7 +2299,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Dining|sp|Room|sp||as||sp|Kitchen|sp|Furniture_Dining|sp|Room|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2310,7 +2310,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Dining|sp|Room|sp||as||sp|Kitchen|sp|Furniture_Dining|sp|Room|sp|Tables"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2321,7 +2321,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Dining|sp|Room|sp||as||sp|Kitchen|sp|Furniture_Home|sp|Bar"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2332,7 +2332,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Bedroom|sp|Furniture_All|sp|Bedroom"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2343,7 +2343,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Bedroom|sp|Furniture_Bedroom|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2354,7 +2354,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Bedroom|sp|Furniture_Beds|sp||as||sp|Headboards"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2365,7 +2365,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Bedroom|sp|Furniture_Dressers|sp||as||sp|Chests"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2376,7 +2376,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Bedroom|sp|Furniture_Nightstands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2387,7 +2387,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Mattresses_Twin"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2398,7 +2398,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Mattresses_Full"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2409,7 +2409,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Mattresses_Queen"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2420,7 +2420,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Mattresses_King"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2431,7 +2431,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Mattresses_California|sp|King"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2442,7 +2442,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Mattresses_Bed|sp|Frames|sp||as||sp|Box|sp|Springs"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2453,7 +2453,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Outdoor|sp||as||sp|Patio|sp|Furniture_All|sp|Outdoor|sp||as||sp|Patio"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2464,7 +2464,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Outdoor|sp||as||sp|Patio|sp|Furniture_Outdoor|sp|Bar|sp||as||sp|Dining|sp|Furniture"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2475,7 +2475,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Outdoor|sp||as||sp|Patio|sp|Furniture_Outdoor|sp|Lounge|sp|Furniture"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2486,7 +2486,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Outdoor|sp||as||sp|Patio|sp|Furniture_Outdoor|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2497,7 +2497,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Home|sp|Office_All|sp|Home|sp|Office"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2508,7 +2508,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Home|sp|Office_Desks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2519,7 +2519,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Entryway_All|sp|Entryway"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2530,7 +2530,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Back|sp|To|sp|College"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2541,7 +2541,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Bernhardt|sp|Furniture"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2552,7 +2552,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Contemporary|sp|Home|sp|Trends"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2563,7 +2563,7 @@
     "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Entertainment|sp|And|sp|Game|sp|Room"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2574,7 +2574,7 @@
     "file_name": "United|sp|States_Macys_Kids_Kids_Kids"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2585,7 +2585,7 @@
     "file_name": "United|sp|States_Macys_Kids_Baby_All|sp|Baby"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2596,7 +2596,7 @@
     "file_name": "United|sp|States_Macys_Kids_Baby_Newborn"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2607,7 +2607,7 @@
     "file_name": "United|sp|States_Macys_Kids_Baby_Baby|sp|Girl|sp|(0|h|24|sp|Months)"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2618,7 +2618,7 @@
     "file_name": "United|sp|States_Macys_Kids_Baby_Baby|sp|Boy|sp|(0|h|24|sp|Months)"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2629,7 +2629,7 @@
     "file_name": "United|sp|States_Macys_Kids_Baby_Baby|sp||as||sp|Toddler|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2640,7 +2640,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls_Toddler|sp|Girls|sp|(2T|h|5T)"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2651,7 +2651,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls_Girls|sp|(4|h|16)"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2662,7 +2662,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls_Girls|sq||sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2673,7 +2673,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys_Toddler|sp|Boys|sp|(2T|h|5T)"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2684,7 +2684,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys_Boys|sp|(4|h|20)"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2695,7 +2695,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys_Boys|sq||sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2706,7 +2706,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2717,7 +2717,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Activewear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2728,7 +2728,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Basics"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2739,7 +2739,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2750,7 +2750,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Dresses"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2761,7 +2761,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Leggings|sp||as||sp|Pants"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2772,7 +2772,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Pajamas"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2783,7 +2783,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Sets|sp||as||sp|Outfits"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2794,7 +2794,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Shirts|sp||as||sp|Tops"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2805,7 +2805,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Shorts|sp||as||sp|Skirts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2816,7 +2816,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Swimwear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2827,7 +2827,7 @@
     "file_name": "United|sp|States_Macys_Kids_Girls|sq||sp|Clothing_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2838,7 +2838,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2849,7 +2849,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Activewear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2860,7 +2860,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Basics"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2871,7 +2871,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2882,7 +2882,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Pajamas"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2893,7 +2893,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Pants"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2904,7 +2904,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Sets|sp||as||sp|Outfits"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2915,7 +2915,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Shirts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2926,7 +2926,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Shorts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2937,7 +2937,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Suits|sp||as||sp|Dress|sp|Shirts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2948,7 +2948,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Swimwear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2959,7 +2959,7 @@
     "file_name": "United|sp|States_Macys_Kids_Boys|sq||sp|Clothing_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2970,7 +2970,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Toys|sp|\"R\"|sp|Us_All|sp|Toys"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2981,7 +2981,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Toys|sp|\"R\"|sp|Us_0|h|24|sp|Months"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -2992,7 +2992,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Toys|sp|\"R\"|sp|Us_2|h|4|sp|Years|sp|Old"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3003,7 +3003,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Toys|sp|\"R\"|sp|Us_5|h|7|sp|Years|sp|Old"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3014,7 +3014,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Collections_Baby|sp|Shower|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3025,7 +3025,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Collections_Easter|sp|Shop"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3036,7 +3036,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Collections_Gifts|sp|By|sp|STORY"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3047,7 +3047,7 @@
     "file_name": "United|sp|States_Macys_Kids_Shop|sp|Collections_Outdoor|sp|Brand|sp|Shop"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3058,7 +3058,7 @@
     "file_name": "United|sp|States_Macys_Kids_Baby|sp|Gear|sp||as||sp|Essentials_All|sp|Baby|sp|Gear|sp||as||sp|Essentials"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3069,7 +3069,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys_Toys"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3080,7 +3080,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Age_0|h|12|sp|Months"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3091,7 +3091,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Age_12|h|24|sp|Months"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3102,7 +3102,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Age_2|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3113,7 +3113,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Age_3|h|4|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3124,7 +3124,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Age_5|h|7|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3135,7 +3135,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Age_8|h|10|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3146,7 +3146,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Age_11|sp||as||sp|Up"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3157,7 +3157,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Price_Toys|sp||dol|10|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3168,7 +3168,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Price_Toys|sp||dol|25|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3179,7 +3179,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Price_Toys|sp||dol|50|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3190,7 +3190,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toys|sp|By|sp|Price_Toys|sp||dol|100|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3201,7 +3201,7 @@
     "file_name": "United|sp|States_Macys_Toys_Character|sp|Shop_Barbie"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3212,7 +3212,7 @@
     "file_name": "United|sp|States_Macys_Toys_Character|sp|Shop_Disney"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3223,7 +3223,7 @@
     "file_name": "United|sp|States_Macys_Toys_Character|sp|Shop_Jurassic|sp|World"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3234,7 +3234,7 @@
     "file_name": "United|sp|States_Macys_Toys_Character|sp|Shop_Marvel"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3245,7 +3245,7 @@
     "file_name": "United|sp|States_Macys_Toys_Character|sp|Shop_Paw|sp|Patrol"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3256,7 +3256,7 @@
     "file_name": "United|sp|States_Macys_Toys_Character|sp|Shop_Star|sp|Wars"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3267,7 +3267,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Action|sp|Figures|sp||as||sp|Playsets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3278,7 +3278,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Arts|sp||as||sp|Crafts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3289,7 +3289,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Building|sp|Toys"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3300,7 +3300,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Dolls|sp||as||sp|Dollhouses"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3311,7 +3311,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Educational|sp|Toys"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3322,7 +3322,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Electronics"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3333,7 +3333,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Games|sp||as||sp|Puzzles"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3344,7 +3344,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Outdoor|sp|Toys"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3355,7 +3355,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Pretend|sp|Play"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3366,7 +3366,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Stuffed|sp|Animals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3377,7 +3377,7 @@
     "file_name": "United|sp|States_Macys_Toys_Toy|sp|Type_Vehicles|sp||as||sp|Remote|sp|Control"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3388,7 +3388,7 @@
     "file_name": "United|sp|States_Macys_Toys_Easter_Easter|sp|Baskets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3399,7 +3399,7 @@
     "file_name": "United|sp|States_Macys_Toys_Easter_Easter|sp|Toys"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3410,7 +3410,7 @@
     "file_name": "United|sp|States_Macys_Toys_Easter_Easter|sp|Candy"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3421,7 +3421,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Shoes_Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3432,7 +3432,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_All|sp|Women|sq|S|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3443,7 +3443,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3454,7 +3454,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Athletic|sp|Shoes|sp||as||sp|Sneakers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3465,7 +3465,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Boots"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3476,7 +3476,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Booties"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3487,7 +3487,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Comfort|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3498,7 +3498,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Evening|sp||as||sp|Wedding"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3509,7 +3509,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Flats"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3520,7 +3520,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Heels|sp||as||sp|Pumps"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3531,7 +3531,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Mules|sp||as||sp|Slides"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3542,7 +3542,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Sandals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3553,7 +3553,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Shoe|sp|Care|sp||as||sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3564,7 +3564,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Slippers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3575,7 +3575,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Women|sq|s|sp|Shoes_Wedges"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3586,7 +3586,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_All|sp|Men|sq|S|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3597,7 +3597,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Athletic|sp||as||sp|Sneakers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3608,7 +3608,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Boots"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3619,7 +3619,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Casual|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3630,7 +3630,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Dress|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3641,7 +3641,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Loafers|sp||as||sp|Drivers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3652,7 +3652,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Sandals|sp||as||sp|Flip|h|Flops"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3663,7 +3663,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Men|sq|s|sp|Shoes_Slippers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3674,7 +3674,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_All|sp|Kids|sq||sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3685,7 +3685,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_Baby|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3696,7 +3696,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_Boys|sq||sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3707,7 +3707,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Kids|sq||sp|Shoes_Girls|sq||sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3718,7 +3718,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Shop|sp|Collections_Contemporary|sp|Trends"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3729,7 +3729,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Shop|sp|Collections_The|sp|Edit"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3740,7 +3740,7 @@
     "file_name": "United|sp|States_Macys_Shoes_Shop|sp|Collections_Tights,|sp|Socks,|sp||as||sp|Hosiery"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3751,7 +3751,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_All|sp|Fine|sp|Jewelry"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3762,7 +3762,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Bracelets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3773,7 +3773,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Earrings"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3784,7 +3784,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Necklaces"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3795,7 +3795,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Rings"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3806,7 +3806,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Diamonds"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3817,7 +3817,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Diamond|sp|Earrings"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3828,7 +3828,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Gemstones"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3839,7 +3839,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Gold"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3850,7 +3850,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fine|sp|Jewelry_Pearls"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3861,7 +3861,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Wedding|sp||as||sp|Engagement|sp|Jewelry_Engagement|sp|Rings"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3872,7 +3872,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Wedding|sp||as||sp|Engagement|sp|Jewelry_Wedding|sp|Bands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3883,7 +3883,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_All|sp|Fashion|sp|Jewelry"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3894,7 +3894,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Bracelets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3905,7 +3905,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Earrings"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3916,7 +3916,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Necklaces"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3927,7 +3927,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Fashion|sp|Jewelry_Rings"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3938,7 +3938,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Men|sq|s|sp|Jewelry_Men|sq|S|sp|Jewelry|sp||as||sp|Cufflinks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3949,7 +3949,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Watches_All|sp|Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3960,7 +3960,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Watches_Men|sq|S|sp|Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3971,7 +3971,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Watches_Women|sq|S|sp|Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3982,7 +3982,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Watches_Luxury|sp|Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -3993,7 +3993,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Watches_Smart|sp|Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4004,7 +4004,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Shop|sp|All|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4015,7 +4015,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Gift|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4026,7 +4026,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Gifts|sp||dol|25|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4037,7 +4037,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Gifts|sp||dol|100|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4048,7 +4048,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Jewelry|sp||as||sp|Watch|sp|Gifts_Luxe|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4059,7 +4059,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Shop|sp|Collections_Inclusive|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4070,7 +4070,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Shop|sp|Collections_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4081,7 +4081,7 @@
     "file_name": "United|sp|States_Macys_Jewelry_Shop|sp|Collections_Personalized|sp|Jewelry"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4092,7 +4092,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags_Handbags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4103,7 +4103,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_All|sp|Handbags|sp||as||sp|Wallets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4114,7 +4114,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4125,7 +4125,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Designer|sp|Handbags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4136,7 +4136,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Backpacks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4147,7 +4147,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Belt|sp|Bags|sp||as||sp|Fanny|sp|Packs"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4158,7 +4158,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Bucket|sp|Bags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4169,7 +4169,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Crossbody|sp||as||sp|Messenger|sp|Bags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4180,7 +4180,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Hobo|sp|Bags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4191,7 +4191,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Leather|sp|Bags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4202,7 +4202,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Satchels|sp||as||sp|Top|sp|Handles"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4213,7 +4213,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Shoulder|sp|Bags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4224,7 +4224,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Tote|sp|Bags"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4235,7 +4235,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Handbags|sp||as||sp|Wallets_Wallets|sp||as||sp|Wristlets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4246,7 +4246,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_All|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4257,7 +4257,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_Belts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4268,7 +4268,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_Face|sp|Masks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4279,7 +4279,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_Hair|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4290,7 +4290,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_Hats"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4301,7 +4301,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_Phone|sp|Cases|sp||as||sp|Tech|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4312,7 +4312,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_Scarves|sp||as||sp|Wraps"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4323,7 +4323,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Accessories_Tights,|sp|Socks,|sp||as||sp|Hosiery"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4334,7 +4334,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Sunglasses|sp||as||sp|Eyeglasses_Sunglasses|sp|By|sp|Sunglass|sp|Hut"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4345,7 +4345,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Sunglasses|sp||as||sp|Eyeglasses_Eyeglasses|sp|By|sp|LensCrafters"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4356,7 +4356,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Sunglasses|sp||as||sp|Eyeglasses_Ray|h|Ban"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4367,7 +4367,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Shop|sp|Collections_Best|sp|Sellers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4378,7 +4378,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Shop|sp|Collections_Contemporary|sp|Trends"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4389,7 +4389,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Shop|sp|Collections_Inclusive|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4400,7 +4400,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Shop|sp|Collections_The|sp|Signature|sp|Shop"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4411,7 +4411,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Luggage|sp||as||sp|Travel_All|sp|Luggage"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4422,7 +4422,7 @@
     "file_name": "United|sp|States_Macys_Handbags_Luggage|sp||as||sp|Travel_Travel|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4433,7 +4433,7 @@
     "file_name": "United|sp|States_Macys_Sale_Sale_Sale"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4444,7 +4444,7 @@
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Women|sq|S|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4455,7 +4455,7 @@
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Women|sq|S|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4466,7 +4466,7 @@
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Handbags|sp||as||sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4477,7 +4477,7 @@
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Jewelry"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4488,7 +4488,7 @@
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4499,7 +4499,7 @@
     "file_name": "United|sp|States_Macys_Sale_Women|sq|s|sp|Sale_Beauty"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4510,7 +4510,7 @@
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Men|sq|S|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4521,7 +4521,7 @@
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Men|sq|S|sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4532,7 +4532,7 @@
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Bags|sp||as||sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4543,7 +4543,7 @@
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Activewear"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4554,7 +4554,7 @@
     "file_name": "United|sp|States_Macys_Sale_Men|sq|s|sp|Sale_Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4565,7 +4565,7 @@
     "file_name": "United|sp|States_Macys_Sale_Kids|sp||as||sp|Baby|sp|Sale_Girls|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4576,7 +4576,7 @@
     "file_name": "United|sp|States_Macys_Sale_Kids|sp||as||sp|Baby|sp|Sale_Boys|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4587,7 +4587,7 @@
     "file_name": "United|sp|States_Macys_Sale_Kids|sp||as||sp|Baby|sp|Sale_Baby|sp|Clothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4598,7 +4598,7 @@
     "file_name": "United|sp|States_Macys_Sale_Kids|sp||as||sp|Baby|sp|Sale_Toys|sp||as||sp|Games"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4609,7 +4609,7 @@
     "file_name": "United|sp|States_Macys_Sale_Home|sp|Sale_Bed|sp||as||sp|Bath"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4620,7 +4620,7 @@
     "file_name": "United|sp|States_Macys_Sale_Home|sp|Sale_Kitchen"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4631,7 +4631,7 @@
     "file_name": "United|sp|States_Macys_Sale_Home|sp|Sale_Dining"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4642,7 +4642,7 @@
     "file_name": "United|sp|States_Macys_Sale_Home|sp|Sale_Furniture"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4653,7 +4653,7 @@
     "file_name": "United|sp|States_Macys_Sale_Home|sp|Sale_Mattresses"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4664,7 +4664,7 @@
     "file_name": "United|sp|States_Macys_Sale_Home|sp|Sale_Luggage"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4675,7 +4675,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Her"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4686,7 +4686,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Him"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4697,7 +4697,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Kids"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4708,7 +4708,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Home"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4719,7 +4719,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Pets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4730,7 +4730,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|Teens"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4741,7 +4741,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|20|h|Somethings"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4752,7 +4752,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Everyone_For|sp|The|sp|Host"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4763,7 +4763,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Gifts|sp||dol|25|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4774,7 +4774,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Gifts|sp||dol|50|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4785,7 +4785,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Gifts|sp||dol|100|sp||as||sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4796,7 +4796,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Price_Luxe|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4807,7 +4807,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Occasion_Anniversary"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4818,7 +4818,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Occasion_Baby"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4829,7 +4829,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Occasion_Birthday"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4840,7 +4840,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Occasion_Graduation"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4851,7 +4851,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Occasion_Housewarming"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4862,7 +4862,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Occasion_Wedding"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4873,7 +4873,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Beauty"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4884,7 +4884,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Fitness"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4895,7 +4895,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Fragrance"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4906,7 +4906,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Handbags|sp||as||sp|Shoes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4917,7 +4917,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Jewelry|sp||as||sp|Watches"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4928,7 +4928,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Plants|sp||as||sp|Flowers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4939,7 +4939,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|by|sp|Category_Tech"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4950,7 +4950,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_Shop|sp|All|sp|Toys|sp|R|sp|Us"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4961,7 +4961,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_0|h|12|sp|Months"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4972,7 +4972,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_12|h|24|sp|Months"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4983,7 +4983,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_2|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -4994,7 +4994,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_3|h|4|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5005,7 +5005,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_5|h|7|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5016,7 +5016,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_8|h|10|sp|Years"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5027,7 +5027,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Gifts|sp|for|sp|Kids_11|sp||as||sp|Up"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5038,7 +5038,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Easter|sp|Gifts_All|sp|Easter|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5049,7 +5049,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Easter|sp|Gifts_Easter|sp|Candy"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5060,7 +5060,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Easter|sp|Gifts_Dining|sp||as||sp|Decor"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5071,7 +5071,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Easter|sp|Gifts_Kid|sq|S|sp|Outfits"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5082,7 +5082,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Easter|sp|Gifts_Toys"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5093,7 +5093,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Unique|sp|Gifts|sp|by|sp|STORY_All|sp|Unique|sp|Gifts|sp|By|sp|STORY"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5104,7 +5104,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Unique|sp|Gifts|sp|by|sp|STORY_Unique|sp|Gifts|sp|For|sp|The|sp|Home"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5115,7 +5115,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Unique|sp|Gifts|sp|by|sp|STORY_Unique|sp|Spa|sp|Essentials"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5126,7 +5126,7 @@
     "file_name": "United|sp|States_Macys_Gifts_Unique|sp|Gifts|sp|by|sp|STORY_Unique|sp|Toys|sp||as||sp|Games"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5137,7 +5137,7 @@
     "file_name": "United|sp|States_Macys_Gifts_More|sp|Gifting|sp|Ideas_Diverse|sp|Owned|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
@@ -5148,7 +5148,7 @@
     "file_name": "United|sp|States_Macys_Gifts_More|sp|Gifting|sp|Ideas_Gift|sp|Cards"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",

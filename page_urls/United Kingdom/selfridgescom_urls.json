@@ -1,6 +1,6 @@
 [
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -11,7 +11,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_NEW|sp|IN_NEW|sp|IN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -22,7 +22,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Shop|sp|all|sp|new|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -33,7 +33,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Womens"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -44,7 +44,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Mens"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -55,7 +55,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -66,7 +66,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -77,7 +77,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -88,7 +88,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Kids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -99,7 +99,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Home|sp||as||sp|tech"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -110,7 +110,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Foodhall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -121,7 +121,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|all|sp|new|sp|in_Jewellery|sp||as||sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -132,7 +132,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Trending|cln||sp|health|sp|and|sp|wellness_Trending|cln||sp|health|sp|and|sp|wellness"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -143,7 +143,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Men|sq|s|sp|Spring|sp|wardrobe_Men|sq|s|sp|Spring|sp|wardrobe"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -154,7 +154,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_NEW|sp|IN_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -165,7 +165,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -176,7 +176,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -187,7 +187,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Gifts|sp|for|sp|her_Gifts|sp|for|sp|her"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -198,7 +198,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Brands|sp|to|sp|know_Brands|sp|to|sp|know"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -209,7 +209,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Designer|sp|new|sp|in_Designer|sp|new|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -220,7 +220,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Transeasonal|sp|heroes_Transeasonal|sp|heroes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -231,7 +231,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Casual|sp|tailoring_Casual|sp|tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -242,7 +242,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -253,7 +253,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Our|sp|exclusives_Our|sp|exclusives"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -264,7 +264,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Seasonal|sp|reductions_Seasonal|sp|reductions"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -275,7 +275,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_All|sp|clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -286,7 +286,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -297,7 +297,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -308,7 +308,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Coats|sp||as||sp|jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -319,7 +319,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -330,7 +330,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Nightwear|sp||as||sp|lingerie"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -341,7 +341,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Sportswear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -352,7 +352,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Skiwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -363,7 +363,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -374,7 +374,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -385,7 +385,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -396,7 +396,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Jumpsuits|sp||as||sp|playsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -407,7 +407,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Denim"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -418,7 +418,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Swimwear|sp||as||sp|beachwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -429,7 +429,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Shirts|sp||as||sp|blouses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -440,7 +440,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Summer|sp|dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -451,7 +451,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_T|h|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -462,7 +462,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Hoodies|sp||as||sp|sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -473,7 +473,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -484,7 +484,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|clothing_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -495,7 +495,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_All|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -506,7 +506,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Cross|h|body|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -517,7 +517,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Shoulder|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -528,7 +528,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Tote|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -539,7 +539,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Backpacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -550,7 +550,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|bags_Clutch|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -561,7 +561,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_All|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -572,7 +572,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -583,7 +583,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -594,7 +594,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -605,7 +605,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -616,7 +616,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Flats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -627,7 +627,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Evening|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -638,7 +638,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -649,7 +649,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|shoes_Bridal|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -660,7 +660,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_All|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -671,7 +671,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Scarves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -682,7 +682,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Gloves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -693,7 +693,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Hats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -704,7 +704,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Face|sp|coverings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -715,7 +715,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Purses|sp||as||sp|pouches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -726,7 +726,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Cardholders"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -737,7 +737,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Fine|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -748,7 +748,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Fashion|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -759,7 +759,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -770,7 +770,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Hair|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -781,7 +781,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Eyewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -792,7 +792,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Tech|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -803,7 +803,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Belts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -814,7 +814,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Umbrellas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -825,7 +825,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_All|sp|accessories_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -836,7 +836,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Top|sp|of|sp|their|sp|game|cln||sp|activewear|sp|essentials_Top|sp|of|sp|their|sp|game|cln||sp|activewear|sp|essentials"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -847,7 +847,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Trending|cln||sp|loungewear_Trending|cln||sp|loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -858,7 +858,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -869,7 +869,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_WOMEN_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -880,7 +880,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_MEN_MEN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -891,7 +891,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -902,7 +902,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -913,7 +913,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Gifts|sp|for|sp|him_Gifts|sp|for|sp|him"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -924,7 +924,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Streetwear_Streetwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -935,7 +935,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -946,7 +946,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Our|sp|exclusives_Our|sp|exclusives"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -957,7 +957,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Seasonal|sp|reductions_Seasonal|sp|reductions"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -968,7 +968,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_All|sp|clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -979,7 +979,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Coats|sp||as||sp|jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -990,7 +990,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Tops|sp||as||sp|t|h|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1001,7 +1001,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1012,7 +1012,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Sweats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1023,7 +1023,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1034,7 +1034,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Trousers|sp||as||sp|shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1045,7 +1045,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1056,7 +1056,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Underwear|sp||as||sp|socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1067,7 +1067,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Nightwear|sp||as||sp|loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1078,7 +1078,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Blazers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1089,7 +1089,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Suits|sp||as||sp|tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1100,7 +1100,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Sportswear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1111,7 +1111,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1122,7 +1122,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|clothing_Skiwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1133,7 +1133,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_All|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1144,7 +1144,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1155,7 +1155,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1166,7 +1166,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1177,7 +1177,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1188,7 +1188,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Sliders"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1199,7 +1199,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Loafers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1210,7 +1210,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|shoes_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1221,7 +1221,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_All|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1232,7 +1232,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Backpacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1243,7 +1243,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Messenger|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1254,7 +1254,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Tote|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1265,7 +1265,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Briefcases"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1276,7 +1276,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Belt|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1287,7 +1287,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|bags_Travel|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1298,7 +1298,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_All|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1309,7 +1309,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Men|sq|s|sp|grooming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1320,7 +1320,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Wallets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1331,7 +1331,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Cardholders"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1342,7 +1342,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Belts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1353,7 +1353,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1364,7 +1364,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1375,7 +1375,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Hats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1386,7 +1386,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1397,7 +1397,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Cufflinks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1408,7 +1408,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Ties"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1419,7 +1419,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Pocket|sp|squares"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1430,7 +1430,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Eyewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1441,7 +1441,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Lifestyle|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1452,7 +1452,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Face|sp|coverings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1463,7 +1463,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Scarves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1474,7 +1474,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Umbrellas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1485,7 +1485,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_All|sp|accessories_Gloves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1496,7 +1496,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Workwear|sp|reinvented_Workwear|sp|reinvented"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1507,7 +1507,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Trending|cln||sp|loungewear_Trending|cln||sp|loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1518,7 +1518,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|season|cln||sp|accessories_New|sp|season|cln||sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1529,7 +1529,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|in|cln||sp|swimwear_New|sp|in|cln||sp|swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1540,7 +1540,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_New|sp|in|cln||sp|streetwear_New|sp|in|cln||sp|streetwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1551,7 +1551,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_MEN_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1562,7 +1562,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_BAGS_BAGS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1573,7 +1573,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Shop|sp|all|sp|Bags_Shop|sp|all|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1584,7 +1584,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1595,7 +1595,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|project|sp|earth|sp|edit_The|sp|project|sp|earth|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1606,7 +1606,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1617,7 +1617,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_The|sp|most|h|wanted|sp|accessories|sp|gifts_The|sp|most|h|wanted|sp|accessories|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1628,7 +1628,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Our|sp|exclusives_Our|sp|exclusives"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1639,7 +1639,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_All|sp|womens|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1650,7 +1650,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Cross|h|body|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1661,7 +1661,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Shoulder|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1672,7 +1672,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Tote|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1683,7 +1683,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Backpacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1694,7 +1694,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Clutch|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1705,7 +1705,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Top|sp|handle|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1716,7 +1716,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Mini|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1727,7 +1727,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Oversized|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1738,7 +1738,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Belt|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1749,7 +1749,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Beach|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1760,7 +1760,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Purses|sp||as||sp|pouches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1771,7 +1771,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Wallets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1782,7 +1782,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Cardholders"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1793,7 +1793,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Wash|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1804,7 +1804,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|womens|sp|bags_Bag|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1815,7 +1815,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_All|sp|mens|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1826,7 +1826,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Backpacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1837,7 +1837,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Messenger|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1848,7 +1848,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Tote|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1859,7 +1859,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Briefcases"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1870,7 +1870,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Belt|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1881,7 +1881,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Wallets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1892,7 +1892,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Cardholders"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1903,7 +1903,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Travel|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1914,7 +1914,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|mens|sp|bags_Wash|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1925,7 +1925,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_All|sp|luggage"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1936,7 +1936,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Suitcases"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1947,7 +1947,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Cabin|sp|luggage"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1958,7 +1958,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Weekend|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1969,7 +1969,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Travel|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1980,7 +1980,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_All|sp|luggage_Backpacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -1991,7 +1991,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Resellfridges|sp||h||sp|Shop|sp|pre|h|loved|sp||as||sp|archive_Resellfridges|sp||h||sp|Shop|sp|pre|h|loved|sp||as||sp|archive"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2002,7 +2002,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BAGS_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2013,7 +2013,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_SHOES_SHOES"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2024,7 +2024,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Shop|sp|all|sp|shoes_Shop|sp|all|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2035,7 +2035,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2046,7 +2046,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2057,7 +2057,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Trainers|sp|worth|sp|the|sp|hype_Trainers|sp|worth|sp|the|sp|hype"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2068,7 +2068,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Insta|h|worthy|sp|shoes_Insta|h|worthy|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2079,7 +2079,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|ultimate|sp|shoes|sp|to|sp|gift_The|sp|ultimate|sp|shoes|sp|to|sp|gift"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2090,7 +2090,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2101,7 +2101,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Seasonal|sp|reductions_Seasonal|sp|reductions"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2112,7 +2112,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_All|sp|womens"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2123,7 +2123,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2134,7 +2134,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2145,7 +2145,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2156,7 +2156,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Ankle|sp|boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2167,7 +2167,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Knee|sp|high|sp|boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2178,7 +2178,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2189,7 +2189,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Flats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2200,7 +2200,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Evening|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2211,7 +2211,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2222,7 +2222,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Loafers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2233,7 +2233,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Mules"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2244,7 +2244,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|womens_Bridal|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2255,7 +2255,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_All|sp|mens"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2266,7 +2266,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2277,7 +2277,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2288,7 +2288,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2299,7 +2299,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2310,7 +2310,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Sliders"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2321,7 +2321,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Loafers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2332,7 +2332,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|mens_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2343,7 +2343,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_All|sp|kids|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2354,7 +2354,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_Girls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2365,7 +2365,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_Boys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2376,7 +2376,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_All|sp|kids|sp|shoes_Baby"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2387,7 +2387,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Every|sp|day|sp|trainers_Every|sp|day|sp|trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2398,7 +2398,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Wedding|sp|guest|sp|shoes_Wedding|sp|guest|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2409,7 +2409,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Our|sp|favourite|cln||sp|heels_Our|sp|favourite|cln||sp|heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2420,7 +2420,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_SHOES_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2431,7 +2431,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_BEAUTY_BEAUTY"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2442,7 +2442,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Shop|sp|all|sp|beauty_Shop|sp|all|sp|beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2453,7 +2453,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2464,7 +2464,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Earth|h|conscious|sp|beauty_Earth|h|conscious|sp|beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2475,7 +2475,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Brilliant|sp|beauty|sp|gifts_Brilliant|sp|beauty|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2486,7 +2486,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Our|sp|exclusives_Our|sp|exclusives"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2497,7 +2497,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2508,7 +2508,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Back|sp|in|sp|stock_Back|sp|in|sp|stock"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2519,7 +2519,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_All|sp|skincare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2530,7 +2530,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Moisturisers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2541,7 +2541,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Cleansers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2552,7 +2552,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Toners"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2563,7 +2563,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Serums"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2574,7 +2574,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Masks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2585,7 +2585,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Treatments"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2596,7 +2596,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Exfoliator"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2607,7 +2607,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Skincare|sp|tools"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2618,7 +2618,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Eye|sp|cream"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2629,7 +2629,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|skincare_Oils"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2640,7 +2640,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_All|sp|make|h|up"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2651,7 +2651,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Complexion"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2662,7 +2662,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Eyes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2673,7 +2673,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Eyebrows"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2684,7 +2684,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Lips"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2695,7 +2695,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Palettes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2706,7 +2706,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Make|h|up|sp|brushes|sp||as||sp|tools"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2717,7 +2717,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Primer|sp||as||sp|setting|sp|spray"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2728,7 +2728,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|make|h|up_Nails"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2739,7 +2739,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_All|sp|fragrance"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2750,7 +2750,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_Women|sq|s|sp|perfume"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2761,7 +2761,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_Men|sq|s|sp|aftershave"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2772,7 +2772,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|fragrance_Discovery|sp|sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2783,7 +2783,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_All|sp|beauty|sp|gift|sp|sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2794,7 +2794,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Make|sp|Up"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2805,7 +2805,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Skincare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2816,7 +2816,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Perfume"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2827,7 +2827,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Men|sq|s|sp|gift|sp|sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2838,7 +2838,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|beauty|sp|gift|sp|sets_Travel"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2849,7 +2849,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_All|sp|haircare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2860,7 +2860,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Hair|sp|electricals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2871,7 +2871,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Shampoo"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2882,7 +2882,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Conditioner"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2893,7 +2893,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Treatments"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2904,7 +2904,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|haircare_Styling"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2915,7 +2915,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_All|sp|bodycare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2926,7 +2926,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_Body"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2937,7 +2937,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|bodycare_Bath|sp||as||sp|shower"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2948,7 +2948,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_All|sp|mens|sp|grooming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2959,7 +2959,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Shave"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2970,7 +2970,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Haircare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2981,7 +2981,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Skincare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -2992,7 +2992,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Bodycare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3003,7 +3003,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|mens|sp|grooming_Aftershave"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3014,7 +3014,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_All|sp|health|sp||as||sp|wellbeing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3025,7 +3025,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_Vitamins|sp||as||sp|supplements"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3036,7 +3036,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_Body,|sp|wellbeing|sp||as||sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3047,7 +3047,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|health|sp||as||sp|wellbeing_CBD"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3058,7 +3058,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|travel|sp|size|sp|beauty_All|sp|travel|sp|size|sp|beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3069,7 +3069,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|suncare|sp||as||sp|tanning_All|sp|suncare|sp||as||sp|tanning"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3080,7 +3080,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|suncare|sp||as||sp|tanning_Suncare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3091,7 +3091,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_All|sp|suncare|sp||as||sp|tanning_Tanning"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3102,7 +3102,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Trending|cln||sp|health|sp||as||sp|wellbeing_Trending|cln||sp|health|sp||as||sp|wellbeing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3113,7 +3113,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Vegan|sp|beauty_Vegan|sp|beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3124,7 +3124,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Gift|sp|set|sp|savings_Gift|sp|set|sp|savings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3135,7 +3135,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3146,7 +3146,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_BEAUTY_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3157,7 +3157,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_KIDS_KIDS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3168,7 +3168,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Shop|sp|all|sp|kids|sq|_Shop|sp|all|sp|kids|sq|"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3179,7 +3179,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3190,7 +3190,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3201,7 +3201,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Gifts|sp|for|sp|kids_Gifts|sp|for|sp|kids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3212,7 +3212,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Brilliant|sp|new|sp|baby|sp|gifts_Brilliant|sp|new|sp|baby|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3223,7 +3223,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Trending|cln||sp|Off|h|White_Trending|cln||sp|Off|h|White"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3234,7 +3234,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_All|sp|girls|sp|(4|h|16|sp|years)"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3245,7 +3245,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3256,7 +3256,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Tops|sp||as||sp|t|h|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3267,7 +3267,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Trousers|sp||as||sp|jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3278,7 +3278,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Coats|sp||as||sp|jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3289,7 +3289,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3300,7 +3300,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Sweatshirts|sp||as||sp|tracksuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3311,7 +3311,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Skirts|sp||as||sp|shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3322,7 +3322,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Pyjamas,|sp|underwear|sp||as||sp|socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3333,7 +3333,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|girls|sp|(4|h|16|sp|years)_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3344,7 +3344,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_All|sp|boys|sp|(4|h|16|sp|years)"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3355,7 +3355,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Tops|sp||as||sp|t|h|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3366,7 +3366,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Trousers|sp||as||sp|jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3377,7 +3377,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Coats|sp||as||sp|jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3388,7 +3388,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Sweatshirts|sp||as||sp|tracksuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3399,7 +3399,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3410,7 +3410,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3421,7 +3421,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Pyjamas,|sp|underwear|sp||as||sp|socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3432,7 +3432,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|boys|sp|(4|h|16|sp|years)_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3443,7 +3443,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_All|sp|baby|sp|(0|h|36|sp|months)"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3454,7 +3454,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|gifts|sp||as||sp|hampers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3465,7 +3465,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|essentials|sp||as||sp|changing|sp|bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3476,7 +3476,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Nursery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3487,7 +3487,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|grows|sp||as||sp|sleepsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3498,7 +3498,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Tops|sp||as||sp|t|h|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3509,7 +3509,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Sweatshirts|sp||as||sp|tracksuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3520,7 +3520,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Dresses|sp||as||sp|skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3531,7 +3531,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Bottoms"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3542,7 +3542,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Coats|sp||as||sp|jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3553,7 +3553,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Baby|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3564,7 +3564,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|baby|sp|(0|h|36|sp|months)_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3575,7 +3575,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_All|sp|kids|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3586,7 +3586,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_Girls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3597,7 +3597,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_Boys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3608,7 +3608,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|kids|sp|shoes_Baby"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3619,7 +3619,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_All|sp|toy|sp|shop"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3630,7 +3630,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Arts|sp||as||sp|crafts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3641,7 +3641,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Baby|sp||as||sp|toddler|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3652,7 +3652,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Books"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3663,7 +3663,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Dolls|sp||as||sp|doll|sp|houses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3674,7 +3674,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Dress|sp|up|sp||as||sp|role|sp|play"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3685,7 +3685,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Educational|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3696,7 +3696,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Electronic|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3707,7 +3707,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Games|sp||as||sp|puzzles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3718,7 +3718,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_LEGO|sp||as||sp|construction|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3729,7 +3729,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Outdoor|sp||as||sp|garden|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3740,7 +3740,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Pre|h|school|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3751,7 +3751,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Ride|sp|on|sp|Toys|sp||as||sp|scooters"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3762,7 +3762,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Teddy|sp|bears|sp||as||sp|soft|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3773,7 +3773,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Toy|sp|vehicles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3784,7 +3784,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_All|sp|toy|sp|shop_Wooden|sp|toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3795,7 +3795,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Designer|sp|accessories_Designer|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3806,7 +3806,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_KIDS_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3817,7 +3817,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_HOME|sp||as||sp|TECH_HOME|sp||as||sp|TECH"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3828,7 +3828,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Shop|sp|all|sp|home|sp||as||sp|tech_Shop|sp|all|sp|home|sp||as||sp|tech"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3839,7 +3839,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3850,7 +3850,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3861,7 +3861,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Home|sp|re|h|fresh_Home|sp|re|h|fresh"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3872,7 +3872,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Gifts|sp|for|sp|the|sp|home_Gifts|sp|for|sp|the|sp|home"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3883,7 +3883,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Seasonal|sp|reductions_Seasonal|sp|reductions"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3894,7 +3894,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_All|sp|home"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3905,7 +3905,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Bathroom"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3916,7 +3916,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Bedroom"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3927,7 +3927,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Books"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3938,7 +3938,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Candles|sp||as||sp|home|sp|fragrance"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3949,7 +3949,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Decorative|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3960,7 +3960,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Dining"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3971,7 +3971,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Furniture"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3982,7 +3982,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Home|sp|entertainment"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -3993,7 +3993,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Household|sp|electrical"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4004,7 +4004,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Kitchen"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4015,7 +4015,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Laundry|sp||as||sp|cleaning"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4026,7 +4026,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4037,7 +4037,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Luxury|sp|pet|sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4048,7 +4048,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Outdoors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4059,7 +4059,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|home_Stationery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4070,7 +4070,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_All|sp|technology"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4081,7 +4081,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Cameras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4092,7 +4092,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Gaming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4103,7 +4103,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Headphones"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4114,7 +4114,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Laptops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4125,7 +4125,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Phones|sp||as||sp|accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4136,7 +4136,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Smart|sp|home|sp||as||sp|wearable|sp|tech"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4147,7 +4147,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Speakers|sp||as||sp|audio"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4158,7 +4158,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Tablets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4169,7 +4169,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_All|sp|technology_Televisions"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4180,7 +4180,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Our|sp|top|sp|tech_Our|sp|top|sp|tech"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4191,7 +4191,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4202,7 +4202,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit_SUPERSELF|cln||sp|the|sp|feel|h|good|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4213,7 +4213,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_New|sp|in|cln||sp|dinnerware_New|sp|in|cln||sp|dinnerware"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4224,7 +4224,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_HOME|sp||as||sp|TECH_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4235,7 +4235,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_JEWELLERY_JEWELLERY"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4246,7 +4246,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_New|sp|this|sp|week_New|sp|this|sp|week"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4257,7 +4257,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_The|sp|Project|sp|Earth|sp|edit_The|sp|Project|sp|Earth|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4268,7 +4268,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_The|sp|bestsellers_The|sp|bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4279,7 +4279,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Spring|sp|jewellery|sp||as||sp|watches_Spring|sp|jewellery|sp||as||sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4290,7 +4290,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Luxury|sp|gifts|sp|to|sp|treasure_Luxury|sp|gifts|sp|to|sp|treasure"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4301,7 +4301,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Gifts|sp|he|sq|ll|sp|love_Gifts|sp|he|sq|ll|sp|love"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4312,7 +4312,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Initial|sp|jewellery_Initial|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4323,7 +4323,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Our|sp|exclusives_Our|sp|exclusives"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4334,7 +4334,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_All|sp|fine|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4345,7 +4345,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Earrings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4356,7 +4356,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Necklaces"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4367,7 +4367,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Rings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4378,7 +4378,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Bracelets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4389,7 +4389,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Engagement|sp|rings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4400,7 +4400,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|jewellery_Wedding"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4411,7 +4411,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|watches_All|sp|fine|sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4422,7 +4422,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|watches_Men|sq|s|sp|fine|sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4433,7 +4433,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fine|sp|watches_Women|sq|s|sp|fine|sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4444,7 +4444,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_All|sp|fashion|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4455,7 +4455,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Earrings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4466,7 +4466,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Necklaces"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4477,7 +4477,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Rings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4488,7 +4488,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Bracelets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4499,7 +4499,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Charms"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4510,7 +4510,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Jewellery|sp|boxes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4521,7 +4521,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|jewellery_Brooches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4532,7 +4532,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|watches_All|sp|fashion|sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4543,7 +4543,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|watches_Men|sq|s|sp|fashion|sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4554,7 +4554,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|fashion|sp|watches_Women|sq|s|sp|fashion|sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4565,7 +4565,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_All|sp|men|sq|s|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4576,7 +4576,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Bracelets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4587,7 +4587,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Necklaces"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4598,7 +4598,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Rings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4609,7 +4609,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_All|sp|men|sq|s|sp|jewellery_Earrings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4620,7 +4620,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Love|sp|forever|cln||sp|wedding|sp|jewellery_Love|sp|forever|cln||sp|wedding|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4631,7 +4631,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Our|sp|favourite|cln||sp|pre|h|loved|sp|jewellery|sp|and|sp|watches_Our|sp|favourite|cln||sp|pre|h|loved|sp|jewellery|sp|and|sp|watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4642,7 +4642,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_JEWELLERY_Shop|sp|now_Shop|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4653,7 +4653,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Recipient_Gifts|sp|for|sp|her"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4664,7 +4664,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Recipient_Gifts|sp|for|sp|him"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4675,7 +4675,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Recipient_Gifts|sp|for|sp|kids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4686,7 +4686,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Recipient_Gifts|sp|for|sp|pets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4697,7 +4697,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|GBP75"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4708,7 +4708,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|GBP150"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4719,7 +4719,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Price_Under|sp|GBP250"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4730,7 +4730,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_Anniversary"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4741,7 +4741,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_Birthday"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4752,7 +4752,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_Easter"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4763,7 +4763,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_Engagement"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4774,7 +4774,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_Mother|sq|s|sp|Day"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4785,7 +4785,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_New|sp|baby"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4796,7 +4796,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_New|sp|home"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4807,7 +4807,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_New|sp|mums"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4818,7 +4818,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Occasion_Wedding"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4829,7 +4829,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Beauty|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4840,7 +4840,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Candles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4851,7 +4851,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Chocolate"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4862,7 +4862,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Exclusive|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4873,7 +4873,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Earth|h|conscious|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4884,7 +4884,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Fine|sp|jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4895,7 +4895,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Flowers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4906,7 +4906,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Food|sp||as||sp|wine|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4917,7 +4917,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Fragrance"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4928,7 +4928,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Gift|sp|wrapping"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4939,7 +4939,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Gift|sp|sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4950,7 +4950,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Greetings|sp|cards"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4961,7 +4961,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Hampers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4972,7 +4972,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Luxury|sp|stationery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4983,7 +4983,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Personalised|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -4994,7 +4994,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -5005,7 +5005,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Tech|sp|gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",
@@ -5016,7 +5016,7 @@
     "file_name": "United|sp|Kingdom_Selfridges_UK_GIFTS_By|sp|Category_Toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/selfridgescom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Selfridges_UK/",

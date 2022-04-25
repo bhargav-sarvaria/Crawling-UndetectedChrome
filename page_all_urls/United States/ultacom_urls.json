@@ -1,6 +1,6 @@
 [
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -11,7 +11,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup_Makeup"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -22,7 +22,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_New|sp|Arrivals_New|sp|Arrivals"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -33,7 +33,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Makeup_Makeup"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -44,7 +44,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Nails_Nails"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -55,7 +55,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Skin|sp|Care_Skin|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -66,7 +66,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Hair_Hair"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -77,7 +77,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Tools|sp||as||sp|Brushes_Tools|sp||as||sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -88,7 +88,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Fragrance_Fragrance"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -99,7 +99,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -110,7 +110,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Men_Men"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -121,7 +121,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Ulta|sp|Beauty|sp|Collection_Ulta|sp|Beauty|sp|Collection"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -132,7 +132,7 @@
     "file_name": "United|sp|States_Ulta_New|sp|Arrivals_Gifts_Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -143,7 +143,7 @@
     "file_name": "United|sp|States_Ulta_Sale|sp||as||sp|Coupons_Sale_Sale"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -154,7 +154,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Face"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -165,7 +165,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Foundation"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -176,7 +176,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Face|sp|Powder"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -187,7 +187,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Concealer"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -198,7 +198,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Color|sp|Correcting"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -209,7 +209,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Face|sp|Primer"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -220,7 +220,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_BB|sp||as||sp|CC|sp|Creams"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -231,7 +231,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Blush"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -242,7 +242,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Bronzer"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -253,7 +253,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Contouring"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -264,7 +264,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Highlighter"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -275,7 +275,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Setting|sp|Spray|sp||as||sp|Powder"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -286,7 +286,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Face_Makeup|sp|Remover"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -297,7 +297,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lips"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -308,7 +308,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lipstick"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -319,7 +319,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lip|sp|Gloss"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -330,7 +330,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lip|sp|Liner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -341,7 +341,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lip|sp|Stain"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -352,7 +352,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lip|sp|Plumpers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -363,7 +363,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lip|sp|Tints|sp||as||sp|Balms"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -374,7 +374,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Lips_Lip|sp|Primer"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -385,7 +385,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eyes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -396,7 +396,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eyeshadow|sp|Palettes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -407,7 +407,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Mascara"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -418,7 +418,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eyeliner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -429,7 +429,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eyebrows"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -440,7 +440,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eyeshadow"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -451,7 +451,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eye|sp|Primer|sp||as||sp|Base"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -462,7 +462,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eyelashes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -473,7 +473,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Lash|sp|Primer|sp||as||sp|Serums"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -484,7 +484,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Eyes_Eye|sp|Makeup|sp|Remover"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -495,7 +495,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Makeup|sp|Brushes|sp||as||sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -506,7 +506,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Brush|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -517,7 +517,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Makeup|sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -528,7 +528,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Sponges|sp||as||sp|Applicators"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -539,7 +539,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Brush|sp|Cleaner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -550,7 +550,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Brow|sp||as||sp|Lash|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -561,7 +561,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Blotting|sp|Papers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -572,7 +572,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools_Mirrors"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -583,7 +583,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Body|sp|Makeup_Body|sp|Makeup"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -594,7 +594,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Palettes_Makeup|sp|Palettes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -605,7 +605,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Makeup|sp|Bags|sp||as||sp|Organizers_Makeup|sp|Bags|sp||as||sp|Organizers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -616,7 +616,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_ULTA|sp|Collection_ULTA|sp|Collection"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -627,7 +627,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Travel|sp|Size_Travel|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -638,7 +638,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -649,7 +649,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Featured_Featured"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -660,7 +660,7 @@
     "file_name": "United|sp|States_Ulta_Makeup_Featured_Black|h|Owned|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -671,7 +671,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nails_Nails"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -682,7 +682,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Polish_Nail|sp|Polish"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -693,7 +693,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Gel|sp|Nail|sp|Polish_Gel|sp|Nail|sp|Polish"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -704,7 +704,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Top|sp||as||sp|Base|sp|Coats_Top|sp||as||sp|Base|sp|Coats"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -715,7 +715,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Polish|sp|Stickers_Nail|sp|Polish|sp|Stickers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -726,7 +726,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Press|sp|On|sp|Nails_Press|sp|On|sp|Nails"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -737,7 +737,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Art|sp||as||sp|Design_Nail|sp|Art|sp||as||sp|Design"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -748,7 +748,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Nail|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -759,7 +759,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Removers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -770,7 +770,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Cuticle|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -781,7 +781,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Nail|sp|Care_Nail|sp|Treatments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -792,7 +792,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Manicure|sp||as||sp|Pedicure|sp|Tools_Manicure|sp||as||sp|Pedicure|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -803,7 +803,7 @@
     "file_name": "United|sp|States_Ulta_Nails_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -814,7 +814,7 @@
     "file_name": "United|sp|States_Ulta_Nails_ULTA|sp|Collection_ULTA|sp|Collection"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -825,7 +825,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Skin|sp|Care_Skin|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -836,7 +836,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Cleansers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -847,7 +847,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Face|sp|Wash"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -858,7 +858,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Cleansing|sp|Balms|sp||as||sp|Oils"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -869,7 +869,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Face|sp|Wipes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -880,7 +880,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Cleansing|sp|Exfoliators"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -891,7 +891,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Toner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -902,7 +902,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Makeup|sp|Remover"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -913,7 +913,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Cleansers_Cleansing|sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -924,7 +924,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Moisturizers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -935,7 +935,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Face|sp|Moisturizer"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -946,7 +946,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Night|sp|Cream"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -957,7 +957,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Face|sp|Oils"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -968,7 +968,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Face|sp|Mists|sp||as||sp|Essences"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -979,7 +979,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Neck|sp|Cream"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -990,7 +990,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Tinted|sp|Moisturizer"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1001,7 +1001,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Moisturizers_Lip|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1012,7 +1012,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Treatment|sp||as||sp|Serums"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1023,7 +1023,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Face|sp|Serums"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1034,7 +1034,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Face|sp|Peels|sp||as||sp|Exfoliators"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1045,7 +1045,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Face|sp|Masks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1056,7 +1056,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Sheet|sp|Masks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1067,7 +1067,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Acne|sp||as||sp|Blemish|sp|Treatments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1078,7 +1078,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Treatment|sp||as||sp|Serums_Body|sp|Treatments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1089,7 +1089,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Eye|sp|Treatments_Eye|sp|Treatments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1100,7 +1100,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Eye|sp|Treatments_Eye|sp|Cream"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1111,7 +1111,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Eye|sp|Treatments_Eye|sp|Serums"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1122,7 +1122,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Eye|sp|Treatments_Eye|sp|Masks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1133,7 +1133,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Suncare_Suncare"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1144,7 +1144,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Suncare_Sunscreen"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1155,7 +1155,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Suncare_Self|h|Tanning|sp||as||sp|Bronzing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1166,7 +1166,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Suncare_After|sp|Sun|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1177,7 +1177,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Supplements_Supplements"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1188,7 +1188,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Skincare|sp|Tools_Skincare|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1199,7 +1199,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Skincare|sp|Tools_Cleansing|sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1210,7 +1210,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Skincare|sp|Tools_Anti|h|Aging"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1221,7 +1221,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Skincare|sp|Tools_Facial|sp|Rollers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1232,7 +1232,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_ULTA|sp|Collection_ULTA|sp|Collection"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1243,7 +1243,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Travel|sp|Size_Travel|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1254,7 +1254,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1265,7 +1265,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Global|sp|Skin|sp|Care_Global|sp|Skin|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1276,7 +1276,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Featured_Featured"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1287,7 +1287,7 @@
     "file_name": "United|sp|States_Ulta_Skin|sp|Care_Featured_Black|h|Owned|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1298,7 +1298,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair_Hair"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1309,7 +1309,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Shampoo|sp||as||sp|Conditioner_Shampoo|sp||as||sp|Conditioner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1320,7 +1320,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Shampoo|sp||as||sp|Conditioner_Shampoo"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1331,7 +1331,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Shampoo|sp||as||sp|Conditioner_Dry|sp|Shampoo"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1342,7 +1342,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Shampoo|sp||as||sp|Conditioner_Conditioner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1353,7 +1353,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Shampoo|sp||as||sp|Conditioner_Co|h|Wash"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1364,7 +1364,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Shampoo|sp||as||sp|Conditioner_Leave|h|In|sp|Conditioner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1375,7 +1375,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Treatment"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1386,7 +1386,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Oils|sp||as||sp|Serums"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1397,7 +1397,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Masks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1408,7 +1408,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Hair|sp|Thinning|sp||as||sp|Hair|sp|Loss"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1419,7 +1419,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Leave|h|In|sp|Treatment"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1430,7 +1430,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Treatment_Scalp|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1441,7 +1441,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Styling|sp|Products"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1452,7 +1452,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Hairspray"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1463,7 +1463,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Volume|sp||as||sp|Texture"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1474,7 +1474,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Heat|sp|Protectant"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1485,7 +1485,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Gloss|sp||as||sp|Shine"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1496,7 +1496,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Smoothing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1507,7 +1507,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Curl|sp|Enhancing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1518,7 +1518,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Styling|sp|Products_Wax|sp||as||sp|Pomade"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1529,7 +1529,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Hair|sp|Color"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1540,7 +1540,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Root|sp|Touch|sp|Up"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1551,7 +1551,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Hair|sp|Color|sp||as||sp|Bleach"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1562,7 +1562,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Color_Trend|sp|Color"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1573,7 +1573,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Styling|sp|Tools_Hair|sp|Styling|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1584,7 +1584,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Styling|sp|Tools_Flat|sp|Irons"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1595,7 +1595,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Styling|sp|Tools_Hair|sp|Dryers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1606,7 +1606,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Styling|sp|Tools_Curling|sp|Irons|sp||as||sp|Stylers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1617,7 +1617,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Styling|sp|Tools_Hot|sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1628,7 +1628,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Styling|sp|Tools_Hair|sp|Rollers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1639,7 +1639,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Hair|sp|Brushes|sp||as||sp|Combs_Hair|sp|Brushes|sp||as||sp|Combs"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1650,7 +1650,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Accessories_Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1661,7 +1661,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Accessories_Hair|sp|Extensions"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1672,7 +1672,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Accessories_Elastics"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1683,7 +1683,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Accessories_Headbands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1694,7 +1694,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Accessories_Clips|sp||as||sp|Bobby|sp|Pins"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1705,7 +1705,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Accessories_Hair|sp|Cutting|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1716,7 +1716,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Accessories_Styling|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1727,7 +1727,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Kid|sq|s|sp|Haircare_Kid|sq|s|sp|Haircare"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1738,7 +1738,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Travel|sp|Size_Travel|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1749,7 +1749,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1760,7 +1760,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Featured_Featured"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1771,7 +1771,7 @@
     "file_name": "United|sp|States_Ulta_Hair_Featured_Black|h|Owned|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1782,7 +1782,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Tools|sp||as||sp|Brushes_Tools|sp||as||sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1793,7 +1793,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Styling|sp|Tools_Hair|sp|Styling|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1804,7 +1804,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Styling|sp|Tools_Flat|sp|Irons"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1815,7 +1815,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Styling|sp|Tools_Hair|sp|Dryers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1826,7 +1826,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Styling|sp|Tools_Curling|sp|Irons|sp||as||sp|Stylers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1837,7 +1837,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Styling|sp|Tools_Hot|sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1848,7 +1848,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Styling|sp|Tools_Hair|sp|Rollers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1859,7 +1859,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Skincare|sp|Tools_Skincare|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1870,7 +1870,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Skincare|sp|Tools_Cleansing|sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1881,7 +1881,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Skincare|sp|Tools_Anti|h|Aging"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1892,7 +1892,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Skincare|sp|Tools_Facial|sp|Rollers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1903,7 +1903,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Removal|sp|Tools_Hair|sp|Removal|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1914,7 +1914,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Makeup|sp|Brushes|sp||as||sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1925,7 +1925,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Brush|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1936,7 +1936,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Makeup|sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1947,7 +1947,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Sponges|sp||as||sp|Applicators"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1958,7 +1958,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Brush|sp|Cleaner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1969,7 +1969,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Brow|sp||as||sp|Lash|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1980,7 +1980,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Blotting|sp|Papers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -1991,7 +1991,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Makeup|sp|Brushes|sp||as||sp|Tools_Mirrors"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2002,7 +2002,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Hair|sp|Brushes|sp||as||sp|Combs_Hair|sp|Brushes|sp||as||sp|Combs"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2013,7 +2013,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Accessories_Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2024,7 +2024,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Accessories_Hair|sp|Extensions"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2035,7 +2035,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Accessories_Elastics"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2046,7 +2046,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Accessories_Headbands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2057,7 +2057,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Accessories_Clips|sp||as||sp|Bobby|sp|Pins"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2068,7 +2068,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Accessories_Hair|sp|Cutting|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2079,7 +2079,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Accessories_Styling|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2090,7 +2090,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Travel|sp|Size_Travel|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2101,7 +2101,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2112,7 +2112,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Featured_Featured"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2123,7 +2123,7 @@
     "file_name": "United|sp|States_Ulta_Tools|sp||as||sp|Brushes_Featured_Black|h|Owned|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2134,7 +2134,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Fragrance_Fragrance"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2145,7 +2145,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Women|sq|s|sp|Fragrance"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2156,7 +2156,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Perfume"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2167,7 +2167,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Rollerballs|sp||as||sp|Purse|sp|Sprays"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2178,7 +2178,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Body|sp|Lotions"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2189,7 +2189,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Body|sp|Mist|sp||as||sp|Hair|sp|Mist"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2200,7 +2200,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Women|sq|s|sp|Fragrance_Bath|sp||as||sp|Shower"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2211,7 +2211,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Men|sq|s|sp|Fragrance"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2222,7 +2222,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Cologne"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2233,7 +2233,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Aftershave"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2244,7 +2244,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Men|sq|s|sp|Fragrance_Bath|sp||as||sp|Shower"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2255,7 +2255,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Fragrance|sp|Gift|sp|Sets_Fragrance|sp|Gift|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2266,7 +2266,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Fragrance|sp|Gift|sp|Sets_Perfume|sp|Gift|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2277,7 +2277,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Fragrance|sp|Gift|sp|Sets_Cologne|sp|Gift|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2288,7 +2288,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Candles|sp||as||sp|Home|sp|Fragrance_Candles|sp||as||sp|Home|sp|Fragrance"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2299,7 +2299,7 @@
     "file_name": "United|sp|States_Ulta_Fragrance_Featured_Featured"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2310,7 +2310,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2321,7 +2321,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower_Bath|sp||as||sp|Shower"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2332,7 +2332,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower_Shower|sp|Gel|sp||as||sp|Body|sp|Wash"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2343,7 +2343,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower_Body|sp|Scrubs|sp||as||sp|Exfoliants"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2354,7 +2354,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower_Bubble|sp|Bath|sp||as||sp|Soaks"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2365,7 +2365,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower_Bath|sp|Bombs|sp||as||sp|Shower|sp|Steamers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2376,7 +2376,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Moisturizers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2387,7 +2387,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Lotion|sp||as||sp|Creams"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2398,7 +2398,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Butters"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2409,7 +2409,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Body|sp|Moisturizers_Body|sp|Serums|sp||as||sp|Oils"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2420,7 +2420,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Hand|sp||as||sp|Foot|sp|Care_Hand|sp||as||sp|Foot|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2431,7 +2431,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Hand|sp||as||sp|Foot|sp|Care_Hand|sp|Cream|sp||as||sp|Foot|sp|Cream"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2442,7 +2442,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Hand|sp||as||sp|Foot|sp|Care_Hand|sp||as||sp|Foot|sp|Treatment"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2453,7 +2453,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Hand|sp||as||sp|Foot|sp|Care_Manicure|sp||as||sp|Pedicure|sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2464,7 +2464,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Hand|sp||as||sp|Foot|sp|Care_Hand|sp|Soap|sp||as||sp|Sanitizers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2475,7 +2475,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Self|sp|Care|sp||as||sp|Wellness"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2486,7 +2486,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Body|sp|Treatments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2497,7 +2497,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Supplements"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2508,7 +2508,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Aromatherapy"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2519,7 +2519,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Deodorant"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2530,7 +2530,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Hair|sp|Removal"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2541,7 +2541,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Oral|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2552,7 +2552,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Sleep|sp|Essentials"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2563,7 +2563,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Spa|sp|Essentials"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2574,7 +2574,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Self|sp|Care|sp||as||sp|Wellness_Down|sp|There|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2585,7 +2585,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Bath|sp||as||sp|Body|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2596,7 +2596,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Bath|sp|Sponges,|sp|Gloves|sp||as||sp|Brushes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2607,7 +2607,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Hair|sp|Towels|sp||as||sp|Shower|sp|Caps"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2618,7 +2618,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body|sp|Accessories_Trend|sp||as||sp|Fashion|sp|Accessories"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2629,7 +2629,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Suncare_Suncare"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2640,7 +2640,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Suncare_Sunscreen"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2651,7 +2651,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Suncare_Self|h|Tanning|sp||as||sp|Bronzing"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2662,7 +2662,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Suncare_After|sp|Sun|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2673,7 +2673,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Mother|sp||as||sp|Baby_Mother|sp||as||sp|Baby"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2684,7 +2684,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_ULTA|sp|Collection_ULTA|sp|Collection"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2695,7 +2695,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Travel|sp|Size_Travel|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2706,7 +2706,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2717,7 +2717,7 @@
     "file_name": "United|sp|States_Ulta_Bath|sp||as||sp|Body_Black|h|Owned|sp|Brands_Black|h|Owned|sp|Brands"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2728,7 +2728,7 @@
     "file_name": "United|sp|States_Ulta_Men_Men_Men"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2739,7 +2739,7 @@
     "file_name": "United|sp|States_Ulta_Men_Skin|sp|Care_Skin|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2750,7 +2750,7 @@
     "file_name": "United|sp|States_Ulta_Men_Skin|sp|Care_Face|sp|Wash"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2761,7 +2761,7 @@
     "file_name": "United|sp|States_Ulta_Men_Skin|sp|Care_Moisturizers|sp||as||sp|Treatments"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2772,7 +2772,7 @@
     "file_name": "United|sp|States_Ulta_Men_Shaving_Shaving"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2783,7 +2783,7 @@
     "file_name": "United|sp|States_Ulta_Men_Shaving_Shaving|sp|Cream|sp||as||sp|Razors"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2794,7 +2794,7 @@
     "file_name": "United|sp|States_Ulta_Men_Shaving_Aftershave"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2805,7 +2805,7 @@
     "file_name": "United|sp|States_Ulta_Men_Shaving_Beard|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2816,7 +2816,7 @@
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Body|sp|Care"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2827,7 +2827,7 @@
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Shower|sp|Gel|sp||as||sp|Body|sp|Wash"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2838,7 +2838,7 @@
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Body|sp|Lotion"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2849,7 +2849,7 @@
     "file_name": "United|sp|States_Ulta_Men_Body|sp|Care_Deodorant"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2860,7 +2860,7 @@
     "file_name": "United|sp|States_Ulta_Men_Hair_Hair"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2871,7 +2871,7 @@
     "file_name": "United|sp|States_Ulta_Men_Hair_Shampoo"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2882,7 +2882,7 @@
     "file_name": "United|sp|States_Ulta_Men_Hair_Conditioner"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2893,7 +2893,7 @@
     "file_name": "United|sp|States_Ulta_Men_Hair_Hair|sp|Thinning|sp||as||sp|Hair|sp|Loss"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2904,7 +2904,7 @@
     "file_name": "United|sp|States_Ulta_Men_Hair_Styling"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2915,7 +2915,7 @@
     "file_name": "United|sp|States_Ulta_Men_Cologne_Cologne"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2926,7 +2926,7 @@
     "file_name": "United|sp|States_Ulta_Men_Travel|sp|Size_Travel|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2937,7 +2937,7 @@
     "file_name": "United|sp|States_Ulta_Men_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2948,7 +2948,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Ulta|sp|Beauty|sp|Collection_Ulta|sp|Beauty|sp|Collection"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2959,7 +2959,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Makeup"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2970,7 +2970,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Face"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2981,7 +2981,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Eyes"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -2992,7 +2992,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Lips"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3003,7 +3003,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Nails"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3014,7 +3014,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Makeup_Makeup|sp|Brushes|sp||as||sp|Tools"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3025,7 +3025,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Skin_Skin"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3036,7 +3036,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Suncare_Suncare"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3047,7 +3047,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3058,7 +3058,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3069,7 +3069,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Bath|sp|Bombs|sp||as||sp|Fizzers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3080,7 +3080,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Moisturizers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3091,7 +3091,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Bath|sp||as||sp|Body_Hand|sp|Soap|sp||as||sp|Sanitizers"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3102,7 +3102,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Beauty|sp|Smarts_Beauty|sp|Smarts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3113,7 +3113,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Candles_Candles"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3124,7 +3124,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Travel|sp|Size_Travel|sp|Size"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3135,7 +3135,7 @@
     "file_name": "United|sp|States_Ulta_Ulta|sp|Beauty|sp|Collection_Gifts|sp||as||sp|Value|sp|Sets_Gifts|sp||as||sp|Value|sp|Sets"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3146,7 +3146,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_Gifts_Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3157,7 +3157,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_By|sp|Category"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3168,7 +3168,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Makeup|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3179,7 +3179,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Nail|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3190,7 +3190,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Skin|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3201,7 +3201,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Hair|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3212,7 +3212,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Tool|sp||as||sp|Brush|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3223,7 +3223,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Bath|sp||as||sp|Body|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3234,7 +3234,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Fragrance|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3245,7 +3245,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Men|sq|S|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3256,7 +3256,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Category_Ulta|sp|Beauty|sp|Gifts"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3267,7 +3267,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Price_By|sp|Price"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3278,7 +3278,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Price_|dol|50|sp|And|sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",
@@ -3289,7 +3289,7 @@
     "file_name": "United|sp|States_Ulta_Gifts_By|sp|Price_|dol|100|sp|And|sp|Under"
   },
   {
-    "country": "United States",
+    "country": "US",
     "retailer": "Ulta",
     "parsing_config": "./retailer_config/ultacom_parsing.json",
     "gcloud_path": "crawl_data/United States/Ulta/",

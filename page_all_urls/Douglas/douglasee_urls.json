@@ -1,6 +1,6 @@
 [
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -11,7 +11,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_TOP_BOBBI|sp|BROWN"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -22,7 +22,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKIN|sp|CARE_SKIN|sp|CARE"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -33,7 +33,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TOP_DOUGLAS|sp|HOME|sp|SPA"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -44,7 +44,7 @@
     "file_name": "Estonia_DOUGLAS_EE_CAMPAIGN_CAMPAIGN_CAMPAIGN"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -55,7 +55,7 @@
     "file_name": "Estonia_DOUGLAS_EE_CAMPAIGN_CAMPAIGN_Campaign"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -66,7 +66,7 @@
     "file_name": "Estonia_DOUGLAS_EE_CAMPAIGN_CAMPAIGN_Monthly|sp|offers"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -77,7 +77,7 @@
     "file_name": "Estonia_DOUGLAS_EE_CAMPAIGN_CAMPAIGN_Weekendsale"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -88,7 +88,7 @@
     "file_name": "Estonia_DOUGLAS_EE_CAMPAIGN_FAVORABLE_URBAN|sp|DECAY|sp||h|70%"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -99,7 +99,7 @@
     "file_name": "Estonia_DOUGLAS_EE_CAMPAIGN_FAVORABLE_E.L.F.|sp||h|30%"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -110,7 +110,7 @@
     "file_name": "Estonia_DOUGLAS_EE_CAMPAIGN_FAVORABLE_OPI|sp||h|20%"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -121,7 +121,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Washing|sp||fs||sp|cleaning"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -132,7 +132,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Days"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -143,7 +143,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Night"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -154,7 +154,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_24|sp|hours"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -165,7 +165,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Anti|h|aging|sp||fs||sp|anti|h|wrinkle"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -176,7 +176,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Serums"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -187,7 +187,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Face|sp|masks"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -198,7 +198,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Eye|sp|care"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -209,7 +209,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Eye|sp|masks"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -220,7 +220,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Lip|sp|care"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -231,7 +231,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Neck|sp||fs||sp|decolletage"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -242,7 +242,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Vistrikuvastased"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -253,7 +253,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_THE|sp|FACE_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -264,7 +264,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_HANDS|sp||fs||sp|FEET_Hand|sp|care"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -275,7 +275,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_HANDS|sp||fs||sp|FEET_Nail|sp|care"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -286,7 +286,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_HANDS|sp||fs||sp|FEET_Foot|sp|care"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -297,7 +297,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_HANDS|sp||fs||sp|FEET_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -308,7 +308,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Detergents"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -319,7 +319,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Irrigation|sp||fs||sp|feeding"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -330,7 +330,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Reinforcement|sp||fs||sp|molding"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -341,7 +341,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Anti|h|cellulite"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -352,7 +352,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Deodorants"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -363,7 +363,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Venitusarmide|sp|vastane"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -374,7 +374,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Depilation"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -385,7 +385,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BODY_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -396,7 +396,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TANNING_Pre|h|tanning"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -407,7 +407,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TANNING_After|sp|sunbathing"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -418,7 +418,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TANNING_Self|h|tanning"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -429,7 +429,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Washing|sp||fs||sp|cleaning"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -440,7 +440,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Creams|sp||fs||sp|serums"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -451,7 +451,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Eye|sp|care"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -462,7 +462,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Body|sp|creams"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -473,7 +473,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Shaving|sp||fs||sp|after|sp|shave"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -484,7 +484,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Detergents"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -495,7 +495,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Deodorants"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -506,7 +506,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|MEN_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -517,7 +517,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|KIDS_Detergents"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -528,7 +528,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_FOR|sp|KIDS_Creams"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -539,7 +539,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_ORAL|sp|HYGIENE_Dental|sp|care|sp|products"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -550,7 +550,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_ORAL|sp|HYGIENE_Dental|sp|care|sp|equipment"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -561,7 +561,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKINCARE|sp|ACCESSORIES_Facial|sp|care|sp|accessories"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -572,7 +572,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKINCARE|sp|ACCESSORIES_Body|sp|care|sp|accessories"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -583,7 +583,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKINCARE|sp|ACCESSORIES_Skin|sp|massage|sp|equipment"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -594,7 +594,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKINCARE|sp|ACCESSORIES_Eye|sp|masks"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -605,7 +605,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKINCARE|sp|ACCESSORIES_Makeup|sp|bags"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -616,7 +616,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_SKINCARE|sp|ACCESSORIES_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -627,7 +627,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_BEAUTY|sp|CARE|sp|EQUIPMENT_Facial|sp|cleansing"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -638,7 +638,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TOP_EISENBERG"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -649,7 +649,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TOP_LANCOME"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -660,7 +660,7 @@
     "file_name": "Estonia_DOUGLAS_EE_SKIN|sp|CARE_TOP_ORIGINS"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -671,7 +671,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_ODORS_ODORS"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -682,7 +682,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Smells"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -693,7 +693,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Perfume|sp|deodorants"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -704,7 +704,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Perfumery"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -715,7 +715,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Perfume|sp|care|sp|products"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -726,7 +726,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|WOMEN_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -737,7 +737,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|KIDS_Smells"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -748,7 +748,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|KIDS_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -759,7 +759,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Smells"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -770,7 +770,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Perfume|sp|deodorants"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -781,7 +781,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_After|sp||h||sp|shave|sp|perfumery"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -792,7 +792,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Perfumery|sp|for|sp|shaving"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -803,7 +803,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_FOR|sp|MEN_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -814,7 +814,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_UNISEX_Smells"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -825,7 +825,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_HOME|sp||fs||sp|CAR_Air|sp|fresheners"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -836,7 +836,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_HOME|sp||fs||sp|CAR_Candles"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -847,7 +847,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_TOP_GIORGIO|sp|ARMANI"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -858,7 +858,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_TOP_DIOR"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -869,7 +869,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_TOP_LANCOME"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -880,7 +880,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_TOP_ARIANA|sp|GRANDE"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -891,7 +891,7 @@
     "file_name": "Estonia_DOUGLAS_EE_ODORS_TOP_HUGO|sp|BOSS"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -902,7 +902,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -913,7 +913,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_THE|sp|FACE_Makeup|sp|base"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -924,7 +924,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_THE|sp|FACE_Concealer|sp|sticks"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -935,7 +935,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_THE|sp|FACE_Powders"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -946,7 +946,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_THE|sp|FACE_Blush|sp||fs||sp|sun|sp|powder"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -957,7 +957,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_THE|sp|FACE_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -968,7 +968,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Mascara"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -979,7 +979,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Eyeliners|sp||fs||sp|liners"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -990,7 +990,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Eyeshadows"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1001,7 +1001,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_For|sp|eyebrows"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1012,7 +1012,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_artificial|sp|repmed"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1023,7 +1023,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_EYES_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1034,7 +1034,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lipsticks"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1045,7 +1045,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lip|sp|glosses"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1056,7 +1056,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lip|sp|pencils"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1067,7 +1067,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lip|sp|balms"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1078,7 +1078,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Lipstick|sp|foundation|sp|creams"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1089,7 +1089,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_LIPS_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1100,7 +1100,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_NAILS_Nail|sp|polishes"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1111,7 +1111,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_NAILS_Nail|sp|polish|sp|removers"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1122,7 +1122,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_NAILS_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1133,7 +1133,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_MAKEUP|sp|FOR|sp|CHILDREN_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1144,7 +1144,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Sponges|sp||fs||sp|sponges"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1155,7 +1155,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Brushes|sp||fs||sp|brushes"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1166,7 +1166,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Sharpeners"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1177,7 +1177,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Manicure|sp||fs||sp|pedicure|sp|accessories"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1188,7 +1188,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_Cosmetic|sp|bags"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1199,7 +1199,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_ACCESSORIES_accessories"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1210,7 +1210,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_TOP_DOUGLAS|sp|MAKE|sp|UP"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1221,7 +1221,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_TOP_MAC"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1232,7 +1232,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_TOP_DIOR"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1243,7 +1243,7 @@
     "file_name": "Estonia_DOUGLAS_EE_MAKE|h|UP_TOP_EISENBERG"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1254,7 +1254,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_HAIR|sp|CARE_HAIR|sp|CARE"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1265,7 +1265,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Shampoos"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1276,7 +1276,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Balms"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1287,7 +1287,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Masks"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1298,7 +1298,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Hair|sp|serum|sp|and|sp|oils"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1309,7 +1309,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Hair|sp|color"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1320,7 +1320,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_WASHING_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1331,7 +1331,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FINISHING_Varnishes"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1342,7 +1342,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FINISHING_Hair|sp|mousse"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1353,7 +1353,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FINISHING_Hair|sp|gels|sp|and|sp|creams"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1364,7 +1364,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FINISHING_Hairspray"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1375,7 +1375,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FINISHING_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1386,7 +1386,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Shampoos"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1397,7 +1397,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Balms"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1408,7 +1408,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Finishing"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1419,7 +1419,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Hair|sp|restoration"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1430,7 +1430,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|MEN_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1441,7 +1441,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|KIDS_Shampoos"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1452,7 +1452,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_FOR|sp|KIDS_Sets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1463,7 +1463,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_ACCESSORIES_Hair|sp|combs"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1474,7 +1474,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_ACCESSORIES_Hair|sp|bands|sp|and|sp|clips"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1485,7 +1485,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_TOP_DOUGLAS|sp|HAIR"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1496,7 +1496,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_TOP_ALTERNATE"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1507,7 +1507,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_TOP_SPEND"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1518,7 +1518,7 @@
     "file_name": "Estonia_DOUGLAS_EE_HAIR|sp|CARE_TOP_BIOSILK"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1529,7 +1529,7 @@
     "file_name": "Estonia_DOUGLAS_EE_JEWELERY_JEWELERY_JEWELERY"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1540,7 +1540,7 @@
     "file_name": "Estonia_DOUGLAS_EE_JEWELERY_JEWELRY_Earrings"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1551,7 +1551,7 @@
     "file_name": "Estonia_DOUGLAS_EE_JEWELERY_JEWELRY_Bracelets"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1562,7 +1562,7 @@
     "file_name": "Estonia_DOUGLAS_EE_GREEN_GREEN_GREEN"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1573,7 +1573,7 @@
     "file_name": "Estonia_DOUGLAS_EE_GREEN_NATURAL|sp|BEAUTY_Certified"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1584,7 +1584,7 @@
     "file_name": "Estonia_DOUGLAS_EE_GREEN_NATURAL|sp|BEAUTY_Natural|sp|ingredients"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1595,7 +1595,7 @@
     "file_name": "Estonia_DOUGLAS_EE_GREEN_VEGAN|sp|BEAUTY_Vegan|sp|products"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1606,7 +1606,7 @@
     "file_name": "Estonia_DOUGLAS_EE_GREEN_PURE|sp|BEAUTY_\"Clean\"|sp|tooted"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",
@@ -1617,7 +1617,7 @@
     "file_name": "Estonia_DOUGLAS_EE_GREEN_SUSTAINABLE|sp|PACKAGING_Refillable"
   },
   {
-    "country": "Estonia",
+    "country": "EE",
     "retailer": "Douglas_EE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Estonia/Douglas_EE/",

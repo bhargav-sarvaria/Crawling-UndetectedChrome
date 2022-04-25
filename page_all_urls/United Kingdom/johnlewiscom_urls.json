@@ -1,6 +1,6 @@
 [
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -11,7 +11,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Offers|sp|(Selected|sp|Lines)_Mattresses|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -22,7 +22,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Offers|sp|(Selected|sp|Lines)_Lighting|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -33,7 +33,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Offers|sp|(Selected|sp|Lines)_Tableware|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -44,7 +44,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Offers|sp|(Selected|sp|Lines)_Cushions|sp||as||sp|Throws|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -55,7 +55,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Offers|sp|(Selected|sp|Lines)_Mirrors|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -66,7 +66,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Offers|sp|(Selected|sp|Lines)_Boxes|sp||as||sp|Baskets|cln||sp|30%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -77,7 +77,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Bedding_Duvet|sp|Covers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -88,7 +88,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Bedding_Bed|sp|Sheets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -99,7 +99,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Bedding_Pillow|sp|Cases"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -110,7 +110,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Bedding_Duvets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -121,7 +121,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Bedding_Pillows"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -132,7 +132,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Bedding_Throws|sp||as||sp|Blankets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -143,7 +143,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Bedding_Children|sq|s|sp|Bedding"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -154,7 +154,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Cooking|sp||as||sp|Dining_Pots|sp||as||sp|Pans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -165,7 +165,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Cooking|sp||as||sp|Dining_Kitchen|sp|Utensils|sp||as||sp|Gadgets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -176,7 +176,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Cooking|sp||as||sp|Dining_Kitchen|sp|Bins"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -187,7 +187,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Home|sp|Decor|sp||as||sp|Accessories_Towels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -198,7 +198,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Home|sp|Decor|sp||as||sp|Accessories_Mirrors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -209,7 +209,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Home|sp|Decor|sp||as||sp|Accessories_Rugs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -220,7 +220,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Home|sp||as||sp|Garden_Curtains,|sp|Blinds|sp||as||sp|Floors_Made|sp|to|sp|Measure|sp|Curtains"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -231,7 +231,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Offers|sp|(Selected|sp|Lines)_Lighting|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -242,7 +242,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Offers|sp|(Selected|sp|Lines)_Mattresses|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -253,7 +253,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Living|sp|Room|sp|Furniture_Bookcases,|sp|Shelving|sp|Units|sp||as||sp|Shelves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -264,7 +264,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Living|sp|Room|sp|Furniture_Cabinets|sp||as||sp|Sideboards"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -275,7 +275,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Living|sp|Room|sp|Furniture_Coffee|sp|Tables"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -286,7 +286,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Living|sp|Room|sp|Furniture_Console|sp|Tables"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -297,7 +297,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Living|sp|Room|sp|Furniture_Side|sp|Tables"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -308,7 +308,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Living|sp|Room|sp|Furniture_TV|sp|Stands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -319,7 +319,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Bedroom|sp|Furniture_Beds"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -330,7 +330,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Bedroom|sp|Furniture_Bedside|sp|Tables"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -341,7 +341,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Bedroom|sp|Furniture_Chests|sp|of|sp|Drawers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -352,7 +352,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Bedroom|sp|Furniture_Dressing|sp|Tables"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -363,7 +363,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Bedroom|sp|Furniture_Wardrobes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -374,7 +374,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Dining|sp|Room|sp|Furniture_Dining|sp|Tables"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -385,7 +385,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Dining|sp|Room|sp|Furniture_Dining|sp|Chairs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -396,7 +396,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Dining|sp|Room|sp|Furniture_Dining|sp|Benches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -407,7 +407,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Dining|sp|Room|sp|Furniture_Bar|sp|Chairs|sp||as||sp|Stools"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -418,7 +418,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Home|sp|Office|sp||as||sp|Storage_Office|sp|Desks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -429,7 +429,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Home|sp|Office|sp||as||sp|Storage_Office|sp|Chairs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -440,7 +440,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Lighting_Ceiling|sp|Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -451,7 +451,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Lighting_Desk|sp||as||sp|Table|sp|Lamps"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -462,7 +462,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Lighting_Floor|sp|Lamps"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -473,7 +473,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Lighting_Wall|sp|Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -484,7 +484,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Lighting_Lamp|sp|Shades"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -495,7 +495,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Lighting_Garden|sp||as||sp|Outdoor|sp|Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -506,7 +506,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Furniture|sp||as||sp|Lights_Lighting_Light|sp|Bulbs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -517,7 +517,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Television|sp||as||sp|Audio_TV|sp|Recorders|sp||as||sp|Streaming|sp|Devices"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -528,7 +528,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Computing|sp||as||sp|Gaming_Monitors|sp||as||sp|Projectors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -539,7 +539,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Home|sp|Appliances_Dishwashers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -550,7 +550,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Small|sp|Appliances|sp||as||sp|Vacuums_Kettles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -561,7 +561,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Small|sp|Appliances|sp||as||sp|Vacuums_Toasters"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -572,7 +572,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Mobile,|sp|Cameras|sp||as||sp|Smart|sp|Tech_Home|sp|Telephones"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -583,7 +583,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Brands|sp|We|sp|Love_Bosch"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -594,7 +594,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Brands|sp|We|sp|Love_HP"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -605,7 +605,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Brands|sp|We|sp|Love_LG"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -616,7 +616,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Brands|sp|We|sp|Love_Panasonic"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -627,7 +627,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Brands|sp|We|sp|Love_Samsung"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -638,7 +638,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Electricals_Brands|sp|We|sp|Love_Sony"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -649,7 +649,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Top|sp|Brands_NEW|cln||sp|The|sp|Ordinary"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -660,7 +660,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Top|sp|Brands_Clarins"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -671,7 +671,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Top|sp|Brands_Clinique"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -682,7 +682,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Top|sp|Brands_Estee|sp|Lauder"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -693,7 +693,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Top|sp|Brands_Gucci"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -704,7 +704,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Top|sp|Brands_Jo|sp|Malone|sp|London"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -715,7 +715,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_View|sp|all|sp|Makeup"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -726,7 +726,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Foundations"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -737,7 +737,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Concealers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -748,7 +748,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Eyeshadows"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -759,7 +759,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Mascaras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -770,7 +770,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Lipsticks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -781,7 +781,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Makeup_Nail|sp|Polish|sp||as||sp|Care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -792,7 +792,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Fragrance_Women|sq|s|sp|Perfume"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -803,7 +803,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Fragrance_Perfume|sp|Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -814,7 +814,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Fragrance_Men|sq|s|sp|Aftershave"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -825,7 +825,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Fragrance_Aftershave|sp|Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -836,7 +836,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Skin|sp||as||sp|Body|sp|Care_Cleansers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -847,7 +847,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Skin|sp||as||sp|Body|sp|Care_Moisturisers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -858,7 +858,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Skin|sp||as||sp|Body|sp|Care_Body|sp|Care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -869,7 +869,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Skin|sp||as||sp|Body|sp|Care_Lip|sp|Balm|sp||as||sp|Care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -880,7 +880,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Skin|sp||as||sp|Body|sp|Care_Hand|sp||as||sp|Foot|sp|Care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -891,7 +891,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Skin|sp||as||sp|Body|sp|Care_Men|sq|s|sp|Grooming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -902,7 +902,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Hair|sp|Care|sp||as||sp|Styling_Shampoo"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -913,7 +913,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Hair|sp|Care|sp||as||sp|Styling_Conditioner"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -924,7 +924,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Hair|sp|Care|sp||as||sp|Styling_Hair|sp|Treatments"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -935,7 +935,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Hair|sp|Care|sp||as||sp|Styling_Hair|sp|Styling|sp|Products"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -946,7 +946,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Hair|sp|Care|sp||as||sp|Styling_Hair|sp|Brushes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -957,7 +957,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Inspire|sp|Me_New|sp|Arrivals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -968,7 +968,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Inspire|sp|Me_Spotlight|sp|On|cln||sp|Vegan|sp|Beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -979,7 +979,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Beauty_Inspire|sp|Me_Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -990,7 +990,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_Girls|sp|Boots|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1001,7 +1001,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_Boys|sp|Boots|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1012,7 +1012,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_Baby|sp|Clothes|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1023,7 +1023,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_Sleepsuits|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1034,7 +1034,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_Toys|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1045,7 +1045,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Offers|sp|(Selected|sp|Lines)_Nursery|cln||sp|15%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1056,7 +1056,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Kids|sp|Clothing_Girls|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1067,7 +1067,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Kids|sp|Clothing_Girls|sp|Jackets|sp||as||sp|Coats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1078,7 +1078,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Kids|sp|Clothing_Girls|sp|Pyjamas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1089,7 +1089,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Kids|sp|Clothing_Girls|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1100,7 +1100,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Kids|sp|Clothing_Boys|sp|Jackets|sp||as||sp|Coats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1111,7 +1111,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Kids|sp|Clothing_Boys|sp|Pyjamas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1122,7 +1122,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Kids|sp|Clothing_Boys|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1133,7 +1133,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Baby|sp|Clothes|sp|(0|h|4|sp|yrs)_Baby|sp|Boy|sp|Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1144,7 +1144,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Baby|sp|Clothes|sp|(0|h|4|sp|yrs)_Baby|sp|Girl|sp|Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1155,7 +1155,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Baby|sp|Clothes|sp|(0|h|4|sp|yrs)_Sleepsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1166,7 +1166,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Nursery|sp||as||sp|Home_Baby|sp|Monitors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1177,7 +1177,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Buggies|sp||as||sp|Travel_Prams|sp||as||sp|Pushchairs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1188,7 +1188,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Buggies|sp||as||sp|Travel_Buggies|sp|and|sp|Strollers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1199,7 +1199,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Buggies|sp||as||sp|Travel_Car|sp|Seats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1210,7 +1210,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Buggies|sp||as||sp|Travel_Baby|sp|Carriers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1221,7 +1221,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Toys|sp||as||sp|Gifts_Games|sp||as||sp|Puzzles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1232,7 +1232,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Toys|sp||as||sp|Gifts_Gifts|sp|for|sp|Kids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1243,7 +1243,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Toys|sp||as||sp|Gifts_LEGO"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1254,7 +1254,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Baby|sp||as||sp|Child_Toys|sp||as||sp|Gifts_World|sp|Book|sp|Day"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1265,7 +1265,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Offers|sp|(Selected|sp|Lines)_Women|sq|s|sp|Sports|sp|Clothing|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1276,7 +1276,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Offers|sp|(Selected|sp|Lines)_Men|sq|s|sp|Sports|sp|Clothing|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1287,7 +1287,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Offers|sp|(Selected|sp|Lines)_Travel|sp|Bags|sp||as||sp|Accessories|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1298,7 +1298,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Offers|sp|(Selected|sp|Lines)_Fitness|sp|Machines|sp|Offers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1309,7 +1309,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sportswear_Women|sq|s|sp|Sports|sp|Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1320,7 +1320,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sportswear_Men|sq|s|sp|Sports|sp|Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1331,7 +1331,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Fitness_Sports|sp|Equipment"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1342,7 +1342,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Fitness_Treadmills"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1353,7 +1353,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Fitness_Exercise|sp|Bikes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1364,7 +1364,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Fitness_Cross|sp|Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1375,7 +1375,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Fitness_Weights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1386,7 +1386,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Fitness_Smartwatches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1397,7 +1397,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Equipment|sp|by|sp|Sport_Cycling"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1408,7 +1408,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Equipment|sp|by|sp|Sport_Gym,|sp|Training|sp||as||sp|Fitness"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1419,7 +1419,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Equipment|sp|by|sp|Sport_Running"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1430,7 +1430,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Equipment|sp|by|sp|Sport_Swimming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1441,7 +1441,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Equipment|sp|by|sp|Sport_Yoga"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1452,7 +1452,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Hobbies|sp||as||sp|Crafts_Games|sp||as||sp|Puzzles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1463,7 +1463,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Hobbies|sp||as||sp|Crafts_Books"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1474,7 +1474,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Hobbies|sp||as||sp|Crafts_Sewing|sp|Machines"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1485,7 +1485,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Hobbies|sp||as||sp|Crafts_Wool|sp||as||sp|Yarn"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1496,7 +1496,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Travel|sp||as||sp|Luggage_View|sp|All|sp|Luggage"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1507,7 +1507,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Travel|sp||as||sp|Luggage_Backpacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1518,7 +1518,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Travel|sp||as||sp|Luggage_Cabin|sp|Cases"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1529,7 +1529,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Travel|sp||as||sp|Luggage_Suitcases"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1540,7 +1540,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Travel|sp||as||sp|Luggage_Holdalls|sp||as||sp|Weekend|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1551,7 +1551,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Travel|sp||as||sp|Luggage_Camping"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1562,7 +1562,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sports|sp|Brands_adidas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1573,7 +1573,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sports|sp|Brands_Sweaty|sp|Betty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1584,7 +1584,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sports|sp|Brands_The|sp|North|sp|Face"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1595,7 +1595,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sports|sp|Brands_Therabody"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1606,7 +1606,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sport|sp||as||sp|Leisure_Sports|sp|Brands_Under|sp|Armour"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1617,7 +1617,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Her"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1628,7 +1628,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Him"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1639,7 +1639,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Kids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1650,7 +1650,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Teenage|sp|Girls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1661,7 +1661,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Teenage|sp|Boys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1672,7 +1672,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Couples"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1683,7 +1683,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Grandparents"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1694,7 +1694,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Recipient_Gifts|sp|for|sp|Pets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1705,7 +1705,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|GBP20"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1716,7 +1716,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|GBP50"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1727,7 +1727,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|under|sp|GBP100"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1738,7 +1738,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Food|sp||as||sp|Drink_View|sp|All|sp|Gift|sp|Food|sp||as||sp|Drink"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1749,7 +1749,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Food|sp||as||sp|Drink_Hampers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1760,7 +1760,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Food|sp||as||sp|Drink_Chocolate"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1771,7 +1771,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Food|sp||as||sp|Drink_Alcohol"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1782,7 +1782,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Food|sp||as||sp|Drink_Gifts|sp|for|sp|Gin|sp|Lovers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1793,7 +1793,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Food|sp||as||sp|Drink_Cakes|sp||as||sp|Biscuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1804,7 +1804,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Food|sp||as||sp|Drink_Sweets|sp||as||sp|Fudge"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1815,7 +1815,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Popular|sp|Gifts_Beauty|sp||as||sp|Fragrance|sp|Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1826,7 +1826,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Popular|sp|Gifts_Games|sp||as||sp|Puzzles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1837,7 +1837,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Popular|sp|Gifts_Cooking|sp||as||sp|Baking"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1848,7 +1848,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Popular|sp|Gifts_Gardening"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1859,7 +1859,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Inspiration_Unusual|sp|Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1870,7 +1870,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Inspiration_Luxury|sp|Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1881,7 +1881,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Inspiration_Novelty|sp||as||sp|Gadget|sp|Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1892,7 +1892,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Inspiration_Techies"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1903,7 +1903,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Gift|sp|Inspiration_Gift|sp|Experiences"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1914,7 +1914,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Shop|sp|by|sp|Occasion_Birthday"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1925,7 +1925,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Shop|sp|by|sp|Occasion_New|sp|Home"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1936,7 +1936,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Gifts_Shop|sp|by|sp|Occasion_Anniversary"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1947,7 +1947,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Womenswear|sp|Offers|sp|(Selected|sp|Lines)_Dresses|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1958,7 +1958,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Womenswear|sp|Offers|sp|(Selected|sp|Lines)_Nightwear|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1969,7 +1969,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Womenswear|sp|Offers|sp|(Selected|sp|Lines)_Lingerie|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1980,7 +1980,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Womenswear|sp|Offers|sp|(Selected|sp|Lines)_Jumpers|sp||as||sp|Knitwear|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -1991,7 +1991,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Womenswear|sp|Offers|sp|(Selected|sp|Lines)_Coats|sp||as||sp|Jackets|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2002,7 +2002,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Womenswear|sp|Offers|sp|(Selected|sp|Lines)_Footwear|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2013,7 +2013,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Womenswear|sp|Offers|sp|(Selected|sp|Lines)_Womens|sp|Sports|sp|Clothing|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2024,7 +2024,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Menswear|sp|Offers|sp|(Selected|sp|Lines)_Coats|sp||as||sp|Jackets|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2035,7 +2035,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Menswear|sp|Offers|sp|(Selected|sp|Lines)_Jumpers|sp||as||sp|Cardigans|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2046,7 +2046,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Menswear|sp|Offers|sp|(Selected|sp|Lines)_Footwear|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2057,7 +2057,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Menswear|sp|Offers|sp|(Selected|sp|Lines)_Formalwear|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2068,7 +2068,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Menswear|sp|Offers|sp|(Selected|sp|Lines)_Accessories|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2079,7 +2079,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Menswear|sp|Offers|sp|(Selected|sp|Lines)_T|h|Shirts|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2090,7 +2090,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Menswear|sp|Offers|sp|(Selected|sp|Lines)_Mens|sp|Sports|sp|Clothing|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2101,7 +2101,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Home|sp|Offers|sp|(Selected|sp|Lines)_Lighting|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2112,7 +2112,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Home|sp|Offers|sp|(Selected|sp|Lines)_Mattresses|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2123,7 +2123,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Home|sp|Offers|sp|(Selected|sp|Lines)_Bedding|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2134,7 +2134,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Home|sp|Offers|sp|(Selected|sp|Lines)_Tableware|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2145,7 +2145,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Home|sp|Offers|sp|(Selected|sp|Lines)_Cushions|sp||as||sp|Throws|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2156,7 +2156,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Home|sp|Offers|sp|(Selected|sp|Lines)_Mirrors|sp||as||sp|Clocks|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2167,7 +2167,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_Girls|sp|Boots|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2178,7 +2178,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_Boys|sp|Boots|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2189,7 +2189,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_Babywear|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2200,7 +2200,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_Sleepsuits|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2211,7 +2211,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_Toys|cln||sp|20%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2222,7 +2222,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Baby|sp||as||sp|Child|sp|Offers|sp|(Selected|sp|Lines)_Nursery|cln||sp|15%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2233,7 +2233,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Electrical|sp|Offers|sp|(Selected|sp|Lines)_Televisions"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2244,7 +2244,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Electrical|sp|Offers|sp|(Selected|sp|Lines)_Computing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2255,7 +2255,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Electrical|sp|Offers|sp|(Selected|sp|Lines)_Headphones"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2266,7 +2266,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Electrical|sp|Offers|sp|(Selected|sp|Lines)_Laundry"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2277,7 +2277,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Electrical|sp|Offers|sp|(Selected|sp|Lines)_Cooking|sp|Appliances"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2288,7 +2288,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Electrical|sp|Offers|sp|(Selected|sp|Lines)_Mobile|sp|and|sp|Telephone"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2299,7 +2299,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Sale_Electrical|sp|Offers|sp|(Selected|sp|Lines)_Vacuum|sp|Cleaners"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2310,7 +2310,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_ANYDAY|sp|John|sp|Lewis|sp||as||sp|Partners"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2321,7 +2321,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Bosch"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2332,7 +2332,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_hush"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2343,7 +2343,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_John|sp|Lewis|sp||as||sp|Partners"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2354,7 +2354,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Joie|sp|Baby"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2365,7 +2365,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Joseph|sp|Joseph"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2376,7 +2376,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Le|sp|Creuset"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2387,7 +2387,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_LG"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2398,7 +2398,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Mango"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2409,7 +2409,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Panasonic"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2420,7 +2420,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Phase|sp|Eight"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2431,7 +2431,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Reiss"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2442,7 +2442,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Samsung"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2453,7 +2453,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Sony"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2464,7 +2464,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Ted|sp|Baker"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2475,7 +2475,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_west|sp|elm"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2486,7 +2486,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Popular|sp|Brands_Whistles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2497,7 +2497,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_New|sp|Brands_Charles|sp|Tyrwhitt"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2508,7 +2508,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_New|sp|Brands_Good|sp|American"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2519,7 +2519,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_New|sp|Brands_Lee"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2530,7 +2530,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_New|sp|Brands_Moss|sp|Bros."
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2541,7 +2541,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_New|sp|Brands_Paradox|sp|London"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2552,7 +2552,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_New|sp|Brands_Pocket|sp|Sport"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2563,7 +2563,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_New|sp|Brands_Wrangler"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2574,7 +2574,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Clarks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2585,7 +2585,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Gucci"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2596,7 +2596,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Jellycat"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2607,7 +2607,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Jon|sp|Richard"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2618,7 +2618,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Laura|sp|Ashley"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2629,7 +2629,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Mini|sp|Boden"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2640,7 +2640,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Seafolly"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2651,7 +2651,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Trending|sp|Brands_Sosandar"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2662,7 +2662,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Top|sp|Brand|sp|Offers_Mango|cln||sp|70%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2673,7 +2673,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Top|sp|Brand|sp|Offers_Ted|sp|Baker|cln||sp|60%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2684,7 +2684,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Top|sp|Brand|sp|Offers_Reiss|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2695,7 +2695,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Top|sp|Brand|sp|Offers_hush|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2706,7 +2706,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Top|sp|Brand|sp|Offers_Phase|sp|Eight|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2717,7 +2717,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Brands_Top|sp|Brand|sp|Offers_The|sp|North|sp|Face|cln||sp|50%|sp|off"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2728,7 +2728,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2739,7 +2739,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2750,7 +2750,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Jumpers|sp||as||sp|Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2761,7 +2761,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2772,7 +2772,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Jumpsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2783,7 +2783,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Shirts|sp||as||sp|Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2794,7 +2794,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2805,7 +2805,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2816,7 +2816,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Sports|sp|Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2827,7 +2827,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Swimwear|sp||as||sp|Beachwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2838,7 +2838,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_Trousers|sp||as||sp|Leggings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2849,7 +2849,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shop|sp|by|sp|Fit_Plus|sp|Size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2860,7 +2860,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shop|sp|by|sp|Fit_Petite"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2871,7 +2871,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shop|sp|by|sp|Fit_Maternity"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2882,7 +2882,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shop|sp|by|sp|Collection_Cashmere"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2893,7 +2893,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shop|sp|by|sp|Collection_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2904,7 +2904,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Lingerie,|sp|Nightwear|sp||as||sp|Hosiery_View|sp|all|sp|Lingerie"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2915,7 +2915,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Lingerie,|sp|Nightwear|sp||as||sp|Hosiery_Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2926,7 +2926,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Lingerie,|sp|Nightwear|sp||as||sp|Hosiery_Sports|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2937,7 +2937,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Lingerie,|sp|Nightwear|sp||as||sp|Hosiery_Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2948,7 +2948,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Lingerie,|sp|Nightwear|sp||as||sp|Hosiery_Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2959,7 +2959,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Lingerie,|sp|Nightwear|sp||as||sp|Hosiery_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2970,7 +2970,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Lingerie,|sp|Nightwear|sp||as||sp|Hosiery_Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2981,7 +2981,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_View|sp|all|sp|Footwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -2992,7 +2992,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_Ankle|sp|Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3003,7 +3003,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3014,7 +3014,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_Heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3025,7 +3025,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3036,7 +3036,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3047,7 +3047,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3058,7 +3058,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Footwear_Trainers|sp||as||sp|Plimsolls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3069,7 +3069,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_View|sp|all|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3080,7 +3080,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3091,7 +3091,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Purses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3102,7 +3102,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Hair|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3113,7 +3113,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Hats,|sp|Gloves|sp||as||sp|Scarves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3124,7 +3124,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3135,7 +3135,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Occasion|sp|Hats|sp||as||sp|Fascinators"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3146,7 +3146,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3157,7 +3157,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Belts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3168,7 +3168,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3179,7 +3179,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_hush"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3190,7 +3190,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_John|sp|Lewis|sp||as||sp|Partners"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3201,7 +3201,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_Whistles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3212,7 +3212,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3223,7 +3223,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3234,7 +3234,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3245,7 +3245,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Polo|sp|Shirts|sp||as||sp|Rugby|sp|Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3256,7 +3256,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3267,7 +3267,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3278,7 +3278,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Sports|sp|Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3289,7 +3289,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Sweatshirts|sp||as||sp|Hoodies"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3300,7 +3300,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3311,7 +3311,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3322,7 +3322,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_T|h|Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3333,7 +3333,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Suits|sp||as||sp|Formal_Blazers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3344,7 +3344,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Suits|sp||as||sp|Formal_Formal|sp|Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3355,7 +3355,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Suits|sp||as||sp|Formal_Suits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3366,7 +3366,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Suits|sp||as||sp|Formal_Formal|sp|Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3377,7 +3377,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Suits|sp||as||sp|Formal_Waistcoats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3388,7 +3388,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Nightwear,|sp|Underwear|sp||as||sp|Socks_Pyjamas|sp||as||sp|Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3399,7 +3399,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Nightwear,|sp|Underwear|sp||as||sp|Socks_Robes|sp||as||sp|Dressing|sp|Gowns"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3410,7 +3410,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Nightwear,|sp|Underwear|sp||as||sp|Socks_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3421,7 +3421,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Nightwear,|sp|Underwear|sp||as||sp|Socks_Underwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3432,7 +3432,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shop|sp|by|sp|Collection_Cashmere"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3443,7 +3443,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shop|sp|by|sp|Collection_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3454,7 +3454,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Fragrance|sp||as||sp|Grooming_Aftershave"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3465,7 +3465,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Fragrance|sp||as||sp|Grooming_Grooming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3476,7 +3476,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Footwear_View|sp|all|sp|Footwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3487,7 +3487,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Footwear_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3498,7 +3498,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Footwear_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3509,7 +3509,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Footwear_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3520,7 +3520,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Footwear_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3531,7 +3531,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Footwear_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3542,7 +3542,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Footwear_Walking|sp|Boots|sp||as||sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3553,7 +3553,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_View|sp|all|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3564,7 +3564,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3575,7 +3575,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_Belts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3586,7 +3586,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_Hats,|sp|Gloves|sp||as||sp|Scarves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3597,7 +3597,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3608,7 +3608,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3619,7 +3619,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_Wallets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3630,7 +3630,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3641,7 +3641,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_Barbour"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",
@@ -3652,7 +3652,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_John|sp|Lewis|sp||as||sp|Partners"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "John Lewis",
     "parsing_config": "./retailer_config/johnlewiscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/John_Lewis/",

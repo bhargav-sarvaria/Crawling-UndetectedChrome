@@ -1,6 +1,6 @@
 [
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -11,7 +11,7 @@
     "file_name": "Australia_Myer_New_All|sp|New_All|sp|New"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -22,7 +22,7 @@
     "file_name": "Australia_Myer_New_Home_Home"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -33,7 +33,7 @@
     "file_name": "Australia_Myer_New_Toys_Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -44,7 +44,7 @@
     "file_name": "Australia_Myer_New_Women_Women"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -55,7 +55,7 @@
     "file_name": "Australia_Myer_New_Women_New|sp|Clothing"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -66,7 +66,7 @@
     "file_name": "Australia_Myer_New_Women_New|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -77,7 +77,7 @@
     "file_name": "Australia_Myer_New_Women_New|sp|Lingerie|sp||as||sp|Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -88,7 +88,7 @@
     "file_name": "Australia_Myer_New_Women_New|sp|Bags|sp||as||sp|Wallets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -99,7 +99,7 @@
     "file_name": "Australia_Myer_New_Women_New|sp|Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -110,7 +110,7 @@
     "file_name": "Australia_Myer_New_Women_New|sp|Accessories|sp||as||sp|Watches"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -121,7 +121,7 @@
     "file_name": "Australia_Myer_New_Men_Men"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -132,7 +132,7 @@
     "file_name": "Australia_Myer_New_Men_New|sp|Clothing"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -143,7 +143,7 @@
     "file_name": "Australia_Myer_New_Men_New|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -154,7 +154,7 @@
     "file_name": "Australia_Myer_New_Men_New|sp|Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -165,7 +165,7 @@
     "file_name": "Australia_Myer_New_Men_New|sp|Accessories|sp||as||sp|Watches"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -176,7 +176,7 @@
     "file_name": "Australia_Myer_New_Men_New|sp|Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -187,7 +187,7 @@
     "file_name": "Australia_Myer_New_Men_New|sp|Suiting"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -198,7 +198,7 @@
     "file_name": "Australia_Myer_New_Men_New|sp|Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -209,7 +209,7 @@
     "file_name": "Australia_Myer_New_Beauty_Beauty"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -220,7 +220,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Skincare"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -231,7 +231,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Perfume"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -242,7 +242,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Makeup"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -253,7 +253,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Candles|sp||as||sp|Home|sp|Fragrance"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -264,7 +264,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -275,7 +275,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Men|sq|s|sp|Grooming"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -286,7 +286,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Bath|sp||as||sp|Body"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -297,7 +297,7 @@
     "file_name": "Australia_Myer_New_Beauty_New|sp|Hair|sp|Care"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -308,7 +308,7 @@
     "file_name": "Australia_Myer_New_Sport_Sport"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -319,7 +319,7 @@
     "file_name": "Australia_Myer_New_Sport_New|sp|Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -330,7 +330,7 @@
     "file_name": "Australia_Myer_New_Sport_New|sp|Fitness|sp||as||sp|Gym|sp|Equipment"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -341,7 +341,7 @@
     "file_name": "Australia_Myer_New_Sport_New|sp|Recovery|sp||as||sp|Wellness"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -352,7 +352,7 @@
     "file_name": "Australia_Myer_New_Sport_New|sp|Fan|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -363,7 +363,7 @@
     "file_name": "Australia_Myer_New_Sport_New|sp|Bikes|sp||as||sp|Scooters"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -374,7 +374,7 @@
     "file_name": "Australia_Myer_New_Sport_New|sp|Sport|sp||as||sp|Play"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -385,7 +385,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_Kids|sp||as||sp|Baby"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -396,7 +396,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Babywear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -407,7 +407,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Girlswear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -418,7 +418,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Boyswear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -429,7 +429,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -440,7 +440,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Nursery"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -451,7 +451,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -462,7 +462,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -473,7 +473,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -484,7 +484,7 @@
     "file_name": "Australia_Myer_New_Kids|sp||as||sp|Baby_New|sp|Carriers|sp||as||sp|Prams"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -495,7 +495,7 @@
     "file_name": "Australia_Myer_Women_Curve_Curve"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -506,7 +506,7 @@
     "file_name": "Australia_Myer_Women_Petite|sp|Size_Petite|sp|Size"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -517,7 +517,7 @@
     "file_name": "Australia_Myer_Women_Maternity_Maternity"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -528,7 +528,7 @@
     "file_name": "Australia_Myer_Women_Now|sp|Trending_Now|sp|Trending"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -539,7 +539,7 @@
     "file_name": "Australia_Myer_Women_Multi|h|Buy|sp|Offers_Multi|h|Buy|sp|Offers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -550,7 +550,7 @@
     "file_name": "Australia_Myer_Women_Top|sp|Brands_Top|sp|Brands"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -561,7 +561,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Clothing"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -572,7 +572,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Dresses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -583,7 +583,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Tops"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -594,7 +594,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Jeans|sp||as||sp|Denim"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -605,7 +605,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -616,7 +616,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Pants"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -627,7 +627,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Skirts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -638,7 +638,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Shorts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -649,7 +649,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Jumpsuits|sp||as||sp|Playsuits"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -660,7 +660,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -671,7 +671,7 @@
     "file_name": "Australia_Myer_Women_Clothing_Knitwear|sp||as||sp|Sweat|sp|Tops"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -682,7 +682,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -693,7 +693,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Sneakers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -704,7 +704,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Sandals|sp||as||sp|Thongs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -715,7 +715,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Heels|sp||as||sp|Pumps"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -726,7 +726,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Flats"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -737,7 +737,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Boots"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -748,7 +748,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Comfort|sp||as||sp|Wide|sp|Fit|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -759,7 +759,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Bridal|sp||as||sp|Evening|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -770,7 +770,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Slippers|sp||as||sp|Ugg|sp|Boots"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -781,7 +781,7 @@
     "file_name": "Australia_Myer_Women_Shoes_Shoe|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -792,7 +792,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Lingerie|sp||as||sp|Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -803,7 +803,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Bras"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -814,7 +814,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Briefs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -825,7 +825,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Sleepwear|sp||as||sp|Robes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -836,7 +836,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Shapewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -847,7 +847,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Hosiery|sp||as||sp|Socks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -858,7 +858,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Camisoles|sp||as||sp|Slips"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -869,7 +869,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Lingerie|sp|Sets|sp||as||sp|Bodysuits"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -880,7 +880,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Thermals"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -891,7 +891,7 @@
     "file_name": "Australia_Myer_Women_Lingerie|sp||as||sp|Sleepwear_Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -902,7 +902,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Bags|sp||as||sp|Wallets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -913,7 +913,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Cross|sp|Body|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -924,7 +924,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Tote|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -935,7 +935,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Shoulder|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -946,7 +946,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Wallets|sp||as||sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -957,7 +957,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Clutches"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -968,7 +968,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Backpacks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -979,7 +979,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Satchels"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -990,7 +990,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Laptop|sp||as||sp|Business|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1001,7 +1001,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Weekender|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1012,7 +1012,7 @@
     "file_name": "Australia_Myer_Women_Bags|sp||as||sp|Wallets_Belt|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1023,7 +1023,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Accessories|sp||as||sp|Watches"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1034,7 +1034,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Watches|sp||as||sp|Jewellery"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1045,7 +1045,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Sunglasses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1056,7 +1056,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Hats"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1067,7 +1067,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Fascinators|sp||as||sp|Hair|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1078,7 +1078,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Scarves,|sp|Gloves|sp||as||sp|Wraps"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1089,7 +1089,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Belts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1100,7 +1100,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Face|sp|Masks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1111,7 +1111,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Umbrellas"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1122,7 +1122,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Phone|sp|Cases|sp||as||sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1133,7 +1133,7 @@
     "file_name": "Australia_Myer_Women_Accessories|sp||as||sp|Watches_Reading|sp|Glasses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1144,7 +1144,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1155,7 +1155,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Activewear|sp|Tops"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1166,7 +1166,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Activewear|sp|Bottoms"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1177,7 +1177,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Activewear|sp|Crop|sp|Tops|sp||as||sp|Sports|sp|Bras"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1188,7 +1188,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Activewear|sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1199,7 +1199,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1210,7 +1210,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Activewear|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1221,7 +1221,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Loungewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1232,7 +1232,7 @@
     "file_name": "Australia_Myer_Women_Activewear_Performance|sp|Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1243,7 +1243,7 @@
     "file_name": "Australia_Myer_Men_Sleepwear_Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1254,7 +1254,7 @@
     "file_name": "Australia_Myer_Men_Streetwear_Streetwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1265,7 +1265,7 @@
     "file_name": "Australia_Myer_Men_Big|sp||as||sp|Tall_Big|sp||as||sp|Tall"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1276,7 +1276,7 @@
     "file_name": "Australia_Myer_Men_Men|sq|s|sp|Grooming|sp||as||sp|Cologne_Men|sq|s|sp|Grooming|sp||as||sp|Cologne"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1287,7 +1287,7 @@
     "file_name": "Australia_Myer_Men_Multi|h|Buy|sp|Offers_Multi|h|Buy|sp|Offers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1298,7 +1298,7 @@
     "file_name": "Australia_Myer_Men_Now|sp|Trending_Now|sp|Trending"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1309,7 +1309,7 @@
     "file_name": "Australia_Myer_Men_Top|sp|Brands_Top|sp|Brands"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1320,7 +1320,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Clothing"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1331,7 +1331,7 @@
     "file_name": "Australia_Myer_Men_Clothing_T|h|Shirts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1342,7 +1342,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Polos"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1353,7 +1353,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Casual|sp|Shirts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1364,7 +1364,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Shorts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1375,7 +1375,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Jeans|sp||as||sp|Denim"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1386,7 +1386,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1397,7 +1397,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Pants|sp||as||sp|Chinos"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1408,7 +1408,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Knitwear|sp||as||sp|Sweats"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1419,7 +1419,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Singlets|sp||as||sp|Tanks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1430,7 +1430,7 @@
     "file_name": "Australia_Myer_Men_Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1441,7 +1441,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1452,7 +1452,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Sneakers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1463,7 +1463,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Boots"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1474,7 +1474,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Business|sp||as||sp|Dress|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1485,7 +1485,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Loafers|sp||as||sp|Slip|sp|Ons"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1496,7 +1496,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Boat|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1507,7 +1507,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Sandals|sp||as||sp|Thongs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1518,7 +1518,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Casual"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1529,7 +1529,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Slippers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1540,7 +1540,7 @@
     "file_name": "Australia_Myer_Men_Shoes_Shoe|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1551,7 +1551,7 @@
     "file_name": "Australia_Myer_Men_Underwear|sp||as||sp|Socks_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1562,7 +1562,7 @@
     "file_name": "Australia_Myer_Men_Underwear|sp||as||sp|Socks_Underwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1573,7 +1573,7 @@
     "file_name": "Australia_Myer_Men_Underwear|sp||as||sp|Socks_Socks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1584,7 +1584,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1595,7 +1595,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Wallets|sp||as||sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1606,7 +1606,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Watches"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1617,7 +1617,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Face|sp|Masks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1628,7 +1628,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Sunglasses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1639,7 +1639,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Belts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1650,7 +1650,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Hats,|sp|Scarves|sp||as||sp|Gloves"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1661,7 +1661,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Gift|sp|Packs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1672,7 +1672,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Jewellery|sp||as||sp|Cufflinks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1683,7 +1683,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Ties,|sp|Pocket|sp|Squares|sp||as||sp|Handkerchiefs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1694,7 +1694,7 @@
     "file_name": "Australia_Myer_Men_Accessories_Reading|sp|Glasses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1705,7 +1705,7 @@
     "file_name": "Australia_Myer_Men_Suiting|sp||as||sp|Occasionwear_Suiting|sp||as||sp|Occasionwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1716,7 +1716,7 @@
     "file_name": "Australia_Myer_Men_Suiting|sp||as||sp|Occasionwear_Business|sp||as||sp|Formal|sp|Shirts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1727,7 +1727,7 @@
     "file_name": "Australia_Myer_Men_Suiting|sp||as||sp|Occasionwear_Suit|sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1738,7 +1738,7 @@
     "file_name": "Australia_Myer_Men_Suiting|sp||as||sp|Occasionwear_Suit|sp|Trousers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1749,7 +1749,7 @@
     "file_name": "Australia_Myer_Men_Suiting|sp||as||sp|Occasionwear_Suit|sp|Vests"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1760,7 +1760,7 @@
     "file_name": "Australia_Myer_Men_Suiting|sp||as||sp|Occasionwear_Ties|sp||as||sp|Pocket|sp|Squares"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1771,7 +1771,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1782,7 +1782,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Activewear|sp|Tops"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1793,7 +1793,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Activewear|sp|Bottoms"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1804,7 +1804,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Activewear|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1815,7 +1815,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1826,7 +1826,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Activewear|sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1837,7 +1837,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Loungewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1848,7 +1848,7 @@
     "file_name": "Australia_Myer_Men_Activewear_Performance|sp|Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1859,7 +1859,7 @@
     "file_name": "Australia_Myer_Beauty_Men|sq|s|sp|Grooming|sp||as||sp|Cologne_Men|sq|s|sp|Grooming|sp||as||sp|Cologne"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1870,7 +1870,7 @@
     "file_name": "Australia_Myer_Beauty_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1881,7 +1881,7 @@
     "file_name": "Australia_Myer_Beauty_Hair|sp|Care_Hair|sp|Care"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1892,7 +1892,7 @@
     "file_name": "Australia_Myer_Beauty_Best|sp|Sellers_Best|sp|Sellers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1903,7 +1903,7 @@
     "file_name": "Australia_Myer_Beauty_Now|sp|Trending_Now|sp|Trending"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1914,7 +1914,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Top|sp|Brands"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1925,7 +1925,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_CHANEL"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1936,7 +1936,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Aesop"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1947,7 +1947,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Benefit"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1958,7 +1958,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Clarins"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1969,7 +1969,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Clinique"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1980,7 +1980,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_DIOR"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -1991,7 +1991,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Estee|sp|Lauder"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2002,7 +2002,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Giorgio|sp|Armani"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2013,7 +2013,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Jo|sp|Malone|sp|London"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2024,7 +2024,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Lancome"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2035,7 +2035,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_GUCCI"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2046,7 +2046,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_TOM|sp|FORD"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2057,7 +2057,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_Yves|sp|Saint|sp|Laurent"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2068,7 +2068,7 @@
     "file_name": "Australia_Myer_Beauty_Top|sp|Brands_"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2079,7 +2079,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Skincare"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2090,7 +2090,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Serums|sp||as||sp|Treatments"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2101,7 +2101,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Moisturiser"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2112,7 +2112,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Eye|sp|Creams"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2123,7 +2123,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Face|sp|Masks|sp||as||sp|Peels"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2134,7 +2134,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Cleansers|sp||as||sp|Makeup|sp|Removers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2145,7 +2145,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Toners|sp||as||sp|Face|sp|Mist"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2156,7 +2156,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Skincare|sp|Tools"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2167,7 +2167,7 @@
     "file_name": "Australia_Myer_Beauty_Skincare_Beauty|sp|Supplements"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2178,7 +2178,7 @@
     "file_name": "Australia_Myer_Beauty_Perfume_Perfume"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2189,7 +2189,7 @@
     "file_name": "Australia_Myer_Beauty_Perfume_Women|sq|s|sp|Perfume"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2200,7 +2200,7 @@
     "file_name": "Australia_Myer_Beauty_Perfume_Men|sq|s|sp|Cologne|sp||as||sp|Aftershave"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2211,7 +2211,7 @@
     "file_name": "Australia_Myer_Beauty_Perfume_Libertine|sp|Parfumerie"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2222,7 +2222,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Makeup"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2233,7 +2233,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Lips"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2244,7 +2244,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Face"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2255,7 +2255,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Eyes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2266,7 +2266,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Eyebrows"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2277,7 +2277,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Nails"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2288,7 +2288,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Brushes,|sp|Bags|sp||as||sp|Tools"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2299,7 +2299,7 @@
     "file_name": "Australia_Myer_Beauty_Makeup_Palettes|sp||as||sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2310,7 +2310,7 @@
     "file_name": "Australia_Myer_Beauty_Candles|sp||as||sp|Home|sp|Fragrance_Candles|sp||as||sp|Home|sp|Fragrance"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2321,7 +2321,7 @@
     "file_name": "Australia_Myer_Beauty_Candles|sp||as||sp|Home|sp|Fragrance_Candles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2332,7 +2332,7 @@
     "file_name": "Australia_Myer_Beauty_Candles|sp||as||sp|Home|sp|Fragrance_Aromatherapy"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2343,7 +2343,7 @@
     "file_name": "Australia_Myer_Beauty_Candles|sp||as||sp|Home|sp|Fragrance_Room|sp|Sprays"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2354,7 +2354,7 @@
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2365,7 +2365,7 @@
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Women|sq|s|sp|Fragrance|sp|Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2376,7 +2376,7 @@
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Men|sq|s|sp|Grooming|sp||as||sp|Fragrance|sp|Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2387,7 +2387,7 @@
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Skincare|sp|Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2398,7 +2398,7 @@
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Make|sp|Up|sp|Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2409,7 +2409,7 @@
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Candles|sp||as||sp|Home|sp|Fragrance|sp|Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2420,7 +2420,7 @@
     "file_name": "Australia_Myer_Beauty_Gift|sp|Sets_Bath|sp||as||sp|Body|sp|Gift|sp|Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2431,7 +2431,7 @@
     "file_name": "Australia_Myer_Home_Bathroom_Bathroom"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2442,7 +2442,7 @@
     "file_name": "Australia_Myer_Home_Outdoor_Outdoor"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2453,7 +2453,7 @@
     "file_name": "Australia_Myer_Home_Furniture_Furniture"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2464,7 +2464,7 @@
     "file_name": "Australia_Myer_Home_Books,|sp|Stationery|sp||as||sp|Gifting_Books,|sp|Stationery|sp||as||sp|Gifting"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2475,7 +2475,7 @@
     "file_name": "Australia_Myer_Home_Food|sp||as||sp|Hampers_Food|sp||as||sp|Hampers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2486,7 +2486,7 @@
     "file_name": "Australia_Myer_Home_Pets_Pets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2497,7 +2497,7 @@
     "file_name": "Australia_Myer_Home_Luggage|sp||as||sp|Travel|sp|Goods_Luggage|sp||as||sp|Travel|sp|Goods"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2508,7 +2508,7 @@
     "file_name": "Australia_Myer_Home_Now|sp|Trending_Now|sp|Trending"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2519,7 +2519,7 @@
     "file_name": "Australia_Myer_Home_Top|sp|Brands_Top|sp|Brands"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2530,7 +2530,7 @@
     "file_name": "Australia_Myer_Home_Appliances_Appliances"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2541,7 +2541,7 @@
     "file_name": "Australia_Myer_Home_Appliances_Kitchen|sp|Appliances"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2552,7 +2552,7 @@
     "file_name": "Australia_Myer_Home_Appliances_Personal|sp|Care|sp|Appliances"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2563,7 +2563,7 @@
     "file_name": "Australia_Myer_Home_Appliances_Household|sp|Appliances"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2574,7 +2574,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Bedroom"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2585,7 +2585,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Quilt|sp|Covers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2596,7 +2596,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Sheets|sp||as||sp|Pillowcases"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2607,7 +2607,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Quilts|sp||as||sp|Pillows"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2618,7 +2618,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Bed|sp|Covers|sp||as||sp|Coverlets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2629,7 +2629,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Blankets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2640,7 +2640,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Cushions|sp||as||sp|Throws"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2651,7 +2651,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Mattress|sp|Protectors|sp||as||sp|Toppers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2662,7 +2662,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Kids|sp|Bedding"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2673,7 +2673,7 @@
     "file_name": "Australia_Myer_Home_Bedroom_Beds|sp||as||sp|Mattresses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2684,7 +2684,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Kitchen"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2695,7 +2695,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Cookware"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2706,7 +2706,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Knives|sp||as||sp|Chopping|sp|Boards"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2717,7 +2717,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Utensils|sp||as||sp|Tools"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2728,7 +2728,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Kitchen|sp|Storage|sp|Containers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2739,7 +2739,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Baking"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2750,7 +2750,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Tea|sp||as||sp|Coffee|sp|Making"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2761,7 +2761,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Travel|sp|Mugs|sp||as||sp|Drink|sp|Bottles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2772,7 +2772,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Kitchen|sp|Textiles|sp||as||sp|Cleaning"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2783,7 +2783,7 @@
     "file_name": "Australia_Myer_Home_Kitchen_Lunchboxes|sp||as||sp|Lunch|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2794,7 +2794,7 @@
     "file_name": "Australia_Myer_Home_Dining_Dining"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2805,7 +2805,7 @@
     "file_name": "Australia_Myer_Home_Dining_Dinnerware"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2816,7 +2816,7 @@
     "file_name": "Australia_Myer_Home_Dining_Serveware"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2827,7 +2827,7 @@
     "file_name": "Australia_Myer_Home_Dining_Glassware"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2838,7 +2838,7 @@
     "file_name": "Australia_Myer_Home_Dining_Cutlery"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2849,7 +2849,7 @@
     "file_name": "Australia_Myer_Home_Dining_Barware"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2860,7 +2860,7 @@
     "file_name": "Australia_Myer_Home_Dining_Cups|sp||as||sp|Mugs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2871,7 +2871,7 @@
     "file_name": "Australia_Myer_Home_Dining_Table|sp|Linen|sp||as||sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2882,7 +2882,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Home|sp|Decor"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2893,7 +2893,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Photo|sp|Frames|sp||as||sp|Albums"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2904,7 +2904,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Candles|sp||as||sp|Home|sp|Fragrance"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2915,7 +2915,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Botanicals,|sp|Artificial|sp|Flowers|sp||as||sp|Planters"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2926,7 +2926,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Vases|sp||as||sp|Planters"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2937,7 +2937,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Cushions|sp||as||sp|Throws"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2948,7 +2948,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Baskets|sp||as||sp|Storage"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2959,7 +2959,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Wall|sp|Art,|sp|Mirrors|sp||as||sp|Clocks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2970,7 +2970,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Lighting"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2981,7 +2981,7 @@
     "file_name": "Australia_Myer_Home_Home|sp|Decor_Rugs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -2992,7 +2992,7 @@
     "file_name": "Australia_Myer_Home_Electronics_Electronics"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3003,7 +3003,7 @@
     "file_name": "Australia_Myer_Home_Electronics_Headphones,|sp|Speakers|sp||as||sp|Sound|sp|Bars"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3014,7 +3014,7 @@
     "file_name": "Australia_Myer_Home_Electronics_TVs|sp||as||sp|Media|sp|Players"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3025,7 +3025,7 @@
     "file_name": "Australia_Myer_Home_Electronics_Computer|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3036,7 +3036,7 @@
     "file_name": "Australia_Myer_Home_Electronics_Phone|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3047,7 +3047,7 @@
     "file_name": "Australia_Myer_Home_Electronics_Smart|sp|Home"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3058,7 +3058,7 @@
     "file_name": "Australia_Myer_Home_Electronics_Cameras"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3069,7 +3069,7 @@
     "file_name": "Australia_Myer_Sport_All|sp|Sport_All|sp|Sport"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3080,7 +3080,7 @@
     "file_name": "Australia_Myer_Sport_Fan|sp|Gear_Fan|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3091,7 +3091,7 @@
     "file_name": "Australia_Myer_Sport_Bikes|sp||as||sp|Scooters_Bikes|sp||as||sp|Scooters"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3102,7 +3102,7 @@
     "file_name": "Australia_Myer_Sport_Sport|sp||as||sp|Play_Sport|sp||as||sp|Play"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3113,7 +3113,7 @@
     "file_name": "Australia_Myer_Sport_Top|sp|Brands_Top|sp|Brands"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3124,7 +3124,7 @@
     "file_name": "Australia_Myer_Sport_Top|sp|Brands_Fitbit"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3135,7 +3135,7 @@
     "file_name": "Australia_Myer_Sport_Activewear_Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3146,7 +3146,7 @@
     "file_name": "Australia_Myer_Sport_Activewear_Womens|sp|Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3157,7 +3157,7 @@
     "file_name": "Australia_Myer_Sport_Activewear_Mens|sp|Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3168,7 +3168,7 @@
     "file_name": "Australia_Myer_Sport_Activewear_Kids|sp|Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3179,7 +3179,7 @@
     "file_name": "Australia_Myer_Sport_Activewear_Active|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3190,7 +3190,7 @@
     "file_name": "Australia_Myer_Sport_Active|sp|Accessories_Active|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3201,7 +3201,7 @@
     "file_name": "Australia_Myer_Sport_Active|sp|Accessories_Headphones"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3212,7 +3212,7 @@
     "file_name": "Australia_Myer_Sport_Active|sp|Accessories_Wearables|sp||as||sp|Trackers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3223,7 +3223,7 @@
     "file_name": "Australia_Myer_Sport_Active|sp|Accessories_Sunglasses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3234,7 +3234,7 @@
     "file_name": "Australia_Myer_Sport_Active|sp|Accessories_Injury|sp|Support"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3245,7 +3245,7 @@
     "file_name": "Australia_Myer_Sport_Active|sp|Accessories_Drink|sp|Bottles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3256,7 +3256,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Fitness|sp||as||sp|Gym|sp|Equipment"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3267,7 +3267,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Exercise|sp|Bikes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3278,7 +3278,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Elliptical|sp|Trainers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3289,7 +3289,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Rowing|sp|Machines"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3300,7 +3300,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Treadmills"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3311,7 +3311,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Weights"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3322,7 +3322,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Yoga|sp||as||sp|Pilates|sp|Equipment"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3333,7 +3333,7 @@
     "file_name": "Australia_Myer_Sport_Fitness|sp||as||sp|Gym|sp|Equipment_Fitness|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3344,7 +3344,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Shop|sp|By|sp|Activity"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3355,7 +3355,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Running|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3366,7 +3366,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Outdoor|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3377,7 +3377,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Swimming|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3388,7 +3388,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Cycling|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3399,7 +3399,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Yoga|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3410,7 +3410,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Football|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3421,7 +3421,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Tennis|sp|Gear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3432,7 +3432,7 @@
     "file_name": "Australia_Myer_Sport_Shop|sp|By|sp|Activity_Loungewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3443,7 +3443,7 @@
     "file_name": "Australia_Myer_Sport_Recovery|sp||as||sp|Wellness_Recovery|sp||as||sp|Wellness"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3454,7 +3454,7 @@
     "file_name": "Australia_Myer_Sport_Recovery|sp||as||sp|Wellness_Massage|sp||as||sp|Therapy|sp|Devices"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3465,7 +3465,7 @@
     "file_name": "Australia_Myer_Kids_Shoes_Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3476,7 +3476,7 @@
     "file_name": "Australia_Myer_Kids_Tween|sp|(8|h|16|sp|years)_Tween|sp|(8|h|16|sp|years)"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3487,7 +3487,7 @@
     "file_name": "Australia_Myer_Kids_Activewear_Activewear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3498,7 +3498,7 @@
     "file_name": "Australia_Myer_Kids_Sleepwear_Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3509,7 +3509,7 @@
     "file_name": "Australia_Myer_Kids_Swim|sp||as||sp|Beach_Swim|sp||as||sp|Beach"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3520,7 +3520,7 @@
     "file_name": "Australia_Myer_Kids_Special|sp|Occasion_Special|sp|Occasion"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3531,7 +3531,7 @@
     "file_name": "Australia_Myer_Kids_Multi|h|Buy|sp|Offers_Multi|h|Buy|sp|Offers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3542,7 +3542,7 @@
     "file_name": "Australia_Myer_Kids_Now|sp|Trending_Now|sp|Trending"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3553,7 +3553,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Babywear|sp|(0|h|2|sp|years)"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3564,7 +3564,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Coveralls|sp||as||sp|Rompers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3575,7 +3575,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Dresses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3586,7 +3586,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Sets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3597,7 +3597,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Shirts|sp||as||sp|T|h|Shirts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3608,7 +3608,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Bottoms"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3619,7 +3619,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Baby|sp|Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3630,7 +3630,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Baby|sp|Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3641,7 +3641,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Baby|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3652,7 +3652,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Knitwear|sp||as||sp|Sweat|sp|Tops"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3663,7 +3663,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3674,7 +3674,7 @@
     "file_name": "Australia_Myer_Kids_Babywear|sp|(0|h|2|sp|years)_Underwear,|sp|Socks|sp||as||sp|Tights"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3685,7 +3685,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|(3|h|16|sp|years)"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3696,7 +3696,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Dresses|sp||as||sp|Playsuits"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3707,7 +3707,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Tops|sp||as||sp|T|h|Shirts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3718,7 +3718,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Skirts|sp||as||sp|Shorts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3729,7 +3729,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3740,7 +3740,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3751,7 +3751,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Girls|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3762,7 +3762,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Knitwear|sp||as||sp|Sweat|sp|Tops"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3773,7 +3773,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3784,7 +3784,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Pants"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3795,7 +3795,7 @@
     "file_name": "Australia_Myer_Kids_Girls|sp|(3|h|16|sp|years)_Underwear,|sp|Socks|sp||as||sp|Tights"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3806,7 +3806,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|(3|h|16|sp|years)"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3817,7 +3817,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_T|h|Shirts|sp||as||sp|Polos"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3828,7 +3828,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Shorts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3839,7 +3839,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Shirts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3850,7 +3850,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|Sleepwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3861,7 +3861,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|Swimwear"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3872,7 +3872,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Boys|sp|Shoes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3883,7 +3883,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Pants"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3894,7 +3894,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Knitwear|sp||as||sp|Sweat|sp|Tops"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3905,7 +3905,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3916,7 +3916,7 @@
     "file_name": "Australia_Myer_Kids_Boys|sp|(3|h|16|sp|years)_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3927,7 +3927,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3938,7 +3938,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Beanies|sp||as||sp|Hats"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3949,7 +3949,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3960,7 +3960,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Hair|sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3971,7 +3971,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Lunchboxes|sp||as||sp|Drink|sp|Bottles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3982,7 +3982,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Jewellery|sp||as||sp|Watches"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -3993,7 +3993,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Sunglasses"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4004,7 +4004,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Belts|sp||as||sp|Ties"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4015,7 +4015,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Stationery"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4026,7 +4026,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Umbrellas"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4037,7 +4037,7 @@
     "file_name": "Australia_Myer_Kids_Accessories_Scarves|sp||as||sp|Gloves"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4048,7 +4048,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Nursery"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4059,7 +4059,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Bedding|sp||as||sp|Swaddles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4070,7 +4070,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Feeding|sp||as||sp|Weaning"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4081,7 +4081,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Bathing|sp||as||sp|Changing"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4092,7 +4092,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Nappy|sp|Bags"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4103,7 +4103,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Baby|sp|Monitors"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4114,7 +4114,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Nursery|sp|Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4125,7 +4125,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Gift|sp|Packs"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4136,7 +4136,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Furniture"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4147,7 +4147,7 @@
     "file_name": "Australia_Myer_Kids_Nursery_Carriers|sp||as||sp|Prams"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4158,7 +4158,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Top|sp|Brands"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4169,7 +4169,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Milkshake"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4180,7 +4180,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Sprout"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4191,7 +4191,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Tilii"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4202,7 +4202,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Indie|sp|Kids|sp|by|sp|Industrie"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4213,7 +4213,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Jack|sp||as||sp|Milly"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4224,7 +4224,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Bauhaus"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4235,7 +4235,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Bonds"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4246,7 +4246,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Adidas"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4257,7 +4257,7 @@
     "file_name": "Australia_Myer_Kids_Top|sp|Brands_Champion"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4268,7 +4268,7 @@
     "file_name": "Australia_Myer_Toys_Action|sp|Figures_Action|sp|Figures"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4279,7 +4279,7 @@
     "file_name": "Australia_Myer_Toys_Games|sp||as||sp|Puzzles_Games|sp||as||sp|Puzzles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4290,7 +4290,7 @@
     "file_name": "Australia_Myer_Toys_Kids|sp|Party|sp||as||sp|Costumes_Kids|sp|Party|sp||as||sp|Costumes"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4301,7 +4301,7 @@
     "file_name": "Australia_Myer_Toys_Kids|sp|Books_Kids|sp|Books"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4312,7 +4312,7 @@
     "file_name": "Australia_Myer_Toys_Music|sp||as||sp|Sound_Music|sp||as||sp|Sound"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4323,7 +4323,7 @@
     "file_name": "Australia_Myer_Toys_Top|sp|Brands_Top|sp|Brands"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4334,7 +4334,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4345,7 +4345,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Adult|sp|Collector"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4356,7 +4356,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Technic"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4367,7 +4367,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Creator"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4378,7 +4378,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Star|sp|Wars"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4389,7 +4389,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|City"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4400,7 +4400,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Duplo"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4411,7 +4411,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Friends"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4422,7 +4422,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Classic"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4433,7 +4433,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Disney"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4444,7 +4444,7 @@
     "file_name": "Australia_Myer_Toys_LEGO_LEGO|sp|Super|sp|Mario"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4455,7 +4455,7 @@
     "file_name": "Australia_Myer_Toys_Arts,|sp|Crafts|sp||as||sp|Educational|sp|Toys_Arts,|sp|Crafts|sp||as||sp|Educational|sp|Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4466,7 +4466,7 @@
     "file_name": "Australia_Myer_Toys_Arts,|sp|Crafts|sp||as||sp|Educational|sp|Toys_Science|sp||as||sp|Learning"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4477,7 +4477,7 @@
     "file_name": "Australia_Myer_Toys_Arts,|sp|Crafts|sp||as||sp|Educational|sp|Toys_Craft|sp|Kits"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4488,7 +4488,7 @@
     "file_name": "Australia_Myer_Toys_Arts,|sp|Crafts|sp||as||sp|Educational|sp|Toys_Drawing|sp||as||sp|Colouring"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4499,7 +4499,7 @@
     "file_name": "Australia_Myer_Toys_Dolls|sp||as||sp|Collectables_Dolls|sp||as||sp|Collectables"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4510,7 +4510,7 @@
     "file_name": "Australia_Myer_Toys_Dolls|sp||as||sp|Collectables_Playsets|sp||as||sp|Accessories"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4521,7 +4521,7 @@
     "file_name": "Australia_Myer_Toys_Dolls|sp||as||sp|Collectables_Miniature|sp|Dolls|sp||as||sp|Collectables"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4532,7 +4532,7 @@
     "file_name": "Australia_Myer_Toys_Dolls|sp||as||sp|Collectables_Fashion|sp|Dolls"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4543,7 +4543,7 @@
     "file_name": "Australia_Myer_Toys_Dolls|sp||as||sp|Collectables_Baby|sp|Dolls"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4554,7 +4554,7 @@
     "file_name": "Australia_Myer_Toys_Dolls|sp||as||sp|Collectables_Animal|sp|Dolls"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4565,7 +4565,7 @@
     "file_name": "Australia_Myer_Toys_Vehicles|sp||as||sp|Remote|sp|Control|sp|Toys_Vehicles|sp||as||sp|Remote|sp|Control|sp|Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4576,7 +4576,7 @@
     "file_name": "Australia_Myer_Toys_Vehicles|sp||as||sp|Remote|sp|Control|sp|Toys_Toy|sp|Cars"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4587,7 +4587,7 @@
     "file_name": "Australia_Myer_Toys_Vehicles|sp||as||sp|Remote|sp|Control|sp|Toys_Toy|sp|Trucks"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4598,7 +4598,7 @@
     "file_name": "Australia_Myer_Toys_Vehicles|sp||as||sp|Remote|sp|Control|sp|Toys_Toy|sp|Trains"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4609,7 +4609,7 @@
     "file_name": "Australia_Myer_Toys_Vehicles|sp||as||sp|Remote|sp|Control|sp|Toys_Ride|sp|Ons|sp||as||sp|Wagons"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4620,7 +4620,7 @@
     "file_name": "Australia_Myer_Toys_Outdoor|sp|Play|sp||as||sp|Activity_Outdoor|sp|Play|sp||as||sp|Activity"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4631,7 +4631,7 @@
     "file_name": "Australia_Myer_Toys_Outdoor|sp|Play|sp||as||sp|Activity_Toy|sp|Blasters"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4642,7 +4642,7 @@
     "file_name": "Australia_Myer_Toys_Outdoor|sp|Play|sp||as||sp|Activity_Outdoor|sp|Games"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4653,7 +4653,7 @@
     "file_name": "Australia_Myer_Toys_Outdoor|sp|Play|sp||as||sp|Activity_Trampolines"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4664,7 +4664,7 @@
     "file_name": "Australia_Myer_Toys_Outdoor|sp|Play|sp||as||sp|Activity_Ride|sp|Ons|sp||as||sp|Wagons"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4675,7 +4675,7 @@
     "file_name": "Australia_Myer_Toys_Outdoor|sp|Play|sp||as||sp|Activity_Water|sp|Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4686,7 +4686,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4697,7 +4697,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Soft|sp||as||sp|Plush|sp|Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4708,7 +4708,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Baby|sp|Bouncers|sp||as||sp|Play|sp|Mats"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4719,7 +4719,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Soft|sp|Toys|sp||as||sp|Rattles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4730,7 +4730,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Play|sp||as||sp|Activity"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4741,7 +4741,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Vehicles"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4752,7 +4752,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Interactive|sp|Learning"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4763,7 +4763,7 @@
     "file_name": "Australia_Myer_Toys_Baby,|sp|Pre|h|School|sp||as||sp|Soft|sp|Toys_Nursery|sp|Toys"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4774,7 +4774,7 @@
     "file_name": "Australia_Myer_Gifts_Personalised|sp|Gifts_Personalised|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4785,7 +4785,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|by|sp|Interest_Gifts|sp|by|sp|Interest"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4796,7 +4796,7 @@
     "file_name": "Australia_Myer_Gifts_Food|sp||as||sp|Hampers_Food|sp||as||sp|Hampers"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4807,7 +4807,7 @@
     "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_Easter|sp|Eggs|sp||as||sp|Chocolate"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4818,7 +4818,7 @@
     "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_Easter|sp|Home|sp|Decor"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4829,7 +4829,7 @@
     "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_Easter|sp|Tableware"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4840,7 +4840,7 @@
     "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_Easter|sp|Kitchen"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4851,7 +4851,7 @@
     "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_Easter|sp|for|sp|Kids"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4862,7 +4862,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|by|sp|Price_Gifts|sp|by|sp|Price"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4873,7 +4873,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Gifts|sp|for|sp|Him"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4884,7 +4884,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Accessories|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4895,7 +4895,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Cologne|sp||as||sp|Grooming|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4906,7 +4906,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Home|sp||as||sp|Tech|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4917,7 +4917,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Toys|sp||as||sp|Novelty|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4928,7 +4928,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Eating|sp||as||sp|Drinking|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4939,7 +4939,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Underwear,|sp|Sleepwear|sp||as||sp|Socks|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4950,7 +4950,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Him_Health|sp||as||sp|Wellness|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4961,7 +4961,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Gifts|sp|for|sp|Her"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4972,7 +4972,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Perfume|sp||as||sp|Beauty|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4983,7 +4983,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Lingerie|sp||as||sp|Sleepwear|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -4994,7 +4994,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Health|sp||as||sp|Wellness|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5005,7 +5005,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Home|sp||as||sp|Tech|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5016,7 +5016,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Watches|sp||as||sp|Accessories|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5027,7 +5027,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Candles|sp||as||sp|Home|sp|Fragrance|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5038,7 +5038,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Her_Handbags|sp||as||sp|Wallets|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5049,7 +5049,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Gifts|sp|for|sp|Kids"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5060,7 +5060,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Toy|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5071,7 +5071,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Girls|sp|(3|h|16|sp|years)|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5082,7 +5082,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Boys|sp|(3|h|16|sp|years)|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5093,7 +5093,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Baby|sp|(0|h|2|sp|years)|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5104,7 +5104,7 @@
     "file_name": "Australia_Myer_Gifts_Gifts|sp|for|sp|Kids_Nursery|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5115,7 +5115,7 @@
     "file_name": "Australia_Myer_Gifts_Special|sp|Events_Special|sp|Events"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5126,7 +5126,7 @@
     "file_name": "Australia_Myer_Gifts_Special|sp|Events_Wedding|sp||as||sp|Engagement|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
@@ -5137,7 +5137,7 @@
     "file_name": "Australia_Myer_Gifts_Special|sp|Events_Baby|sp|Gifts"
   },
   {
-    "country": "Australia",
+    "country": "AU",
     "retailer": "Myer",
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",

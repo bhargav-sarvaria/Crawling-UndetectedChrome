@@ -1,6 +1,6 @@
 [
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -11,7 +11,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP_MAKEUP"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -22,7 +22,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -33,7 +33,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BROWS|sp|BEAUTY|sp|GUIDE_BROWS|sp|BEAUTY|sp|GUIDE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -44,7 +44,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_CUTICLE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -55,7 +55,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Foundation"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -66,7 +66,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Concealer|sp|and|sp|Defect|sp|Correction|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -77,7 +77,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Base|sp|and|sp|Primer"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -88,7 +88,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Bronzer"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -99,7 +99,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Powder"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -110,7 +110,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Powder|sp|for|sp|matte|sp|effect"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -121,7 +121,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_BB|sp||as||sp|CC|sp|cream"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -132,7 +132,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Rouge"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -143,7 +143,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Highlighter"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -154,7 +154,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Palette|sp|for|sp|the|sp|face"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -165,7 +165,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Contour"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -176,7 +176,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_CUTICLE_Cream|sp|with|sp|color"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -187,7 +187,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_MAKEUP|sp|SET"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -198,7 +198,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_Makeup|sp|kit"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -209,7 +209,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_Lip|sp|kit"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -220,7 +220,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|SET_Eye|sp|set"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -231,7 +231,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_EYES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -242,7 +242,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Palette|sp|for|sp|the|sp|eyes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -253,7 +253,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Mascara"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -264,7 +264,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Shadows"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -275,7 +275,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Eyeliner"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -286,7 +286,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Eyeliner"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -297,7 +297,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Base"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -308,7 +308,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYES_Eyelashes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -319,7 +319,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYEBROWS_EYEBROWS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -330,7 +330,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYEBROWS_Eyebrow|sp|pencil|sp|and|sp|powder"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -341,7 +341,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYEBROWS_Eyebrow|sp|Gel|sp|and|sp|Mascara"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -352,7 +352,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_EYEBROWS_Eyebrow|sp|care|sp|kit"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -363,7 +363,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_LIPS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -374,7 +374,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lipstick"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -385,7 +385,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Gloss"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -396,7 +396,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lip|sp|balm"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -407,7 +407,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lip|sp|pencil"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -418,7 +418,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_LIPS_Lip|sp|balms"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -429,7 +429,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKE|h|UP|sp|REMOVER_MAKE|h|UP|sp|REMOVER"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -440,7 +440,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKE|h|UP|sp|REMOVER_Facial|sp|make|h|up|sp|remover|sp|product"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -451,7 +451,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_PALLETS_PALLETS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -462,7 +462,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_PALLETS_Palette|sp|for|sp|the|sp|eyes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -473,7 +473,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_PALLETS_Palette|sp|for|sp|the|sp|face"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -484,7 +484,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_PALLETS_Makeup|sp|set"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -495,7 +495,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_PALLETS_Contour|sp|palette"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -506,7 +506,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_NAILS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -517,7 +517,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Nail|sp|polish"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -528,7 +528,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Manicure"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -539,7 +539,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Main|sp|tint|sp|and|sp|base|sp|tint"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -550,7 +550,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_NAILS_Acetone"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -561,7 +561,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BRUSHES|sp|AND|sp|SPONGES_BRUSHES|sp|AND|sp|SPONGES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -572,7 +572,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BRUSHES|sp|AND|sp|SPONGES_Set|sp|of|sp|makeup|sp|brushes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -583,7 +583,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BRUSHES|sp|AND|sp|SPONGES_Face|sp|brushes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -594,7 +594,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BRUSHES|sp|AND|sp|SPONGES_Sponges|sp|and|sp|Applicators"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -605,7 +605,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BRUSHES|sp|AND|sp|SPONGES_Eye|sp|brushes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -616,7 +616,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BRUSHES|sp|AND|sp|SPONGES_Eyebrow|sp|brush"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -627,7 +627,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_BRUSHES|sp|AND|sp|SPONGES_Cleaning|sp|brushes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -638,7 +638,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_MAKEUP|sp|ACCESSORIES_MAKEUP|sp|ACCESSORIES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -649,7 +649,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_SEPHORA|sp|MAKEUP|sp|COLLECTION_SEPHORA|sp|MAKEUP|sp|COLLECTION"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -660,7 +660,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_GOOD|sp|FOR|sp|MAKEUP_GOOD|sp|FOR|sp|MAKEUP"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -671,7 +671,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_GOOD|sp|FOR|sp|MAKEUP_Natural|sp|Makeup"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -682,7 +682,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_GOOD|sp|FOR|sp|MAKEUP_Vegan|sp|Makeup|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -693,7 +693,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_GOOD|sp|FOR|sp|MAKEUP_Eco|h|responsible|sp|Makeup"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -704,7 +704,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_TRAVEL|sp|SIZES_TRAVEL|sp|SIZES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -715,7 +715,7 @@
     "file_name": "Greece_Sephora_GR_MAKEUP_VIEW|sp|ALL_VIEW|sp|ALL"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -726,7 +726,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_PERFUMES_PERFUMES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -737,7 +737,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -748,7 +748,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_PERFUME|sp|SET_PERFUME|sp|SET"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -759,7 +759,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_PERFUME|sp|SET_Women|sq|s|sp|Set"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -770,7 +770,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_PERFUME|sp|SET_Men"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -781,7 +781,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_WOMEN"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -792,7 +792,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Eau|sp|de|sp|Parfum"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -803,7 +803,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Eau|sp|de|sp|Toilette"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -814,7 +814,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Bathroom|sp||as||sp|House"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -825,7 +825,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Fragrance|sp|Essence"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -836,7 +836,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_WOMEN_Mist|sp|hair"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -847,7 +847,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_MEN"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -858,7 +858,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Eau|sp|de|sp|Toilette"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -869,7 +869,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Eau|sp|de|sp|Parfum"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -880,7 +880,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Cologne"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -891,7 +891,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Deodorant"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -902,7 +902,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Bath|sp|and|sp|Shower"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -913,7 +913,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MEN_Shaving|sp|and|sp|After|sp|Shave|sp|Care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -924,7 +924,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_UNISEX|sp|PERFUMES_UNISEX|sp|PERFUMES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -935,7 +935,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_SMELL|sp|NOTES_SMELL|sp|NOTES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -946,7 +946,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_SMELL|sp|NOTES_Floral"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -957,7 +957,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_SMELL|sp|NOTES_Spicy"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -968,7 +968,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_SMELL|sp|NOTES_Woody"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -979,7 +979,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_SMELL|sp|NOTES_Fresh"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -990,7 +990,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_MINI|sp|PERFUMES_MINI|sp|PERFUMES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1001,7 +1001,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_GOOD|sp|FOR|sp|PERFUMES_GOOD|sp|FOR|sp|PERFUMES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1012,7 +1012,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_GOOD|sp|FOR|sp|PERFUMES_Natural|sp|Fragrances"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1023,7 +1023,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_GOOD|sp|FOR|sp|PERFUMES_Vegan|sp|Perfumes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1034,7 +1034,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_GOOD|sp|FOR|sp|PERFUMES_Eco|h|responsible|sp|Perfumes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1045,7 +1045,7 @@
     "file_name": "Greece_Sephora_GR_PERFUMES_VIEW|sp|ALL_VIEW|sp|ALL"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1056,7 +1056,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACE_FACE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1067,7 +1067,7 @@
     "file_name": "Greece_Sephora_GR_FACE_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1078,7 +1078,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_TYPE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1089,7 +1089,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Day|sp|cream"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1100,7 +1100,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Night|sp|cream"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1111,7 +1111,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Serum|sp||as||sp|face|sp|oils"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1122,7 +1122,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Eye|sp|cream"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1133,7 +1133,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Facial|sp|Scrub|sp||as||sp|Exfoliation"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1144,7 +1144,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Targeted|sp|care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1155,7 +1155,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Lip|sp|care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1166,7 +1166,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TYPE_Eyelash|sp|and|sp|eyebrow|sp|care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1177,7 +1177,7 @@
     "file_name": "Greece_Sephora_GR_FACE_CLEANING|sp||as||sp|MAKE|h|UP|sp|REMOVAL_CLEANING|sp||as||sp|MAKE|h|UP|sp|REMOVAL"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1188,7 +1188,7 @@
     "file_name": "Greece_Sephora_GR_FACE_CLEANING|sp||as||sp|MAKE|h|UP|sp|REMOVAL_Tonic|sp|lotion"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1199,7 +1199,7 @@
     "file_name": "Greece_Sephora_GR_FACE_CLEANING|sp||as||sp|MAKE|h|UP|sp|REMOVAL_Make|h|up|sp|remover|sp|lotion"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1210,7 +1210,7 @@
     "file_name": "Greece_Sephora_GR_FACE_CLEANING|sp||as||sp|MAKE|h|UP|sp|REMOVAL_Micellar|sp|Water"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1221,7 +1221,7 @@
     "file_name": "Greece_Sephora_GR_FACE_CLEANING|sp||as||sp|MAKE|h|UP|sp|REMOVAL_Eye|sp|make|h|up|sp|remover"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1232,7 +1232,7 @@
     "file_name": "Greece_Sephora_GR_FACE_MASKS_MASKS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1243,7 +1243,7 @@
     "file_name": "Greece_Sephora_GR_FACE_MASKS_Face"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1254,7 +1254,7 @@
     "file_name": "Greece_Sephora_GR_FACE_MASKS_Masks"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1265,7 +1265,7 @@
     "file_name": "Greece_Sephora_GR_FACE_SET_SET"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1276,7 +1276,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACE|sp|CARE|sp|ACCESSORIES_FACE|sp|CARE|sp|ACCESSORIES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1287,7 +1287,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_PURCHASE|sp|BASED|sp|ON|sp|NEED"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1298,7 +1298,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Anti|h|aging"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1309,7 +1309,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Hydration"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1320,7 +1320,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Matte|sp|effect"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1331,7 +1331,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Acne|sp|and|sp|Imperfections"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1342,7 +1342,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Redness"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1353,7 +1353,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Sensitive|sp|skin"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1364,7 +1364,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Tightening|sp||as||sp|Straightening"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1375,7 +1375,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Dark|sp|spots"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1386,7 +1386,7 @@
     "file_name": "Greece_Sephora_GR_FACE_PURCHASE|sp|BASED|sp|ON|sp|NEED_Blur"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1397,7 +1397,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACIAL|sp|TREATMENT|sp|FOR|sp|MEN_FACIAL|sp|TREATMENT|sp|FOR|sp|MEN"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1408,7 +1408,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACIAL|sp|TREATMENT|sp|FOR|sp|MEN_Product|sp|set"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1419,7 +1419,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACIAL|sp|TREATMENT|sp|FOR|sp|MEN_Anti|h|aging"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1430,7 +1430,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACIAL|sp|TREATMENT|sp|FOR|sp|MEN_Hydration|sp|products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1441,7 +1441,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACIAL|sp|TREATMENT|sp|FOR|sp|MEN_Eye|sp|cream|sp|for|sp|dark|sp|circles"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1452,7 +1452,7 @@
     "file_name": "Greece_Sephora_GR_FACE_FACIAL|sp|TREATMENT|sp|FOR|sp|MEN_Cleaners|sp||as||sp|Scrub"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1463,7 +1463,7 @@
     "file_name": "Greece_Sephora_GR_FACE_SHAVING_SHAVING"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1474,7 +1474,7 @@
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_SUN|sp|PROTECTION"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1485,7 +1485,7 @@
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_Sunscreen"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1496,7 +1496,7 @@
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_Self|sp|Tanning|sp|of|sp|the|sp|face"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1507,7 +1507,7 @@
     "file_name": "Greece_Sephora_GR_FACE_SUN|sp|PROTECTION_After|sp|Sun."
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1518,7 +1518,7 @@
     "file_name": "Greece_Sephora_GR_FACE_SEPHORA|sp|COLLECTION|sp|FACIAL|sp|PRODUCTS_SEPHORA|sp|COLLECTION|sp|FACIAL|sp|PRODUCTS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1529,7 +1529,7 @@
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_GOOD|sp|FOR|sp|SKINCARE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1540,7 +1540,7 @@
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_Natural|sp|products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1551,7 +1551,7 @@
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_Vegan|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1562,7 +1562,7 @@
     "file_name": "Greece_Sephora_GR_FACE_GOOD|sp|FOR|sp|SKINCARE_Eco|h|responsible|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1573,7 +1573,7 @@
     "file_name": "Greece_Sephora_GR_FACE_TRAVEL|sp|SIZES_TRAVEL|sp|SIZES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1584,7 +1584,7 @@
     "file_name": "Greece_Sephora_GR_FACE_VIEW|sp|ALL_VIEW|sp|ALL"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1595,7 +1595,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY_BODY"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1606,7 +1606,7 @@
     "file_name": "Greece_Sephora_GR_BODY_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1617,7 +1617,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp||as||sp|BATHROOM_BODY|sp||as||sp|BATHROOM"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1628,7 +1628,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1639,7 +1639,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Lotion"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1650,7 +1650,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Scrub|sp|and|sp|Exfoliation"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1661,7 +1661,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Hand|sp|care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1672,7 +1672,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Milk"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1683,7 +1683,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Deodorant"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1694,7 +1694,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Body|sp|Mist"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1705,7 +1705,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Pedicure"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1716,7 +1716,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Moisturizing|sp|oil"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1727,7 +1727,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Neck|sp|care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1738,7 +1738,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|CARE_Tired|sp|foot|sp|treatment"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1749,7 +1749,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BATH|sp|AND|sp|SHOWER_BATH|sp|AND|sp|SHOWER"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1760,7 +1760,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BATH|sp|AND|sp|SHOWER_Bubble|sp|bath"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1771,7 +1771,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BATH|sp|AND|sp|SHOWER_Salts,|sp|Pearls|sp|and|sp|Aromatic|sp|cubes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1782,7 +1782,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BATH|sp|AND|sp|SHOWER_Soap"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1793,7 +1793,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BATH|sp|AND|sp|SHOWER_Bath|sp|oil"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1804,7 +1804,7 @@
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_MEN|sq|S|sp|BODY|sp|CARE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1815,7 +1815,7 @@
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_Deodorant"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1826,7 +1826,7 @@
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_Shower|sp|gel|sp|and|sp|Soap"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1837,7 +1837,7 @@
     "file_name": "Greece_Sephora_GR_BODY_MEN|sq|S|sp|BODY|sp|CARE_Moisturizing|sp|care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1848,7 +1848,7 @@
     "file_name": "Greece_Sephora_GR_BODY_PURCHASE|sp|BASED|sp|ON|sp|NEED_PURCHASE|sp|BASED|sp|ON|sp|NEED"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1859,7 +1859,7 @@
     "file_name": "Greece_Sephora_GR_BODY_PURCHASE|sp|BASED|sp|ON|sp|NEED_Tightening|sp||as||sp|Slimming"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1870,7 +1870,7 @@
     "file_name": "Greece_Sephora_GR_BODY_PURCHASE|sp|BASED|sp|ON|sp|NEED_Stretch|sp|marks"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1881,7 +1881,7 @@
     "file_name": "Greece_Sephora_GR_BODY_PURCHASE|sp|BASED|sp|ON|sp|NEED_Hydration"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1892,7 +1892,7 @@
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_WELLNESS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1903,7 +1903,7 @@
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_Sextoys"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1914,7 +1914,7 @@
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_Lubricants"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1925,7 +1925,7 @@
     "file_name": "Greece_Sephora_GR_BODY_WELLNESS_"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1936,7 +1936,7 @@
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_SUN|sp|PROTECTION"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1947,7 +1947,7 @@
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_Body|sp|self|h|tanning|sp|product"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1958,7 +1958,7 @@
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_Body|sp|sunscreen"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1969,7 +1969,7 @@
     "file_name": "Greece_Sephora_GR_BODY_SUN|sp|PROTECTION_After|sp|Sun|sp|Body|sp|Care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1980,7 +1980,7 @@
     "file_name": "Greece_Sephora_GR_BODY_BODY|sp|ACCESSORIES_BODY|sp|ACCESSORIES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -1991,7 +1991,7 @@
     "file_name": "Greece_Sephora_GR_BODY_ORAL|sp|HYGIENE_ORAL|sp|HYGIENE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2002,7 +2002,7 @@
     "file_name": "Greece_Sephora_GR_BODY_HOME_HOME"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2013,7 +2013,7 @@
     "file_name": "Greece_Sephora_GR_BODY_SEPHORA|sp|COLLECTION|sp|BODY|sp||as||sp|BATH|sp|PRODUCTS_SEPHORA|sp|COLLECTION|sp|BODY|sp||as||sp|BATH|sp|PRODUCTS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2024,7 +2024,7 @@
     "file_name": "Greece_Sephora_GR_BODY_GOOD|sp|FOR|sp|BODY|sp|CARE_GOOD|sp|FOR|sp|BODY|sp|CARE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2035,7 +2035,7 @@
     "file_name": "Greece_Sephora_GR_BODY_GOOD|sp|FOR|sp|BODY|sp|CARE_Physical|sp|Body|sp|Care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2046,7 +2046,7 @@
     "file_name": "Greece_Sephora_GR_BODY_GOOD|sp|FOR|sp|BODY|sp|CARE_Vegan|sp|Body|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2057,7 +2057,7 @@
     "file_name": "Greece_Sephora_GR_BODY_GOOD|sp|FOR|sp|BODY|sp|CARE_Eco|h|responsible|sp|Body|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2068,7 +2068,7 @@
     "file_name": "Greece_Sephora_GR_BODY_TRAVEL|sp|SIZES_TRAVEL|sp|SIZES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2079,7 +2079,7 @@
     "file_name": "Greece_Sephora_GR_BODY_VIEW|sp|ALL_VIEW|sp|ALL"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2090,7 +2090,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_HAIR"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2101,7 +2101,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2112,7 +2112,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_SHAMPOO|sp||as||sp|CONDITIONER"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2123,7 +2123,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Shampoo"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2134,7 +2134,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Conditioner"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2145,7 +2145,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Hair|sp|mask"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2156,7 +2156,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Leave|h|in|sp|Conditioner"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2167,7 +2167,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Hair|sp|Oil"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2178,7 +2178,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Dyed|sp|hair"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2189,7 +2189,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Dry|sp|Shampoo"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2200,7 +2200,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SHAMPOO|sp||as||sp|CONDITIONER_Mist|sp|hair"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2211,7 +2211,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_HAIR|sp|ACCESSORIES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2222,7 +2222,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Hair|sp|accessories"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2233,7 +2233,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Brushes|sp|and|sp|combs"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2244,7 +2244,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Curling|sp|irons|sp|and|sp|styling|sp|products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2255,7 +2255,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|ACCESSORIES_Shower|sp|Cap|sp||as||sp|Towel"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2266,7 +2266,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_STYLING|sp||as||sp|TREATMENT_STYLING|sp||as||sp|TREATMENT"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2277,7 +2277,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_STYLING|sp||as||sp|TREATMENT_Hair|sp|spray"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2288,7 +2288,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_STYLING|sp||as||sp|TREATMENT_Cream"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2299,7 +2299,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_STYLING|sp||as||sp|TREATMENT_Candle"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2310,7 +2310,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_PURCHASE|sp|BASED|sp|ON|sp|NEED"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2321,7 +2321,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Against|sp|dilution"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2332,7 +2332,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Dryness"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2343,7 +2343,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Volume|sp|Enhancement"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2354,7 +2354,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Scalp"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2365,7 +2365,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Sun|sp|protection"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2376,7 +2376,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Frizz"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2387,7 +2387,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Soothing|sp|action"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2398,7 +2398,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Dryness|sp||fs||sp|Dandruff"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2409,7 +2409,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PURCHASE|sp|BASED|sp|ON|sp|NEED_Dyed|sp|hair"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2420,7 +2420,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_HAIR|sp|TYPE"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2431,7 +2431,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Split|sp||as||sp|Curly"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2442,7 +2442,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Dry|sp||as||sp|Distressed"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2453,7 +2453,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Painted|sp|or|sp|with|sp|Highlights"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2464,7 +2464,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Minutes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2475,7 +2475,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_White|sp||fs||sp|Mature|sp|Hair"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2486,7 +2486,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Normally"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2497,7 +2497,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Fat|sp||fs||sp|Mixed"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2508,7 +2508,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR|sp|TYPE_Dull|sp|Hair"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2519,7 +2519,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_PRODUCT|sp|SET|sp||fs||sp|MINIS_PRODUCT|sp|SET|sp||fs||sp|MINIS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2530,7 +2530,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_HAIR"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2541,7 +2541,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Shampoo"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2552,7 +2552,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Styling|sp|and|sp|Shaping"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2563,7 +2563,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Hair|sq|s|sp|caring"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2574,7 +2574,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_HAIR_Hair|sp|thickening|sp|powder"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2585,7 +2585,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_GOOD|sp|FOR|sp|HAIR|sp|PRODUCTS_GOOD|sp|FOR|sp|HAIR|sp|PRODUCTS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2596,7 +2596,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_GOOD|sp|FOR|sp|HAIR|sp|PRODUCTS_Natural|sp|Hair|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2607,7 +2607,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_GOOD|sp|FOR|sp|HAIR|sp|PRODUCTS_Vegan|sp|Hair|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2618,7 +2618,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_SEPHORA|sp|COLLECTION|sp|HAIR|sp|PRODUCTS_SEPHORA|sp|COLLECTION|sp|HAIR|sp|PRODUCTS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2629,7 +2629,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_TRAVEL|sp|SIZES_TRAVEL|sp|SIZES"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2640,7 +2640,7 @@
     "file_name": "Greece_Sephora_GR_HAIR_VIEW|sp|ALL_VIEW|sp|ALL"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2651,7 +2651,7 @@
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2662,7 +2662,7 @@
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Lip|sp|Products_Lip|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2673,7 +2673,7 @@
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Mesh|sp|Products_Mesh|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2684,7 +2684,7 @@
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Complexion_Complexion"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2695,7 +2695,7 @@
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Sephora|sp|Collection|sp|Serums_Sephora|sp|Collection|sp|Serums"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2706,7 +2706,7 @@
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Masks_Masks"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2717,7 +2717,7 @@
     "file_name": "Greece_Sephora_GR_SEPHORA|sp|COLLECTION_Face|sp|Cleansing|sp||as||sp|Make|h|up|sp|Remover_Face|sp|Cleansing|sp||as||sp|Make|h|up|sp|Remover"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2728,7 +2728,7 @@
     "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS_NEW|sp|ARRIVALS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2739,7 +2739,7 @@
     "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_New|sp|Arrivals|sp|in|sp|makeup_New|sp|Arrivals|sp|in|sp|makeup"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2750,7 +2750,7 @@
     "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_New|sp|Arrivals|sp|of|sp|Perfumes_New|sp|Arrivals|sp|of|sp|Perfumes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2761,7 +2761,7 @@
     "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_New|sp|Arrivals|sp|in|sp|face|sp|care_New|sp|Arrivals|sp|in|sp|face|sp|care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2772,7 +2772,7 @@
     "file_name": "Greece_Sephora_GR_NEW|sp|ARRIVALS_New|sp|Arrivals|sp|in|sp|hair|sp|products_New|sp|Arrivals|sp|in|sp|hair|sp|products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2783,7 +2783,7 @@
     "file_name": "Greece_Sephora_GR_GIFTS_GIFTS_GIFTS"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2794,7 +2794,7 @@
     "file_name": "Greece_Sephora_GR_GIFTS_Gift|sp|sets|sp|of|sp|perfumes_Gift|sp|sets|sp|of|sp|perfumes"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2805,7 +2805,7 @@
     "file_name": "Greece_Sephora_GR_GIFTS_Gift|sp|sets|sp|Makeup_Gift|sp|sets|sp|Makeup"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2816,7 +2816,7 @@
     "file_name": "Greece_Sephora_GR_GIFTS_Gift|sp|sets|sp|Care_Gift|sp|sets|sp|Care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2827,7 +2827,7 @@
     "file_name": "Greece_Sephora_GR_GIFTS_Gift|sp|sets|sp|Body|sp||as||sp|Bath|sp|Care_Gift|sp|sets|sp|Body|sp||as||sp|Bath|sp|Care"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2838,7 +2838,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_GOOD|sp|FOR_GOOD|sp|FOR"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2849,7 +2849,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Natural|sp|Makeup_Natural|sp|Makeup"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2860,7 +2860,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Vegan|sp|Makeup|sp|Products_Vegan|sp|Makeup|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2871,7 +2871,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Eco|h|responsible|sp|Makeup_Eco|h|responsible|sp|Makeup"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2882,7 +2882,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Natural|sp|products_Natural|sp|products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2893,7 +2893,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Vegan|sp|Products_Vegan|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2904,7 +2904,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Eco|h|responsible|sp|Products_Eco|h|responsible|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",
@@ -2915,7 +2915,7 @@
     "file_name": "Greece_Sephora_GR_GOOD|sp|FOR_Natural|sp|Hair|sp|Products_Natural|sp|Hair|sp|Products"
   },
   {
-    "country": "Greece",
+    "country": "GR",
     "retailer": "Sephora_GR",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Greece/Sephora_GR/",

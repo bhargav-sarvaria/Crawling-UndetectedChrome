@@ -1,6 +1,6 @@
 [
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -11,7 +11,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -22,7 +22,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_NEWS_NEWS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -33,7 +33,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_EYES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -44,7 +44,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_palettes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -55,7 +55,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_eyelash|sp|mask"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -66,7 +66,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_shadows"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -77,7 +77,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_eyeliner"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -88,7 +88,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_Eye|sp|pencil"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -99,7 +99,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_primer"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -110,7 +110,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYES_false|sp|eyelashes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -121,7 +121,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_COMPLEXION"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -132,7 +132,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_Basis"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -143,7 +143,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_Concealer|sp||as||sp|Brokers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -154,7 +154,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_Blush"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -165,7 +165,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_primer"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -176,7 +176,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_illuminators"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -187,7 +187,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_suntan|sp|lotion"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -198,7 +198,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_BB|sp|Cream|sp||as||sp|CC|sp|Cream"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -209,7 +209,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_Mattifying|sp|Powder"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -220,7 +220,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_loose|sp|powder"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -231,7 +231,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_palettes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -242,7 +242,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_contouring"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -253,7 +253,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_COMPLEXION_Fixing|sp|Sprays|sp||as||sp|Powders"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -264,7 +264,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKEUP|sp|SET_MAKEUP|sp|SET"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -275,7 +275,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKEUP|sp|SET_Makeup|sp|Kit"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -286,7 +286,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_LIPS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -297,7 +297,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_eyeliners"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -308,7 +308,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_lipsticks"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -319,7 +319,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_balms"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -330,7 +330,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_LIPS_Gloss"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -341,7 +341,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYEBROWS_EYEBROWS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -352,7 +352,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYEBROWS_Masks|sp||as||sp|Gels"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -363,7 +363,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYEBROWS_pencil|sp||as||sp|powder"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -374,7 +374,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_EYEBROWS_Kits|sp||as||sp|Palettes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -385,7 +385,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_KITS|sp||as||sp|PALETTES_KITS|sp||as||sp|PALETTES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -396,7 +396,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_KITS|sp||as||sp|PALETTES_Contour|sp|Palettes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -407,7 +407,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_KITS|sp||as||sp|PALETTES_complexion"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -418,7 +418,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BRUSHES|sp|AND|sp|SPONGE_BRUSHES|sp|AND|sp|SPONGE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -429,7 +429,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BRUSHES|sp|AND|sp|SPONGE_Cleaning"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -440,7 +440,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BRUSHES|sp|AND|sp|SPONGE_complexion|sp|brushes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -451,7 +451,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BRUSHES|sp|AND|sp|SPONGE_face|sp|cleaning"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -462,7 +462,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BRUSHES|sp|AND|sp|SPONGE_eye|sp|brushes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -473,7 +473,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_MAKE|h|UP|sp|REMOVERS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -484,7 +484,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_face|sp|make|h|up|sp|removers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -495,7 +495,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_Make|h|up|sp|Remover|sp|Oil"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -506,7 +506,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKE|h|UP|sp|REMOVERS_Make|h|up|sp|Remover|sp|Milk"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -517,7 +517,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_MAKEUP|sp|MINIS_MAKEUP|sp|MINIS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -528,7 +528,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_SEPHORA|sp|COLLECTION|sp|MAKEUP_SEPHORA|sp|COLLECTION|sp|MAKEUP"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -539,7 +539,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_GOOD|sp|FOR|sp|MAKEUP_GOOD|sp|FOR|sp|MAKEUP"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -550,7 +550,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_GOOD|sp|FOR|sp|MAKEUP_Natural|sp|Makeup"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -561,7 +561,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_GOOD|sp|FOR|sp|MAKEUP_Vegan|sp|Makeup"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -572,7 +572,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_NAILS_NAILS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -583,7 +583,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BEAUTY|sp|IDEAS_BEAUTY|sp|IDEAS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -594,7 +594,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BEAUTY|sp|IDEAS_Find|sp|your|sp|mascara"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -605,7 +605,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BEAUTY|sp|IDEAS_memorable|sp|palettes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -616,7 +616,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_BEAUTY|sp|IDEAS_eyebrow|sp|beauty|sp|guide"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -627,7 +627,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_ARTISTIC|sp|MAKEUP_ARTISTIC|sp|MAKEUP"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -638,7 +638,7 @@
     "file_name": "Portugal_Sephora_PT_MAKE|h|UP_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -649,7 +649,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TREATMENT_TREATMENT"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -660,7 +660,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_NEWS_NEWS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -671,7 +671,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_TYPE|sp|OF|sp|TREATMENT"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -682,7 +682,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Be|sp|a"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -693,7 +693,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_day|sp|cream"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -704,7 +704,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Eyes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -715,7 +715,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Exfoliating|sp||as||sp|Peeling"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -726,7 +726,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_night|sp|cream"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -737,7 +737,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Lips"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -748,7 +748,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_eyelashes|sp|and|sp|eyebrows"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -759,7 +759,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|TREATMENT_Neckline|sp|and|sp|Neck"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -770,7 +770,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TREATMENT|sp|KITS_TREATMENT|sp|KITS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -781,7 +781,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|ACCESSORIES_FACE|sp|ACCESSORIES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -792,7 +792,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|ACCESSORIES_Cleaning|sp|tools|sp|and|sp|accessories"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -803,7 +803,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|ACCESSORIES_face|sp|beauty|sp|tools"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -814,7 +814,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|ACCESSORIES_tweezers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -825,7 +825,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|ACCESSORIES_Suitcase"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -836,7 +836,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_MASKS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -847,7 +847,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_Cream|sp|Mask"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -858,7 +858,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MASKS_Fabric|sp|Mask"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -869,7 +869,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_FACE|sp|CLEANING"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -880,7 +880,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_face|sp|tonics"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -891,7 +891,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_Facial|sp|Cleansing|sp|Foam"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -902,7 +902,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_make|h|up|sp|removers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -913,7 +913,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_micellar|sp|water"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -924,7 +924,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_FACE|sp|CLEANING_Make|h|up|sp|Remover|sp|Wipes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -935,7 +935,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_TYPE|sp|OF|sp|NEED"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -946,7 +946,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_Moisturizing|sp|and|sp|Nourishing|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -957,7 +957,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_Anti|h|wrinkle|sp|and|sp|Anti|h|aging"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -968,7 +968,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_anti|h|redness"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -979,7 +979,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_Anti|sp|spots"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -990,7 +990,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_Anti|h|Imperfections"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1001,7 +1001,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_Anti|h|Irritation"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1012,7 +1012,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_Purifying|sp|and|sp|Matifying|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1023,7 +1023,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TYPE|sp|OF|sp|NEED_Firming|sp|and|sp|Lifting"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1034,7 +1034,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_SUNSCREENS_SUNSCREENS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1045,7 +1045,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_SUNSCREENS_sunscreens"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1056,7 +1056,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_SUNSCREENS_Self|h|tanning|sp||as||sp|Bronzers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1067,7 +1067,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_SUNSCREENS_after|sp|sun"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1078,7 +1078,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TREATMENT|sp|MINIS_TREATMENT|sp|MINIS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1089,7 +1089,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_SEPHORA|sp|COLLECTION|sp|TREATMENT_SEPHORA|sp|COLLECTION|sp|TREATMENT"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1100,7 +1100,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_GOOD|sp|FOR|sp|SKINCARE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1111,7 +1111,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Vegan|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1122,7 +1122,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Natural|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1133,7 +1133,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Organic|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1144,7 +1144,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_GOOD|sp|FOR|sp|SKINCARE_Sustainable|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1155,7 +1155,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_MAN|sp|FACE|sp|TREATMENT"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1166,7 +1166,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_Cleansing|sp||as||sp|Exfoliating"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1177,7 +1177,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_moisturizers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1188,7 +1188,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_Anti|sp|age"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1199,7 +1199,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_eye|sp|creams"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1210,7 +1210,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_MAN|sp|FACE|sp|TREATMENT_"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1221,7 +1221,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TO|sp|SHAVE_TO|sp|SHAVE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1232,7 +1232,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TO|sp|SHAVE_beard|sp|care"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1243,7 +1243,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TO|sp|SHAVE_Shaving|sp||as||sp|pre|h|shaving"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1254,7 +1254,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_TO|sp|SHAVE_After|sp|shave"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1265,7 +1265,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_BEAUTY|sp|IDEAS_BEAUTY|sp|IDEAS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1276,7 +1276,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_BEAUTY|sp|IDEAS_War|sp|on|sp|the|sp|bubbles"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1287,7 +1287,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_BEAUTY|sp|IDEAS_Beauty|sp|solutions|sp|for|sp|treatment|sp|and|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1298,7 +1298,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_BEAUTY|sp|IDEAS_Treatment|sp|for|sp|all|sp|ages"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1309,7 +1309,7 @@
     "file_name": "Portugal_Sephora_PT_TREATMENT_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1320,7 +1320,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_PERFUMES_PERFUMES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1331,7 +1331,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_NEWS_NEWS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1342,7 +1342,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_LADY|sp|PERFUMES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1353,7 +1353,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Eau|sp|de|sp|Parfum"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1364,7 +1364,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Eau|sp|de|sp|Toilette"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1375,7 +1375,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Scented|sp|Body|sp|Care"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1386,7 +1386,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_hair|sp|perfume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1397,7 +1397,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_LADY|sp|PERFUMES_Eau|sp|de|sp|Cologne"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1408,7 +1408,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_COFFRETS_COFFRETS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1419,7 +1419,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_COFFRETS_Lady"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1430,7 +1430,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_COFFRETS_Man"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1441,7 +1441,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_MAN|sp|PERFUMES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1452,7 +1452,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Eau|sp|de|sp|Toilette"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1463,7 +1463,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Eau|sp|de|sp|Parfum"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1474,7 +1474,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Eau|sp|de|sp|Cologne"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1485,7 +1485,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Shaving|sp|Gel|sp|and|sp|Aftershave|sp|Lotion"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1496,7 +1496,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_deodorants"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1507,7 +1507,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MAN|sp|PERFUMES_Soap|sp|and|sp|Shower|sp|Gel"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1518,7 +1518,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_PERFUMES|sp|FOR|sp|EVERYONE_PERFUMES|sp|FOR|sp|EVERYONE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1529,7 +1529,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_OLFACTORY|sp|NOTES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1540,7 +1540,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Floral|sp|Perfume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1551,7 +1551,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Poudre|sp|perfume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1562,7 +1562,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Fresh|sp|Perfume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1573,7 +1573,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_Oceanic|sp|Perfume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1584,7 +1584,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_woody|sp|perfume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1595,7 +1595,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_OLFACTORY|sp|NOTES_spicy|sp|perfume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1606,7 +1606,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_PRIVATE|sp|COLLECTION_PRIVATE|sp|COLLECTION"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1617,7 +1617,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_TRENDY|sp|PERFUME_TRENDY|sp|PERFUME"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1628,7 +1628,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_BIG|sp|SIZES_BIG|sp|SIZES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1639,7 +1639,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_MINI|sp|FRAGRANCES_MINI|sp|FRAGRANCES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1650,7 +1650,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_SEPHORA|sp|COLLECTION|sp|PERFUMES_SEPHORA|sp|COLLECTION|sp|PERFUMES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1661,7 +1661,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_GOOD|sp|FOR|sp|FRAGRANCE_GOOD|sp|FOR|sp|FRAGRANCE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1672,7 +1672,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_WELL|h|BEING_WELL|h|BEING"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1683,7 +1683,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_WELL|h|BEING_Essencial|sp|oils"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1694,7 +1694,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_WELL|h|BEING_indoor|sp|perfumes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1705,7 +1705,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_BEAUTY|sp|IDEAS_BEAUTY|sp|IDEAS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1716,7 +1716,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_BEAUTY|sp|IDEAS_Perfume|sp|beauty|sp|guide"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1727,7 +1727,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_BEAUTY|sp|IDEAS_perfumes|sp|for|sp|men"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1738,7 +1738,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_TRY|sp|ME_TRY|sp|ME"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1749,7 +1749,7 @@
     "file_name": "Portugal_Sephora_PT_PERFUMES_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1760,7 +1760,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_HAIR"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1771,7 +1771,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_NEWS_NEWS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1782,7 +1782,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_HAIR"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1793,7 +1793,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_masks"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1804,7 +1804,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Shampoo|sp||as||sp|Balms"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1815,7 +1815,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1826,7 +1826,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Be|sp|careful|sp|without|sp|going|sp|through|sp|water"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1837,7 +1837,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_dry|sp|shampoo"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1848,7 +1848,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR_Hair|sp|Perfumes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1859,7 +1859,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_ACCESSORIES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1870,7 +1870,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_brushes|sp||as||sp|combs"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1881,7 +1881,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_ACCESSORIES_shower|sp|cap"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1892,7 +1892,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_STYLING"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1903,7 +1903,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Spray"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1914,7 +1914,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Cream"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1925,7 +1925,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Gel"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1936,7 +1936,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_STYLING_Mousse"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1947,7 +1947,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_BY|sp|NECESSITY"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1958,7 +1958,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Shine|sp||as||sp|Straightening"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1969,7 +1969,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Hydration|sp||as||sp|Nutrition"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1980,7 +1980,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Scalp"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -1991,7 +1991,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Coloring"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2002,7 +2002,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Volume"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2013,7 +2013,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Loss|sp|of|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2024,7 +2024,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_Anti|h|dandruff|sp||as||sp|Soothing"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2035,7 +2035,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_snails"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2046,7 +2046,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BY|sp|NECESSITY_damaged|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2057,7 +2057,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TREATMENT|sp|SETS_HAIR|sp|TREATMENT|sp|SETS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2068,7 +2068,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_HAIR|sp|TYPE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2079,7 +2079,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_dry|sp||as||sp|spoiled"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2090,7 +2090,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_fine|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2101,7 +2101,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_colored|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2112,7 +2112,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_mixed|sp|to|sp|oily"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2123,7 +2123,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_Frizz|sp||as||sp|Curls"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2134,7 +2134,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_dull|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2145,7 +2145,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_HAIR|sp|TYPE_normal|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2156,7 +2156,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_SEPHORA|sp|COLLECTION|sp|HAIR_SEPHORA|sp|COLLECTION|sp|HAIR"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2167,7 +2167,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_GOOD|sp|HAIRCARE_GOOD|sp|HAIRCARE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2178,7 +2178,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_GOOD|sp|HAIRCARE_vegan|sp|hair|sp|treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2189,7 +2189,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_GOOD|sp|HAIRCARE_natural|sp|hair|sp|treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2200,7 +2200,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BEAUTY|sp|IDEAS_BEAUTY|sp|IDEAS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2211,7 +2211,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BEAUTY|sp|IDEAS_Beauty|sp|guide|sp|for|sp|perfect|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2222,7 +2222,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_BEAUTY|sp|IDEAS_Beauty|sp|solutions|sp|for|sp|treatment|sp|and|sp|hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2233,7 +2233,7 @@
     "file_name": "Portugal_Sephora_PT_HAIR_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2244,7 +2244,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY_BODY"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2255,7 +2255,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_NEWS_NEWS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2266,7 +2266,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_BODY|sp|CARE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2277,7 +2277,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Creams|sp||as||sp|Lotions"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2288,7 +2288,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Hands"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2299,7 +2299,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Exfoliators|sp||as||sp|Peels"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2310,7 +2310,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Feet"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2321,7 +2321,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_oils"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2332,7 +2332,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_mists"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2343,7 +2343,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_Moisturizing|sp|Milk"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2354,7 +2354,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_neckline|sp|and|sp|bust"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2365,7 +2365,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|CARE_deodorants"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2376,7 +2376,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BATH|sp|AND|sp|BODY|sp|SETS_BATH|sp|AND|sp|BODY|sp|SETS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2387,7 +2387,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_SUN|sp|CARE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2398,7 +2398,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_Self|h|tanning|sp||as||sp|Bronzers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2409,7 +2409,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_sunscreens"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2420,7 +2420,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_SUN|sp|CARE_after|sp|sun"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2431,7 +2431,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BATH_BATH"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2442,7 +2442,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BATH_shower|sp|gels"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2453,7 +2453,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BATH_Bath|sp|salts|sp||as||sp|bath|sp|bombs"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2464,7 +2464,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BATH_Hand|sp||as||sp|body|sp|soaps"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2475,7 +2475,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BODY|sp|ACCESSORIES_BODY|sp|ACCESSORIES"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2486,7 +2486,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_HOME_HOME"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2497,7 +2497,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_BY|sp|NECESSITY"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2508,7 +2508,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_Slimming|sp|and|sp|Toning"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2519,7 +2519,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_moisturizers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2530,7 +2530,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BY|sp|NECESSITY_anti|h|stretch|sp|marks"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2541,7 +2541,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_ORAL|sp|HYGIENE_ORAL|sp|HYGIENE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2552,7 +2552,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_MINI|sp|BATH|sp|AND|sp|BODY_MINI|sp|BATH|sp|AND|sp|BODY"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2563,7 +2563,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_SEPHORA|sp|COLLECTION|sp|BODY_SEPHORA|sp|COLLECTION|sp|BODY"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2574,7 +2574,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_GOOD|sp|BODYCARE_GOOD|sp|BODYCARE"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2585,7 +2585,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BEAUTY|sp|IDEAS_BEAUTY|sp|IDEAS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2596,7 +2596,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_BEAUTY|sp|IDEAS_Sexual|sp|Wellness|sp||h||sp|Pleasure|sp|and|sp|intimate|sp|care"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2607,7 +2607,7 @@
     "file_name": "Portugal_Sephora_PT_BODY_SEE|sp|ALL_SEE|sp|ALL"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2618,7 +2618,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION_SEPHORA|sp|COLLECTION"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2629,7 +2629,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_Sephora|sp|Collection|sp|Serums_Sephora|sp|Collection|sp|Serums"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2640,7 +2640,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_masks_masks"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2651,7 +2651,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_Cleaning|sp|and|sp|Make|h|up|sp|Removers_Cleaning|sp|and|sp|Make|h|up|sp|Removers"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2662,7 +2662,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_Good|sp|is|sp|the|sp|New|sp|Effective_Good|sp|is|sp|the|sp|New|sp|Effective"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2673,7 +2673,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_Eyes_Eyes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2684,7 +2684,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_complexion_complexion"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2695,7 +2695,7 @@
     "file_name": "Portugal_Sephora_PT_SEPHORA|sp|COLLECTION_Lips_Lips"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2706,7 +2706,7 @@
     "file_name": "Portugal_Sephora_PT_NEWS_NEWS_NEWS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2717,7 +2717,7 @@
     "file_name": "Portugal_Sephora_PT_NEWS_make|h|up_make|h|up"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2728,7 +2728,7 @@
     "file_name": "Portugal_Sephora_PT_NEWS_Treatment_Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2739,7 +2739,7 @@
     "file_name": "Portugal_Sephora_PT_NEWS_Perfumes_Perfumes"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2750,7 +2750,7 @@
     "file_name": "Portugal_Sephora_PT_NEWS_Hair_Hair"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2761,7 +2761,7 @@
     "file_name": "Portugal_Sephora_PT_NEWS_Body_Body"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2772,7 +2772,7 @@
     "file_name": "Portugal_Sephora_PT_NEWS_OBVIOUS_OBVIOUS"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2783,7 +2783,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_GOOD|sp|FOR_GOOD|sp|FOR"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2794,7 +2794,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_vegan|sp|hair|sp|treatment_vegan|sp|hair|sp|treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2805,7 +2805,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_natural|sp|hair|sp|treatment_natural|sp|hair|sp|treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2816,7 +2816,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Vegan|sp|Makeup_Vegan|sp|Makeup"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2827,7 +2827,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Natural|sp|Makeup_Natural|sp|Makeup"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2838,7 +2838,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Vegan|sp|Treatment_Vegan|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2849,7 +2849,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Natural|sp|Treatment_Natural|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",
@@ -2860,7 +2860,7 @@
     "file_name": "Portugal_Sephora_PT_GOOD|sp|FOR_Sustainable|sp|Treatment_Sustainable|sp|Treatment"
   },
   {
-    "country": "Portugal",
+    "country": "PT",
     "retailer": "Sephora_PT",
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Portugal/Sephora_PT/",

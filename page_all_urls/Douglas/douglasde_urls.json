@@ -1,6 +1,6 @@
 [
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -11,7 +11,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_PERFUME_PERFUME"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -22,7 +22,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_Damendufte"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -33,7 +33,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_women|sq|s|sp|perfume"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -44,7 +44,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_Fragrance|sp|sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -55,7 +55,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_Deodorants"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -66,7 +66,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_personal|sp|hygiene"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -77,7 +77,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_shower|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -88,7 +88,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Damendufte_Alle|sp|Damendufte"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -99,7 +99,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_men|sq|s|sp|fragrances_men|sq|s|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -110,7 +110,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_men|sq|s|sp|fragrances_men|sq|s|sp|perfume"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -121,7 +121,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_men|sq|s|sp|fragrances_After|sp|Shave"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -132,7 +132,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_men|sq|s|sp|fragrances_shower|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -143,7 +143,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_men|sq|s|sp|fragrances_Deodorants"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -154,7 +154,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_men|sq|s|sp|fragrances_Fragrance|sp|sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -165,7 +165,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_men|sq|s|sp|fragrances_|sp|All|sp|men|sq|s|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -176,7 +176,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Unisex|sp|fragrances_Unisex|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -187,7 +187,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Unisex|sp|fragrances_Unisex|sp|Perfume"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -198,7 +198,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Unisex|sp|fragrances_Unisex|sp|body|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -209,7 +209,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Unisex|sp|fragrances_|sp|All|sp|unisex|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -220,7 +220,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_niche|sp|fragrances_niche|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -231,7 +231,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_niche|sp|fragrances_Niche|sp|fragrances|sp|for|sp|women"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -242,7 +242,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_niche|sp|fragrances_Niche|sp|fragrances|sp|for|sp|men"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -253,7 +253,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_niche|sp|fragrances_|sp|All|sp|niche|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -264,7 +264,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Douglas|sp|Beauty|sp|Tester_Douglas|sp|Beauty|sp|Tester"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -275,7 +275,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_fragrance|sp|notes_fragrance|sp|notes"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -286,7 +286,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_fragrance|sp|notes_Oriental|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -297,7 +297,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_fragrance|sp|notes_Fresh|sp|scents"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -308,7 +308,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_fragrance|sp|notes_Woody|sp|scents"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -319,7 +319,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_fragrance|sp|notes_Floral|sp|scents"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -330,7 +330,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_fragrance|sp|notes_Fruity|sp|scents"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -341,7 +341,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Highlights_gifts"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -352,7 +352,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Highlights_new|sp|hits"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -363,7 +363,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Highlights_Clean|sp|Beauty|sp|Dufte"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -374,7 +374,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Highlights_Top|sp|10|sp|Damendufte"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -385,7 +385,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Beauty|h|Storys_Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -396,7 +396,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Beauty|h|Storys_All|sp|about|cln||sp|Amber|sp|Parfum"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -407,7 +407,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Beauty|h|Storys_All|sp|about|cln||sp|Vanille|sp|Parfum"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -418,7 +418,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Beauty|h|Storys_All|sp|about|cln||sp|Patchouli|sp|Parfum"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -429,7 +429,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Beauty|h|Storys_All|sp|about|cln||sp|Molekul|sp|Parfum"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -440,7 +440,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Beauty|h|Storys_All|sp|about|cln||sp|Moschus|sp|Parfum"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -451,7 +451,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_Beauty|h|Storys_|sp|Alle|sp|Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -462,7 +462,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_NEW_NEW"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -473,7 +473,7 @@
     "file_name": "Germany_DOUGLAS_DE_PERFUME_SALE_SALE"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -484,7 +484,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_MAKE|h|UP_MAKE|h|UP"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -495,7 +495,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_complexion_complexion"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -506,7 +506,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_complexion_Foundation"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -517,7 +517,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_complexion_Concealer"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -528,7 +528,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_complexion_can"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -539,7 +539,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_complexion_Blush"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -550,7 +550,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_complexion_Highlighter"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -561,7 +561,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_complexion_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -572,7 +572,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyes_eyes"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -583,7 +583,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyes_eyeshadow"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -594,7 +594,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyes_Mascara"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -605,7 +605,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyes_Kajal"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -616,7 +616,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyes_Paletten|sp||as||sp|Sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -627,7 +627,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyes_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -638,7 +638,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_lips"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -649,7 +649,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_lipsticks"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -660,7 +660,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lipgloss"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -671,7 +671,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lip|h|Balm"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -682,7 +682,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lipliner"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -693,7 +693,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_Lip|h|Plumper"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -704,7 +704,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_lips_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -715,7 +715,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_nails"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -726,7 +726,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_Nail|sp|polish"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -737,7 +737,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_nail|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -748,7 +748,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_nail|sp|design"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -759,7 +759,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_nail|sp|polish|sp|remover"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -770,7 +770,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_Sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -781,7 +781,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_nails_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -792,7 +792,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyebrows_eyebrows"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -803,7 +803,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyebrows_eyebrow|sp|gel"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -814,7 +814,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyebrows_eyebrow|sp|pencil"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -825,7 +825,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyebrows_eyebrow|sp|powder"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -836,7 +836,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyebrows_accesories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -847,7 +847,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyebrows_eyebrow|sp|color"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -858,7 +858,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_eyebrows_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -869,7 +869,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_accesories_accesories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -880,7 +880,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_accesories_eyelash|sp|curler"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -891,7 +891,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_accesories_tweezers"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -902,7 +902,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_accesories_eyelash|sp|brush"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -913,7 +913,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_accesories_sharpener"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -924,7 +924,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_accesories_makeup|sp|mirror"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -935,7 +935,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_accesories_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -946,7 +946,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_paint|sp|brush_paint|sp|brush"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -957,7 +957,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_paint|sp|brush_eyeshadow|sp|brush"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -968,7 +968,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_paint|sp|brush_Powder|sp|brush"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -979,7 +979,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_paint|sp|brush_Foundationpinsel"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -990,7 +990,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_paint|sp|brush_brush|sp|sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1001,7 +1001,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_paint|sp|brush_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1012,7 +1012,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_NEW_NEW"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1023,7 +1023,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_SALE_SALE"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1034,7 +1034,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_Douglas|sp|Beauty|sp|Tester_Douglas|sp|Beauty|sp|Tester"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1045,7 +1045,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_Beauty|h|Storys_Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1056,7 +1056,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_sustainability_sustainability"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1067,7 +1067,7 @@
     "file_name": "Germany_DOUGLAS_DE_MAKE|h|UP_Make|h|up|h|Mania_Make|h|up|h|Mania"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1078,7 +1078,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_FACE_FACE"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1089,7 +1089,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|care_facial|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1100,7 +1100,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|care_face|sp|cream"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1111,7 +1111,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|care_Anti|h|aging|sp|facial|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1122,7 +1122,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|care_day|sp|cream"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1133,7 +1133,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|care_night|sp|cream"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1144,7 +1144,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|care_face|sp|masks"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1155,7 +1155,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|care_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1166,7 +1166,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_facial|sp|cleansing"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1177,7 +1177,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_facial|sp|tonic"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1188,7 +1188,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_cleaning|sp|foam"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1199,7 +1199,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_Make|h|up|sp|Entferner"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1210,7 +1210,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_facial|sp|peeling"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1221,7 +1221,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_cleaning|sp|gel"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1232,7 +1232,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_facial|sp|cleansing_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1243,7 +1243,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_face|sp|masks_face|sp|masks"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1254,7 +1254,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_face|sp|masks_moisturizing|sp|masks"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1265,7 +1265,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_face|sp|masks_cleansing|sp|masks"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1276,7 +1276,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_face|sp|masks_Anti|h|Aging|sp|Masken"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1287,7 +1287,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_face|sp|masks_Activated|sp|Charcoal|sp|Masks"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1298,7 +1298,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_face|sp|masks_Eye|sp||as||sp|Lip|sp|Masks"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1309,7 +1309,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_face|sp|masks_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1320,7 +1320,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_Sun|sp||as||sp|Protection"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1331,7 +1331,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_self|sp|tanner"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1342,7 +1342,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_sun|sp|protection"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1353,7 +1353,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_After|sp|Sun"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1364,7 +1364,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Sun|sp||as||sp|Protection_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1375,7 +1375,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_Men|sq|s"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1386,7 +1386,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_facial|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1397,7 +1397,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_shave"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1408,7 +1408,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_facial|sp|cleansing"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1419,7 +1419,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_beard|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1430,7 +1430,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_men|sq|s|sp|grooming|sp|sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1441,7 +1441,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Men|sq|s_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1452,7 +1452,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_Care|sp|for|sp|skin|sp|needs"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1463,7 +1463,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|dry|sp|skin"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1474,7 +1474,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|oily|sp|skin"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1485,7 +1485,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|sensitive|sp|skin"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1496,7 +1496,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|blemished|sp|skin"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1507,7 +1507,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_For|sp|combination|sp|skin"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1518,7 +1518,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Care|sp|for|sp|skin|sp|needs_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1529,7 +1529,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1540,7 +1540,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_Tutorial|cln||sp|Cleansing|sp|Routine"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1551,7 +1551,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_All|sp|about|cln||sp|Seren"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1562,7 +1562,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_All|sp|about|cln||sp|Ceramdide"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1573,7 +1573,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_All|sp|about|cln||sp|men|sq|s|sp|grooming"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1584,7 +1584,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1595,7 +1595,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Highlights_Clean|sp|beauty|sp|skin|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1606,7 +1606,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Highlights_Bless|sp|you"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1617,7 +1617,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Highlights_Beauty|sp|Tools|sp||as||sp|Accessories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1628,7 +1628,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_Douglas|sp|Beauty|sp|Tester_Douglas|sp|Beauty|sp|Tester"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1639,7 +1639,7 @@
     "file_name": "Germany_DOUGLAS_DE_FACE_sustainability_sustainability"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1650,7 +1650,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_BODY_BODY"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1661,7 +1661,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_personal|sp|hygiene_personal|sp|hygiene"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1672,7 +1672,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_personal|sp|hygiene_body|sp|lotion"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1683,7 +1683,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_personal|sp|hygiene_Deodorants"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1694,7 +1694,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_personal|sp|hygiene_body|sp|spray"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1705,7 +1705,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_personal|sp|hygiene_body|sp|butter"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1716,7 +1716,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_personal|sp|hygiene_body|sp|oil"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1727,7 +1727,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_personal|sp|hygiene_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1738,7 +1738,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_body|sp|cleansing"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1749,7 +1749,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_shower|sp|gel"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1760,7 +1760,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_Shower|sp|foam"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1771,7 +1771,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_shower|sp|oil"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1782,7 +1782,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_soap"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1793,7 +1793,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_body|sp|scrub"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1804,7 +1804,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_body|sp|cleansing_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1815,7 +1815,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_Sun|sp||as||sp|Protection"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1826,7 +1826,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_sun|sp|protection"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1837,7 +1837,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_After|sp|Sun"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1848,7 +1848,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sun|sp||as||sp|Protection_self|sp|tanner"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1859,7 +1859,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_Men|sq|s"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1870,7 +1870,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_personal|sp|hygiene"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1881,7 +1881,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_body|sp|cleansing"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1892,7 +1892,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Men|sq|s_Sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1903,7 +1903,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_pedicure_pedicure"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1914,7 +1914,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_pedicure_foot|sp|cream"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1925,7 +1925,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_pedicure_footbath"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1936,7 +1936,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_pedicure_Fubpeeling"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1947,7 +1947,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_pedicure_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1958,7 +1958,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_hand|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1969,7 +1969,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_hand|sp|cream"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1980,7 +1980,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_Hand|sp|peeling"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -1991,7 +1991,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_Hand|sp|mask"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2002,7 +2002,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_soap"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2013,7 +2013,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_Hand|sp|disinfection"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2024,7 +2024,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_hand|sp|care_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2035,7 +2035,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Sex|h|Toys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2046,7 +2046,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Vibrator"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2057,7 +2057,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_lube"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2068,7 +2068,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_love|sp|ball"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2079,7 +2079,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Bondage"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2090,7 +2090,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_Intimpflege"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2101,7 +2101,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Sex|h|Toys_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2112,7 +2112,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Beauty|h|Storys_Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2123,7 +2123,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Beauty|h|Storys_All|sp|about|cln||sp|Wellness"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2134,7 +2134,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Beauty|h|Storys_Get|sp|inspired|cln||sp|The|sp|secret|sp|of|sp|soft|sp|skin"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2145,7 +2145,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Beauty|h|Storys_All|sp|about|cln||sp|Handpflege"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2156,7 +2156,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Beauty|h|Storys_All|sp|about|cln||sp|mechanical|sp|peeling"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2167,7 +2167,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Beauty|h|Storys_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2178,7 +2178,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Highlights_Clean|sp|beauty|sp|body|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2189,7 +2189,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Highlights_Bless|sp|you"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2200,7 +2200,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_Douglas|sp|Beauty|sp|Tester_Douglas|sp|Beauty|sp|Tester"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2211,7 +2211,7 @@
     "file_name": "Germany_DOUGLAS_DE_BODY_sustainability_sustainability"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2222,7 +2222,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_HAIR_HAIR"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2233,7 +2233,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_hair|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2244,7 +2244,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_Shampoo"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2255,7 +2255,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_dry|sp|shampoo"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2266,7 +2266,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_Conditioner"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2277,7 +2277,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_Leave|h|in|h|Conditioner"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2288,7 +2288,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_Hair|sp|mask|sp||as||sp|mask"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2299,7 +2299,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_Haarole|sp||as||sp||h|seren"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2310,7 +2310,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_scalp|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2321,7 +2321,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_hair|sp|tonic"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2332,7 +2332,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_Sun|sp|protection|sp||as||sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2343,7 +2343,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_hair|sp|care_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2354,7 +2354,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_Hairstyling"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2365,7 +2365,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_mousse"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2376,7 +2376,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_heat|sp|protection"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2387,7 +2387,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_Haargel"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2398,7 +2398,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_Haarwachs|sp||as||sp||h|creme"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2409,7 +2409,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_Haarspray|sp||as||sp||h|lack"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2420,7 +2420,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_Styling|sp|prices"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2431,7 +2431,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_Styling|sp|creams"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2442,7 +2442,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_hair|sp|powder"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2453,7 +2453,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_Hair|sp|perfume"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2464,7 +2464,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Hairstyling_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2475,7 +2475,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Styling|sp|Tools_Styling|sp|Tools"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2486,7 +2486,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Styling|sp|Tools_flat|sp|iron"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2497,7 +2497,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Styling|sp|Tools_curling|sp|irons"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2508,7 +2508,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Styling|sp|Tools_curlers"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2519,7 +2519,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Styling|sp|Tools_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2530,7 +2530,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_Men|sq|s"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2541,7 +2541,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_Shampoo"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2552,7 +2552,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_Hairstyling"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2563,7 +2563,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_hair|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2574,7 +2574,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Men|sq|s_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2585,7 +2585,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Beauty|h|Storys_Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2596,7 +2596,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Beauty|h|Storys_All|sp|about|cln||sp|straightening|sp|hair"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2607,7 +2607,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Beauty|h|Storys_Tutorial|cln||sp|curl|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2618,7 +2618,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Beauty|h|Storys_Get|sp|inspired|cln||sp|Nie|sp|wieder|sp|bad|sp|hair|sp|days!"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2629,7 +2629,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Beauty|h|Storys_Tutorial|cln||sp|Afro|sp|curls"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2640,7 +2640,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_Beauty|h|Storys_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2651,7 +2651,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_NEW_NEW"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2662,7 +2662,7 @@
     "file_name": "Germany_DOUGLAS_DE_HAIR_SALE_SALE"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2673,7 +2673,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE_HOME|sp||as||sp|LIFESTYLE"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2684,7 +2684,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_Bags|sp||as||sp|luggage"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2695,7 +2695,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_handbags"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2706,7 +2706,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_Shopper"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2717,7 +2717,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_shoulder|sp|bags"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2728,7 +2728,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bags|sp||as||sp|luggage_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2739,7 +2739,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_jewelry_jewelry"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2750,7 +2750,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_jewelry_Bracelets|sp||as||sp|Bangles"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2761,7 +2761,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_jewelry_Two|sp|of|sp|us"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2772,7 +2772,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_jewelry_earrings"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2783,7 +2783,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_jewelry_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2794,7 +2794,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Accessories_Accessories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2805,7 +2805,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Accessories_Shawls|sp||as||sp|Scarves"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2816,7 +2816,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Accessories_sunglasses"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2827,7 +2827,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Accessories_belt"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2838,7 +2838,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Accessories_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2849,7 +2849,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_Reside"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2860,7 +2860,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_candles"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2871,7 +2871,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_room|sp|fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2882,7 +2882,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_decoration"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2893,7 +2893,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Reside_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2904,7 +2904,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bad_Bad"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2915,7 +2915,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bad_towels"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2926,7 +2926,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bad_bath|sp|mats"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2937,7 +2937,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bad_makeup|sp|mirror"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2948,7 +2948,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Bad_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2959,7 +2959,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Plant|sp|flowers_Plant|sp|flowers"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2970,7 +2970,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Plant|sp|flowers_artificial|sp|flowers|sp||as||sp|plants"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2981,7 +2981,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_garden_garden"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -2992,7 +2992,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_garden_garden|sp|furniture"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3003,7 +3003,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_garden_umbrellas"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3014,7 +3014,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_kitchen_kitchen"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3025,7 +3025,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_kitchen_table|sp|linen"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3036,7 +3036,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_kitchen_kitchen|sp|utensils"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3047,7 +3047,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_kitchen_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3058,7 +3058,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_pet|sp|supplies_pet|sp|supplies"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3069,7 +3069,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_pet|sp|supplies_grooming"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3080,7 +3080,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_pet|sp|supplies_accesories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3091,7 +3091,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Sleep_Sleep"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3102,7 +3102,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Sleep_bedding"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3113,7 +3113,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Sleep_pillow|sp|sprays"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3124,7 +3124,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_Mode"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3135,7 +3135,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_jackets|sp|and|sp|coats"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3146,7 +3146,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_underwear"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3157,7 +3157,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_Pullover|sp||as||sp|Strickjacken"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3168,7 +3168,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_Jeans"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3179,7 +3179,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_clothes"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3190,7 +3190,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3201,7 +3201,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Beauty|h|Storys_Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3212,7 +3212,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Beauty|h|Storys_All|sp|about|cln||sp|Duftkerzen"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3223,7 +3223,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Beauty|h|Storys_All|sp|about|cln||sp|Taschen"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3234,7 +3234,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Beauty|h|Storys_Get|sp|inspired|cln||sp|Interior|sp|treasures"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3245,7 +3245,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Beauty|h|Storys_Get|sp|inspired|cln||sp|Schmuck"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3256,7 +3256,7 @@
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Beauty|h|Storys_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3267,7 +3267,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_SALE_SALE"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3278,7 +3278,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_Perfume"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3289,7 +3289,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_Make|h|Up"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3300,7 +3300,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_face"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3311,7 +3311,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_body"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3322,7 +3322,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_hair"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3333,7 +3333,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|categories_Home|sp||as||sp|Lifestyle"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3344,7 +3344,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|30|sp|percent"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3355,7 +3355,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|40|sp|percent"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3366,7 +3366,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|50|sp|percent"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3377,7 +3377,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_Up|sp|to|sp||h||sp|70|sp|percent"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3388,7 +3388,7 @@
     "file_name": "Germany_DOUGLAS_DE_SALE_Sale|sp|by|sp|percent_More|sp|than|sp|70|sp|percent"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3399,7 +3399,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|COLLECTION"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3410,7 +3410,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_Perfume_Perfume"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3421,7 +3421,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_Make|h|up_Make|h|up"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3432,7 +3432,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_face_face"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3443,7 +3443,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_body_body"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3454,7 +3454,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_Home|sp||as||sp|Lifestyle_Home|sp||as||sp|Lifestyle"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3465,7 +3465,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_hair_hair"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3476,7 +3476,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_gift|sp|sets_gift|sp|sets"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3487,7 +3487,7 @@
     "file_name": "Germany_DOUGLAS_DE_DOUGLAS|sp|COLLECTION_Trends|sp||as||sp|Novelties_Trends|sp||as||sp|Novelties"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3498,7 +3498,7 @@
     "file_name": "Germany_DOUGLAS_DE_LUXURY_LUXURY_LUXURY"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3509,7 +3509,7 @@
     "file_name": "Germany_DOUGLAS_DE_LUXURY_Luxury|sp|Perfume_Luxury|sp|Perfume"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3520,7 +3520,7 @@
     "file_name": "Germany_DOUGLAS_DE_LUXURY_Luxus|sp|Make|h|up_Luxus|sp|Make|h|up"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3531,7 +3531,7 @@
     "file_name": "Germany_DOUGLAS_DE_LUXURY_luxury|sp|care_luxury|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3542,7 +3542,7 @@
     "file_name": "Germany_DOUGLAS_DE_LUXURY_luxury|sp|hair_luxury|sp|hair"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3553,7 +3553,7 @@
     "file_name": "Germany_DOUGLAS_DE_LUXURY_luxury|sp|gifts_luxury|sp|gifts"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3564,7 +3564,7 @@
     "file_name": "Germany_DOUGLAS_DE_NEW_NEW_NEW"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3575,7 +3575,7 @@
     "file_name": "Germany_DOUGLAS_DE_NEW_fragrances_fragrances"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3586,7 +3586,7 @@
     "file_name": "Germany_DOUGLAS_DE_NEW_Make|h|up_Make|h|up"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3597,7 +3597,7 @@
     "file_name": "Germany_DOUGLAS_DE_NEW_face_face"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3608,7 +3608,7 @@
     "file_name": "Germany_DOUGLAS_DE_NEW_body_body"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3619,7 +3619,7 @@
     "file_name": "Germany_DOUGLAS_DE_NEW_hair_hair"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3630,7 +3630,7 @@
     "file_name": "Germany_DOUGLAS_DE_NEW_Home|sp||as||sp|Lifestyle_Home|sp||as||sp|Lifestyle"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3641,7 +3641,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_BLESS|sp|YOU_BLESS|sp|YOU"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3652,7 +3652,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_dental|sp|care"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3663,7 +3663,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_Oral|sp|Care,|sp|Rinse|sp||as||sp|Spray"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3674,7 +3674,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_toothpaste"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3685,7 +3685,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_toothbrushes"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3696,7 +3696,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_electric|sp|toothbrushes"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3707,7 +3707,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_dental|sp|floss"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3718,7 +3718,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_dental|sp|care_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3729,7 +3729,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_Cold|sp||as||sp|immune|sp|system"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3740,7 +3740,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_strengthen|sp|your|sp|immune|sp|system"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3751,7 +3751,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_Sore|sp|throat|sp||as||sp|difficulty|sp|swallowing"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3762,7 +3762,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_sniffles"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3773,7 +3773,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Cold|sp||as||sp|immune|sp|system_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3784,7 +3784,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_vitamins|sp||as||sp|minerals_vitamins|sp||as||sp|minerals"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3795,7 +3795,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_vitamins|sp||as||sp|minerals_Vitamin|sp|A"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3806,7 +3806,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_vitamins|sp||as||sp|minerals_Vitamin|sp|B"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3817,7 +3817,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_vitamins|sp||as||sp|minerals_Vitamin|sp|C"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3828,7 +3828,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_vitamins|sp||as||sp|minerals_Vitamin|sp|D"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3839,7 +3839,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_vitamins|sp||as||sp|minerals_Vitamin|sp|E"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3850,7 +3850,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_vitamins|sp||as||sp|minerals_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3861,7 +3861,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_beauty|sp|from|sp|within"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3872,7 +3872,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Nice|sp|skin"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3883,7 +3883,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Beautiful|sp|hair"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3894,7 +3894,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Strong|sp|nails"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3905,7 +3905,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_Anti|h|Aging"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3916,7 +3916,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_beauty|sp|from|sp|within_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3927,7 +3927,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Diet,|sp|exercise|sp||as||sp|weight|sp|loss"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3938,7 +3938,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Lose|sp|weight"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3949,7 +3949,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Bars|sp||as||sp|Muesli"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3960,7 +3960,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Protein|sp||as||sp|Shakes"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3971,7 +3971,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Muscle,|sp|Joints|sp||as||sp|Heat|sp|Therapy"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3982,7 +3982,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_Sauna"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -3993,7 +3993,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Diet,|sp|exercise|sp||as||sp|weight|sp|loss_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4004,7 +4004,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Digestion|sp||as||sp|Organs_Digestion|sp||as||sp|Organs"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4015,7 +4015,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Digestion|sp||as||sp|Organs_Cardiovascular|sp||as||sp|Cholesterol"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4026,7 +4026,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Digestion|sp||as||sp|Organs_Leber|sp||as||sp|Galle"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4037,7 +4037,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Digestion|sp||as||sp|Organs_Stomach|sp||as||sp|Digestion"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4048,7 +4048,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Digestion|sp||as||sp|Organs_Prostate"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4059,7 +4059,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Digestion|sp||as||sp|Organs_They|sp|come"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4070,7 +4070,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Digestion|sp||as||sp|Organs_All|sp|Categories"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4081,7 +4081,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Beauty|h|Storys_Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
@@ -4092,7 +4092,7 @@
     "file_name": "Germany_DOUGLAS_DE_BLESS|sp|YOU_Beauty|h|Storys_|sp|Alle|sp|Beauty|h|Storys"
   },
   {
-    "country": "Germany",
+    "country": "DE",
     "retailer": "Douglas_DE",
     "parsing_config": "./retailer_config/Douglas/douglas_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",

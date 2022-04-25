@@ -1,6 +1,6 @@
 [
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -11,7 +11,7 @@
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_EYE|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -22,7 +22,7 @@
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Under|sp|Eye|sp|Cream|sp||as||sp|Serums"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -33,7 +33,7 @@
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Dark|sp|Circles|sp||as||sp|Wrinkles"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -44,7 +44,7 @@
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Puffiness"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -55,7 +55,7 @@
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Eye|sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -66,7 +66,7 @@
     "file_name": "India_Nykaa_Skin_EYE|sp|CARE_Eye|sp|Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -77,7 +77,7 @@
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_LIP|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -88,7 +88,7 @@
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_Lip|sp|Balm"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -99,7 +99,7 @@
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_Lip|sp|Scrubs"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -110,7 +110,7 @@
     "file_name": "India_Nykaa_Skin_LIP|sp|CARE_Lip|sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -121,7 +121,7 @@
     "file_name": "India_Nykaa_Skin_NECK|sp|CREAMS_NECK|sp|CREAMS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -132,7 +132,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_SHOP|sp|BY|sp|CONCERN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -143,7 +143,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Skin|sp|Brightening"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -154,7 +154,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Acne|sp|Treatment"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -165,7 +165,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Dull|sp|Skin|sp|Treatment"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -176,7 +176,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Pigmentation"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -187,7 +187,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Anti|sp|Ageing"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -198,7 +198,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Tan|sp|Removal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -209,7 +209,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Face|sp|Treatment"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -220,7 +220,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Pore|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -231,7 +231,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Sun|sp|Protection"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -242,7 +242,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Skin|sp|Dryness"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -253,7 +253,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Oil|sp|Control"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -264,7 +264,7 @@
     "file_name": "India_Nykaa_Skin_NEW|sp|LAUNCHES_NEW|sp|LAUNCHES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -275,7 +275,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|STYLING_HAIR|sp|STYLING"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -286,7 +286,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|STYLING_Hair|sp|Color"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -297,7 +297,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|STYLING_Hair|sp|Spray"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -308,7 +308,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|STYLING_Gels|sp||as||sp|Waxes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -319,7 +319,7 @@
     "file_name": "India_Nykaa_Hair_SHOP|sp|BY|sp|HAIR|sp|TYPE_SHOP|sp|BY|sp|HAIR|sp|TYPE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -330,7 +330,7 @@
     "file_name": "India_Nykaa_Hair_SHOP|sp|BY|sp|HAIR|sp|TYPE_Straight"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -341,7 +341,7 @@
     "file_name": "India_Nykaa_Hair_SHOP|sp|BY|sp|HAIR|sp|TYPE_Curly|sp||as||sp|Wavy"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -352,7 +352,7 @@
     "file_name": "India_Nykaa_Hair_PROFESSIONAL|sp|BRANDS_PROFESSIONAL|sp|BRANDS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -363,7 +363,7 @@
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_FACE|fs|SKIN|sp|TOOLS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -374,7 +374,7 @@
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Face|sp|Epilator"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -385,7 +385,7 @@
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Dermarollers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -396,7 +396,7 @@
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Cleansing|sp|Brushes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -407,7 +407,7 @@
     "file_name": "India_Nykaa_Skin_FACE|fs|SKIN|sp|TOOLS_Acne|sp|Removal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -418,7 +418,7 @@
     "file_name": "India_Nykaa_Skin_MASSAGE|sp|TOOLS_MASSAGE|sp|TOOLS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -429,7 +429,7 @@
     "file_name": "India_Nykaa_Skin_MASSAGE|sp|TOOLS_Massagers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -440,7 +440,7 @@
     "file_name": "India_Nykaa_Hair_FOOT|sp|CARE_FOOT|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -451,7 +451,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BATH|sp||as||sp|SHOWER_BATH|sp||as||sp|SHOWER"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -462,7 +462,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BATH|sp||as||sp|SHOWER_Shower|sp|Gels|sp||as||sp|Body|sp|Wash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -473,7 +473,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BATH|sp||as||sp|SHOWER_Scrubs|sp||as||sp|Exfoliants"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -484,7 +484,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BATH|sp||as||sp|SHOWER_Soaps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -495,7 +495,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BATH|sp||as||sp|SHOWER_Bath|sp|Salts"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -506,7 +506,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_BODY"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -517,7 +517,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Lotions|sp||as||sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -528,7 +528,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Talcum|sp|Powder"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -539,7 +539,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Deodorants|fs|Roll|sp|Ons"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -550,7 +550,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_BODY_Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -561,7 +561,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|SALON|sp|DISPOSABLES_HOME|sp||as||sp|SALON|sp|DISPOSABLES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -572,7 +572,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_MEN|sq|S|sp|GROOMING"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -583,7 +583,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Shavers|sp||as||sp|Trimmers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -594,7 +594,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Razors|sp||as||sp|Catridges"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -605,7 +605,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Shaving|sp|Cream,|sp|Foams|sp||as||sp|Gels"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -616,7 +616,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Pre|sp||as||sp|Post|sp|Shaves"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -627,7 +627,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Beard|sp||as||sp|Moustache|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -638,7 +638,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_MEN|sq|S|sp|GROOMING_Intimate|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -649,7 +649,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_DENTAL|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -660,7 +660,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Toothpaste"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -671,7 +671,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Manual|sp|Toothbrush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -682,7 +682,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Electric|sp|Toothbrush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -693,7 +693,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Floss|sp||as||sp|Tongue|sp|Cleaners"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -704,7 +704,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Mouthwash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -715,7 +715,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_DENTAL|sp|CARE_Tooth|sp|Powder"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -726,7 +726,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_SEXUAL|sp|WELLNESS_SEXUAL|sp|WELLNESS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -737,7 +737,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_HOME|sp||as||sp|HEALTH"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -748,7 +748,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Insect|sp|Repellents"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -759,7 +759,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Air|sp|Fresheners"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -770,7 +770,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Toilet|sp|Seat|sp|Sanitizer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -781,7 +781,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Face|sp|Mask"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -792,7 +792,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Gloves"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -803,7 +803,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Others"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -814,7 +814,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOP|sp|BRANDS_Wanderlust"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -825,7 +825,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOP|sp|BRANDS_Dove"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -836,7 +836,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOP|sp|BRANDS_Gillette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -847,7 +847,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOP|sp|BRANDS_Pantene"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -858,7 +858,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOP|sp|BRANDS_Palmolive"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -869,7 +869,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOP|sp|BRANDS_Bella"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -880,7 +880,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_Travel|sp|Essentials_Travel|sp|Essentials"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -891,7 +891,7 @@
     "file_name": "India_Nykaa_Fragrance_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -902,7 +902,7 @@
     "file_name": "India_Nykaa_Fragrance_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY_Earthy|sp||as||sp|Woody"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -913,7 +913,7 @@
     "file_name": "India_Nykaa_Fragrance_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY_Floral"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -924,7 +924,7 @@
     "file_name": "India_Nykaa_Fragrance_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY_Fresh|sp||as||sp|Aquatic"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -935,7 +935,7 @@
     "file_name": "India_Nykaa_Fragrance_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY_Spicy|sp||as||sp|Warm"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -946,7 +946,7 @@
     "file_name": "India_Nykaa_Fragrance_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY_Oud|sp|Collection"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -957,7 +957,7 @@
     "file_name": "India_Nykaa_Fragrance_SHOP|sp|BY|sp|FRAGRANCE|sp|FAMILY_Fruity"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -968,7 +968,7 @@
     "file_name": "India_Nykaa_Fragrance_Candles_Candles"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -979,7 +979,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_FACE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -990,7 +990,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Face|sp|Primer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1001,7 +1001,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Concealer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1012,7 +1012,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Foundation"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1023,7 +1023,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Compact"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1034,7 +1034,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Contour"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1045,7 +1045,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Loose|sp|Powder"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1056,7 +1056,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Blush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1067,7 +1067,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Bronzer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1078,7 +1078,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_BB|sp||as||sp|CC|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1089,7 +1089,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Highlighters"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1100,7 +1100,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Setting|sp|Spray"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1111,7 +1111,7 @@
     "file_name": "India_Nykaa_Makeup_FACE_Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1122,7 +1122,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_EYES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1133,7 +1133,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Kajal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1144,7 +1144,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Eyeliner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1155,7 +1155,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Mascara"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1166,7 +1166,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Shadow"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1177,7 +1177,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Brow|sp|Enhancers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1188,7 +1188,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Primer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1199,7 +1199,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_False|sp|Eyelashes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1210,7 +1210,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Eye|sp|Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1221,7 +1221,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Under|sp|Eye|sp|Concealer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1232,7 +1232,7 @@
     "file_name": "India_Nykaa_Makeup_EYES_Contact|sp|Lenses"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1243,7 +1243,7 @@
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_MAKEUP|sp|KITS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1254,7 +1254,7 @@
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_Eye|sp|Palettes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1265,7 +1265,7 @@
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_Face|sp|Palettes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1276,7 +1276,7 @@
     "file_name": "India_Nykaa_Makeup_MAKEUP|sp|KITS_Customize|sp|Your|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1287,7 +1287,7 @@
     "file_name": "India_Nykaa_Skin_CLEANSERS_CLEANSERS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1298,7 +1298,7 @@
     "file_name": "India_Nykaa_Skin_CLEANSERS_Facewash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1309,7 +1309,7 @@
     "file_name": "India_Nykaa_Skin_CLEANSERS_Cleanser"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1320,7 +1320,7 @@
     "file_name": "India_Nykaa_Skin_CLEANSERS_Scrubs|sp||as||sp|Exfoliators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1331,7 +1331,7 @@
     "file_name": "India_Nykaa_Skin_CLEANSERS_Facial|sp|Wipes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1342,7 +1342,7 @@
     "file_name": "India_Nykaa_Skin_CLEANSERS_Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1353,7 +1353,7 @@
     "file_name": "India_Nykaa_Skin_TONERS_TONERS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1364,7 +1364,7 @@
     "file_name": "India_Nykaa_Skin_TONERS_Toners|sp||as||sp|Mists"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1375,7 +1375,7 @@
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Toners|sp|Under|sp|1000"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1386,7 +1386,7 @@
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Face|sp|Wash|sp|For|sp|Oily|sp|Skin"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1397,7 +1397,7 @@
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Oil|sp|Free|sp|Face|sp|Moisturizers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1408,7 +1408,7 @@
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Lip|sp|Balm|sp|Under|sp|500"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1419,7 +1419,7 @@
     "file_name": "India_Nykaa_Skin_TRENDING|sp|SEARCHES_Vitamin|sp|C|sp|Serum"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1430,7 +1430,7 @@
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_MOISTURIZERS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1441,7 +1441,7 @@
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Face|sp|Moisturizer|sp||as||sp|Day|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1452,7 +1452,7 @@
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Night|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1463,7 +1463,7 @@
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Face|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1474,7 +1474,7 @@
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_Serums|sp||as||sp|Essence"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1485,7 +1485,7 @@
     "file_name": "India_Nykaa_Skin_MOISTURIZERS_BB|sp||as||sp|CC|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1496,7 +1496,7 @@
     "file_name": "India_Nykaa_Skin_MASKS_MASKS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1507,7 +1507,7 @@
     "file_name": "India_Nykaa_Skin_MASKS_Masks|sp||as||sp|Peels"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1518,7 +1518,7 @@
     "file_name": "India_Nykaa_Skin_MASKS_Sheet|sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1529,7 +1529,7 @@
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_KITS|sp||as||sp|COMBOS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1540,7 +1540,7 @@
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_Facial|sp|Kits"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1551,7 +1551,7 @@
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_Combos|sp|@|sp|Nykaa"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1562,7 +1562,7 @@
     "file_name": "India_Nykaa_Skin_KITS|sp||as||sp|COMBOS_Gift|sp|Sets"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1573,7 +1573,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_HAIR|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1584,7 +1584,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_Nutritional|sp|Supplements"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1595,7 +1595,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_Shampoo"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1606,7 +1606,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_Dry|sp|Shampoo"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1617,7 +1617,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_Conditioner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1628,7 +1628,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_Hair|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1639,7 +1639,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_Hair|sp|Serum"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1650,7 +1650,7 @@
     "file_name": "India_Nykaa_Hair_HAIR|sp|CARE_Hair|sp|Creams|sp||as||sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1661,7 +1661,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_TOOLS|sp||as||sp|ACCESSORIES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1672,7 +1672,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_Hair|sp|Brushes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1683,7 +1683,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_Hair|sp|Combs"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1694,7 +1694,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_Dryers|sp||as||sp|Stylers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1705,7 +1705,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_Straighteners"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1716,7 +1716,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_Rollers|sp||as||sp|Curlers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1727,7 +1727,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_Hair|sp|Extensions"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1738,7 +1738,7 @@
     "file_name": "India_Nykaa_Hair_TOOLS|sp||as||sp|ACCESSORIES_Hair|sp|Accessories"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1749,7 +1749,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|STYLING|sp|TOOLS_HAIR|sp|STYLING|sp|TOOLS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1760,7 +1760,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|STYLING|sp|TOOLS_Hair|sp|Dryers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1771,7 +1771,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|STYLING|sp|TOOLS_Straighteners"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1782,7 +1782,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|STYLING|sp|TOOLS_Curling|sp|Iron|fs|Stylers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1793,7 +1793,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|STYLING|sp|TOOLS_Multi|sp|Stylers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1804,7 +1804,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|REMOVAL|sp|TOOLS_HAIR|sp|REMOVAL|sp|TOOLS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1815,7 +1815,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|REMOVAL|sp|TOOLS_Epilators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1826,7 +1826,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|REMOVAL|sp|TOOLS_Body|sp|Groomers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1837,7 +1837,7 @@
     "file_name": "India_Nykaa_Appliances_HAIR|sp|REMOVAL|sp|TOOLS_Bikini|sp|Trimmers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1848,7 +1848,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_HANDS|sp||as||sp|FEET"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1859,7 +1859,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Handwash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1870,7 +1870,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Hand|sp|Sanitizer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1881,7 +1881,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Hand|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1892,7 +1892,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Foot|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1903,7 +1903,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HANDS|sp||as||sp|FEET_Tissue|sp|Boxes|sp||as||sp|Handkerchiefs"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1914,7 +1914,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_EYE|sp|CARE_EYE|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1925,7 +1925,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_EYE|sp|CARE_Contact|sp|Lenses"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1936,7 +1936,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_EYE|sp|CARE_Lens|sp|Solution|sp||as||sp|Accessories"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1947,7 +1947,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_SKIN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1958,7 +1958,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Wash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1969,7 +1969,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Cleanser"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1980,7 +1980,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Moisturizer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -1991,7 +1991,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2002,7 +2002,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Mist"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2013,7 +2013,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Facial|sp|Kits"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2024,7 +2024,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Toner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2035,7 +2035,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2046,7 +2046,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2057,7 +2057,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Night|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2068,7 +2068,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Day|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2079,7 +2079,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Under|sp|Eye|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2090,7 +2090,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Bleach"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2101,7 +2101,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Serums"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2112,7 +2112,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_SKIN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2123,7 +2123,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Sheet|sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2134,7 +2134,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Masks|sp||as||sp|Peels"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2145,7 +2145,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Scrubs|sp||as||sp|Exfoliators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2156,7 +2156,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Tools"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2167,7 +2167,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Face|sp|Gel"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2178,7 +2178,7 @@
     "file_name": "India_Nykaa_Natural_SKIN_Lip|sp|Scrub"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2189,7 +2189,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_BODY|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2200,7 +2200,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Shower|sp|Gels|sp||as||sp|Body|sp|Wash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2211,7 +2211,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Soaps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2222,7 +2222,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Body|sp|Lotions"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2233,7 +2233,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Body|sp|Scrubs"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2244,7 +2244,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Bath|sp|Salts|sp||as||sp|Bath|sp|Bombs"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2255,7 +2255,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Hands|sp||as||sp|Feet|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2266,7 +2266,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Bath|sp|Tools|sp||as||sp|Accessories"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2277,7 +2277,7 @@
     "file_name": "India_Nykaa_Natural_BODY|sp|CARE_Oral|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2288,7 +2288,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_BABY|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2299,7 +2299,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Body|sp|Wash|sp||as||sp|Soaps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2310,7 +2310,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2321,7 +2321,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Hair|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2332,7 +2332,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Lotions|sp||as||sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2343,7 +2343,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Powder"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2354,7 +2354,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Shampoo|sp||as||sp|Conditioner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2365,7 +2365,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2376,7 +2376,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Wipes|sp||as||sp|Buds"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2387,7 +2387,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Teeth|sp||as||sp|Dental|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2398,7 +2398,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Rash|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2409,7 +2409,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Diapers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2420,7 +2420,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Diaper|sp|Accessories"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2431,7 +2431,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Bath|sp|Accessories"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2442,7 +2442,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Grooming"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2453,7 +2453,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_BABY|sp|CARE_Baby|sp|Bedding"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2464,7 +2464,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_KIDS|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2475,7 +2475,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Nutritional|sp|Supplement"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2486,7 +2486,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Body|sp|Wash|sp||as||sp|Soaps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2497,7 +2497,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Lotions|sp||as||sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2508,7 +2508,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Hair|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2519,7 +2519,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2530,7 +2530,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Dental|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2541,7 +2541,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_KIDS|sp|CARE_Kids|sp|Makeup"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2552,7 +2552,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_HEALTH|sp|SUPPLEMENTS_HEALTH|sp|SUPPLEMENTS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2563,7 +2563,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_HEALTH|sp|SUPPLEMENTS_Multivitamins"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2574,7 +2574,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_HEALTH|sp|SUPPLEMENTS_Calcium|sp||as||sp|Vitamin|sp|D"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2585,7 +2585,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_HEALTH|sp|SUPPLEMENTS_Magnesium|sp||as||sp|Zinc"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2596,7 +2596,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_HEALTH|sp|SUPPLEMENTS_Omega|sp|3|sp||as||sp|Fish|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2607,7 +2607,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_HEALTH|sp|SUPPLEMENTS_Immunity|sp|Boosters|sp||as||sp|Vitamin|sp|C"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2618,7 +2618,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_HEALTH|sp|SUPPLEMENTS_Other|sp|Supplements"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2629,7 +2629,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_BEAUTY|sp|SUPPLEMENTS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2640,7 +2640,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Collagen|sp|(Skin)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2651,7 +2651,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Biotin|sp|(Hair)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2662,7 +2662,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Vitamin|sp|E|sp|(Skin)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2673,7 +2673,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Glutathione|sp|(Skin)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2684,7 +2684,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_BEAUTY|sp|SUPPLEMENTS_Other|sp|Beauty|sp|Supplements"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2695,7 +2695,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SPORTS|sp|NUTRITION_SPORTS|sp|NUTRITION"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2706,7 +2706,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SPORTS|sp|NUTRITION_Whey|sp|Protein"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2717,7 +2717,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SPORTS|sp|NUTRITION_Plant|sp|Protein"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2728,7 +2728,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SPORTS|sp|NUTRITION_BCAA|sp||as||sp|Other|sp|Muscle|sp|Support"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2739,7 +2739,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SPORTS|sp|NUTRITION_Protein|sp||as||sp|Energy|sp|Bars"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2750,7 +2750,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SPORTS|sp|NUTRITION_Protein|sp|Snacks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2761,7 +2761,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_WEIGHT|sp|MANAGEMENT"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2772,7 +2772,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_Weight|sp|Gain"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2783,7 +2783,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_Apple|sp|Cider|sp|Vinegar"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2794,7 +2794,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_Green|sp|Tea"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2805,7 +2805,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_Green|sp|Coffee"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2816,7 +2816,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_Fat|sp|Burner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2827,7 +2827,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_Slimming|sp|Shakes|sp||as||sp|Juices"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2838,7 +2838,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_WEIGHT|sp|MANAGEMENT_Sugar|sp|Substitutes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2849,7 +2849,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_SHAVING"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2860,7 +2860,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Razors|sp||as||sp|Cartridges"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2871,7 +2871,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Shavers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2882,7 +2882,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Trimmers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2893,7 +2893,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2904,7 +2904,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Foams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2915,7 +2915,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Gels"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2926,7 +2926,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Pre|sp||as||sp|Post|sp|Shaves"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2937,7 +2937,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Aftershave|sp|Lotion"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2948,7 +2948,7 @@
     "file_name": "India_Nykaa_Men_SHAVING_Shaving|sp|Brushes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2959,7 +2959,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_BEARD|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2970,7 +2970,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2981,7 +2981,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Butter"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -2992,7 +2992,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Softener"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3003,7 +3003,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Wash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3014,7 +3014,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Wax"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3025,7 +3025,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Moustache|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3036,7 +3036,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Comb"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3047,7 +3047,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Moustache|sp|Wax"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3058,7 +3058,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Kits"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3069,7 +3069,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Balm"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3080,7 +3080,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3091,7 +3091,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Serum"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3102,7 +3102,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Colour"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3113,7 +3113,7 @@
     "file_name": "India_Nykaa_Men_BEARD|sp|CARE_Beard|sp|Shampoo"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3124,7 +3124,7 @@
     "file_name": "India_Nykaa_Fragrance_WOMENS|sp|FRAGRANCE_WOMENS|sp|FRAGRANCE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3135,7 +3135,7 @@
     "file_name": "India_Nykaa_Fragrance_WOMENS|sp|FRAGRANCE_Perfumes|sp|(EDT|sp||fs||sp|EDP)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3146,7 +3146,7 @@
     "file_name": "India_Nykaa_Fragrance_WOMENS|sp|FRAGRANCE_Body|sp|Mists|sp||fs||sp|Sprays"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3157,7 +3157,7 @@
     "file_name": "India_Nykaa_Fragrance_WOMENS|sp|FRAGRANCE_Deodorants|sp||fs||sp|Roll|h|Ons"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3168,7 +3168,7 @@
     "file_name": "India_Nykaa_Fragrance_MENS|sp|FRAGRANCE_MENS|sp|FRAGRANCE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3179,7 +3179,7 @@
     "file_name": "India_Nykaa_Fragrance_MENS|sp|FRAGRANCE_Perfumes|sp|(EDT|sp||fs||sp|EDP)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3190,7 +3190,7 @@
     "file_name": "India_Nykaa_Fragrance_MENS|sp|FRAGRANCE_Body|sp|Mists|sp||fs||sp|Sprays"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3201,7 +3201,7 @@
     "file_name": "India_Nykaa_Fragrance_MENS|sp|FRAGRANCE_Deodorants|sp||fs||sp|Roll|h|Ons"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3212,7 +3212,7 @@
     "file_name": "India_Nykaa_Fragrance_MENS|sp|FRAGRANCE_Colognes|sp||as||sp|After|sp|Shaves"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3223,7 +3223,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_FACE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3234,7 +3234,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Primer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3245,7 +3245,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Corrector|sp||as||sp|Concealer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3256,7 +3256,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Foundation"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3267,7 +3267,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Compact"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3278,7 +3278,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Loose|sp|Powder"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3289,7 +3289,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Blush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3300,7 +3300,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Bronzer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3311,7 +3311,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Highlighter"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3322,7 +3322,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Tinted|sp|Moisturizer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3333,7 +3333,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_BB|sp||as||sp|CC|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3344,7 +3344,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3355,7 +3355,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Contouring"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3366,7 +3366,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Customize|sp|Your|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3377,7 +3377,7 @@
     "file_name": "India_Nykaa_LUXE_FACE_Setting|sp|Spray"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3388,7 +3388,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_EYES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3399,7 +3399,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Eyeliner|sp||as||sp|Kajal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3410,7 +3410,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Mascara"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3421,7 +3421,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Eye|sp|Shadow"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3432,7 +3432,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Brows"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3443,7 +3443,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Lashes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3454,7 +3454,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Eye|sp|Primer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3465,7 +3465,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Corrector|sp||as||sp|Concealer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3476,7 +3476,7 @@
     "file_name": "India_Nykaa_LUXE_EYES_Customize|sp|Your|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3487,7 +3487,7 @@
     "file_name": "India_Nykaa_LUXE_LIPS_LIPS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3498,7 +3498,7 @@
     "file_name": "India_Nykaa_LUXE_LIPS_Lipstick"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3509,7 +3509,7 @@
     "file_name": "India_Nykaa_LUXE_LIPS_Liquid|sp|Lipstick"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3520,7 +3520,7 @@
     "file_name": "India_Nykaa_LUXE_LIPS_Lip|sp|Gloss"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3531,7 +3531,7 @@
     "file_name": "India_Nykaa_LUXE_LIPS_Lip|sp|Liner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3542,7 +3542,7 @@
     "file_name": "India_Nykaa_LUXE_LIPS_Lip|sp|Balm"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3553,7 +3553,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_LIPS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3564,7 +3564,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Lipstick"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3575,7 +3575,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Liquid|sp|Lipstick"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3586,7 +3586,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Crayon"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3597,7 +3597,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Gloss"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3608,7 +3608,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Liner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3619,7 +3619,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Plumper"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3630,7 +3630,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Stain"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3641,7 +3641,7 @@
     "file_name": "India_Nykaa_Makeup_LIPS_Lip|sp|Balm"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3652,7 +3652,7 @@
     "file_name": "India_Nykaa_Makeup_NAILS_NAILS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3663,7 +3663,7 @@
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Polish"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3674,7 +3674,7 @@
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Art|sp|Kits"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3685,7 +3685,7 @@
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Polish|sp|Sets"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3696,7 +3696,7 @@
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3707,7 +3707,7 @@
     "file_name": "India_Nykaa_Makeup_NAILS_Nail|sp|Polish|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3718,7 +3718,7 @@
     "file_name": "India_Nykaa_Makeup_NAILS_Manicure|sp||as||sp|Pedicure|sp|Kits"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3729,7 +3729,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_TOOLS|sp||as||sp|BRUSHES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3740,7 +3740,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Face|sp|Brush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3751,7 +3751,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Blush|sp|Brush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3762,7 +3762,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Eye|sp|Brush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3773,7 +3773,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Lip|sp|Brush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3784,7 +3784,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Brush|sp|Sets"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3795,7 +3795,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Sponges|sp||as||sp|Applicators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3806,7 +3806,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Eyelash|sp|Curlers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3817,7 +3817,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Tweezers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3828,7 +3828,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Sharpeners"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3839,7 +3839,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Mirrors"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3850,7 +3850,7 @@
     "file_name": "India_Nykaa_Makeup_TOOLS|sp||as||sp|BRUSHES_Makeup|sp|Pouches"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3861,7 +3861,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_BODY|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3872,7 +3872,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Body|sp|Butter"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3883,7 +3883,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Lotions|sp||as||sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3894,7 +3894,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Massage|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3905,7 +3905,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Anti|h|Stretch|sp|Mark|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3916,7 +3916,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Anti|h|Cellulite|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3927,7 +3927,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Bath|sp|Salts"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3938,7 +3938,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Shower|sp|Gels|sp||as||sp|Body|sp|Wash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3949,7 +3949,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Bath|sp|Scrubs"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3960,7 +3960,7 @@
     "file_name": "India_Nykaa_Skin_BODY|sp|CARE_Soaps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3971,7 +3971,7 @@
     "file_name": "India_Nykaa_Skin_SUN|sp|CARE_SUN|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3982,7 +3982,7 @@
     "file_name": "India_Nykaa_Skin_SUN|sp|CARE_Face|sp|Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -3993,7 +3993,7 @@
     "file_name": "India_Nykaa_Skin_SUN|sp|CARE_Body|sp|Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4004,7 +4004,7 @@
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_HANDS|sp||as||sp|FEET"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4015,7 +4015,7 @@
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_Hand|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4026,7 +4026,7 @@
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_Foot|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4037,7 +4037,7 @@
     "file_name": "India_Nykaa_Skin_HANDS|sp||as||sp|FEET_Hand|sp||as||sp|Foot|sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4048,7 +4048,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_NYKAA|sp|SKINRX"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4059,7 +4059,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_Innisfree"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4070,7 +4070,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_L|sq|Oreal|sp|Paris"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4081,7 +4081,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_Nykaa|sp|Naturals"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4092,7 +4092,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_Neutrogena"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4103,7 +4103,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_The|sp|Face|sp|Shop"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4114,7 +4114,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_Nivea"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4125,7 +4125,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_Mamaearth"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4136,7 +4136,7 @@
     "file_name": "India_Nykaa_Skin_TOP|sp|BRANDS_Plum"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4147,7 +4147,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_SHOP|sp|BY|sp|CONCERN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4158,7 +4158,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Skin|sp|Brightening"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4169,7 +4169,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Acne|sp|Treatment"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4180,7 +4180,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Dull|sp|Skin|sp|Treatment"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4191,7 +4191,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Pigmentation"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4202,7 +4202,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Anti|sp|Ageing"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4213,7 +4213,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Tan|sp|Removal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4224,7 +4224,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Face|sp|Treatment"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4235,7 +4235,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Pore|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4246,7 +4246,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Sun|sp|Protection"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4257,7 +4257,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Skin|sp|Dryness"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4268,7 +4268,7 @@
     "file_name": "India_Nykaa_Skin_SHOP|sp|BY|sp|CONCERN_Oil|sp|Control"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4279,7 +4279,7 @@
     "file_name": "India_Nykaa_Appliances_MASSAGE|sp|TOOLS_MASSAGE|sp|TOOLS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4290,7 +4290,7 @@
     "file_name": "India_Nykaa_Appliances_MASSAGE|sp|TOOLS_Face|sp|Epilator"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4301,7 +4301,7 @@
     "file_name": "India_Nykaa_Appliances_MASSAGE|sp|TOOLS_Dermarollers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4312,7 +4312,7 @@
     "file_name": "India_Nykaa_Appliances_MASSAGE|sp|TOOLS_Cleansing|sp|Brushes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4323,7 +4323,7 @@
     "file_name": "India_Nykaa_Appliances_MASSAGE|sp|TOOLS_Acne|sp|Removal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4334,7 +4334,7 @@
     "file_name": "India_Nykaa_Appliances_FOOT|sp|CARE_FOOT|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4345,7 +4345,7 @@
     "file_name": "India_Nykaa_Appliances_FOOT|sp|CARE_Massagers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4356,7 +4356,7 @@
     "file_name": "India_Nykaa_Appliances_QUICK|sp|LINKS_Combos|sp|@|sp|Nykaa"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4367,7 +4367,7 @@
     "file_name": "India_Nykaa_Appliances_QUICK|sp|LINKS_New|sp|Launches"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4378,7 +4378,7 @@
     "file_name": "India_Nykaa_Appliances_QUICK|sp|LINKS_NFBA|sp|Nominees|sp|2020"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4389,7 +4389,7 @@
     "file_name": "India_Nykaa_Appliances_QUICK|sp|LINKS_Gifts|sp|@|sp|Nykaa"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4400,7 +4400,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_FEMININE|sp|HYGIENE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4411,7 +4411,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Sanitary|sp|Napkins"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4422,7 +4422,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Tampons"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4433,7 +4433,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Pantyliners"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4444,7 +4444,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Shaving|sp||as||sp|Hair|sp|Removal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4455,7 +4455,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Intimate|sp|Hygiene"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4466,7 +4466,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Cotton|sp|Buds|sp||as||sp|Balls"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4477,7 +4477,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_FEMININE|sp|HYGIENE_Menstrual|sp|Cups"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4488,7 +4488,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOOLS|sp||as||sp|ACCESSORIES_TOOLS|sp||as||sp|ACCESSORIES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4499,7 +4499,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOOLS|sp||as||sp|ACCESSORIES_Manicure|sp||as||sp|Pedicure|sp|Kits"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4510,7 +4510,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOOLS|sp||as||sp|ACCESSORIES_Body|sp|Scrubbers|sp||as||sp|Brushes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4521,7 +4521,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOOLS|sp||as||sp|ACCESSORIES_Loofahs|sp||as||sp|Sponges"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4532,7 +4532,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOOLS|sp||as||sp|ACCESSORIES_Shower|sp|Caps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4543,7 +4543,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TOOLS|sp||as||sp|ACCESSORIES_Miscellaneous"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4554,7 +4554,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_HOME|sp||as||sp|HEALTH"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4565,7 +4565,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Insect|sp|Repellents"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4576,7 +4576,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Air|sp|Fresheners"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4587,7 +4587,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Toilet|sp|Seat|sp|Sanitizer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4598,7 +4598,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Face|sp|Mask"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4609,7 +4609,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Gloves"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4620,7 +4620,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_HOME|sp||as||sp|HEALTH_Others"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4631,7 +4631,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_TRAVEL|sp|ESSENTIALS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4642,7 +4642,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Wanderlust"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4653,7 +4653,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Dove"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4664,7 +4664,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Gillette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4675,7 +4675,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Pantene"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4686,7 +4686,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Palmolive"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4697,7 +4697,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRAVEL|sp|ESSENTIALS_Bella"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4708,7 +4708,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_QUICK|sp|LINKS_Combos|sp|@|sp|Nykaa"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4719,7 +4719,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_QUICK|sp|LINKS_New|sp|Launches"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4730,7 +4730,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_QUICK|sp|LINKS_NFBA|sp|Nominees|sp|2020"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4741,7 +4741,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_QUICK|sp|LINKS_Gifts|sp|@|sp|Nykaa"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4752,7 +4752,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Beard|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4763,7 +4763,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Mosquito|sp|Repellent"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4774,7 +4774,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Menstrual|sp|Cup"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4785,7 +4785,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Hair|sp|Removal|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4796,7 +4796,7 @@
     "file_name": "India_Nykaa_Personal|sp|Care_TRENDING|sp|SEARCHES_Wax|sp|Strips"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4807,7 +4807,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_HAIR"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4818,7 +4818,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_Shampoo|sp||as||sp|Cleanser"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4829,7 +4829,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_Conditioner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4840,7 +4840,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_Hair|sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4851,7 +4851,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_Hair|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4862,7 +4862,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_Hair|sp|Serum"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4873,7 +4873,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_Hair|sp|Color"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4884,7 +4884,7 @@
     "file_name": "India_Nykaa_Natural_HAIR_Tools|sp||as||sp|Accessories"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4895,7 +4895,7 @@
     "file_name": "India_Nykaa_Natural_AROMATHERAPY_AROMATHERAPY"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4906,7 +4906,7 @@
     "file_name": "India_Nykaa_Natural_AROMATHERAPY_Massage|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4917,7 +4917,7 @@
     "file_name": "India_Nykaa_Natural_AROMATHERAPY_Carrier|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4928,7 +4928,7 @@
     "file_name": "India_Nykaa_Natural_AROMATHERAPY_Essential|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4939,7 +4939,7 @@
     "file_name": "India_Nykaa_Natural_AROMATHERAPY_Candles"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4950,7 +4950,7 @@
     "file_name": "India_Nykaa_Natural_AROMATHERAPY_Diffuser"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4961,7 +4961,7 @@
     "file_name": "India_Nykaa_Natural_AROMATHERAPY_Incense|sp|Sticks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4972,7 +4972,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_MAKEUP"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4983,7 +4983,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Lipstick"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -4994,7 +4994,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Kajal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5005,7 +5005,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Eyeliner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5016,7 +5016,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Mascara"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5027,7 +5027,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Nail|sp|Polish"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5038,7 +5038,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Lip|sp|Balm|sp||as||sp|Gloss"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5049,7 +5049,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Foundation|sp||as||sp|Concealer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5060,7 +5060,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Blush|sp||as||sp|Highlighter"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5071,7 +5071,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5082,7 +5082,7 @@
     "file_name": "India_Nykaa_Natural_MAKEUP_Tools|sp||as||sp|Brushes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5093,7 +5093,7 @@
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_TRENDING|sp|SEARCH"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5104,7 +5104,7 @@
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Tea|sp|Tree|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5115,7 +5115,7 @@
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Eucalyptus|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5126,7 +5126,7 @@
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Rosemary|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5137,7 +5137,7 @@
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Jojoba|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5148,7 +5148,7 @@
     "file_name": "India_Nykaa_Natural_TRENDING|sp|SEARCH_Peppermint|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5159,7 +5159,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_BABY|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5170,7 +5170,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Biotique"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5181,7 +5181,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Lotus|sp|Herbals"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5192,7 +5192,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Nykaa|sp|Naturals"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5203,7 +5203,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Kama|sp|Ayurveda"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5214,7 +5214,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Khadi|sp|Natural"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5225,7 +5225,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_Himalaya"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5236,7 +5236,7 @@
     "file_name": "India_Nykaa_Natural_BABY|sp|CARE_VLCC"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5247,7 +5247,7 @@
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_TYPES|sp|OF|sp|SKIN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5258,7 +5258,7 @@
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Dry|sp|Skin"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5269,7 +5269,7 @@
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Normal|sp|Skin"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5280,7 +5280,7 @@
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Oily|sp|Skin"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5291,7 +5291,7 @@
     "file_name": "India_Nykaa_Natural_TYPES|sp|OF|sp|SKIN_Combination|sp|Skin"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5302,7 +5302,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_MATERNITY|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5313,7 +5313,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Stretch|sp|Mark|sp|Creams|sp||as||sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5324,7 +5324,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Breast|sp|Firming|sp|Gels|sp||as||sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5335,7 +5335,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Nipple|sp|Creams"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5346,7 +5346,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Nutritional|sp|Supplements"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5357,7 +5357,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|CARE_Maternity|sp|Pillows"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5368,7 +5368,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_NURSING|sp||as||sp|FEEDING"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5379,7 +5379,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Feeding|sp|Bottle|sp||as||sp|Nipples"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5390,7 +5390,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Teethers|sp||as||sp|Soothers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5401,7 +5401,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Breast|sp|Pumps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5412,7 +5412,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Breast|sp|Pads"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5423,7 +5423,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Cleaning|sp||as||sp|Feeding|sp|Accessories"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5434,7 +5434,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Bibs"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5445,7 +5445,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_NURSING|sp||as||sp|FEEDING_Sippers|sp||as||sp|Cups"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5456,7 +5456,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_HEALTH|sp||as||sp|SAFETY"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5467,7 +5467,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Nose|sp||as||sp|Ear|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5478,7 +5478,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Gripe|sp|Water|sp||as||sp|Tummy|sp|Roll|sp|On"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5489,7 +5489,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Detergents|sp||as||sp|Cleansers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5500,7 +5500,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Handwash|sp||as||sp|Sanitizer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5511,7 +5511,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_HEALTH|sp||as||sp|SAFETY_Mosquito|sp|Repellent"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5522,7 +5522,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_MATERNITY|sp|WEAR"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5533,7 +5533,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_Maternity|sp|Bra"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5544,7 +5544,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_Maternity|sp|Dress"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5555,7 +5555,7 @@
     "file_name": "India_Nykaa_Mom|sp||as||sp|Baby_MATERNITY|sp|WEAR_Maternity|sp|Tops"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5566,7 +5566,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_PAIN|sp|RELIEF_PAIN|sp|RELIEF"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5577,7 +5577,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_PAIN|sp|RELIEF_Muscles|sp||as||sp|Joints"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5588,7 +5588,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_PAIN|sp|RELIEF_Ortho|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5599,7 +5599,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_PAIN|sp|RELIEF_Period|sp|Cramps"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5610,7 +5610,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_PAIN|sp|RELIEF_Cough|sp||as||sp|Cold"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5621,7 +5621,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SEXUAL|sp|WELLNESS_SEXUAL|sp|WELLNESS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5632,7 +5632,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SEXUAL|sp|WELLNESS_Condoms"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5643,7 +5643,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SEXUAL|sp|WELLNESS_Lubricants"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5654,7 +5654,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SEXUAL|sp|WELLNESS_Sexual|sp|Enhancers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5665,7 +5665,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_MEDICAL|sp|DEVICES_MEDICAL|sp|DEVICES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5676,7 +5676,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_MEDICAL|sp|DEVICES_Oximeters"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5687,7 +5687,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_AYURVEDA|sp||as||sp|HERBS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5698,7 +5698,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Ashwagandha"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5709,7 +5709,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Neem|sp|(Blood|sp|Purifier)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5720,7 +5720,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Amla|sp|(Immunity,|sp|Skin)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5731,7 +5731,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Aloe|sp|Vera|sp|(Liver,|sp|Skin)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5742,7 +5742,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Milk|sp|Thistle|sp|(Liver)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5753,7 +5753,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Wheatgrass|sp|(Detox)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5764,7 +5764,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Tulsi"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5775,7 +5775,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Giloy|sp||as||sp|Guduchi|sp|(Immunity)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5786,7 +5786,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Turmeric|sp|(Anti|sp|Inflamatory)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5797,7 +5797,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Spirulina|sp||as||sp|Moringa"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5808,7 +5808,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Chyavanprash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5819,7 +5819,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Shilajit"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5830,7 +5830,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_AYURVEDA|sp||as||sp|HERBS_Other|sp|Herbal|sp|Supplements"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5841,7 +5841,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_SHOP|sp|BY|sp|CONCERN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5852,7 +5852,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Diabetes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5863,7 +5863,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Digestion|sp|(Gut|sp|Health)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5874,7 +5874,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Organs|sp||h||sp|Liver,|sp|Heart,|sp|Kidney"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5885,7 +5885,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Safety|sp||as||sp|First|sp|Aid"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5896,7 +5896,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Weakness|sp||as||sp|Vitality"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5907,7 +5907,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Kids|sp|Nutrition"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5918,7 +5918,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Mental|sp|Wellness"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5929,7 +5929,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Blood|sp|Pressure"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5940,7 +5940,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Hormonal|sp|Balance"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5951,7 +5951,7 @@
     "file_name": "India_Nykaa_Health|sp||as||sp|Wellness_SHOP|sp|BY|sp|CONCERN_Calm|sp||as||sp|Sleep"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5962,7 +5962,7 @@
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_HAIR|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5973,7 +5973,7 @@
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_Shampoo"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5984,7 +5984,7 @@
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_Conditioner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -5995,7 +5995,7 @@
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_Hair|sp|Styling"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6006,7 +6006,7 @@
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_Hair|sp|Color"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6017,7 +6017,7 @@
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_Hair|sp|Oils"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6028,7 +6028,7 @@
     "file_name": "India_Nykaa_Men_HAIR|sp|CARE_Professional|sp|Products"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6039,7 +6039,7 @@
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_SKIN|sp|CARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6050,7 +6050,7 @@
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Face|sp|Wash"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6061,7 +6061,7 @@
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Moisturizers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6072,7 +6072,7 @@
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6083,7 +6083,7 @@
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Masks|sp||as||sp|Peels"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6094,7 +6094,7 @@
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Scrubs|sp||as||sp|Exfoliators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6105,7 +6105,7 @@
     "file_name": "India_Nykaa_Men_SKIN|sp|CARE_Fairness"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6116,7 +6116,7 @@
     "file_name": "India_Nykaa_Men_SHOP|sp|BY|sp|CONCERN_SHOP|sp|BY|sp|CONCERN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6127,7 +6127,7 @@
     "file_name": "India_Nykaa_Men_SHOP|sp|BY|sp|CONCERN_Anti|sp|Dandruff"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6138,7 +6138,7 @@
     "file_name": "India_Nykaa_Men_SHOP|sp|BY|sp|CONCERN_Anti|sp|Hairfall"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6149,7 +6149,7 @@
     "file_name": "India_Nykaa_Men_SHOP|sp|BY|sp|CONCERN_Scalp|sp|Treatment"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6160,7 +6160,7 @@
     "file_name": "India_Nykaa_Men_SHOP|sp|BY|sp|CONCERN_Anti|sp|Acne"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6171,7 +6171,7 @@
     "file_name": "India_Nykaa_Men_SHOP|sp|BY|sp|CONCERN_Anti|sp|Ageing"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6182,7 +6182,7 @@
     "file_name": "India_Nykaa_Men_WELLNESS_WELLNESS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6193,7 +6193,7 @@
     "file_name": "India_Nykaa_Men_WELLNESS_Sexual|sp|Wellness"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6204,7 +6204,7 @@
     "file_name": "India_Nykaa_Men_WELLNESS_Health|sp|Supplements"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6215,7 +6215,7 @@
     "file_name": "India_Nykaa_Men_WELLNESS_Weight|sp|Management"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6226,7 +6226,7 @@
     "file_name": "India_Nykaa_Men_WELLNESS_Sports|sp|Nutrition"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6237,7 +6237,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_MAKE|sp|UP_FACE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6248,7 +6248,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Primer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6259,7 +6259,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Corrector|sp||as||sp|Concealer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6270,7 +6270,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Foundation"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6281,7 +6281,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Compact"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6292,7 +6292,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Loose|sp|Powder"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6303,7 +6303,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Blush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6314,7 +6314,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Bronzer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6325,7 +6325,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Highlighter"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6336,7 +6336,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Tinted|sp|Moisturizer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6347,7 +6347,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_BB|sp||as||sp|CC|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6358,7 +6358,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6369,7 +6369,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Contouring"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6380,7 +6380,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Customize|sp|Your|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6391,7 +6391,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_FACE_Setting|sp|Spray"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6402,7 +6402,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_MAKE|sp|UP_EYES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6413,7 +6413,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Eyeliner|sp||as||sp|Kajal"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6424,7 +6424,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Mascara"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6435,7 +6435,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Eye|sp|Shadow"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6446,7 +6446,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Brows"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6457,7 +6457,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Lashes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6468,7 +6468,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Eye|sp|Primer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6479,7 +6479,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Corrector|sp||as||sp|Concealer"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6490,7 +6490,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_EYES_Customize|sp|Your|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6501,7 +6501,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_MAKE|sp|UP_LIPS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6512,7 +6512,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lipstick"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6523,7 +6523,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Liquid|sp|Lipstick"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6534,7 +6534,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lip|sp|Gloss"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6545,7 +6545,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lip|sp|Liner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6556,7 +6556,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_LIPS_Lip|sp|Balm"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6567,7 +6567,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_MAKE|sp|UP_NAILS"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6578,7 +6578,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_Nail|sp|Polish"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6589,7 +6589,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_Nail|sp|Care"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6600,7 +6600,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_NAILS_Nail|sp|Polish|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6611,7 +6611,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_MAKE|sp|UP_PALETTES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6622,7 +6622,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_Eye|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6633,7 +6633,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_Face|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6644,7 +6644,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_PALETTES_Customize|sp|Your|sp|Palette"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6655,7 +6655,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6666,7 +6666,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Face|sp|Brush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6677,7 +6677,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Eye|sp|Brush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6688,7 +6688,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Lip|sp|Brush"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6699,7 +6699,7 @@
     "file_name": "India_Nykaa_LUXE_MAKE|sp|UP_TOOLS|sp||as||sp|BRUSHES_Applicators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6710,7 +6710,7 @@
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_BATH|sp||as||sp|BODY_BATH"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6721,7 +6721,7 @@
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_Soap"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6732,7 +6732,7 @@
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_Shower|sp|Gel"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6743,7 +6743,7 @@
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BATH_Scrubs|sp||as||sp|Exfoliators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6754,7 +6754,7 @@
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BODY_BATH|sp||as||sp|BODY_BODY"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6765,7 +6765,7 @@
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BODY_Moisturiser"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6776,7 +6776,7 @@
     "file_name": "India_Nykaa_LUXE_BATH|sp||as||sp|BODY_BODY_Sun|sp|Protection"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6787,7 +6787,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_FACE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6798,7 +6798,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Face|sp|Wash|sp||as||sp|Cleansers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6809,7 +6809,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Toner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6820,7 +6820,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Exfoliators"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6831,7 +6831,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Serum"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6842,7 +6842,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Moisturisers"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6853,7 +6853,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Day|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6864,7 +6864,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Night|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6875,7 +6875,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6886,7 +6886,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Sunscreen"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6897,7 +6897,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Face|sp|Mist"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6908,7 +6908,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_FACE_SKIN_Makeup|sp|Remover"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6919,7 +6919,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_EYECARE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6930,7 +6930,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_Eye|sp|Cream"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6941,7 +6941,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_Serum"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6952,7 +6952,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_EYECARE_SKIN_Dark|sp|Circles"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6963,7 +6963,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_SHOP|sp|BY|sp|CONCERN"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6974,7 +6974,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Anti|h|Blemish"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6985,7 +6985,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Brightening"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -6996,7 +6996,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Pigmentation"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7007,7 +7007,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Oil|sp|Control"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7018,7 +7018,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Dryness"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7029,7 +7029,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Anti|h|Ageing"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7040,7 +7040,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Perfumes|sp|(EDP|fs|EDT)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7051,7 +7051,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Deodorants"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7062,7 +7062,7 @@
     "file_name": "India_Nykaa_Luxe_SKIN_SHOP|sp|BY|sp|CONCERN_SKIN_Colognes"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7073,7 +7073,7 @@
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_FRAGRANCE"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7084,7 +7084,7 @@
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Perfumes|sp|(EDP|fs|EDT)"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7095,7 +7095,7 @@
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Aftershave"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7106,7 +7106,7 @@
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Face|sp||as||sp|Body|sp|Mists"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7117,7 +7117,7 @@
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Candles|sp||as||sp|Incense"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7128,7 +7128,7 @@
     "file_name": "India_Nykaa_Luxe_Fragrance_FRAGRANCE_Fragrance_Gifts"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7139,7 +7139,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_HAIR"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7150,7 +7150,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Shampoo"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7161,7 +7161,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Conditioner"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7172,7 +7172,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Oil"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7183,7 +7183,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Serums|sp||as||sp|Masks"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7194,7 +7194,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Styling"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7205,7 +7205,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Hair|sp|Color"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",
@@ -7216,7 +7216,7 @@
     "file_name": "India_Nykaa_Luxe_Hair_HAIR_Hair_Appliances"
   },
   {
-    "country": "India",
+    "country": "IN",
     "retailer": "Nykaa",
     "parsing_config": "./retailer_config/nykaacom_parsing.json",
     "gcloud_path": "crawl_data/India/Nykaa/",

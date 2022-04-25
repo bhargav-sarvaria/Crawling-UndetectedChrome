@@ -1,6 +1,6 @@
 [
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -11,7 +11,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_Biggest|sp|deals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -22,7 +22,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -33,7 +33,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|New|sp|lines|sp|added"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -44,7 +44,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -55,7 +55,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Activewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -66,7 +66,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Bags|sp||as||sp|Purses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -77,7 +77,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -88,7 +88,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Designer|sp|brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -99,7 +99,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -110,7 +110,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Face|sp|+|sp|Body"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -121,7 +121,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -132,7 +132,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -143,7 +143,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -154,7 +154,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jewellery|sp||as||sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -165,7 +165,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -176,7 +176,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jumpsuits|sp||as||sp|Playsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -187,7 +187,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Lingerie|sp||as||sp|Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -198,7 +198,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -209,7 +209,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -220,7 +220,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -231,7 +231,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -242,7 +242,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Socks|sp||as||sp|Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -253,7 +253,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -264,7 +264,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -275,7 +275,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|T|h|Shirts|sp||as||sp|Vests"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -286,7 +286,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -297,7 +297,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Trousers|sp||as||sp|Leggings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -308,7 +308,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|BODY|sp|FIT_ASOS|sp|Curve|sp||as||sp|Plus|sp|size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -319,7 +319,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|BODY|sp|FIT_Maternity"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -330,7 +330,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|BODY|sp|FIT_Petite"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -341,7 +341,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_SHOP|sp|SALE|sp|BY|sp|BODY|sp|FIT_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -352,7 +352,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_CTAS|sp|3_BEST|sp|OF|sp|SALE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -363,7 +363,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_CTAS|sp|3_TOP|sp|DRESSES|sp|UNDER|sp|GBP20"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -374,7 +374,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sale_CTAS|sp|3_ACTIVEWEAR|sp|UNDER|sp|GBP20"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -385,7 +385,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -396,7 +396,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -407,7 +407,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -418,7 +418,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -429,7 +429,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Face|sp|+|sp|Body"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -440,7 +440,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Topshop"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -451,7 +451,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Back|sp|in|sp|stock"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -462,7 +462,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Outlet"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -473,7 +473,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|PRODUCTS_Trending|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -484,7 +484,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_SHOP|sp|BY|sp|BODY|sp|FIT_ASOS|sp|Curve|sp||as||sp|Plus|sp|Size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -495,7 +495,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_SHOP|sp|BY|sp|BODY|sp|FIT_Maternity"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -506,7 +506,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_SHOP|sp|BY|sp|BODY|sp|FIT_Petite"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -517,7 +517,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_SHOP|sp|BY|sp|BODY|sp|FIT_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -528,7 +528,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|EDITS_SWEET|sp|60S"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -539,7 +539,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_New|sp|in_NEW|sp|EDITS_THE|sp|WEDDING|sp|SHOP"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -550,7 +550,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -561,7 +561,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Co|h|ords"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -572,7 +572,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -583,7 +583,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Designer"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -594,7 +594,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -605,7 +605,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Exclusives|sp|at|sp|ASOS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -616,7 +616,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -627,7 +627,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -638,7 +638,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -649,7 +649,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Jumpsuits|sp||as||sp|Playsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -660,7 +660,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Lingerie|sp||as||sp|Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -671,7 +671,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -682,7 +682,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Multipacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -693,7 +693,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Shirts|sp||as||sp|Blouses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -704,7 +704,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -715,7 +715,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -726,7 +726,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Socks|sp||as||sp|Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -737,7 +737,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Sportswear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -748,7 +748,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Suits|sp||as||sp|Tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -759,7 +759,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Swimwear|sp||as||sp|Beachwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -770,7 +770,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -781,7 +781,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Tracksuits|sp||as||sp|Joggers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -792,7 +792,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|PRODUCT_Trousers|sp||as||sp|Leggings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -803,7 +803,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|BODY|sp|FIT_ASOS|sp|Curve|sp||as||sp|Plus|sp|Size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -814,7 +814,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|BODY|sp|FIT_Maternity"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -825,7 +825,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|BODY|sp|FIT_Petite"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -836,7 +836,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|BODY|sp|FIT_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -847,7 +847,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|EDIT_Winter|sp|fits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -858,7 +858,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|EDIT_Modest|sp|fashion"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -869,7 +869,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|EDIT_Responsible|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -880,7 +880,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Clothing_SHOP|sp|BY|sp|EDIT_Workwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -891,7 +891,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -902,7 +902,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -913,7 +913,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -924,7 +924,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Flat|sp|sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -935,7 +935,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Flat|sp|shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -946,7 +946,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -957,7 +957,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Loafers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -968,7 +968,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -979,7 +979,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Sliders|sp||as||sp|Flip|sp|flops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -990,7 +990,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1001,7 +1001,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1012,7 +1012,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|PRODUCT_Wide|sp|Fit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1023,7 +1023,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|BRAND_ASOS|sp|DESIGN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1034,7 +1034,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|BRAND_Aldo"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1045,7 +1045,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|BRAND_Converse"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1056,7 +1056,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|BRAND_Public|sp|Desire"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1067,7 +1067,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|BRAND_Raid"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1078,7 +1078,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_SHOP|sp|BY|sp|BRAND_Ugg"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1089,7 +1089,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_NEW|sp|EDITS_INSTA|sp|HEELS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1100,7 +1100,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Shoes_NEW|sp|EDITS_PLATFORM|sp|BOOTS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1111,7 +1111,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1122,7 +1122,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1133,7 +1133,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1144,7 +1144,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Joggers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1155,7 +1155,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Leggings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1166,7 +1166,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1177,7 +1177,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1188,7 +1188,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Sports|sp|bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1199,7 +1199,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1210,7 +1210,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|PRODUCT_Outlet|sp|Sports|sp||as||sp|Lifestyle"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1221,7 +1221,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Gym|sp||as||sp|Training"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1232,7 +1232,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Lifestyle"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1243,7 +1243,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Outdoors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1254,7 +1254,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Running"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1265,7 +1265,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Ski|sp||as||sp|Snowboard"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1276,7 +1276,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Yoga|sp||as||sp|Studio"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1287,7 +1287,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|BRAND_adidas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1298,7 +1298,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|BRAND_ASOS|sp|4505"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1309,7 +1309,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|BRAND_Nike"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1320,7 +1320,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|BRAND_Puma"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1331,7 +1331,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|BRAND_Reebok"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1342,7 +1342,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_SHOP|sp|BY|sp|BRAND_The|sp|North|sp|Face"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1353,7 +1353,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_CTAS|sp|2_BESTSELLING|sp|TRAINERS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1364,7 +1364,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_CTAS|sp|2_ADIDAS|sp|ORIGINALS|sp|STAN|sp|SMITH"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1375,7 +1375,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Sportswear_CTAS|sp|2_UNDER|sp|ARMOUR"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1386,7 +1386,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1397,7 +1397,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1408,7 +1408,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Bags|sp||as||sp|Purses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1419,7 +1419,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Belts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1430,7 +1430,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Face|sp|coverings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1441,7 +1441,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1452,7 +1452,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Gloves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1463,7 +1463,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Hats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1474,7 +1474,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1485,7 +1485,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Scarves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1496,7 +1496,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Socks|sp||as||sp|Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1507,7 +1507,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1518,7 +1518,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|PRODUCT_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1529,7 +1529,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|BRAND_ASOS|sp|DESIGN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1540,7 +1540,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|BRAND_Glamorous"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1551,7 +1551,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|BRAND_My|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1562,7 +1562,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|BRAND_Pieces"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1573,7 +1573,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|BRAND_Topshop"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1584,7 +1584,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_SHOP|sp|BY|sp|BRAND_Typo"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1595,7 +1595,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_NEW|sp|EDITS_HAIR|sp|ACCESSORIES"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1606,7 +1606,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Accessories_NEW|sp|EDITS_WINTER|sp|WARMERS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1617,7 +1617,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Activewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1628,7 +1628,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Chunky|sp|Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1639,7 +1639,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Leather|sp|Looks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1650,7 +1650,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Party|sp|Heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1661,7 +1661,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_MOST|sp|WANTED_Tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1672,7 +1672,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_NEW|sp|DROPS_Bershka"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1683,7 +1683,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_NEW|sp|DROPS_Juicy|sp|Couture"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1694,7 +1694,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_NEW|sp|DROPS_Motel"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1705,7 +1705,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_NEW|sp|DROPS_Weekend|sp|Collective"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1716,7 +1716,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_CTAS|sp|1_DATE|sp|NIGHT"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1727,7 +1727,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_CTAS|sp|1_INSTA|sp|GLAM"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1738,7 +1738,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_CTAS|sp|2_RETRO|sp|PRINTS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1749,7 +1749,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Trending|sp|now_CTAS|sp|2_ASOS|sp|DESIGN|sp|MUST|sp|HAVES"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1760,7 +1760,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1771,7 +1771,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1782,7 +1782,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Coats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1793,7 +1793,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1804,7 +1804,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1815,7 +1815,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Jumpers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1826,7 +1826,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Petite"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1837,7 +1837,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1848,7 +1848,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1859,7 +1859,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1870,7 +1870,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1881,7 +1881,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_SHOP|sp|BY|sp|PRODUCT_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1892,7 +1892,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_CTAS_MISS|sp|SELFRIDGE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1903,7 +1903,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_CTAS_HIIT"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1914,7 +1914,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Topshop_CTAS_UP|sp|TO|sp|30%|sp|OFF|sp|TOPSHOP!"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1925,7 +1925,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Up|sp|to|sp|30%|sp|off|sp|Face|sp|+|sp|Body|sp|brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1936,7 +1936,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1947,7 +1947,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1958,7 +1958,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Bestsellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1969,7 +1969,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Body|sp|care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1980,7 +1980,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -1991,7 +1991,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Hair|sp|care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2002,7 +2002,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Makeup"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2013,7 +2013,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Skin|sp|care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2024,7 +2024,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Suncare|sp||as||sp|Tanning"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2035,7 +2035,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Tools|sp||as||sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2046,7 +2046,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Wellness"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2057,7 +2057,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Babyliss"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2068,7 +2068,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Benefit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2079,7 +2079,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Garnier"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2090,7 +2090,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Mario|sp|Badescu"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2101,7 +2101,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Monday|sp|Haircare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2112,7 +2112,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Revolution"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2123,7 +2123,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Shea|sp|Moisture"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2134,7 +2134,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_St|sp|Tropez"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2145,7 +2145,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Sunday|sp|Rain"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2156,7 +2156,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_CTAS|sp|(ALL|sp|DEVICES)_HUDA|sp|BEAUTY"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2167,7 +2167,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_CTAS|sp|(ALL|sp|DEVICES)_L|sq|OREAL"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2178,7 +2178,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_CTAS|sp|(DESKTOP|sp|ONLY)_MARIO|sp|BADESCU"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2189,7 +2189,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Face|sp|+|sp|Body_CTAS|sp|(DESKTOP|sp|ONLY)_REVOLUTION"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2200,7 +2200,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_ASOS|sp|Brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2211,7 +2211,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_ASOS|sp|DESIGN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2222,7 +2222,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_ASOS|sp|EDITION"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2233,7 +2233,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_ASOS|sp|LUXE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2244,7 +2244,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_ASOS|sp|MADE|sp|IN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2255,7 +2255,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_ASOS|sp|WEEKEND|sp|COLLECTIVE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2266,7 +2266,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_ASOS|sp|4505"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2277,7 +2277,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_|as||sp|Other|sp|Stories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2288,7 +2288,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_adidas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2299,7 +2299,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_AsYou"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2310,7 +2310,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_COLLUSION"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2321,7 +2321,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Designer|sp|Brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2332,7 +2332,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Free|sp|People"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2343,7 +2343,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Glamorous"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2354,7 +2354,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Miss|sp|Selfridge"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2365,7 +2365,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Missguided"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2376,7 +2376,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Monki"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2387,7 +2387,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_New|sp|Look"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2398,7 +2398,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Nike"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2409,7 +2409,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Reclaimed|sp|Vintage"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2420,7 +2420,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_River|sp|Island"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2431,7 +2431,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Topshop"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2442,7 +2442,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Weekday"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2453,7 +2453,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_TOP|sp|BRANDS_Y.A.S"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2464,7 +2464,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_FEATURED|sp|BRANDS_ASOS|sp|BRANDS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2475,7 +2475,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_FEATURED|sp|BRANDS_COLLUSION"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2486,7 +2486,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_CTAS|sp|(RIGHT)_PLUS|sp|SIZE|sp|BRANDS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2497,7 +2497,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Brands_CTAS|sp|(RIGHT)_DESIGNER|sp|BRANDS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2508,7 +2508,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2519,7 +2519,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_New|sp|in|cln||sp|Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2530,7 +2530,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_New|sp|in|cln||sp|Shoes|sp||as||sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2541,7 +2541,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2552,7 +2552,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Activewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2563,7 +2563,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Bags|sp||as||sp|Purses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2574,7 +2574,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2585,7 +2585,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Designer|sp|brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2596,7 +2596,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2607,7 +2607,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Face|sp|+|sp|Body"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2618,7 +2618,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2629,7 +2629,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2640,7 +2640,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2651,7 +2651,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Jewellery|sp||as||sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2662,7 +2662,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2673,7 +2673,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Jumpsuits|sp||as||sp|Playsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2684,7 +2684,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Lingerie|sp||as||sp|Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2695,7 +2695,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2706,7 +2706,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2717,7 +2717,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2728,7 +2728,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2739,7 +2739,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Socks|sp||as||sp|Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2750,7 +2750,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Suits|sp||as||sp|Blazers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2761,7 +2761,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2772,7 +2772,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2783,7 +2783,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2794,7 +2794,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|PRODUCT_Trousers|sp||as||sp|Leggings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2805,7 +2805,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|BODY|sp|FIT_ASOS|sp|Curve|sp||as||sp|Plus|sp|size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2816,7 +2816,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|BODY|sp|FIT_Maternity"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2827,7 +2827,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|BODY|sp|FIT_Petite"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2838,7 +2838,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_SHOP|sp|BY|sp|BODY|sp|FIT_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2849,7 +2849,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_CTAS_FURTHER|sp|REDUCTIONS|cln||sp|UP|sp|TO|sp|70%|sp|OFF"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2860,7 +2860,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_CTAS_THE|sp|SPORTS|sp|EDIT"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2871,7 +2871,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Women_Outlet_CTAS_GOING|sp|OUT|h|OUT"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2882,7 +2882,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_Biggest|sp|deals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2893,7 +2893,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2904,7 +2904,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|New|sp|lines|sp|added"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2915,7 +2915,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2926,7 +2926,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Activewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2937,7 +2937,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2948,7 +2948,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2959,7 +2959,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2970,7 +2970,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jackets|sp||as||sp|Coats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2981,7 +2981,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -2992,7 +2992,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jewellery|sp||as||sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3003,7 +3003,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3014,7 +3014,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3025,7 +3025,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Polo|sp|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3036,7 +3036,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3047,7 +3047,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Shoes|sp||as||sp|Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3058,7 +3058,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3069,7 +3069,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Suits|sp||as||sp|Tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3080,7 +3080,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3091,7 +3091,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3102,7 +3102,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|T|h|Shirts|sp||as||sp|Vests"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3113,7 +3113,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Tracksuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3124,7 +3124,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Trousers|sp||as||sp|Chinos"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3135,7 +3135,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|PRODUCT_SALE|sp|Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3146,7 +3146,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|BODY|sp|FIT_Plus|sp|Size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3157,7 +3157,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_SHOP|sp|SALE|sp|BY|sp|BODY|sp|FIT_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3168,7 +3168,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_CTAS|sp|3_BEST|sp|OF|sp|SALE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3179,7 +3179,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_CTAS|sp|3_HOODIES|sp||as||sp|SWEATSHIRTS|sp|UNDER|sp|GBP20"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3190,7 +3190,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sale_CTAS|sp|3_ACTIVEWEAR|sp|UNDER|sp|GBP20"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3201,7 +3201,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3212,7 +3212,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3223,7 +3223,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3234,7 +3234,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3245,7 +3245,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Face|sp|+|sp|Body"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3256,7 +3256,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Topman"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3267,7 +3267,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Back|sp|in|sp|stock"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3278,7 +3278,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Outlet"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3289,7 +3289,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|PRODUCTS_Trending|sp|now"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3300,7 +3300,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|EDITS_TRIPPY|sp|BRIGHTS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3311,7 +3311,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_New|sp|in_NEW|sp|EDITS_THE|sp|WARM|h|UP"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3322,7 +3322,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3333,7 +3333,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Co|h|ords"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3344,7 +3344,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Designer"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3355,7 +3355,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3366,7 +3366,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Jackets|sp||as||sp|Coats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3377,7 +3377,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3388,7 +3388,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Joggers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3399,7 +3399,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3410,7 +3410,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3421,7 +3421,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Multipacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3432,7 +3432,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Polo|sp|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3443,7 +3443,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3454,7 +3454,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3465,7 +3465,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3476,7 +3476,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Sportswear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3487,7 +3487,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Suits|sp||as||sp|Tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3498,7 +3498,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3509,7 +3509,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_T|h|Shirts|sp||as||sp|Vests"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3520,7 +3520,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Tracksuits|sp||as||sp|Joggers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3531,7 +3531,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Trousers|sp||as||sp|Chinos"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3542,7 +3542,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|PRODUCT_Underwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3553,7 +3553,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|BODY|sp|FIT_Plus|sp|Size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3564,7 +3564,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|BODY|sp|FIT_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3575,7 +3575,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|EDIT_Winter|sp|fits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3586,7 +3586,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|EDIT_Responsible|sp|edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3597,7 +3597,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|EDIT_Wedding"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3608,7 +3608,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Clothing_SHOP|sp|BY|sp|EDIT_Workwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3619,7 +3619,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3630,7 +3630,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3641,7 +3641,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3652,7 +3652,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Loafers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3663,7 +3663,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3674,7 +3674,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3685,7 +3685,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Sliders|sp||as||sp|Flip|sp|flops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3696,7 +3696,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3707,7 +3707,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3718,7 +3718,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|PRODUCT_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3729,7 +3729,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|BRAND_ASOS|sp|DESIGN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3740,7 +3740,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|BRAND_Adidas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3751,7 +3751,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|BRAND_Converse"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3762,7 +3762,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|BRAND_Dr|sp|Martens"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3773,7 +3773,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|BRAND_Tommy|sp|Hilfiger"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3784,7 +3784,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_SHOP|sp|BY|sp|BRAND_Vans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3795,7 +3795,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_NEW|sp|EDITS_SPORTS|sp|TRAINERS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3806,7 +3806,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Shoes_NEW|sp|EDITS_NEW|sp|IN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3817,7 +3817,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3828,7 +3828,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3839,7 +3839,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3850,7 +3850,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Joggers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3861,7 +3861,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3872,7 +3872,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3883,7 +3883,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Trousers|sp||as||sp|Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3894,7 +3894,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3905,7 +3905,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|PRODUCT_Outlet|sp|Sports|sp||as||sp|Lifestyle"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3916,7 +3916,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Football"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3927,7 +3927,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Gym|sp||as||sp|Training"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3938,7 +3938,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Lifestyle"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3949,7 +3949,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Outdoors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3960,7 +3960,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Running"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3971,7 +3971,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|ACTIVITY_Ski|sp||as||sp|Snowboard"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3982,7 +3982,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|BRAND_adidas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -3993,7 +3993,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|BRAND_ASOS|sp|4505"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4004,7 +4004,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|BRAND_New|sp|Balance"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4015,7 +4015,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|BRAND_Nike"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4026,7 +4026,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|BRAND_Reebok"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4037,7 +4037,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_SHOP|sp|BY|sp|BRAND_The|sp|North|sp|Face"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4048,7 +4048,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_CTAS_THE|sp|NORTH|sp|FACE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4059,7 +4059,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_CTAS_RUNNING"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4070,7 +4070,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Sportswear_CTAS_VANS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4081,7 +4081,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4092,7 +4092,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4103,7 +4103,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4114,7 +4114,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Belts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4125,7 +4125,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Caps|sp||as||sp|Hats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4136,7 +4136,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Face|sp|coverings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4147,7 +4147,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4158,7 +4158,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Gloves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4169,7 +4169,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4180,7 +4180,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4191,7 +4191,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4202,7 +4202,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Ties"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4213,7 +4213,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Wallets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4224,7 +4224,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|PRODUCT_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4235,7 +4235,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|BRAND_ASOS|sp|DESIGN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4246,7 +4246,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|BRAND_Carhartt|sp|WIP"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4257,7 +4257,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|BRAND_Casio"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4268,7 +4268,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|BRAND_New|sp|Era"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4279,7 +4279,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|BRAND_Ralph|sp|Lauren"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4290,7 +4290,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_SHOP|sp|BY|sp|BRAND_The|sp|North|sp|Face"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4301,7 +4301,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_CTAS_BUM|sp|BAGS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4312,7 +4312,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Accessories_CTAS_BEANIES"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4323,7 +4323,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4334,7 +4334,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Gilets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4345,7 +4345,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Overcoats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4356,7 +4356,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Overshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4367,7 +4367,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Oversized|sp|Suits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4378,7 +4378,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_MOST|sp|WANTED_Varsity|sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4389,7 +4389,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_NEW|sp|DROPS_Asics"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4400,7 +4400,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_NEW|sp|DROPS_ASOS|sp|Dark|sp|Future"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4411,7 +4411,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_NEW|sp|DROPS_Deus"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4422,7 +4422,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_NEW|sp|DROPS_Jordan"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4433,7 +4433,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_CTAS|sp|1_BROWN|sp|TONES"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4444,7 +4444,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_CTAS|sp|1_NEW|sp|SUNNY|sp|SHAPES"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4455,7 +4455,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_CTAS|sp|2_COLLEGIATE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4466,7 +4466,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Trending|sp|now_CTAS|sp|2_THE|sp|RESPONSIBLE|sp|EDIT"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4477,7 +4477,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4488,7 +4488,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4499,7 +4499,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4510,7 +4510,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4521,7 +4521,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Jackets|sp||as||sp|Coats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4532,7 +4532,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4543,7 +4543,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4554,7 +4554,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4565,7 +4565,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4576,7 +4576,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4587,7 +4587,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Suits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4598,7 +4598,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_T|h|Shirts|sp||as||sp|Vests"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4609,7 +4609,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Tracksuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4620,7 +4620,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4631,7 +4631,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_SHOP|sp|BY|sp|PRODUCT_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4642,7 +4642,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_CTAS_JEANS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4653,7 +4653,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_CTAS_UP|sp|TO|sp|30%|sp|OFF|sp|TOPMAN!"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4664,7 +4664,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Topman_CTAS_SUITS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4675,7 +4675,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Up|sp|to|sp|30%|sp|off|sp|Face|sp|+|sp|Body|sp|brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4686,7 +4686,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_New|sp|in"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4697,7 +4697,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4708,7 +4708,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Body|sp|care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4719,7 +4719,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4730,7 +4730,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Hair|sp|care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4741,7 +4741,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Makeup"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4752,7 +4752,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Shaving|sp||as||sp|Grooming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4763,7 +4763,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Skin|sp|care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4774,7 +4774,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Suncare|sp||as||sp|Tanning"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4785,7 +4785,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|PRODUCT_Tools|sp||as||sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4796,7 +4796,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Anatomicals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4807,7 +4807,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Apothecary|sp|87"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4818,7 +4818,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Elemis"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4829,7 +4829,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Garnier"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4840,7 +4840,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Hanz|sp|de|sp|Fuko"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4851,7 +4851,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_LOreal|sp|Men|sp|Expert"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4862,7 +4862,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_LUSH"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4873,7 +4873,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Murdock|sp|London"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4884,7 +4884,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_SHOP|sp|BY|sp|BRAND_Wahl"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4895,7 +4895,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_HAIR|sp|CARE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4906,7 +4906,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_LOREAL|sp|MEN|sp|EXPERT"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4917,7 +4917,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_DESKTOP|sp|ONLY|sp|CTAS|sp|(LEFT)_GIFTS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4928,7 +4928,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_NEW|sp|EDITS_SHAVING|sp||as||sp|GROOMING"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4939,7 +4939,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Face|sp|+|sp|Body_NEW|sp|EDITS_SKIN|sp|CARE"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4950,7 +4950,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_ASOS|sp|DESIGN"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4961,7 +4961,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_ASOS|sp|Dark|sp|Future"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4972,7 +4972,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_ASOS|sp|4505"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4983,7 +4983,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_adidas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -4994,7 +4994,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Bershka"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5005,7 +5005,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Calvin|sp|Klein"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5016,7 +5016,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_COLLUSION"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5027,7 +5027,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Designer|sp|Brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5038,7 +5038,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Fred|sp|Perry"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5049,7 +5049,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Jack|sp||as||sp|Jones"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5060,7 +5060,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Levi|sq|s"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5071,7 +5071,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_New|sp|Look"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5082,7 +5082,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Nike"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5093,7 +5093,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Polo|sp|Ralph|sp|Lauren"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5104,7 +5104,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Reclaimed|sp|Vintage"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5115,7 +5115,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_River|sp|Island"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5126,7 +5126,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_The|sp|North|sp|Face"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5137,7 +5137,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Topman"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5148,7 +5148,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_TOP|sp|BRANDS_Vans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5159,7 +5159,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_CTAS_ASOS|sp|BRANDS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5170,7 +5170,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_CTAS_COLLUSION"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5181,7 +5181,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_CTAS|sp|(RIGHT)_DESIGNER|sp|BRANDS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5192,7 +5192,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Brands_CTAS|sp|(RIGHT)_PLUS|sp|SIZE|sp|BRANDS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5203,7 +5203,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_View|sp|all"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5214,7 +5214,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_New|sp|in|cln||sp|Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5225,7 +5225,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_New|sp|in|cln||sp|Shoes|sp||as||sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5236,7 +5236,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5247,7 +5247,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Activewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5258,7 +5258,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5269,7 +5269,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Designer|sp|Brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5280,7 +5280,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5291,7 +5291,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5302,7 +5302,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Jackets|sp||as||sp|Coats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5313,7 +5313,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5324,7 +5324,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Jewellery|sp||as||sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5335,7 +5335,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Jumpers|sp||as||sp|Cardigans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5346,7 +5346,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5357,7 +5357,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5368,7 +5368,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Shoes|sp||as||sp|Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5379,7 +5379,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5390,7 +5390,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Suits|sp||as||sp|Tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5401,7 +5401,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Sunglasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5412,7 +5412,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5423,7 +5423,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_T|h|Shirts|sp||as||sp|Vests"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5434,7 +5434,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Tracksuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5445,7 +5445,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Trousers|sp||as||sp|Chinos"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5456,7 +5456,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|PRODUCT_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5467,7 +5467,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_adidas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5478,7 +5478,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_Bolongaro|sp|Trevor"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5489,7 +5489,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_BOSS"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5500,7 +5500,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_Brave|sp|Soul"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5511,7 +5511,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_Calvin|sp|Klein"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5522,7 +5522,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_French|sp|Connection"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5533,7 +5533,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_Jack|sp||as||sp|Jones"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5544,7 +5544,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_Puma"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5555,7 +5555,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_Tommy|sp|Hilfiger"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5566,7 +5566,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_SHOP|sp|BY|sp|BRAND_Vans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5577,7 +5577,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_NEW|sp|EDITS_FURTHER|sp|REDUCTIONS|cln||sp|UP|sp|TO|sp|70%|sp|OFF"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",
@@ -5588,7 +5588,7 @@
     "file_name": "United|sp|Kingdom_ASOS_Men_Outlet_NEW|sp|EDITS_BEST|sp|OF|sp|OUTLET"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "ASOS",
     "parsing_config": "./retailer_config/asoscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/ASOS/",

@@ -1,6 +1,6 @@
 [
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -11,7 +11,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_New|sp|In_New|sp|In"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -22,7 +22,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Beauty_Beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -33,7 +33,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Womens_Womens"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -44,7 +44,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Mens_Mens"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -55,7 +55,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Shoes|sp||as||sp|Accessories_Shoes|sp||as||sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -66,7 +66,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Jewellery|sp||as||sp|Watches_Jewellery|sp||as||sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -77,7 +77,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Lingerie_Lingerie"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -88,7 +88,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Home_Home"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -99,7 +99,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_Kids_Kids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -110,7 +110,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_New|sp|In_New|sp|In|sp|Brands_New|sp|In|sp|Brands"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -121,7 +121,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_All|sp|Beauty_All|sp|Beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -132,7 +132,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -143,7 +143,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Make|sp|Up|sp|Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -154,7 +154,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Skincare|sp|Gifts|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -165,7 +165,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Gift|sp|Sets_Fragrance|sp|Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -176,7 +176,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Fragrance_Fragrance"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -187,7 +187,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Fragrance_Perfume"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -198,7 +198,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Fragrance_Aftershave"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -209,7 +209,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Fragrance_Unisex|sp|Fragrance"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -220,7 +220,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Makeup"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -231,7 +231,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Face"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -242,7 +242,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Eyebrows"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -253,7 +253,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Eyes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -264,7 +264,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Lips"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -275,7 +275,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Lashes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -286,7 +286,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Nails"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -297,7 +297,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Makeup_Tools|sp||as||sp|Brushes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -308,7 +308,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Skincare_Skincare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -319,7 +319,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Skincare_Serums"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -330,7 +330,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Skincare_Masks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -341,7 +341,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Skincare_Cleansers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -352,7 +352,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Skincare_Moisturisers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -363,7 +363,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Skincare_Suncare|sp||as||sp|Tanning"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -374,7 +374,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Bath|sp||as||sp|Body"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -385,7 +385,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Bath|sp|Soaps"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -396,7 +396,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Bath|sp||as||sp|Shower"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -407,7 +407,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Hand|sp||as||sp|Foot|sp|Care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -418,7 +418,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Bath|sp||as||sp|Body_Body|sp|Lotion"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -429,7 +429,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Electricals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -440,7 +440,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Hair|sp|Electricals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -451,7 +451,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Hair|sp|Care"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -462,7 +462,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Grooming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -473,7 +473,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Electricals_Electric|sp|Toothbrushes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -484,7 +484,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Beauty|sp|Best|sp|Sellers_Beauty|sp|Best|sp|Sellers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -495,7 +495,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Conscious|sp|Beauty_Conscious|sp|Beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -506,7 +506,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Conscious|sp|Beauty_Vegan|sp|Beauty"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -517,7 +517,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Conscious|sp|Beauty_Cruelty|sp|Free"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -528,7 +528,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Beauty_Conscious|sp|Beauty_Paraben|sp|Free"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -539,7 +539,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -550,7 +550,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -561,7 +561,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -572,7 +572,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Activewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -583,7 +583,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -594,7 +594,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -605,7 +605,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Jumpsuits|sp||as||sp|Playsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -616,7 +616,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -627,7 +627,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -638,7 +638,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -649,7 +649,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -660,7 +660,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -671,7 +671,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Denim"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -682,7 +682,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Co|h|Ords"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -693,7 +693,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -704,7 +704,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_Beachwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -715,7 +715,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Clothing_View|sp|All|sp|Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -726,7 +726,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Dresses_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -737,7 +737,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Dresses_Mini|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -748,7 +748,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Dresses_Midi|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -759,7 +759,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Dresses_Maxi|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -770,7 +770,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Dresses_Occasion|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -781,7 +781,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Dresses_Summer|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -792,7 +792,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Lingerie_Lingerie"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -803,7 +803,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Lingerie_Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -814,7 +814,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Lingerie_Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -825,7 +825,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Lingerie_Shapewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -836,7 +836,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Lingerie_Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -847,7 +847,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Accessories_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -858,7 +858,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Accessories_Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -869,7 +869,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Accessories_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -880,7 +880,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Accessories_Bags|sp||as||sp|Purses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -891,7 +891,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Accessories_Gloves|sp||as||sp|Scarves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -902,7 +902,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Accessories_Hair|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -913,7 +913,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shoes|sp||as||sp|Boots_Shoes|sp||as||sp|Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -924,7 +924,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shoes|sp||as||sp|Boots_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -935,7 +935,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shoes|sp||as||sp|Boots_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -946,7 +946,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shoes|sp||as||sp|Boots_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -957,7 +957,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shoes|sp||as||sp|Boots_Heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -968,7 +968,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shoes|sp||as||sp|Boots_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -979,7 +979,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Wedding|sp|Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -990,7 +990,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Bridesmaids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1001,7 +1001,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Mother|sp|Of|sp|The|sp|Bride"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1012,7 +1012,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Wedding|sp|Guest"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1023,7 +1023,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Wedding|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1034,7 +1034,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Wedding_Bridal|sp|Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1045,7 +1045,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Fit_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1056,7 +1056,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Gifts|sp|for|sp|Women_Gifts|sp|for|sp|Women"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1067,7 +1067,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Shop|sp|By|sp|Collection"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1078,7 +1078,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Going|sp|Out"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1089,7 +1089,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Bright|sp||as||sp|Bold"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1100,7 +1100,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Women_Shop|sp|By|sp|Collection_Workwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1111,7 +1111,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Mens|sp|Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1122,7 +1122,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1133,7 +1133,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1144,7 +1144,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1155,7 +1155,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1166,7 +1166,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1177,7 +1177,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1188,7 +1188,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1199,7 +1199,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Joggers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1210,7 +1210,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1221,7 +1221,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Suits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1232,7 +1232,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1243,7 +1243,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1254,7 +1254,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1265,7 +1265,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1276,7 +1276,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_Underwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1287,7 +1287,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Mens|sp|Clothing_View|sp|All|sp|Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1298,7 +1298,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Suits|sp||as||sp|Tailoring_Suits|sp||as||sp|Tailoring"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1309,7 +1309,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Suits|sp||as||sp|Tailoring_Suits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1320,7 +1320,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Suits|sp||as||sp|Tailoring_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1331,7 +1331,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Suits|sp||as||sp|Tailoring_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1342,7 +1342,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Suits|sp||as||sp|Tailoring_Wedding|sp|Guest"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1353,7 +1353,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Accessories_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1364,7 +1364,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Accessories_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1375,7 +1375,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Accessories_Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1386,7 +1386,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Accessories_Belts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1397,7 +1397,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Accessories_Hats|sp||as||sp|Scarves"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1408,7 +1408,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Accessories_Wallets|sp||as||sp|Card|sp|Holders"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1419,7 +1419,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Accessories_Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1430,7 +1430,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Shoes|sp||as||sp|Boots_Shoes|sp||as||sp|Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1441,7 +1441,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Shoes|sp||as||sp|Boots_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1452,7 +1452,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Shoes|sp||as||sp|Boots_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1463,7 +1463,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Shoes|sp||as||sp|Boots_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1474,7 +1474,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Shoes|sp||as||sp|Boots_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1485,7 +1485,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Gifts|sp|for|sp|Men_Gifts|sp|for|sp|Men"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1496,7 +1496,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Men|sq|s|sp|Grooming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1507,7 +1507,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Aftershave"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1518,7 +1518,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Shaving"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1529,7 +1529,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Bodycare"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1540,7 +1540,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Collections"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1551,7 +1551,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_The|sp|Outdoors|sp|Edit"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1562,7 +1562,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Street|sp|Style"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1573,7 +1573,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Workwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1584,7 +1584,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Logo|sp||as||sp|Licensed|sp|T|h|shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1595,7 +1595,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Checks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1606,7 +1606,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Winter|sp|Sun"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1617,7 +1617,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Big|sp||as||sp|Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1628,7 +1628,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Men_Collections_Going|sp|Out"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1639,7 +1639,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Watches_Watches_Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1650,7 +1650,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_All|sp|Shoes_All|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1661,7 +1661,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Womens|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1672,7 +1672,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Heels"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1683,7 +1683,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1694,7 +1694,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1705,7 +1705,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Pumps"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1716,7 +1716,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Loafers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1727,7 +1727,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Court|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1738,7 +1738,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Sandals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1749,7 +1749,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1760,7 +1760,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Wide|sp|Fit|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1771,7 +1771,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_All|sp|Women|sq|s|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1782,7 +1782,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Shoes_Extra|sp|Wide|sp|Fit|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1793,7 +1793,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Mens|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1804,7 +1804,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1815,7 +1815,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Brogues"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1826,7 +1826,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1837,7 +1837,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Loafers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1848,7 +1848,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Sandals|sp||as||sp|Flip|sp|Flops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1859,7 +1859,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Wellies"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1870,7 +1870,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1881,7 +1881,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Mens|sp|Shoes_All|sp|Men|sq|s|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1892,7 +1892,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1903,7 +1903,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Handbags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1914,7 +1914,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Purses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1925,7 +1925,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Cross|sp|Body|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1936,7 +1936,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Rucksacks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1947,7 +1947,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Shoulder|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1958,7 +1958,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Clutch|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1969,7 +1969,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Tote|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1980,7 +1980,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Mens|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -1991,7 +1991,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Bags_Wallets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2002,7 +2002,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Accessories_Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2013,7 +2013,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Accessories_Womens|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2024,7 +2024,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Accessories_Mens|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2035,7 +2035,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Accessories_Womens|sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2046,7 +2046,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Accessories_Mens|sp|Watches"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2057,7 +2057,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Wedding"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2068,7 +2068,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Occasion"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2079,7 +2079,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Real|sp|Leather"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2090,7 +2090,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Shop|sp|By|sp|Collection_Workwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2101,7 +2101,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Womens|sp|Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2112,7 +2112,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Earrings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2123,7 +2123,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Rings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2134,7 +2134,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Bracelets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2145,7 +2145,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Necklaces"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2156,7 +2156,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Hair|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2167,7 +2167,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Going|sp|Out|sp|Jewellery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2178,7 +2178,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Shoes|sp||as||sp|Accessories_Womens|sp|Jewellery_Jewellery|sp|Boxes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2189,7 +2189,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Baby_Baby"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2200,7 +2200,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Baby_Baby|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2211,7 +2211,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Baby_Baby|sp|Girl|sp|Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2222,7 +2222,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Baby_Baby|sp|Boy|sp|Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2233,7 +2233,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Baby_Unisex|sp|Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2244,7 +2244,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Baby_Baby|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2255,7 +2255,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Baby_Baby|sp|Outfits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2266,7 +2266,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toddlers_Toddlers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2277,7 +2277,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toddlers_Toddler|sp|Girls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2288,7 +2288,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toddlers_Toddler|sp|Boys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2299,7 +2299,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toddlers_Toddler|sp|Outfits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2310,7 +2310,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toddlers_Unisex|sp|Toddlers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2321,7 +2321,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toddlers_Toddler|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2332,7 +2332,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Boys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2343,7 +2343,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2354,7 +2354,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2365,7 +2365,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2376,7 +2376,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2387,7 +2387,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2398,7 +2398,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2409,7 +2409,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2420,7 +2420,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2431,7 +2431,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Boys|sp|Outfits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2442,7 +2442,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2453,7 +2453,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Girls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2464,7 +2464,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2475,7 +2475,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2486,7 +2486,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2497,7 +2497,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2508,7 +2508,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2519,7 +2519,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2530,7 +2530,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Swimwear|sp||as||sp|Beachwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2541,7 +2541,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Playsuits|sp||as||sp|Jumpsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2552,7 +2552,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Trousers|sp||as||sp|Leggings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2563,7 +2563,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Girls|sp|Outfits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2574,7 +2574,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Underwear|sp||as||sp|Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2585,7 +2585,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2596,7 +2596,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys|sp|Shoes_Boys|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2607,7 +2607,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys|sp|Shoes_Wellies"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2618,7 +2618,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys|sp|Shoes_Sandals|sp||as||sp|Flip|sp|Flops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2629,7 +2629,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys|sp|Shoes_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2640,7 +2640,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys|sp|Shoes_School|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2651,7 +2651,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys|sp|Shoes_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2662,7 +2662,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Boys|sp|Shoes_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2673,7 +2673,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls|sp|Shoes_Girls|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2684,7 +2684,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls|sp|Shoes_Sandals|sp||as||sp|Flip|sp|Flops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2695,7 +2695,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls|sp|Shoes_Boots"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2706,7 +2706,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls|sp|Shoes_School|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2717,7 +2717,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls|sp|Shoes_Flats|sp||as||sp|Pumps"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2728,7 +2728,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls|sp|Shoes_Trainers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2739,7 +2739,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Girls|sp|Shoes_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2750,7 +2750,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Kids|sp|Accessories_Kids|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2761,7 +2761,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toys_Toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2772,7 +2772,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toys_Action|sp|figures"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2783,7 +2783,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toys_Action|sp|figures"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2794,7 +2794,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toys_Games|sp||as||sp|Puzzles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2805,7 +2805,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toys_Dolls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2816,7 +2816,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Toys_Baby|sp|Toys"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2827,7 +2827,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Loungewear_Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2838,7 +2838,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Shop|sp|By|sp|Collection_Kids|sp|Value|sp|Collection"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2849,7 +2849,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Shop|sp|By|sp|Collection_Occasionwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2860,7 +2860,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Kids_Gifts|sp|for|sp|Kids_Gifts|sp|for|sp|Kids"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2871,7 +2871,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2882,7 +2882,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Plunge|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2893,7 +2893,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Multiway|sp||as||sp|Strapless|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2904,7 +2904,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Bralette|sp|Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2915,7 +2915,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Non|h|Wired|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2926,7 +2926,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_T|h|Shirt|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2937,7 +2937,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Balcony|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2948,7 +2948,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Sports|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2959,7 +2959,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Maternity|sp||as||sp|Nursing|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2970,7 +2970,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_DD+|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2981,7 +2981,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Minimiser|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -2992,7 +2992,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Lingerie|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3003,7 +3003,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Bras_Underwired|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3014,7 +3014,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3025,7 +3025,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Brazilian|sp|Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3036,7 +3036,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Bikini|sp|Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3047,7 +3047,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Thongs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3058,7 +3058,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Shorts|sp|Knicker"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3069,7 +3069,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Full|sp|Briefs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3080,7 +3080,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Midi|sp|Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3091,7 +3091,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_High|sp|Leg|sp|Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3102,7 +3102,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Knickers_Multi|sp|Pack|sp|Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3113,7 +3113,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Shapewear_Shapewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3124,7 +3124,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_DD+|sp|Lingerie|sp||as||sp|Swimwear_DD+|sp|Lingerie|sp||as||sp|Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3135,7 +3135,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_DD+|sp|Lingerie|sp||as||sp|Swimwear_DD+|sp|Lingerie"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3146,7 +3146,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_DD+|sp|Lingerie|sp||as||sp|Swimwear_DD+|sp|Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3157,7 +3157,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Socks_Socks"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3168,7 +3168,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Nightwear_Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3179,7 +3179,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Nightwear_Dressing|sp|Gowns"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3190,7 +3190,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Nightwear_Pyjamas"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3201,7 +3201,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Nightwear_Pyjama|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3212,7 +3212,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Nightwear_Slippers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3223,7 +3223,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Nightwear_Nighties"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3234,7 +3234,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Lingerie|sp|Sets,|sp|Tights|sp||as||sp|Bodysuits_Lingerie|sp|Sets,|sp|Tights|sp||as||sp|Bodysuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3245,7 +3245,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Lingerie|sp|Sets,|sp|Tights|sp||as||sp|Bodysuits_Bodies|sp||as||sp|Bodysuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3256,7 +3256,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Lingerie|sp|Sets,|sp|Tights|sp||as||sp|Bodysuits_Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3267,7 +3267,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Lingerie|sp|Sets,|sp|Tights|sp||as||sp|Bodysuits_Lingerie|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3278,7 +3278,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Shop|sp|By|sp|Style_Comfort|sp|Lingerie"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3289,7 +3289,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Shop|sp|By|sp|Style_Black|sp||as||sp|White|sp|Lingerie"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3300,7 +3300,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Lingerie_Shop|sp|By|sp|Style_Lace"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3311,7 +3311,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Womens|sp|Sports"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3322,7 +3322,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Clothing"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3333,7 +3333,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Leggings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3344,7 +3344,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3355,7 +3355,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Sports|sp|Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3366,7 +3366,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3377,7 +3377,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Equipment|sp||as||sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3388,7 +3388,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Waterproof|sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3399,7 +3399,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Running|sp||as||sp|Cycling"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3410,7 +3410,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Hiking|sp||as||sp|Walking"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3421,7 +3421,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Womens|sp|Sports_Skiwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3432,7 +3432,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Mens|sp|Sports"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3443,7 +3443,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Clothes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3454,7 +3454,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Sports|sp|Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3465,7 +3465,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Equipment|sp||as||sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3476,7 +3476,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Running|sp||as||sp|Cycling"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3487,7 +3487,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Hiking|sp||as||sp|Walking"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3498,7 +3498,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3509,7 +3509,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Skiwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3520,7 +3520,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Mens|sp|Sports_Waterproof|sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3531,7 +3531,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Collections_Activewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3542,7 +3542,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Collections_Yoga|sp||as||sp|Meditation"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3553,7 +3553,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Collections_Ski|sp|Luxe"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3564,7 +3564,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sportswear_Collections_Swimming"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3575,7 +3575,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Bedroom"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3586,7 +3586,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Duvets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3597,7 +3597,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Pillows"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3608,7 +3608,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Bed|sp|Sheets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3619,7 +3619,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Duvet|sp|Covers|sp||as||sp|Pillowcases"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3630,7 +3630,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Mattress|sp||as||sp|Pillow|sp|Protectors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3641,7 +3641,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Electric|sp|Blankets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3652,7 +3652,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Mattress|sp|Toppers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3663,7 +3663,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bedroom_Kids|sp|Bedding"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3674,7 +3674,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bathroom_Bathroom"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3685,7 +3685,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bathroom_Towels|sp||as||sp|Bath|sp|Mats"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3696,7 +3696,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bathroom_Bathroom|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3707,7 +3707,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Bathroom_Beach"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3718,7 +3718,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Home|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3729,7 +3729,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Wallpaper"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3740,7 +3740,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Candles|sp||as||sp|Diffusers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3751,7 +3751,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Door|sp|Stops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3762,7 +3762,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Mirrors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3773,7 +3773,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Accessories_Jewellery|sp|Boxes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3784,7 +3784,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Soft|sp|Furnishings_Soft|sp|Furnishings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3795,7 +3795,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Soft|sp|Furnishings_Throws|sp||as||sp|Blankets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3806,7 +3806,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Soft|sp|Furnishings_Cushions"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3817,7 +3817,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Soft|sp|Furnishings_Curtains"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3828,7 +3828,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Gifts_Gifts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3839,7 +3839,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Travel|sp|Essentials_Travel|sp|Essentials"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3850,7 +3850,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Travel|sp|Essentials_Water|sp|Bottles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3861,7 +3861,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Travel|sp|Essentials_Lunch|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3872,7 +3872,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Kitchenware|sp||as||sp|Cookware"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3883,7 +3883,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Chopping|sp|Boards"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3894,7 +3894,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Pots|sp||as||sp|Pans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3905,7 +3905,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Oven|sp|Trays|sp||as||sp|Dishes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3916,7 +3916,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Kitchen|sp|Utensils"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3927,7 +3927,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Kitchenware|sp||as||sp|Cookware_Kitchen|sp||as||sp|Food|sp|Storage"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3938,7 +3938,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Tableware"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3949,7 +3949,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Bowls"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3960,7 +3960,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Cutlery"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3971,7 +3971,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Plates"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3982,7 +3982,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Serving|sp|Dishes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -3993,7 +3993,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Cups|sp||as||sp|Saucers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4004,7 +4004,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Mugs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4015,7 +4015,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Tableware_Dinner|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4026,7 +4026,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Glassware_Glassware"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4037,7 +4037,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Glassware_Champagne|sp|Glasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4048,7 +4048,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Glassware_Wine|sp|Glasses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4059,7 +4059,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Home|sp|Electricals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4070,7 +4070,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Toasters"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4081,7 +4081,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Kitchen|sp|Gadgets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4092,7 +4092,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Coffee|sp|Machines"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4103,7 +4103,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Irons"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4114,7 +4114,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Air|sp|Fryers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4125,7 +4125,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Kettles"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4136,7 +4136,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Electricals_Food|sp|Processors"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4147,7 +4147,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4158,7 +4158,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Wall|sp|Lights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4169,7 +4169,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Ceiling|sp|Lights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4180,7 +4180,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Floor|sp|Lamps"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4191,7 +4191,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Table|sp|Lamps"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4202,7 +4202,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Light|sp|Bulbs"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4213,7 +4213,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Outdoor|sp|Lights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4224,7 +4224,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Bathroom|sp|Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4235,7 +4235,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Lamp|sp|Shades"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4246,7 +4246,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Lighting_Kids|sp|Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4257,7 +4257,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Baking"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4268,7 +4268,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Home_Home|sp|Trends_Spring|sp|Florals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4279,7 +4279,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_View|sp|All|sp|Sale_View|sp|All|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4290,7 +4290,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Gifts|sp|Sale_Gifts|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4301,7 +4301,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Beauty|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4312,7 +4312,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Beauty|sp|Electricals"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4323,7 +4323,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Fragrances"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4334,7 +4334,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Makeup|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4345,7 +4345,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Bodycare|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4356,7 +4356,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Skincare|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4367,7 +4367,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Beauty|sp|Sale_Beauty|sp|Gift|sp|Sets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4378,7 +4378,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Lingerie|sp|Sale_Lingerie|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4389,7 +4389,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Lingerie|sp|Sale_Womens|sp|Nightwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4400,7 +4400,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Lingerie|sp|Sale_Bras"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4411,7 +4411,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Lingerie|sp|Sale_Knickers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4422,7 +4422,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Lingerie|sp|Sale_Socks|sp||as||sp|Tights"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4433,7 +4433,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Shoes|sp||as||sp|Accessories|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4444,7 +4444,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Womens|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4455,7 +4455,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Womens|sp|Bags"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4466,7 +4466,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Womens|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4477,7 +4477,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Mens|sp|Shoes"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4488,7 +4488,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Shoes|sp||as||sp|Accessories|sp|Sale_Mens|sp|Accessories"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4499,7 +4499,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Womens|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4510,7 +4510,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Dresses"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4521,7 +4521,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4532,7 +4532,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4543,7 +4543,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4554,7 +4554,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Playsuits|sp||as||sp|Jumpsuits"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4565,7 +4565,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4576,7 +4576,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Skirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4587,7 +4587,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4598,7 +4598,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4609,7 +4609,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Co|h|ords"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4620,7 +4620,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Beachwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4631,7 +4631,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4642,7 +4642,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Plus|h|Size"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4653,7 +4653,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Petite"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4664,7 +4664,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Maternity"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4675,7 +4675,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Womens|sp|Sale_Tall"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4686,7 +4686,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Mens|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4697,7 +4697,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Tops"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4708,7 +4708,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Shirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4719,7 +4719,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Hoodies|sp||as||sp|Sweatshirts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4730,7 +4730,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Coats|sp||as||sp|Jackets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4741,7 +4741,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Knitwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4752,7 +4752,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Jeans"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4763,7 +4763,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Shorts"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4774,7 +4774,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Trousers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4785,7 +4785,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Nightwear|sp||as||sp|Loungewear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4796,7 +4796,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Underwear|sp||as||sp|Boxers"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4807,7 +4807,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Mens|sp|Sale_Swimwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4818,7 +4818,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_Kids|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4829,7 +4829,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_Baby|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4840,7 +4840,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_Girls|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4851,7 +4851,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_Boys|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4862,7 +4862,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Kids|sp|Sale_Swimwear|sp||as||sp|Beachwear"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4873,7 +4873,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Home|sp|Sale_Home|sp|Sale"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4884,7 +4884,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Home|sp|Sale_Bedding"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4895,7 +4895,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Home|sp|Sale_Duvets"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4906,7 +4906,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Home|sp|Sale_Pillows"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4917,7 +4917,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Home|sp|Sale_Bathroom"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4928,7 +4928,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Home|sp|Sale_Soft|sp|Furnishings"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
@@ -4939,7 +4939,7 @@
     "file_name": "United|sp|Kingdom_Debenhams_Sale_Home|sp|Sale_Lighting"
   },
   {
-    "country": "United Kingdom",
+    "country": "GB",
     "retailer": "Debenhams",
     "parsing_config": "./retailer_config/debenhamscom_parsing.json",
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
