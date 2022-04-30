@@ -141,7 +141,7 @@
       "selectors": [
         {
           "type": "classname_value_flag",
-          "classname": "bottomOverlayWrapper",
+          "classname": "bottomOverlayLabel",
           "value": "Sponsored"
         }
       ]

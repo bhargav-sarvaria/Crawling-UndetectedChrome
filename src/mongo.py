@@ -47,7 +47,7 @@ class Mongo:
         return result
    
     def deleteAllDocuments(self, collection):
-        result = self.db[collection].delete_many({"date": "2022-04-21"})
+        result = self.db[collection].delete_many()
 
     def popDocument(self, collection):
         collection = self.db[collection]
@@ -62,17 +62,17 @@ class Mongo:
         return result
     
 
-mongo = Mongo()
+# mongo = Mongo()
 # mongo.printUrls('United Kingdom')
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
-mongo.printUrls('All')
-mongo.printUrls('Australia')
-mongo.printUrls('India')
-mongo.printUrls('United States')
-mongo.printUrls('United Kingdom')
-mongo.printUrls('EU')
-mongo.printUrls('Douglas')
+# mongo.deleteAllDocuments('All')
+# mongo.deleteAllDocuments('Australia')
+# mongo.deleteAllDocuments('India')
+# mongo.deleteAllDocuments('United States')
+# mongo.deleteAllDocuments('United Kingdom')
+# mongo.deleteAllDocuments('EU')
+# mongo.deleteAllDocuments('Douglas')
 # print(mongo.popDocument('India'))
 # mongo.printDocuments('India')
 # print(mongo.getDocuments('India'))

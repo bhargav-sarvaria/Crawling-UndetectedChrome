@@ -376,7 +376,7 @@ class Crawler:
                 elif selector['type'] == 'classname_value_flag':
                     value = '0'
                     if element.find(class_= selector['classname']):
-                        if element.find(class_= selector['classname']).getText().lower() == selector['value'].lower():
+                        if element.find(class_= selector['classname']).getText().lower().strip() == selector['value'].lower():
                             value = '1'
 
                 
