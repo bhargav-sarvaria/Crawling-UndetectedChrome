@@ -3503,17 +3503,6 @@
     "parsing_config": "./retailer_config/Douglas/douglascz_parsing.json",
     "gcloud_path": "crawl_data/Romania/Douglas_RO/",
     "department": "Discounts",
-    "category": "Mix & Match",
-    "page": "Mix & Match",
-    "page_url": "https://www.douglas.ro/c/reduceri/mix-match/",
-    "file_name": "Romania_DOUGLAS_RO_DISCOUNTS_MIX|sp||as||sp|MATCH_MIX|sp||as||sp|MATCH"
-  },
-  {
-    "country": "RO",
-    "retailer": "Douglas_RO",
-    "parsing_config": "./retailer_config/Douglas/douglascz_parsing.json",
-    "gcloud_path": "crawl_data/Romania/Douglas_RO/",
-    "department": "Discounts",
     "category": "Offers of the Month",
     "page": "Offers of the Month",
     "page_url": "https://www.douglas.ro/c/reduceri/oferta-lunii/",

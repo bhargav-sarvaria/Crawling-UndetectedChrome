@@ -435,6 +435,11 @@ class Crawler:
                 time.sleep(2)
         except Exception as e:
             LOGGING.error('RetailerWait timeoutt')
+
+        try:
+            d.execute_script("window.scrollTo(0,0);")
+        except:
+            LOGGING.error('Could now scroll to top')
             return
 
     def translateToEnglish(self, d):
