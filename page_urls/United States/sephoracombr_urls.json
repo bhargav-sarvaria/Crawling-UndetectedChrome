@@ -522,17 +522,6 @@
     "parsing_config": "./retailer_config/sephorabr_parsing.json",
     "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
     "department": "Make Up",
-    "category": "Nails",
-    "page": "Accessories",
-    "page_url": "https://www.sephora.com.br/maquiagem/unhas/acessorios/",
-    "file_name": "Brazil_Sephora_BR_MAKE|sp|UP_NAILS_Accessories"
-  },
-  {
-    "country": "BR",
-    "retailer": "Sephora_BR",
-    "parsing_config": "./retailer_config/sephorabr_parsing.json",
-    "gcloud_path": "crawl_data/Brazil/Sephora_BR/",
-    "department": "Make Up",
     "category": "Clean Beauty",
     "page": "Clean Beauty",
     "page_url": "https://www.sephora.com.br/maquiagem/clean-beauty/",
