@@ -1,0 +1,422 @@
+[
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Mens Perfume",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Perfume",
+    "file_name": "US_Macys_Beauty_Mens|sp|Perfume"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Fragrance",
+    "page_url": "https://www.macys.com/shop/featured/Fragrance",
+    "file_name": "US_Macys_Beauty_Fragrance"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Perfume",
+    "page_url": "https://www.macys.com/shop/featured/Perfume",
+    "file_name": "US_Macys_Beauty_Perfume"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Womens Perfume",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Perfume",
+    "file_name": "US_Macys_Beauty_Womens|sp|Perfume"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Eye Makeup",
+    "page_url": "https://www.macys.com/shop/featured/Eye%20Makeup",
+    "file_name": "US_Macys_Beauty_Eye|sp|Makeup"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Eye Palette",
+    "page_url": "https://www.macys.com/shop/featured/Eye%20Palette",
+    "file_name": "US_Macys_Beauty_Eye|sp|Palette"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Mascara",
+    "page_url": "https://www.macys.com/shop/featured/Mascara",
+    "file_name": "US_Macys_Beauty_Mascara"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Concealer",
+    "page_url": "https://www.macys.com/shop/featured/Concealer",
+    "file_name": "US_Macys_Beauty_Concealer"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Contour",
+    "page_url": "https://www.macys.com/shop/featured/Contour",
+    "file_name": "US_Macys_Beauty_Contour"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Foundation",
+    "page_url": "https://www.macys.com/shop/featured/Foundation",
+    "file_name": "US_Macys_Beauty_Foundation"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Highlighter",
+    "page_url": "https://www.macys.com/shop/featured/Highlighter",
+    "file_name": "US_Macys_Beauty_Highlighter"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Lipstick",
+    "page_url": "https://www.macys.com/shop/featured/Lipstick",
+    "file_name": "US_Macys_Beauty_Lipstick"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Eye Cream",
+    "page_url": "https://www.macys.com/shop/featured/Eye%20Cream",
+    "file_name": "US_Macys_Beauty_Eye|sp|Cream"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Eye Serum",
+    "page_url": "https://www.macys.com/shop/featured/Eye%20Serum",
+    "file_name": "US_Macys_Beauty_Eye|sp|Serum"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Eye Treatment",
+    "page_url": "https://www.macys.com/shop/featured/Eye%20Treatment",
+    "file_name": "US_Macys_Beauty_Eye|sp|Treatment"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Beauty",
+    "keyword": "Anti-aging",
+    "page_url": "https://www.macys.com/shop/featured/Anti-aging",
+    "file_name": "US_Macys_Beauty_Anti|h|aging"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Men",
+    "keyword": "Mens Shirt",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Shirt",
+    "file_name": "US_Macys_Men_Mens|sp|Shirt"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Men",
+    "keyword": "Mens Shorts",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Shorts",
+    "file_name": "US_Macys_Men_Mens|sp|Shorts"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Men",
+    "keyword": "Mens Polo Shirt",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Polo%20Shirt",
+    "file_name": "US_Macys_Men_Mens|sp|Polo|sp|Shirt"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Men",
+    "keyword": "Mens Jeans",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Jeans",
+    "file_name": "US_Macys_Men_Mens|sp|Jeans"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Men",
+    "keyword": "Mens Dress Shirts",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Dress%20Shirts",
+    "file_name": "US_Macys_Men_Mens|sp|Dress|sp|Shirts"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Men",
+    "keyword": "Mens Suits",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Suits",
+    "file_name": "US_Macys_Men_Mens|sp|Suits"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Men",
+    "keyword": "Mens Sunglasses",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Sunglasses",
+    "file_name": "US_Macys_Men_Mens|sp|Sunglasses"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Women",
+    "keyword": "Womens Tops",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Tops",
+    "file_name": "US_Macys_Women_Womens|sp|Tops"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Women",
+    "keyword": "Womens Blazers",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Blazers",
+    "file_name": "US_Macys_Women_Womens|sp|Blazers"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Women",
+    "keyword": "Womens Sandals",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Sandals",
+    "file_name": "US_Macys_Women_Womens|sp|Sandals"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Women",
+    "keyword": "Womens Plus Size Dresses",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Plus%20Size%20Dresses",
+    "file_name": "US_Macys_Women_Womens|sp|Plus|sp|Size|sp|Dresses"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Women",
+    "keyword": "Womens Maxi Dresses",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Maxi%20Dresses",
+    "file_name": "US_Macys_Women_Womens|sp|Maxi|sp|Dresses"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Women",
+    "keyword": "Womens Sunglasses",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Sunglasses",
+    "file_name": "US_Macys_Women_Womens|sp|Sunglasses"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Shoes",
+    "keyword": "Mens Shoes",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Shoes",
+    "file_name": "US_Macys_Shoes_Mens|sp|Shoes"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Shoes",
+    "keyword": "Womens Shoes",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Shoes",
+    "file_name": "US_Macys_Shoes_Womens|sp|Shoes"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Shoes",
+    "keyword": "Womens Flat Shoes",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Flat%20Shoes",
+    "file_name": "US_Macys_Shoes_Womens|sp|Flat|sp|Shoes"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Shoes",
+    "keyword": "Heels",
+    "page_url": "https://www.macys.com/shop/featured/Heels",
+    "file_name": "US_Macys_Shoes_Heels"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Shoes",
+    "keyword": "Boots",
+    "page_url": "https://www.macys.com/shop/featured/Boots",
+    "file_name": "US_Macys_Shoes_Boots"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Shoes",
+    "keyword": "Sneakers",
+    "page_url": "https://www.macys.com/shop/featured/Sneakers",
+    "file_name": "US_Macys_Shoes_Sneakers"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Shoes",
+    "keyword": "Sandals",
+    "page_url": "https://www.macys.com/shop/featured/Sandals",
+    "file_name": "US_Macys_Shoes_Sandals"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Handbags",
+    "keyword": "Womens Crossbody Bags",
+    "page_url": "https://www.macys.com/shop/featured/Womens%20Crossbody%20Bags",
+    "file_name": "US_Macys_Handbags_Womens|sp|Crossbody|sp|Bags"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Handbags",
+    "keyword": "Handbag",
+    "page_url": "https://www.macys.com/shop/featured/Handbag",
+    "file_name": "US_Macys_Handbags_Handbag"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Handbags",
+    "keyword": "Travel Bag",
+    "page_url": "https://www.macys.com/shop/featured/Travel%20Bag",
+    "file_name": "US_Macys_Handbags_Travel|sp|Bag"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Handbags",
+    "keyword": "Designer Bag",
+    "page_url": "https://www.macys.com/shop/featured/Designer%20Bag",
+    "file_name": "US_Macys_Handbags_Designer|sp|Bag"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Handbags",
+    "keyword": "Mens Wallet",
+    "page_url": "https://www.macys.com/shop/featured/Mens%20Wallet",
+    "file_name": "US_Macys_Handbags_Mens|sp|Wallet"
+  },
+  {
+    "country": "US",
+    "retailer": "Macys",
+    "parsing_config": "./retailer_config/macyscom_parsing.json",
+    "gcloud_path": "crawl_data/SE/United States/Macys/",
+    "department": "Handbags",
+    "keyword": "Leather Bags",
+    "page_url": "https://www.macys.com/shop/featured/Leather%20Bags",
+    "file_name": "US_Macys_Handbags_Leather|sp|Bags"
+  }
+]

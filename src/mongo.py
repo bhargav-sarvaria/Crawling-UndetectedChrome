@@ -34,6 +34,8 @@ class Mongo:
         filt = {"device": device}
         failed_urls = []
         for collection in self.db.list_collection_names():
+            if collection.lower() == 'all':
+                continue
             filt = {"device": device}
             result = list(self.db[collection].find(filt))
             failed_urls.extend(result)
