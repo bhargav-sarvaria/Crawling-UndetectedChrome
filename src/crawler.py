@@ -41,7 +41,7 @@ level=LOGGING.WARN
 )
 
 mongo = Mongo()
-COLUMN_ORDER = ["product_id","country","retailer","department","category","page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date", "sponsored_flag", "full_page_snapshot"]
+COLUMN_ORDER = ["product_id","country","retailer","department","category", "keyword", "page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date", "sponsored_flag", "full_page_snapshot"]
 
 
 class Crawler:
@@ -241,7 +241,7 @@ class Crawler:
                 self.pageError(page_config, 'No product details', delete=img_path)
                 return
             df = pd.DataFrame(products_data)
-            df = df.reindex(columns=COLUMN_ORDER)
+            df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             filname = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
             np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
@@ -559,5 +559,16 @@ class Crawler:
         LOGGING.warn(page_config['page_url'] + ' ' + '0')
         if os.path.exists(delete):
             os.remove(delete)
+
+    def orderedColumns(self, cols):
+        order = []
+        for item in cols:
+            if item in COLUMN_ORDER:
+                order.append(COLUMN_ORDER.index(item))
+            else:
+                order.append(999)
+
+        final = [x   for _, x in sorted(zip(order, cols))]
+        return final
 
     
