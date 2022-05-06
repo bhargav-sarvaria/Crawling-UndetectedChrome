@@ -3,7 +3,7 @@ import time
 
 class Mongo:
     def __init__(self, database_name = 'DigitalShelfPlatform'):
-        self.conn_str = "mongodb+srv://digitalshelfplatform:Ascent123A@digitalshelfplatform.wpkbc.mongodb.net/digitalShelfPlatform?retryWrites=true&w=majority"
+        self.conn_str = "mongodb+srv://digitalshelfplatform:Ascent123A@digitalshelfplatform.wpkbc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         self.database_name = database_name
         self.client = pymongo.MongoClient(self.conn_str, serverSelectionTimeoutMS=5000)
         self.db = self.client[self.database_name]
