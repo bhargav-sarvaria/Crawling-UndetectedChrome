@@ -88,7 +88,7 @@ class Crawler:
                 time.sleep(0.1)
                 thread_name = str(round(time.time() * 100))
                 self.RUNNING_THREADS.append(thread_name)
-                t = threading.Thread(target = self.processConfig, name=thread_name, args=(confs,thread_name,))
+                t = threading.Thread(target = self.processPLConfig, name=thread_name, args=(confs,thread_name,))
                 t.start()
             else:
                 time.sleep(5)
@@ -134,7 +134,7 @@ class Crawler:
     def get_activeDriver(self, d):
         return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
 
-    def processConfig(self, page_configs,thread_name):
+    def processPLConfig(self, page_configs,thread_name):
         use_proxy = False
         timeout = 10
         devices = ['Desktop', 'Mobile']
@@ -172,12 +172,12 @@ class Crawler:
                     img_path = './' + str(time.time())+ '.jpg'
                     self.driver.save_screenshot(d, img_path)
                     
-                    threading.Thread(target = self.parsePage, args=(source,page_config,device,img_path,)).start()
-                    # self.parsePage(source,page_config, device, img_path)
+                    threading.Thread(target = self.parsePLPage, args=(source,page_config,device,img_path,)).start()
+                    # self.parsePLPage(source,page_config, device, img_path)
 
                 except Exception as e:
                     LOGGING.error(e)
-                    self.pageError(page_config, 'processConfig exception')
+                    self.pageError(page_config, 'processPLConfig exception')
             
             self.driver.quitDriver(d)
             self.activeDriverRemove(active_driver)
@@ -186,7 +186,7 @@ class Crawler:
         if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
     
-    def parsePage(self, source, page_config, device, img_path):
+    def parsePLPage(self, source, page_config, device, img_path):
         try:
             parser = self.parser_map[page_config['retailer']]
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
@@ -214,8 +214,8 @@ class Crawler:
                 LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
             LOGGING.error(e)
-            self.pageError(page_config, 'parsePage exception', delete=img_path)
-
+            self.pageError(page_config, 'parsePLPage exception', delete=img_path)
+    
     def fetchProductsinPage(self, element, selectors):
         elements = []
         for selector in selectors:
@@ -454,8 +454,6 @@ class Crawler:
 
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
-
-
     def activeDriverRemove(self, active_driver):
         if active_driver in self.ACTIVE_DRIVERS:
             self.ACTIVE_DRIVERS.remove(active_driver)
@@ -479,15 +477,10 @@ class Crawler:
                 pass
         return procs
 
-
-    def browser_procs(self, driver) -> List[psutil.Process]:
+    def driver_proc(self, driver):
         directory = driver.user_data_dir
         procs = self.pgrep(directory, full=True)
         procs.sort(key=lambda p: p.pid)
-        return procs
-
-    def driver_proc(self, driver):
-        procs = self.browser_procs(driver)
         chromes_pids = []
         for proc in procs:
             try:
