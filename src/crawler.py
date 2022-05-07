@@ -97,7 +97,7 @@ class Crawler:
         if 'Retry' in crawl_folder:
             RENDER_WAIT_LIMIT = 10
             self.crawl_folder = crawl_folder.split('_')[1]
-            crawl_urls = mongo.getDocumentsForRetry(self.crawl_folder)
+            crawl_urls = mongo.getDocumentsForRetry(crawl_folder)
 
             for idx, page_config in enumerate(crawl_urls):
                 if page_config['retailer'] not in self.parser_map:
