@@ -1,15 +1,19 @@
+from driver import Driver
 from mongo import Mongo
+mongo = Mongo()
+
 import numpy as np
 import threading
 import time
 import queue
-from driver import Driver
 import json
 from google.cloud import storage
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import os
 import sys
@@ -17,15 +21,10 @@ from os import listdir
 from os.path import isfile, join
 from datetime import datetime
 from lxml import html
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
 import logging as LOGGING
 import psutil
 import re
 from typing import List
-from PIL import Image
-import os
 
 RENDER_WAIT_LIMIT = 3
 MEMORY_THRESHOLD = 15
@@ -40,12 +39,11 @@ datefmt='%H:%M:%S',
 level=LOGGING.WARN
 )
 
-mongo = Mongo()
 COLUMN_ORDER = ["product_id","country","retailer","department","category", "keyword", "page","device","page_url","brand","product_name","sku","position","product_page_url","listing_label","reviews","ratings","date", "sponsored_flag", "full_page_snapshot"]
 
 
 class Crawler:
-    def __init__(self, thread_limit = 4):
+    def __init__(self, thread_limit = 2):
         self.driver = Driver()
         self.consumerRunning = False
         self.queueMap = {}
@@ -72,7 +70,7 @@ class Crawler:
             if sys.platform.endswith("linux"):
                 threading.Thread(target = self.driverCleaner).start()        
     
-    def queueNotEmpty(self):
+    def queueHasItems(self):
         for retailer, retailer_q in self.queueMap.items():
             if not retailer_q.empty():
                 return True
@@ -80,7 +78,7 @@ class Crawler:
 
     def runConfigConsumer(self):
         self.consumerRunning = True
-        while self.queueNotEmpty():
+        while self.queueHasItems():
             if  len(self.RUNNING_THREADS) < self.THREAD_COUNT_ALLOWED:
                 confs = []
                 for key, qu in self.queueMap.items():
@@ -99,12 +97,7 @@ class Crawler:
         if 'Retry' in crawl_folder:
             RENDER_WAIT_LIMIT = 10
             self.crawl_folder = crawl_folder.split('_')[1]
-            region = crawl_folder.split('_')[1]
-            device = crawl_folder.split('_')[2]
-            if region.lower() == 'all':
-                crawl_urls = mongo.getAllDocumentsForRetry(device)
-            else:
-                crawl_urls = mongo.getDocumentsForRetry(region, device)
+            crawl_urls = mongo.getDocumentsForRetry(self.crawl_folder)
 
             for idx, page_config in enumerate(crawl_urls):
                 if page_config['retailer'] not in self.parser_map:
@@ -137,13 +130,6 @@ class Crawler:
         crawl_urls = json.load(open(crawl_pages,'r'))
         for page_config in crawl_urls:
             self.addConfig(page_config)
-
-    def retryUrlsFromMongo(self):
-        page_configs = mongo.getDocuments(self.crawl_folder)
-        for idx, page_config in enumerate(page_configs):
-            page_config['index'] = str(idx)
-            page_config['url_count'] = str(len(page_configs))
-            self.addConfig(page_config)
     
     def get_activeDriver(self, d):
         return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
@@ -170,7 +156,7 @@ class Crawler:
                         pass
                     except Exception as e:
                         LOGGING.error(e)
-                        self.quitDriver(d)
+                        self.driver.quitDriver(d)
                         self.activeDriverRemove(active_driver)
                         d = self.driver.get_driver(use_proxy=use_proxy, device=device,timeout=timeout)
                         active_driver = self.get_activeDriver(d)
@@ -184,7 +170,7 @@ class Crawler:
                     source = BeautifulSoup(d.page_source, 'html.parser')
                     
                     img_path = './' + str(time.time())+ '.jpg'
-                    self.save_screenshot(d, img_path)
+                    self.driver.save_screenshot(d, img_path)
                     
                     threading.Thread(target = self.parsePage, args=(source,page_config,device,img_path,)).start()
                     # self.parsePage(source,page_config, device, img_path)
@@ -193,42 +179,13 @@ class Crawler:
                     LOGGING.error(e)
                     self.pageError(page_config, 'processConfig exception')
             
-            self.quitDriver(d)
+            self.driver.quitDriver(d)
             self.activeDriverRemove(active_driver)
         
         self.RUNNING_THREADS.remove(thread_name)
-        if len(self.RUNNING_THREADS) == 0 and not self.queueNotEmpty():
+        if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
     
-    def save_screenshot(self, driver, path) -> None:
-        try:
-            path = path.replace('.jpg', '.png')
-            original_size = driver.get_window_size()
-            required_width = driver.execute_script('return document.body.parentNode.scrollWidth')
-            required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
-            driver.set_window_size(required_width, min(6000, required_height))
-            try:
-                driver.find_element_by_tag_name('body').screenshot(path)
-            except:
-                driver.save_screenshot(path);
-            self.compressPngToJpg(path)
-            driver.set_window_size(original_size['width'], original_size['height'])
-        except Exception as e:
-            return
-
-    def quitDriver(self, d):
-        try:
-            d.close()
-        except Exception as e:
-            LOGGING.error(e)
-            LOGGING.error('Could not close driver')
-        
-        try:
-            d.quit()
-        except Exception as e:
-            LOGGING.error(e)
-            LOGGING.error('Could not quit driver')
-
     def parsePage(self, source, page_config, device, img_path):
         try:
             parser = self.parser_map[page_config['retailer']]
@@ -470,7 +427,7 @@ class Crawler:
                         flag = False
                         for active_driver in self.ACTIVE_DRIVERS:
                             if pid in active_driver["pids"]:
-                                self.quitDriver(active_driver["obj"])
+                                self.driver.quitDriver(active_driver["obj"])
                                 flag = True
                                 os.system('kill -9 ' + active_driver["pids"])
                                 LOGGING.error('Driver Cleaner removed a chrome instance')
@@ -487,7 +444,7 @@ class Crawler:
                 for active_driver in self.ACTIVE_DRIVERS:
                     runtime = time.time() - active_driver["create_time"]
                     if runtime > DRIVER_CLEAN_TIME:
-                        self.quitDriver(active_driver["obj"])
+                        self.driver.quitDriver(active_driver["obj"])
                         os.system('kill -9 ' + active_driver["pids"])
                         flag = True
                         LOGGING.error('Driver Cleaner removed a chrome instance')
@@ -502,18 +459,6 @@ class Crawler:
     def activeDriverRemove(self, active_driver):
         if active_driver in self.ACTIVE_DRIVERS:
             self.ACTIVE_DRIVERS.remove(active_driver)
-
-    def compressPngToJpg(self, img_path):
-        try:
-            im = Image.open(img_path)
-            jpg_img_path = img_path.replace('.png', '.jpg')
-            rgb_im = im.convert('RGB')
-            rgb_im.save(jpg_img_path)
-            os.remove(img_path)
-            im = Image.open(jpg_img_path)
-            im.save(jpg_img_path,optimize=True,quality=30) 
-        except:
-            return
     
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []

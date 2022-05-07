@@ -4,6 +4,16 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from importlib.machinery import SourceFileLoader
+from PIL import Image
+import logging as LOGGING
+
+LOGGING.basicConfig(
+filename='run.log',
+filemode='a',
+format='[%(asctime)s] %(levelname)s {%(filename)s:%(lineno)d} -  %(message)s',
+datefmt='%H:%M:%S',
+level=LOGGING.WARN
+)
 
 uc = SourceFileLoader("undetected_chromedriver", "./chrome/packages/undetected_chromedriver/__init__.py").load_module()
 proxies_file = './chrome/proxies/proxies.txt'
@@ -110,3 +120,46 @@ class Driver:
         except Exception as e:
             print(e)
         return None   
+
+    
+    def save_screenshot(self, driver, path) -> None:
+        try:
+            path = path.replace('.jpg', '.png')
+            original_size = driver.get_window_size()
+            required_width = driver.execute_script('return document.body.parentNode.scrollWidth')
+            required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
+            driver.set_window_size(required_width, min(6000, required_height))
+            try:
+                driver.find_element_by_tag_name('body').screenshot(path)
+            except:
+                driver.save_screenshot(path);
+            self.compressPngToJpg(path)
+            driver.set_window_size(original_size['width'], original_size['height'])
+        except Exception as e:
+            return
+
+
+    def compressPngToJpg(self, img_path):
+        try:
+            im = Image.open(img_path)
+            jpg_img_path = img_path.replace('.png', '.jpg')
+            rgb_im = im.convert('RGB')
+            rgb_im.save(jpg_img_path)
+            os.remove(img_path)
+            im = Image.open(jpg_img_path)
+            im.save(jpg_img_path,optimize=True,quality=30) 
+        except:
+            return
+
+    def quitDriver(self, d):
+        try:
+            d.close()
+        except Exception as e:
+            LOGGING.error(e)
+            LOGGING.error('Could not close driver')
+        
+        try:
+            d.quit()
+        except Exception as e:
+            LOGGING.error(e)
+            LOGGING.error('Could not quit driver')

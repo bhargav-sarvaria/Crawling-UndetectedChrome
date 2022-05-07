@@ -29,6 +29,17 @@ class Mongo:
         result = list(self.db[collection].find())
         return result
 
+    def getDocumentsForRetry(self, crawl_folder):
+        collection = crawl_folder.split('_')[1]
+        device = crawl_folder.split('_')[2]
+        if collection.lower() == 'all':
+            crawl_urls = self.getAllDocumentsForRetry(device)
+        else:
+            crawl_urls = self.getDocumentsFromCollection(
+                collection,
+                {"device": device}
+            )
+        return crawl_urls
     
     def getAllDocumentsForRetry(self, device):
         filt = {"device": device}
@@ -42,8 +53,7 @@ class Mongo:
             self.db[collection].delete_many(filt)
         return failed_urls
 
-    def getDocumentsForRetry(self, collection, device):
-        filt = {"device": device}
+    def getDocumentsFromCollection(self, collection, filt = {}):
         result = list(self.db[collection].find(filt))
         self.db[collection].delete_many(filt)
         return result
