@@ -4834,17 +4834,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "Gifts",
-    "category": "The Easter Shop",
-    "page": "Easter for Kids",
-    "page_url": "https://www.myer.com.au/c/gifts/easter-shop/kids-easter",
-    "file_name": "Australia_Myer_Gifts_The|sp|Easter|sp|Shop_Easter|sp|for|sp|Kids"
-  },
-  {
-    "country": "AU",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "Gifts",
     "category": "By Price",
     "page": "Gifts by Price",
     "page_url": "https://www.myer.com.au/c/gifts/gifts-by-price",
