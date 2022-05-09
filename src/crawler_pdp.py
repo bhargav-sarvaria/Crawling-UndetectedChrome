@@ -197,7 +197,7 @@ class Crawler_PDP:
                         img_path = './' + str(time.time())+ '.jpg'
                         self.driver.save_screenshot(d, img_path)
                         ss_filename = page_config['file_name'] + '_' + combination_str + '_' + page_config['date'] + '.jpg'
-                        gcloud_ss_filename = page_config['gcloud_path'] + page_config['date'] + '/' + ss_filename
+                        gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
                         self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
                         page_config['sku'] = combination_str
                         page_config['full_page_snapshot'] = gcloud_ss_filename
@@ -210,7 +210,7 @@ class Crawler_PDP:
                     img_path = './' + str(time.time())+ '.jpg'
                     self.driver.save_screenshot(d, img_path)
                     ss_filename = page_config['file_name'] + '_' + page_config['date'] + '.jpg'
-                    gcloud_ss_filename = page_config['gcloud_path'] + page_config['date'] + '/' + ss_filename
+                    gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
                     self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
                     page_config['sku'] = 'None'
                     page_config['full_page_snapshot'] = gcloud_ss_filename
