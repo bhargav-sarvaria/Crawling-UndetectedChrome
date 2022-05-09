@@ -28,10 +28,11 @@ class Mongo:
         if crawl_folder.lower() == 'all':
             crawl_urls = self.getAllDocumentsForRetry(device, kpi)
         else:
-            crawl_urls = self.getDocumentsFromCollection(
-                COLLECTION,
-                {"crawl_folder": crawl_folder, "device": device, "kpi": kpi}
-            )
+            if device.lower() == 'all':
+                filt = {"crawl_folder": crawl_folder, "device": device, "kpi": kpi}
+            else:
+                filt = {"crawl_folder": crawl_folder, "kpi": kpi}
+            crawl_urls = self.getDocumentsFromCollection(COLLECTION, filt)
         return crawl_urls
     
     def getAllDocumentsForRetry(self, device, kpi = ''):
