@@ -1,4 +1,5 @@
 from crawler import Crawler
+from crawler_pdp import Crawler_PDP
 from pyvirtualdisplay import Display
 import os
 import sys
@@ -18,11 +19,14 @@ if __name__ == '__main__':
             DISPLAY.start()
 
         os.environ["HEADLESS"] = sys.argv[2]
-        Crawler(int(sys.argv[3])).crawlUrlsFromConfigPath(sys.argv[1])
-        
+        if sys.argv[4] == 'PL':
+            Crawler(int(sys.argv[3])).crawlUrlsFromConfigPath(sys.argv[1])
+        elif sys.argv[4] == 'PDP':
+            Crawler_PDP(int(sys.argv[3])).crawlUrlsFromConfigPath(sys.argv[1])
+            
         # os.environ["HEADLESS"] = '0'
         # crawler = Crawler(1)
-        # crawler.crawlUrlsFromConfigPath('Retry_United States_Mobile')
+        # crawler.crawlUrlsFromConfigPath('United States')
         
     except Exception as e:
         print(e)
