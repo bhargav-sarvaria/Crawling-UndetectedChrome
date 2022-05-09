@@ -1,6 +1,6 @@
 import pymongo
 import time
-
+COLLECTION = 'ERROR'
 class Mongo:
     def __init__(self, database_name = 'DigitalShelfPlatform'):
         self.conn_str = "mongodb+srv://digitalshelfplatform:Ascent123A@digitalshelfplatform.wpkbc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
@@ -12,42 +12,34 @@ class Mongo:
     def current_milli_time(self):
         return str(round(time.time() * 1000))
 
-    def addDocument(self, collection, document):
+    def addErrorDocument(self, crawl_folder, document, kpi = ''):
+        upload_collection = COLLECTION
+        if crawl_folder.lower() == 'all':
+            upload_collection = COLLECTION + kpi
+
+        document['crawl_folder'] = crawl_folder
+        document['kpi'] = kpi
         document['_id'] = document['file_name'] + self.current_milli_time()
-        result = self.db[collection].insert_one(document)
+        self.db[upload_collection].insert_one(document)
 
-    def addErrorDocument(self, collection, document):
-        # result = list(self.db[collection].find({
-        #     "page_url": document["page_url"], 
-        #     "date": document["date"]
-        # }))
-        # if not len(result):
-        document['_id'] = document['file_name'] + self.current_milli_time()
-        result = self.db[collection].insert_one(document)
-
-    def getDocuments(self, collection):
-        result = list(self.db[collection].find())
-        return result
-
-    def getDocumentsForRetry(self, crawl_folder):
-        collection = crawl_folder.split('_')[1]
-        device = crawl_folder.split('_')[2]
-        if collection.lower() == 'all':
-            crawl_urls = self.getAllDocumentsForRetry(device)
+    def getDocumentsForRetry(self, query, kpi = ''):
+        crawl_folder = query.split('_')[1]
+        device = query.split('_')[2]
+        if crawl_folder.lower() == 'all':
+            crawl_urls = self.getAllDocumentsForRetry(device, kpi)
         else:
             crawl_urls = self.getDocumentsFromCollection(
-                collection,
-                {"device": device}
+                COLLECTION,
+                {"crawl_folder": crawl_folder, "device": device, "kpi": kpi}
             )
         return crawl_urls
     
-    def getAllDocumentsForRetry(self, device):
-        filt = {"device": device}
+    def getAllDocumentsForRetry(self, device, kpi = ''):
+        filt = {"device": device, "kpi": kpi}
         failed_urls = []
         for collection in self.db.list_collection_names():
-            if collection.lower() == 'all':
+            if 'all' in collection.lower():
                 continue
-            filt = {"device": device}
             result = list(self.db[collection].find(filt))
             failed_urls.extend(result)
             self.db[collection].delete_many(filt)
@@ -58,8 +50,8 @@ class Mongo:
         self.db[collection].delete_many(filt)
         return result
    
-    def deleteAllDocuments(self, collection):
-        result = self.db[collection].delete_many()
+    def deleteAllDocuments(self, collection, filt = {}):
+        result = self.db[collection].delete_many(filt)
 
     def popDocument(self, collection):
         collection = self.db[collection]
@@ -67,8 +59,8 @@ class Mongo:
         result =  collection.delete_many({'_id': doc['_id']})
         return doc
 
-    def printUrls(self, collection):
-        result = list(self.db[collection].find({}, {'_id': 0, 'page_url': 1}))
+    def printUrls(self, collection, filt = {}):
+        result = list(self.db[collection].find(filt, {'_id': 0, 'page_url': 1}))
         for res in result:
             print(res)
         return result

@@ -1,0 +1,80 @@
+{
+  "wait_for_class": "c-filter__atb",
+  "deletes": [
+    { "type": "classname", "value": "c-cookie-banner" },
+    { "type": "classname", "value": "c-select.c-filter__select.--quantity" },
+    { "type": "classname", "value": "c-filter__low-stock" }
+  ],
+  "variants": [
+    {
+      "selector": { "type": "classname", "value": "c-select" },
+      "variant": { "type": "classname", "value": "c-select__label" },
+      "variant_values": {
+        "type": "classname",
+        "value": "c-select__dropdown-item"
+      }
+    }
+  ],
+  "details": [
+    {
+      "field": "oos",
+      "selectors": [
+        {
+          "type": "classname",
+          "value": "c-filter__atb o-button --cta --disabled",
+          "present": true
+        }
+      ]
+    },
+    {
+      "field": "country",
+      "selectors": [{ "type": "config_value", "value": "country" }]
+    },
+    {
+      "field": "retailer",
+      "selectors": [{ "type": "config_value", "value": "retailer" }]
+    },
+    {
+      "field": "brand",
+      "selectors": [{ "type": "config_value", "value": "brand" }]
+    },
+    {
+      "field": "product_name",
+      "selectors": [{ "type": "config_value", "value": "product_name" }]
+    },
+    {
+      "field": "crawl_brand",
+      "selectors": [{ "type": "classname", "value": "a-txt-brand-name" }]
+    },
+    {
+      "field": "crawl_product_name",
+      "selectors": [
+        { "type": "classname", "value": "a-txt-product-description" }
+      ]
+    },
+    {
+      "field": "sku",
+      "selectors": [{ "type": "config_value", "value": "sku" }]
+    },
+    {
+      "field": "device",
+      "field_name": "Device",
+      "selectors": [{ "type": "config_value", "value": "device" }]
+    },
+    {
+      "field": "product_page_url",
+      "field_name": "Page URL",
+      "selectors": [{ "type": "config_value", "value": "product_page_url" }]
+    },
+    {
+      "field": "full_page_snapshot",
+      "field_name": "Full Page Snapshot",
+      "selectors": [{ "type": "config_value", "value": "full_page_snapshot" }]
+    },
+    {
+      "field": "date",
+      "field_name": "Date",
+      "selectors": [{ "type": "config_value", "value": "date" }]
+    }
+  ]
+}

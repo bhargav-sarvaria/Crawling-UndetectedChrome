@@ -97,7 +97,7 @@ class Crawler:
         if 'Retry' in crawl_folder:
             RENDER_WAIT_LIMIT = 10
             self.crawl_folder = crawl_folder.split('_')[1]
-            crawl_urls = mongo.getDocumentsForRetry(crawl_folder)
+            crawl_urls = mongo.getDocumentsForRetry(crawl_folder, kpi = 'PL')
 
             for idx, page_config in enumerate(crawl_urls):
                 if page_config['retailer'] not in self.parser_map:
@@ -492,7 +492,7 @@ class Crawler:
 
     def pageError(self, page_config, msg, delete= 'dummy.svg'):
         page_config['message'] = msg
-        mongo.addErrorDocument(self.crawl_folder, page_config)
+        mongo.addErrorDocument(self.crawl_folder, page_config, kpi = 'PL')
         print(page_config['page_url'] + ' ' + '0')
         LOGGING.warn(page_config['page_url'] + ' ' + '0')
         if os.path.exists(delete):

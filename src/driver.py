@@ -6,6 +6,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from importlib.machinery import SourceFileLoader
 from PIL import Image
 import logging as LOGGING
+import json
+from lxml import html
 
 LOGGING.basicConfig(
 filename='run.log',
@@ -20,7 +22,7 @@ proxies_file = './chrome/proxies/proxies.txt'
 extension_folder = './chrome/extensions/'
 TOTAL_PROXIES = 50
 
-PREFS = {'profile.default_content_setting_values': {'cookies': 2, 'images': 2, 'plugins': 2, 'popups': 2, 'geolocation': 2, 'notifications': 2, 'auto_select_certificate': 2, 'fullscreen': 2,'mouselock': 2, 'mixed_script': 2, 'media_stream': 2, 'media_stream_mic': 2, 'media_stream_camera': 2, 'protocol_handlers': 2, 'ppapi_broker': 2, 'automatic_downloads': 2, 'midi_sysex': 2, 'push_messaging': 2, 'ssl_cert_decisions': 2, 'metro_switch_to_desktop': 2, 'protected_media_identifier': 2, 'app_banner': 2, 'site_engagement': 2, 'durable_storage': 2}, "intl.accept_languages": "en,en-US,en-GB"}
+PREFS = {'profile.default_content_setting_values': {'images': 2, 'plugins': 2, 'popups': 2, 'geolocation': 2, 'notifications': 2, 'auto_select_certificate': 2, 'fullscreen': 2,'mouselock': 2, 'mixed_script': 2, 'media_stream': 2, 'media_stream_mic': 2, 'media_stream_camera': 2, 'protocol_handlers': 2, 'ppapi_broker': 2, 'automatic_downloads': 2, 'midi_sysex': 2, 'push_messaging': 2, 'ssl_cert_decisions': 2, 'metro_switch_to_desktop': 2, 'protected_media_identifier': 2, 'app_banner': 2, 'site_engagement': 2, 'durable_storage': 2}, "intl.accept_languages": "en,en-US,en-GB"}
 
 class Driver:
     def __init__(self):
@@ -163,3 +165,159 @@ class Driver:
         except Exception as e:
             LOGGING.error(e)
             LOGGING.error('Could not quit driver')
+
+    def getDriverElements(self, d, selector):
+        elements = []
+        try:
+            if selector['type'] == 'classname':
+                elements = d.find_elements(By.CLASS_NAME, selector['value'])
+        except:
+            elements = []
+        return elements
+
+    def deleteDriverElements(self, d, selector):
+        elements = []
+        try:
+            if selector['type'] == 'classname':
+                elements = d.find_elements(By.CLASS_NAME, selector['value'])
+        except:
+            elements = []
+        for el in elements:
+            try:
+                d.execute_script("arguments[0].remove();", el)
+            except:
+                pass
+        return
+
+    def fetchElementsFromDOM(self, element, selectors):
+        elements = []
+        for selector in selectors:
+            try:
+                if selector['type'] == 'classname':
+                    elements = element.find_all(class_= selector['value'])
+                elif selector['type'] == 'classname_attribute_condition':
+                    elements = element.find_all(class_= selector['value'])
+                    final_elements = []
+                    for el in elements:
+                        try:
+                            if el.get(selector['attribute_key']):
+                                if el.get(selector['attribute_key']) == selector['attribute_value']:
+                                    final_elements.append(el)
+                        except:
+                            continue
+                elif selector['type'] == 'tagname':
+                    elements = element.find_all(selector['value'])    
+                elif selector['type'] == 'tagname_attribute':
+                    elements = element.find_all(selector['value'])
+                    final_elements = []
+                    for el in elements:
+                        if el.get(selector['attribute_key']) == selector['attribute_value']:
+                            final_elements.append(el)
+                    elements = final_elements
+                elif selector['type'] == 'css_selector':
+                    elements = element.select(selector['value'])
+                elif selector['type'] == 'classname_xpath':
+                        el = element.find( class_= selector['classname'])
+                        value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].text_content().strip()
+
+                # Keep this at bottom, deleted unwanted tags before coming to actual tag
+                if selector['type'] == 'delete_classname':
+                    classnames = selector['delete_value'].split(', ')
+                    for classname in classnames:
+                        while element.find(class_= classname):
+                            element.find(class_= classname).decompose()
+                    elements = element.find_all(class_= selector['value'])
+            except:
+                pass
+            if len(elements) > 0:
+                return elements
+        return elements
+
+    def fetchTextFromSelectors(self, element, selectors, page_config = {}):
+        for selector in selectors:
+            value = ''
+            try:
+                if selector['type'] == 'attribute':
+                    value = element.get(selector['value'])
+                elif selector['type'] == 'config_value':
+                    value = page_config[selector['value']]
+                elif selector['type'] == 'classname':
+                    value = element.find( class_= selector['value']).getText()
+                elif selector['type'] == 'classnames':
+                    value = ''
+                    for selection in selector['values']:
+                        if element.find( class_= selection):
+                            value = ' '.join([value, element.find( class_= selection).getText()])
+                elif selector['type'] == 'classname_attribute':
+                    value = element.find(class_= selector['value']).get(selector['selector_attribute'])
+                elif selector['type'] == 'classname_attribute_condition':
+                    elements = element.find_all(class_= selector['value'])
+                    for el in elements:
+                        try:
+                            if el.get(selector['attribute_key']):
+                                if el.get(selector['attribute_key']) == selector['attribute_value']:
+                                    value = el.getText()
+                                    if value:
+                                        break
+                        except:
+                            continue
+                elif selector['type'] == 'classname_attribute_objectvalue':
+                    value = json.loads(element.find(class_= selector['value']).get(selector['selector_attribute']))[selector['object_key']]
+                elif selector['type'] == 'tagname':
+                    value = element.find(selector['value']).getText()
+                elif selector['type'] == 'tagname_attribute':
+                    value = element.find(selector['value']).get(selector['selector_attribute'])
+                elif selector['type'] == 'tagname_attribute_condition':
+                    elements = element.find_all(selector['value'])
+                    for el in elements:
+                        try:
+                            if el.get(selector['attribute_key']):
+                                if el.get(selector['attribute_key']) == selector['attribute_value']:
+                                    value = el.getText()
+                                    if value:
+                                        break
+                        except:
+                            continue
+                elif selector['type'] == 'xpath_attribute':
+                    value = html.fromstring(element.prettify()).xpath(selector['value'])[0].get(selector['selector_attribute'])
+                elif selector['type'] == 'attribute_objectvalue':
+                    value = json.loads(element.get(selector['value']))[selector['object_key']]
+                elif selector['type'] == 'classname_xpath':
+                    el = element.find( class_= selector['classname'])
+                    value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].text_content().strip()
+                elif selector['type'] == 'classname_xpath_attribute':
+                    el = element.find( class_= selector['classname'])
+                    value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].get(selector['selector_attribute'])
+                elif selector['type'] == 'classname_split':
+                    value = element.find( class_= selector['classname']).text.replace(u'\xa0', u' ')
+                    value = value.split(selector['splitter'])[selector['split']]
+                elif selector['type'] == 'attribute_split':
+                    value = element.get(selector['selector_attribute'])
+                    value = value.split(selector['splitter'])[selector['split']]
+                elif selector['type'] == 'classname_attribute_split':
+                    value = element.find( class_= selector['classname']).get(selector['selector_attribute'])
+                    value = value.split(selector['splitter'])[selector['split']]
+                elif selector['type'] == 'classname_delete_classname':
+                    el = element.find(class_= selector['value'])
+                    el.find(class_= selector['delete']).decompose()
+                    value = el.getText()
+                elif selector['type'] == 'delete_classname':
+                    element.find(class_= selector['value']).decompose()
+                elif selector['type'] == 'classname_value_flag':
+                    value = '0'
+                    if element.find(class_= selector['classname']):
+                        if element.find(class_= selector['classname']).getText().lower().strip() == selector['value'].lower():
+                            value = '1'
+
+                
+            except:
+                value = ''
+                            
+            if value is not None and value!= '':
+                return value.strip()
+            else:
+                value = ''
+                continue
+        return ''
+
+    
