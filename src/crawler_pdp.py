@@ -343,12 +343,8 @@ class Crawler_PDP:
                     if runtime > DRIVER_CLEAN_TIME:
                         self.driver.quitDriver(active_driver["obj"])
                         os.system('kill -9 ' + active_driver["pids"])
-                        flag = True
+                        self.activeDriverRemove(active_driver)
                         LOGGING.error('Driver Cleaner removed a chrome instance')
-                        break
-                if flag:
-                    self.activeDriverRemove(active_driver)
-
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
     def activeDriverRemove(self, active_driver):
