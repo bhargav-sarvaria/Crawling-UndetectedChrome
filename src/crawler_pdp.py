@@ -40,7 +40,7 @@ datefmt='%H:%M:%S',
 level=LOGGING.WARN
 )
 
-COLUMN_ORDER = ["country","retailer","brand","product_name","crawl_brand","crawl_product_name","sku", "oos", "device","product_page_url","full_page_snapshot","date"]
+COLUMN_ORDER = ["country","retailer","brand","product_name","crawl_brand","crawl_product_name","sku", "oos", "product_page_url","full_page_snapshot","date"]
 
 
 class Crawler_PDP:
@@ -138,103 +138,97 @@ class Crawler_PDP:
     def processPDPConfig(self, page_configs,thread_name):
         use_proxy = False
         timeout = 10
-        devices = ['Desktop', 'Mobile']
         if 'Proxy' in self.crawl_folder:
             use_proxy = True
-        if 'device' in page_configs[0]:
-            timeout = 20
-            devices = [page_configs[0]['device']]
-        for device in devices:
-            d = self.driver.get_driver(use_proxy=use_proxy, device=device, timeout=timeout)
-            active_driver = self.get_activeDriver(d)
-            self.ACTIVE_DRIVERS.append(active_driver)
-            for page_config in page_configs:
-                page_config['device'] = device
+        d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
+        active_driver = self.get_activeDriver(d)
+        self.ACTIVE_DRIVERS.append(active_driver)
+        for page_config in page_configs:
+            try:
                 try:
-                    try:
-                        d.get(page_config['product_page_url'])
-                    except  TimeoutException:
-                        pass
-                    except Exception as e:
-                        LOGGING.error(e)
-                        self.driver.quitDriver(d)
-                        self.activeDriverRemove(active_driver)
-                        d = self.driver.get_driver(use_proxy=use_proxy, device=device,timeout=timeout)
-                        active_driver = self.get_activeDriver(d)
-                        self.ACTIVE_DRIVERS.append(active_driver)
-                        d.get(page_config['product_page_url'])
+                    d.get(page_config['product_page_url'])
+                except  TimeoutException:
+                    pass
+                except Exception as e:
+                    LOGGING.error(e)
+                    self.driver.quitDriver(d)
+                    self.activeDriverRemove(active_driver)
+                    d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
+                    active_driver = self.get_activeDriver(d)
+                    self.ACTIVE_DRIVERS.append(active_driver)
+                    d.get(page_config['product_page_url'])
+                
+                # Wait for lazy loading
+                self.retailerWait(d, page_config)
+                # self.translateToEnglish(d)
+
+                parser = self.parser_map[page_config['retailer']]
+                variant_selectors = []
+                variants = parser['variants']
+                delete_elements = parser['deletes']
+                product_attrs = parser['details']
+
+                for element in delete_elements:
+                    self.driver.deleteDriverElements(d, element)
                     
-                    # Wait for lazy loading
-                    self.retailerWait(d, page_config, device)
-                    # self.translateToEnglish(d)
+                for variant in variants:
+                    filters = self.driver.getDriverElements(d, variant['selector'])
+                    for filt in filters:
+                        variant_selectors.append(self.driver.getDriverElements(filt, variant['variant_values']))
+                final_list = []
+                if len(variant_selectors) > 0:
+                    for element in itertools.product(*variant_selectors):
+                        final_list.append(list(element))
 
-                    parser = self.parser_map[page_config['retailer']]
-                    variant_selectors = []
-                    variants = parser['variants']
-                    delete_elements = parser['deletes']
-                    product_attrs = parser['details']
-
-                    for element in delete_elements:
-                        self.driver.deleteDriverElements(d, element)
-                        
-                    for variant in variants:
-                        filters = self.driver.getDriverElements(d, variant['selector'])
-                        for filt in filters:
-                            variant_selectors.append(self.driver.getDriverElements(filt, variant['variant_values']))
-                    final_list = []
-                    if len(variant_selectors) > 0:
-                        for element in itertools.product(*variant_selectors):
-                            final_list.append(list(element))
-
-                    product_data = []
-                    if len(final_list) > 0:
-                        for combination in final_list:
-                            combination_str = []
-                            for item in combination:
-                                try:
-                                    combination_str.append(item.get_attribute('textContent').strip())
-                                    d.execute_script ("arguments[0].click();", item)
-                                except StaleElementReferenceException:
-                                    continue
-                            time.sleep(2)
-                            for element in delete_elements:
-                                self.driver.deleteDriverElements(d, element)
-                            combination_str =  '_'.join(combination_str)
-                            img_path = './' + str(time.time())+ '.jpg'
-                            self.driver.save_screenshot(d, img_path)
-                            ss_filename = page_config['file_name'] + '_' + combination_str + '_' + page_config['device'] + '_' + page_config['date'] + '.jpg'
-                            gcloud_ss_filename = page_config['gcloud_path'] + page_config['date'] + '/' + ss_filename
-                            self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
-                            page_config['sku'] = combination_str
-                            page_config['full_page_snapshot'] = gcloud_ss_filename
-                            page = BeautifulSoup(d.page_source, 'html.parser')
-                            sku = self.getSkuData(page, product_attrs, page_config)
-                            product_data.append(sku)
-                            if os.path.exists(img_path):
-                                os.remove(img_path)
-                    else:
+                product_data = []
+                if len(final_list) > 0:
+                    for combination in final_list:
+                        combination_str = []
+                        for item in combination:
+                            try:
+                                combination_str.append(item.get_attribute('textContent').strip())
+                                d.execute_script ("arguments[0].click();", item)
+                            except StaleElementReferenceException:
+                                continue
+                        time.sleep(2)
+                        for element in delete_elements:
+                            self.driver.deleteDriverElements(d, element)
+                        combination_str =  '_'.join(combination_str)
                         img_path = './' + str(time.time())+ '.jpg'
                         self.driver.save_screenshot(d, img_path)
-                        ss_filename = page_config['file_name'] + '_' + page_config['device'] + '_' + page_config['date'] + '.jpg'
+                        ss_filename = page_config['file_name'] + '_' + combination_str + '_' + page_config['date'] + '.jpg'
                         gcloud_ss_filename = page_config['gcloud_path'] + page_config['date'] + '/' + ss_filename
                         self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
-                        page_config['sku'] = 'None'
+                        page_config['sku'] = combination_str
                         page_config['full_page_snapshot'] = gcloud_ss_filename
                         page = BeautifulSoup(d.page_source, 'html.parser')
                         sku = self.getSkuData(page, product_attrs, page_config)
                         product_data.append(sku)
                         if os.path.exists(img_path):
                             os.remove(img_path)
-                    
-                    self.savePDPData(product_data, page_config)
+                else:
+                    img_path = './' + str(time.time())+ '.jpg'
+                    self.driver.save_screenshot(d, img_path)
+                    ss_filename = page_config['file_name'] + '_' + page_config['date'] + '.jpg'
+                    gcloud_ss_filename = page_config['gcloud_path'] + page_config['date'] + '/' + ss_filename
+                    self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
+                    page_config['sku'] = 'None'
+                    page_config['full_page_snapshot'] = gcloud_ss_filename
+                    page = BeautifulSoup(d.page_source, 'html.parser')
+                    sku = self.getSkuData(page, product_attrs, page_config)
+                    product_data.append(sku)
+                    if os.path.exists(img_path):
+                        os.remove(img_path)
+                
+                self.savePDPData(product_data, page_config)
 
-                except Exception as e:
-                    LOGGING.error(e)
-                    self.pageError(page_config, 'processPDPConfig exception')
-            
-            self.driver.quitDriver(d)
-            self.activeDriverRemove(active_driver)
+            except Exception as e:
+                LOGGING.error(e)
+                self.pageError(page_config, 'processPDPConfig exception')
         
+        self.driver.quitDriver(d)
+        self.activeDriverRemove(active_driver)
+    
         self.RUNNING_THREADS.remove(thread_name)
         if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
@@ -259,7 +253,7 @@ class Crawler_PDP:
             df = pd.DataFrame(product_data)
             df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
-            filname = page_config['file_name'] + '_' + page_config['device'] + '_' + page_config['date'] + '.csv'
+            filname = page_config['file_name'] + '_' + page_config['date'] + '.csv'
             np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
             gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
@@ -272,7 +266,7 @@ class Crawler_PDP:
             LOGGING.error(e)
             self.pageError(page_config, 'parsePLPage exception')
     
-    def retailerWait(self, d, page_config, device):
+    def retailerWait(self, d, page_config, device='Desktop'):
         try:
             d.execute_script("window.scrollTo(0,document.body.scrollHeight);")
         except:
