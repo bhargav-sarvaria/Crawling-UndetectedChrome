@@ -189,7 +189,7 @@ class Crawler:
     def parsePLPage(self, source, page_config, device, img_path):
         try:
             parser = self.parser_map[page_config['parsing_config']]
-            products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
+            products = self.driver.fetchSoupElements(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
                 self.pageError(page_config, 'No products', delete=img_path)
                 return
@@ -221,137 +221,6 @@ class Crawler:
             LOGGING.error(e)
             self.pageError(page_config, 'parsePLPage exception', delete=img_path)
     
-    def fetchProductsinPage(self, element, selectors):
-        elements = []
-        for selector in selectors:
-            try:
-                if selector['type'] == 'classname':
-                    elements = element.find_all(class_= selector['value'])
-                elif selector['type'] == 'classname_attribute_condition':
-                    elements = element.find_all(class_= selector['value'])
-                    final_elements = []
-                    for el in elements:
-                        try:
-                            if el.get(selector['attribute_key']):
-                                if el.get(selector['attribute_key']) == selector['attribute_value']:
-                                    final_elements.append(el)
-                        except:
-                            continue
-                elif selector['type'] == 'tagname':
-                    elements = element.find_all(selector['value'])    
-                elif selector['type'] == 'tagname_attribute':
-                    elements = element.find_all(selector['value'])
-                    final_elements = []
-                    for el in elements:
-                        if el.get(selector['attribute_key']) == selector['attribute_value']:
-                            final_elements.append(el)
-                    elements = final_elements
-                elif selector['type'] == 'css_selector':
-                    elements = element.select(selector['value'])
-                elif selector['type'] == 'classname_xpath':
-                        el = element.find( class_= selector['classname'])
-                        value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].text_content().strip()
-
-                # Keep this at bottom, deleted unwanted tags before coming to actual tag
-                if selector['type'] == 'delete_classname':
-                    classnames = selector['delete_value'].split(', ')
-                    for classname in classnames:
-                        while element.find(class_= classname):
-                            element.find(class_= classname).decompose()
-                    elements = element.find_all(class_= selector['value'])
-            except:
-                pass
-            if len(elements) > 0:
-                return elements
-        return elements
-    
-    def fetchTextFromSelectors(self, element, selectors, page_config = {}):
-        for selector in selectors:
-            value = ''
-            try:
-                if selector['type'] == 'attribute':
-                    value = element.get(selector['value'])
-                elif selector['type'] == 'config_value':
-                    value = page_config[selector['value']]
-                elif selector['type'] == 'classname':
-                    value = element.find( class_= selector['value']).getText()
-                elif selector['type'] == 'classnames':
-                    value = ''
-                    for selection in selector['values']:
-                        if element.find( class_= selection):
-                            value = ' '.join([value, element.find( class_= selection).getText()])
-                elif selector['type'] == 'classname_attribute':
-                    value = element.find(class_= selector['value']).get(selector['selector_attribute'])
-                elif selector['type'] == 'classname_attribute_condition':
-                    elements = element.find_all(class_= selector['value'])
-                    for el in elements:
-                        try:
-                            if el.get(selector['attribute_key']):
-                                if el.get(selector['attribute_key']) == selector['attribute_value']:
-                                    value = el.getText()
-                                    if value:
-                                        break
-                        except:
-                            continue
-                elif selector['type'] == 'classname_attribute_objectvalue':
-                    value = json.loads(element.find(class_= selector['value']).get(selector['selector_attribute']))[selector['object_key']]
-                elif selector['type'] == 'tagname':
-                    value = element.find(selector['value']).getText()
-                elif selector['type'] == 'tagname_attribute':
-                    value = element.find(selector['value']).get(selector['selector_attribute'])
-                elif selector['type'] == 'tagname_attribute_condition':
-                    elements = element.find_all(selector['value'])
-                    for el in elements:
-                        try:
-                            if el.get(selector['attribute_key']):
-                                if el.get(selector['attribute_key']) == selector['attribute_value']:
-                                    value = el.getText()
-                                    if value:
-                                        break
-                        except:
-                            continue
-                elif selector['type'] == 'xpath_attribute':
-                    value = html.fromstring(element.prettify()).xpath(selector['value'])[0].get(selector['selector_attribute'])
-                elif selector['type'] == 'attribute_objectvalue':
-                    value = json.loads(element.get(selector['value']))[selector['object_key']]
-                elif selector['type'] == 'classname_xpath':
-                    el = element.find( class_= selector['classname'])
-                    value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].text_content().strip()
-                elif selector['type'] == 'classname_xpath_attribute':
-                    el = element.find( class_= selector['classname'])
-                    value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].get(selector['selector_attribute'])
-                elif selector['type'] == 'classname_split':
-                    value = element.find( class_= selector['classname']).text.replace(u'\xa0', u' ')
-                    value = value.split(selector['splitter'])[selector['split']]
-                elif selector['type'] == 'attribute_split':
-                    value = element.get(selector['selector_attribute'])
-                    value = value.split(selector['splitter'])[selector['split']]
-                elif selector['type'] == 'classname_attribute_split':
-                    value = element.find( class_= selector['classname']).get(selector['selector_attribute'])
-                    value = value.split(selector['splitter'])[selector['split']]
-                elif selector['type'] == 'classname_delete_classname':
-                    el = element.find(class_= selector['value'])
-                    el.find(class_= selector['delete']).decompose()
-                    value = el.getText()
-                elif selector['type'] == 'delete_classname':
-                    element.find(class_= selector['value']).decompose()
-                elif selector['type'] == 'classname_value_flag':
-                    value = '0'
-                    if element.find(class_= selector['classname']):
-                        if element.find(class_= selector['classname']).getText().lower().strip() == selector['value'].lower():
-                            value = '1'
-
-                
-            except:
-                value = ''
-                            
-            if value is not None and value!= '':
-                return value.strip()
-            else:
-                value = ''
-                continue
-        return ''
-
     def getProductsData(self, products, product_attrs, page_config):
         products_data = []
         position_counter = 1
@@ -361,7 +230,7 @@ class Crawler:
                 for product_attr in product_attrs:
                     field = product_attr['field']
                     if field != 'position': 
-                        product_data[field] = self.fetchTextFromSelectors(product, product_attr['selectors'], page_config)
+                        product_data[field] = self.driver.fetchTextFromSelectors(product, product_attr['selectors'], page_config)
                     elif field == 'position':
                         if product_data['product_name'] == '' or product_data['product_name'] is None:
                             continue

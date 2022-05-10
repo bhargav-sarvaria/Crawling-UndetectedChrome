@@ -238,7 +238,7 @@ class Crawler_PDP:
         for product_attr in product_attrs:
             field = product_attr['field']
             if field == 'oos':
-                elements = self.driver.fetchElementsFromDOM(page, product_attr['selectors'])
+                elements = self.driver.fetchSeleniumElements(page, product_attr['selectors'])
                 present = len(elements) > 0
                 if present == product_attr['selectors'][0]['present']:
                     sku_data[field] = '1'
