@@ -197,13 +197,18 @@ class Crawler:
             if len(products_data) == 0:
                 self.pageError(page_config, 'No product details', delete=img_path)
                 return
-            df = pd.DataFrame(products_data)
-            df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
-            df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
+
             filname = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
-            np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
             gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname
             gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filname.replace('.csv', '.jpg')
+
+            df = pd.DataFrame(products_data)
+            df = df.assign(full_page_snapshot = gcloud_filename_ss)
+            df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
+            df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
+            
+            np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
+            
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
             self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
             
