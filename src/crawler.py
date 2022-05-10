@@ -100,8 +100,8 @@ class Crawler:
             crawl_urls = mongo.getDocumentsForRetry(crawl_folder, kpi = 'PL')
 
             for idx, page_config in enumerate(crawl_urls):
-                if page_config['retailer'] not in self.parser_map:
-                    self.parser_map[page_config['retailer']] = json.load(open(page_config['parsing_config'],'r'))
+                if page_config['parsing_config'] not in self.parser_map:
+                    self.parser_map[page_config['parsing_config']] = json.load(open(page_config['parsing_config'],'r'))
                 page_config['index'] = str(idx)
                 page_config['url_count'] = str(len(crawl_urls))
                 self.addConfig(page_config)
@@ -118,7 +118,7 @@ class Crawler:
                 
                 # Store the opened config file in local variable
                 if len(crawl_urls):
-                    self.parser_map[crawl_urls[0]['retailer']] = json.load(open(crawl_urls[0]['parsing_config'],'r'))
+                    self.parser_map[crawl_urls[0]['parsing_config']] = json.load(open(crawl_urls[0]['parsing_config'],'r'))
                 for idx, page_config in enumerate(crawl_urls):
                     page_config['index'] = str(idx)
                     page_config['url_count'] = str(len(crawl_urls))
@@ -188,7 +188,7 @@ class Crawler:
     
     def parsePLPage(self, source, page_config, device, img_path):
         try:
-            parser = self.parser_map[page_config['retailer']]
+            parser = self.parser_map[page_config['parsing_config']]
             products = self.fetchProductsinPage(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
                 self.pageError(page_config, 'No products', delete=img_path)
@@ -377,7 +377,7 @@ class Crawler:
             return
         try:    
             retailer = page_config['retailer']
-            parser = self.parser_map[page_config['retailer']]
+            parser = self.parser_map[page_config['parsing_config']]
             if 'wait_for_class' in parser:
                 WebDriverWait(d, RENDER_WAIT_LIMIT).until(EC.visibility_of_element_located((By.CLASS_NAME, parser['wait_for_class'])))
             elif 'wait_for_id' in parser:
