@@ -35,11 +35,11 @@ class Driver:
         return self.proxies[self.proxy_index]
 
     def get_driver(self, 
-    country_name='United States', 
-    hoxx = False, 
-    timeout = 10,
-    device = 'Desktop',
-    use_proxy=False
+        country_name='United States', 
+        hoxx = False, 
+        timeout = 10,
+        device = 'Desktop',
+        use_proxy=False
     ):
         try:
             opt = uc.ChromeOptions()
@@ -122,7 +122,6 @@ class Driver:
         except Exception as e:
             print(e)
         return None   
-
     
     def save_screenshot(self, driver, path) -> None:
         try:
@@ -139,7 +138,6 @@ class Driver:
             driver.set_window_size(original_size['width'], original_size['height'])
         except Exception as e:
             return
-
 
     def compressPngToJpg(self, img_path):
         try:
@@ -362,6 +360,4 @@ class Driver:
             else:
                 value = ''
                 continue
-        return ''
-
-    
+        return '' 
