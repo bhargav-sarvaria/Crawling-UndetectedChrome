@@ -198,24 +198,30 @@ class Crawler:
                 self.pageError(page_config, 'No product details', delete=img_path)
                 return
 
-            filname = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
-            gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname
-            gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filname.replace('.csv', '.jpg')
+            filename = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
+            filename_parq = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.parquet'
+            gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filename
+            gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filename.replace('.csv', '.jpg')
+            gcloud_filename_parq = page_config['gcloud_path'].replace('crawl_data', 'parq_data') + page_config['date'] + '/' + filename_parq
 
             df = pd.DataFrame(products_data)
             df = df.assign(full_page_snapshot = gcloud_filename_ss)
             df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             
-            np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
+            df.to_parquet(filename_parq, engine='fastparquet')
+            np.savetxt(filename, df.to_numpy(),fmt='%s', delimiter=':::')
             
-            self.bucket.blob(gcloud_filename).upload_from_filename(filname)
+            self.bucket.blob(gcloud_filename).upload_from_filename(filename)
             self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
+            self.bucket.blob(gcloud_filename_parq).upload_from_filename(filename_parq)
             
             if os.path.exists(img_path):
                 os.remove(img_path)
-            if os.path.exists(filname):
-                os.remove(filname)
+            if os.path.exists(filename_parq):
+                os.remove(filename_parq)
+            if os.path.exists(filename):
+                os.remove(filename)
                 LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
             LOGGING.error(e)
