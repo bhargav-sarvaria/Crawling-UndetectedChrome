@@ -57,11 +57,6 @@
       "selectors": [{ "type": "config_value", "value": "sku" }]
     },
     {
-      "field": "device",
-      "field_name": "Device",
-      "selectors": [{ "type": "config_value", "value": "device" }]
-    },
-    {
       "field": "product_page_url",
       "field_name": "Page URL",
       "selectors": [{ "type": "config_value", "value": "product_page_url" }]

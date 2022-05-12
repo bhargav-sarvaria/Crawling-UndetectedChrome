@@ -254,20 +254,42 @@ class Crawler_PDP:
             df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             filname = page_config['file_name'] + '_' + page_config['date'] + '.csv'
-            filname_parq = page_config['file_name'] + '_' + page_config['date'] + '.parquet'
             np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
             gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname
-            gcloud_filename_parq = page_config['gcloud_path'].replace('crawl_data', 'parq_data')+ page_config['date'] + '/' + filname_parq
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
+
+            filname_parq = page_config['file_name'] + '_' + page_config['date'] + '.parquet'
+            df.drop(['country', 'retailer', 'date'], axis = 1, inplace = True)
+            df.to_parquet(filname_parq, engine='fastparquet')
+            gcloud_filename_parq = self.getParquetUploadFolder(page_config, filname_parq)
             self.bucket.blob(gcloud_filename_parq).upload_from_filename(filname_parq)
             
             if os.path.exists(filname):
                 os.remove(filname)
+            if os.path.exists(filname_parq):
+                os.remove(filname_parq)
                 print(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
                 LOGGING.warn(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
         except Exception as e:
             LOGGING.error(e)
             self.pageError(page_config, 'parsePLPage exception')
+
+    def getParquetUploadFolder(self,config,filename):
+        kpi = ''
+        if 'crawl_data_se/' in config['gcloud_path']:
+            kpi = 'SE'
+        elif 'crawl_data/' in config['gcloud_path']:
+            kpi = 'SOS'
+        elif 'crawl_data_pdp/' in config['gcloud_path']:
+            kpi = 'PDP'
+            
+        return 'crawl/{0}/country={1}/retailer={2}/date={3}/{4}'.format(
+            kpi,
+            config['country'],
+            config['retailer'],
+            config['date'],
+            filename
+        )
     
     def retailerWait(self, d, page_config, device='Desktop'):
         try:
