@@ -198,22 +198,25 @@ class Crawler:
                 self.pageError(page_config, 'No product details', delete=img_path)
                 return
 
+            
             filename = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
             filename_parq = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.parquet'
+
             gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filename
+            gcloud_filename_parq = self.getParquetUploadFolder(page_config, filename_parq)
+
             gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filename.replace('.csv', '.jpg')
-            gcloud_filename_parq = page_config['gcloud_path'].replace('crawl_data', 'parq_data') + page_config['date'] + '/' + filename_parq
 
             df = pd.DataFrame(products_data)
             df = df.assign(full_page_snapshot = gcloud_filename_ss)
             df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
-            
-            df.to_parquet(filename_parq, engine='fastparquet')
             np.savetxt(filename, df.to_numpy(),fmt='%s', delimiter=':::')
-            
             self.bucket.blob(gcloud_filename).upload_from_filename(filename)
             self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
+
+            df.drop(['country', 'retailer', 'date'], axis = 1, inplace = True)
+            df.to_parquet(filename_parq, engine='fastparquet')
             self.bucket.blob(gcloud_filename_parq).upload_from_filename(filename_parq)
             
             if os.path.exists(img_path):
@@ -227,6 +230,23 @@ class Crawler:
             LOGGING.error(e)
             self.pageError(page_config, 'parsePLPage exception', delete=img_path)
     
+    def getParquetUploadFolder(self,config,filename):
+        kpi = ''
+        if 'crawl_data_se/' in config['gcloud_path']:
+            kpi = 'SE'
+        elif 'crawl_data/' in config['gcloud_path']:
+            kpi = 'SOS'
+        elif 'crawl_data_pdp/' in config['gcloud_path']:
+            kpi = 'PDP'
+            
+        return 'crawl/{0}/country={1}/retailer={2}/date={3}/{4}'.format(
+            kpi,
+            config['country'],
+            config['retailer'],
+            config['date'],
+            filename
+        )
+
     def getProductsData(self, products, product_attrs, page_config):
         products_data = []
         position_counter = 1
