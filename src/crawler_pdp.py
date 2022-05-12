@@ -254,9 +254,12 @@ class Crawler_PDP:
             df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             filname = page_config['file_name'] + '_' + page_config['date'] + '.csv'
+            filname_parq = page_config['file_name'] + '_' + page_config['date'] + '.parquet'
             np.savetxt(filname, df.to_numpy(),fmt='%s', delimiter=':::')
             gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filname
+            gcloud_filename_parq = page_config['gcloud_path'].replace('crawl_data', 'parq_data')+ page_config['date'] + '/' + filname_parq
             self.bucket.blob(gcloud_filename).upload_from_filename(filname)
+            self.bucket.blob(gcloud_filename_parq).upload_from_filename(filname_parq)
             
             if os.path.exists(filname):
                 os.remove(filname)
