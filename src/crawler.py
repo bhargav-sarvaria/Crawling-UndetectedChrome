@@ -211,8 +211,8 @@ class Crawler:
             df = df.assign(full_page_snapshot = gcloud_filename_ss)
             df = df.reindex(columns= self.orderedColumns(df.columns.values.tolist()))
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
-            np.savetxt(filename, df.to_numpy(),fmt='%s', delimiter=':::')
-            self.bucket.blob(gcloud_filename).upload_from_filename(filename)
+            # np.savetxt(filename, df.to_numpy(),fmt='%s', delimiter=':::')
+            # self.bucket.blob(gcloud_filename).upload_from_filename(filename)
             self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
 
             df.drop(['country', 'retailer', 'date'], axis = 1, inplace = True)
@@ -223,8 +223,8 @@ class Crawler:
                 os.remove(img_path)
             if os.path.exists(filename_parq):
                 os.remove(filename_parq)
-            if os.path.exists(filename):
-                os.remove(filename)
+            # if os.path.exists(filename):
+                # os.remove(filename)
                 LOGGING.warn(page_config['retailer'] + ' ' + page_config['index'] + '/' + page_config['url_count'] + ' ' + str(len(products)))
         except Exception as e:
             LOGGING.error(e)
