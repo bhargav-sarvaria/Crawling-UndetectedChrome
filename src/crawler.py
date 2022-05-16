@@ -352,6 +352,11 @@ class Crawler:
 
     def activeDriverRemove(self, active_driver):
         if active_driver in self.ACTIVE_DRIVERS:
+            try:
+                self.driver.quitDriver(active_driver["obj"])
+                os.system('kill -9 ' + active_driver["pids"])
+            except:
+                pass
             self.ACTIVE_DRIVERS.remove(active_driver)
     
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:

@@ -136,99 +136,104 @@ class Crawler_PDP:
         return { "obj": d, "create_time": time.time(), "pids": self.driver_proc(d)}
 
     def processPDPConfig(self, page_configs,thread_name):
-        use_proxy = False
-        timeout = 10
-        if 'Proxy' in self.crawl_folder:
-            use_proxy = True
-        d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
-        active_driver = self.get_activeDriver(d)
-        self.ACTIVE_DRIVERS.append(active_driver)
-        for page_config in page_configs:
-            try:
+        try:
+            use_proxy = False
+            timeout = 10
+            if 'Proxy' in self.crawl_folder:
+                use_proxy = True
+            d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
+            active_driver = self.get_activeDriver(d)
+            self.ACTIVE_DRIVERS.append(active_driver)
+            self.activeDriverRemove(active_driver)
+            for page_config in page_configs:
                 try:
-                    d.get(page_config['product_page_url'])
-                except  TimeoutException:
-                    pass
-                except Exception as e:
-                    LOGGING.error(e)
-                    self.driver.quitDriver(d)
-                    self.activeDriverRemove(active_driver)
-                    d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
-                    active_driver = self.get_activeDriver(d)
-                    self.ACTIVE_DRIVERS.append(active_driver)
-                    d.get(page_config['product_page_url'])
-                
-                # Wait for lazy loading
-                self.retailerWait(d, page_config)
-                # self.translateToEnglish(d)
-
-                parser = self.parser_map[page_config['parsing_config']]
-                variant_selectors = []
-                variants = parser['variants']
-                delete_elements = parser['deletes']
-                product_attrs = parser['details']
-
-                for element in delete_elements:
-                    self.driver.deleteDriverElements(d, element)
+                    try:
+                        d.get(page_config['product_page_url'])
+                    except  TimeoutException:
+                        pass
+                    except Exception as e:
+                        LOGGING.error(e)
+                        self.driver.quitDriver(d)
+                        self.activeDriverRemove(active_driver)
+                        d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
+                        active_driver = self.get_activeDriver(d)
+                        self.ACTIVE_DRIVERS.append(active_driver)
+                        d.get(page_config['product_page_url'])
                     
-                for variant in variants:
-                    filters = self.driver.getDriverElements(d, variant['selector'])
-                    for filt in filters:
-                        variant_selectors.append(self.driver.getDriverElements(filt, variant['variant_values']))
-                final_list = []
-                if len(variant_selectors) > 0:
-                    for element in itertools.product(*variant_selectors):
-                        final_list.append(list(element))
+                    # Wait for lazy loading
+                    self.retailerWait(d, page_config)
+                    # self.translateToEnglish(d)
 
-                product_data = []
-                if len(final_list) > 0:
-                    for combination in final_list:
-                        combination_str = []
-                        for item in combination:
-                            try:
-                                combination_str.append(item.get_attribute('textContent').strip())
-                                d.execute_script ("arguments[0].click();", item)
-                            except StaleElementReferenceException:
-                                continue
-                        time.sleep(2)
-                        for element in delete_elements:
-                            self.driver.deleteDriverElements(d, element)
-                        combination_str =  '_'.join(combination_str)
+                    parser = self.parser_map[page_config['parsing_config']]
+                    variant_selectors = []
+                    variants = parser['variants']
+                    delete_elements = parser['deletes']
+                    product_attrs = parser['details']
+
+                    for element in delete_elements:
+                        self.driver.deleteDriverElements(d, element)
+                        
+                    for variant in variants:
+                        filters = self.driver.getDriverElements(d, variant['selector'])
+                        for filt in filters:
+                            variant_selectors.append(self.driver.getDriverElements(filt, variant['variant_values']))
+                    final_list = []
+                    if len(variant_selectors) > 0:
+                        for element in itertools.product(*variant_selectors):
+                            final_list.append(list(element))
+
+                    product_data = []
+                    if len(final_list) > 0:
+                        for combination in final_list:
+                            combination_str = []
+                            for item in combination:
+                                try:
+                                    combination_str.append(item.get_attribute('textContent').strip())
+                                    d.execute_script ("arguments[0].click();", item)
+                                except StaleElementReferenceException:
+                                    continue
+                            time.sleep(2)
+                            for element in delete_elements:
+                                self.driver.deleteDriverElements(d, element)
+                            combination_str =  '_'.join(combination_str)
+                            img_path = './' + str(time.time())+ '.jpg'
+                            self.driver.save_screenshot(d, img_path)
+                            ss_filename = page_config['file_name'] + '_' + combination_str.replace('/', '|') + '_' + page_config['date'] + '.jpg'
+                            gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
+                            self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
+                            page_config['sku'] = combination_str
+                            page_config['full_page_snapshot'] = gcloud_ss_filename
+                            page = BeautifulSoup(d.page_source, 'html.parser')
+                            sku = self.getSkuData(page, product_attrs, page_config)
+                            product_data.append(sku)
+                            if os.path.exists(img_path):
+                                os.remove(img_path)
+                    else:
                         img_path = './' + str(time.time())+ '.jpg'
                         self.driver.save_screenshot(d, img_path)
-                        ss_filename = page_config['file_name'] + '_' + combination_str.replace('/', '|') + '_' + page_config['date'] + '.jpg'
+                        ss_filename = page_config['file_name'] + '_' + page_config['date'] + '.jpg'
                         gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
                         self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
-                        page_config['sku'] = combination_str
+                        page_config['sku'] = 'None'
                         page_config['full_page_snapshot'] = gcloud_ss_filename
                         page = BeautifulSoup(d.page_source, 'html.parser')
                         sku = self.getSkuData(page, product_attrs, page_config)
                         product_data.append(sku)
                         if os.path.exists(img_path):
                             os.remove(img_path)
-                else:
-                    img_path = './' + str(time.time())+ '.jpg'
-                    self.driver.save_screenshot(d, img_path)
-                    ss_filename = page_config['file_name'] + '_' + page_config['date'] + '.jpg'
-                    gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
-                    self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
-                    page_config['sku'] = 'None'
-                    page_config['full_page_snapshot'] = gcloud_ss_filename
-                    page = BeautifulSoup(d.page_source, 'html.parser')
-                    sku = self.getSkuData(page, product_attrs, page_config)
-                    product_data.append(sku)
-                    if os.path.exists(img_path):
-                        os.remove(img_path)
-                
-                self.savePDPData(product_data, page_config)
+                    
+                    self.savePDPData(product_data, page_config)
 
-            except Exception as e:
-                LOGGING.error(e)
-                self.pageError(page_config, 'processPDPConfig exception')
+                except Exception as e:
+                    LOGGING.error(e)
+                    self.pageError(page_config, 'processPDPConfig exception')
         
-        self.driver.quitDriver(d)
-        self.activeDriverRemove(active_driver)
+            self.driver.quitDriver(d)
+            self.activeDriverRemove(active_driver)
     
+        except:
+            pass
+        
         self.RUNNING_THREADS.remove(thread_name)
         if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
@@ -374,6 +379,11 @@ class Crawler_PDP:
 
     def activeDriverRemove(self, active_driver):
         if active_driver in self.ACTIVE_DRIVERS:
+            try:
+                self.driver.quitDriver(active_driver["obj"])
+                os.system('kill -9 ' + active_driver["pids"])
+            except:
+                pass
             self.ACTIVE_DRIVERS.remove(active_driver)
     
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
