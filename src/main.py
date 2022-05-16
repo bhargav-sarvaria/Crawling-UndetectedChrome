@@ -4,12 +4,34 @@ from pyvirtualdisplay import Display
 import os
 import sys
 import atexit
+import psutil
+import logging as LOGGING
+LOGGING.basicConfig(
+filename='run.log',
+filemode='a',
+format='[%(asctime)s] %(levelname)s {%(filename)s:%(lineno)d} -  %(message)s',
+datefmt='%H:%M:%S',
+level=LOGGING.WARN
+)
 
 if sys.platform.endswith("linux"):
     DISPLAY = Display(visible=0, size=(1024, 768))
 
+def killAllChromeProcesses():
+    for process in psutil.process_iter():
+        try:
+            if 'chrome' in process.name().lower():
+                os.system('kill -9 ' + str(process.pid))
+                LOGGING.warn('Killed Chrome on Exit')
+        except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+            pass
+        except Exception as e:
+            LOGGING.error(e)
+
 def exit_handler():
     if sys.platform.endswith("linux"):
+        LOGGING.warn('Exiting the crawl')
+        killAllChromeProcesses()
         DISPLAY.stop()
 
 if __name__ == '__main__':
