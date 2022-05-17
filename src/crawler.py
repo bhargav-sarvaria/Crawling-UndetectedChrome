@@ -52,6 +52,8 @@ class Crawler:
         self.ACTIVE_DRIVERS = []
         self.storage_client = storage.Client.from_service_account_json('config/dsp_retail_scan_cred.json')
         self.bucket = self.storage_client.get_bucket('dspretailscan')
+        self.bucket_ss = self.storage_client.get_bucket('dsppublic')
+
         self.parser_map = {}
 
     def addConfig(self, page_config):
@@ -213,7 +215,7 @@ class Crawler:
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             # np.savetxt(filename, df.to_numpy(),fmt='%s', delimiter=':::')
             # self.bucket.blob(gcloud_filename).upload_from_filename(filename)
-            self.bucket.blob(gcloud_filename_ss).upload_from_filename(img_path)
+            self.bucket_ss.blob(gcloud_filename_ss).upload_from_filename(img_path)
 
             df.drop(['country', 'retailer', 'date'], axis = 1, inplace = True)
             df.to_parquet(filename_parq, engine='fastparquet')

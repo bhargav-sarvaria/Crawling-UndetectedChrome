@@ -53,6 +53,7 @@ class Crawler_PDP:
         self.ACTIVE_DRIVERS = []
         self.storage_client = storage.Client.from_service_account_json('config/dsp_retail_scan_cred.json')
         self.bucket = self.storage_client.get_bucket('dspretailscan')
+        self.bucket_ss = self.storage_client.get_bucket('dsppublic')
         self.parser_map = {}
 
     def addConfig(self, page_config):
@@ -199,7 +200,7 @@ class Crawler_PDP:
                             self.driver.save_screenshot(d, img_path)
                             ss_filename = page_config['file_name'] + '_' + combination_str.replace('/', '|') + '_' + page_config['date'] + '.jpg'
                             gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
-                            self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
+                            self.bucket_ss.blob(gcloud_ss_filename).upload_from_filename(img_path)
                             page_config['sku'] = combination_str
                             page_config['full_page_snapshot'] = gcloud_ss_filename
                             page = BeautifulSoup(d.page_source, 'html.parser')
@@ -212,7 +213,7 @@ class Crawler_PDP:
                         self.driver.save_screenshot(d, img_path)
                         ss_filename = page_config['file_name'] + '_' + page_config['date'] + '.jpg'
                         gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
-                        self.bucket.blob(gcloud_ss_filename).upload_from_filename(img_path)
+                        self.bucket_ss.blob(gcloud_ss_filename).upload_from_filename(img_path)
                         page_config['sku'] = 'None'
                         page_config['full_page_snapshot'] = gcloud_ss_filename
                         page = BeautifulSoup(d.page_source, 'html.parser')
