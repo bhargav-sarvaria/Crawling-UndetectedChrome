@@ -4945,17 +4945,6 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Designers",
     "category": "Featured Designers",
-    "page": "Theory",
-    "page_url": "https://www.bloomingdales.com/shop/theory-designer-clothing?id=1002845&cm_sp=NAVIGATION-_-TOP_NAV-_-1002845-Featured-Designers-Theory",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Theory"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Designers",
-    "category": "Featured Designers",
     "page": "Tory Burch",
     "page_url": "https://www.bloomingdales.com/shop/tory-burch?id=1002727&cm_sp=NAVIGATION-_-TOP_NAV-_-1002727-Featured-Designers-Tory-Burch",
     "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Tory|sp|Burch"

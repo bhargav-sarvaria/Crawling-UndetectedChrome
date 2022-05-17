@@ -1887,17 +1887,6 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Home & Lifestyle",
     "category": "Kitchen",
-    "page": "Food & Gourmet Gifts",
-    "page_url": "https://www.macys.com/shop/gourmet-food-and-gift-baskets?id=207577&cm_sp=us_hdr-_-home-_-207577_food-%26-gourmet-gifts_COL2",
-    "file_name": "United|sp|States_Macys_Home_Kitchen_Food|sp||as||sp|Gourmet|sp|Gifts"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Home & Lifestyle",
-    "category": "Kitchen",
     "page": "Grilling",
     "page_url": "https://www.macys.com/shop/kitchen/grilling?id=72162&cm_sp=us_hdr-_-home-_-72162_grilling_COL2",
     "file_name": "United|sp|States_Macys_Home_Kitchen_Grilling"
