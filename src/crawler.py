@@ -156,7 +156,7 @@ class Crawler:
                         pass
                     except Exception as e:
                         LOGGING.error(e)
-                        self.driver.quitDriver(d)
+                        # self.driver.quitDriver(d)
                         self.activeDriverRemove(active_driver)
                         d = self.driver.get_driver(use_proxy=use_proxy, device=device,timeout=timeout)
                         active_driver = self.get_activeDriver(d)
@@ -179,7 +179,7 @@ class Crawler:
                     LOGGING.error(e)
                     self.pageError(page_config, 'processPLConfig exception')
             
-            self.driver.quitDriver(d)
+            # self.driver.quitDriver(d)
             self.activeDriverRemove(active_driver)
         
         self.RUNNING_THREADS.remove(thread_name)
@@ -324,16 +324,11 @@ class Crawler:
                 try:
                     if proc.memory_percent() > MEMORY_THRESHOLD and 'chrome' in proc.name().lower():
                         pid = str(proc.pid)
-                        flag = False
                         for active_driver in self.ACTIVE_DRIVERS:
                             if pid in active_driver["pids"]:
-                                self.driver.quitDriver(active_driver["obj"])
-                                flag = True
-                                os.system('kill -9 ' + active_driver["pids"])
-                                LOGGING.error('Driver Cleaner removed a chrome instance')
-                                break
-                        if flag:
-                            self.activeDriverRemove(active_driver)
+                                LOGGING.error('driverCleaner excess memory')
+                                self.activeDriverRemove(active_driver)
+                                LOGGING.error('Driver Cleaner removed a chrome instance')                        
                         os.system('kill -9 ' + pid)
                 except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
                     pass
@@ -344,8 +339,9 @@ class Crawler:
                 for active_driver in self.ACTIVE_DRIVERS:
                     runtime = time.time() - active_driver["create_time"]
                     if runtime > DRIVER_CLEAN_TIME:
-                        self.driver.quitDriver(active_driver["obj"])
-                        os.system('kill -9 ' + active_driver["pids"])
+                        LOGGING.error('driverCleaner create time pass')
+                        # self.driver.quitDriver(active_driver["obj"])
+                        # os.system('kill -9 ' + active_driver["pids"])
                         self.activeDriverRemove(active_driver)
                         LOGGING.error('Driver Cleaner removed a chrome instance')
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
@@ -353,6 +349,7 @@ class Crawler:
     def activeDriverRemove(self, active_driver):
         if active_driver in self.ACTIVE_DRIVERS:
             try:
+                LOGGING.error('active driver remove')
                 self.driver.quitDriver(active_driver["obj"])
                 os.system('kill -9 ' + active_driver["pids"])
             except:

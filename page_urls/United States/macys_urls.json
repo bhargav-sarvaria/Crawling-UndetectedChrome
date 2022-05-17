@@ -181,17 +181,6 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
-    "category": "Mens Trends",
-    "page": "The Relaxed Jean",
-    "page_url": "https://www.macys.com/s/own-your-style/mens-relaxed-jean/?cm_sp=us_hdr-_-own-your-style-_-the-relaxed-jean_COL2",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Relaxed|sp|Jean"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
     "category": "Featured Shops",
     "page": "All Things Prom",
     "page_url": "https://www.macys.com/shop/junior-clothing/prom-dresses?id=42738&cm_sp=us_hdr-_-own-your-style-_-all-things-prom_COL2",

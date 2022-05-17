@@ -144,7 +144,6 @@ class Crawler_PDP:
             d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
             active_driver = self.get_activeDriver(d)
             self.ACTIVE_DRIVERS.append(active_driver)
-            self.activeDriverRemove(active_driver)
             for page_config in page_configs:
                 try:
                     try:
@@ -153,7 +152,7 @@ class Crawler_PDP:
                         pass
                     except Exception as e:
                         LOGGING.error(e)
-                        self.driver.quitDriver(d)
+                        # self.driver.quitDriver(d)
                         self.activeDriverRemove(active_driver)
                         d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
                         active_driver = self.get_activeDriver(d)
@@ -228,7 +227,7 @@ class Crawler_PDP:
                     LOGGING.error(e)
                     self.pageError(page_config, 'processPDPConfig exception')
         
-            self.driver.quitDriver(d)
+            # self.driver.quitDriver(d)
             self.activeDriverRemove(active_driver)
     
         except:
@@ -351,16 +350,10 @@ class Crawler_PDP:
                 try:
                     if proc.memory_percent() > MEMORY_THRESHOLD and 'chrome' in proc.name().lower():
                         pid = str(proc.pid)
-                        flag = False
                         for active_driver in self.ACTIVE_DRIVERS:
                             if pid in active_driver["pids"]:
-                                self.driver.quitDriver(active_driver["obj"])
-                                flag = True
-                                os.system('kill -9 ' + active_driver["pids"])
-                                LOGGING.error('Driver Cleaner removed a chrome instance')
-                                break
-                        if flag:
-                            self.activeDriverRemove(active_driver)
+                                self.activeDriverRemove(active_driver)
+                                LOGGING.error('Driver Cleaner removed a chrome instance')                        
                         os.system('kill -9 ' + pid)
                 except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
                     pass
@@ -371,8 +364,9 @@ class Crawler_PDP:
                 for active_driver in self.ACTIVE_DRIVERS:
                     runtime = time.time() - active_driver["create_time"]
                     if runtime > DRIVER_CLEAN_TIME:
-                        self.driver.quitDriver(active_driver["obj"])
-                        os.system('kill -9 ' + active_driver["pids"])
+                        LOGGING.error('driverCleaner create time pass')
+                        # self.driver.quitDriver(active_driver["obj"])
+                        # os.system('kill -9 ' + active_driver["pids"])
                         self.activeDriverRemove(active_driver)
                         LOGGING.error('Driver Cleaner removed a chrome instance')
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
