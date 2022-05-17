@@ -317,7 +317,7 @@ class Crawler_PDP:
             elif retailer in ['Myer']:
                 time.sleep(2)
         except Exception as e:
-            LOGGING.error('RetailerWait timeoutt')
+            pass
 
         try:
             d.execute_script("window.scrollTo(0,0);")
