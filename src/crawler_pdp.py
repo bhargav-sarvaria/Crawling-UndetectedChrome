@@ -194,6 +194,8 @@ class Crawler_PDP:
                                 except StaleElementReferenceException:
                                     continue
                             time.sleep(2)
+                            img_path = './' + str(time.time())+ '.jpg'
+                            self.driver.save_screenshot(d, img_path)
                             
                             for element in delete_elements:
                                 self.driver.deleteDriverElements(d, element)
@@ -208,8 +210,6 @@ class Crawler_PDP:
                             page = BeautifulSoup(d.page_source, 'html.parser')
                             sku = self.getSkuData(page, product_attrs, page_config)
 
-                            img_path = './' + str(time.time())+ '.jpg'
-                            self.driver.save_screenshot(d, img_path)
                             ss_filename = page_config['file_name'] + '_' + combination_str.replace('/', '|') + '_' + page_config['date'] + '.jpg'
                             gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
                             self.bucket_ss.blob(gcloud_ss_filename).upload_from_filename(img_path)
