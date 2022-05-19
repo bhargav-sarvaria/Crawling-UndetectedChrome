@@ -20,9 +20,16 @@
       "field": "oos",
       "selectors": [
         {
+          "type": "xpath",
+          "value": "//*[contains(@class, 'c-select__dropdown-item --selected')]//*[contains(@class, 'c-filter__low-stock')]",
+          "present": true,
+          "status": 2
+        },
+        {
           "type": "classname",
           "value": "c-filter__atb o-button --cta --disabled",
-          "present": true
+          "present": true,
+          "status": 1
         }
       ]
     },
@@ -60,6 +67,43 @@
       "field": "product_page_url",
       "field_name": "Page URL",
       "selectors": [{ "type": "config_value", "value": "product_page_url" }]
+    },
+    {
+      "field": "reviews",
+      "field_name": "Reviews",
+      "selectors": []
+    },
+    {
+      "field": "ratings",
+      "field_name": "Ratings",
+      "selectors": []
+    },
+    {
+      "field": "original_price",
+      "field_name": "Original Price",
+      "selectors": []
+    },
+    {
+      "field": "final_price",
+      "field_name": "Final Price",
+      "selectors": [
+        {
+          "type": "classname_xpath",
+          "classname": "o-price",
+          "xpath": "./span[2]"
+        }
+      ]
+    },
+    {
+      "field": "product_image",
+      "field_name": "Product Image",
+      "selectors": [
+        {
+          "type": "classname_attribute",
+          "value": "c-image-gallery__img",
+          "selector_attribute": "src"
+        }
+      ]
     },
     {
       "field": "full_page_snapshot",

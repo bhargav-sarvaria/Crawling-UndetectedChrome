@@ -40,7 +40,7 @@ datefmt='%H:%M:%S',
 level=LOGGING.WARN
 )
 
-COLUMN_ORDER = ["country","retailer","brand","product_name","crawl_brand","crawl_product_name","sku", "oos", "product_page_url","full_page_snapshot","date"]
+COLUMN_ORDER = ["country","retailer","brand","product_name","crawl_brand","crawl_product_name","sku", "oos", "product_page_url","original_price", "final_price", "product_image", "reviews", "ratings", "full_page_snapshot","date"]
 
 
 class Crawler_PDP:
@@ -193,8 +193,8 @@ class Crawler_PDP:
                                 except StaleElementReferenceException:
                                     continue
                             time.sleep(2)
-                            for element in delete_elements:
-                                self.driver.deleteDriverElements(d, element)
+                            # for element in delete_elements:
+                                # self.driver.deleteDriverElements(d, element)
                             combination_str =  '_'.join(combination_str)
                             img_path = './' + str(time.time())+ '.jpg'
                             self.driver.save_screenshot(d, img_path)
@@ -243,12 +243,21 @@ class Crawler_PDP:
         for product_attr in product_attrs:
             field = product_attr['field']
             if field == 'oos':
-                elements = self.driver.fetchSeleniumElements(page, product_attr['selectors'])
-                present = len(elements) > 0
-                if present == product_attr['selectors'][0]['present']:
-                    sku_data[field] = '1'
-                else:
-                    sku_data[field] = '0'
+                status = 0
+                for selector in product_attr['selectors']:
+                    elements = self.driver.fetchSoupElements(page, [selector])
+                    present = len(elements) > 0
+                    if present == selector['present']:
+                        status = selector['status']
+                        break
+
+                # elements = self.driver.fetchSoupElements(page, product_attr['selectors'])
+                # present = len(elements) > 0
+                # if present == product_attr['selectors'][0]['present']:
+                    # sku_data[field] = '1'
+                # else:
+                    # sku_data[field] = '0'
+                sku_data[field] = status
             else:
                 sku_data[field] = self.driver.fetchTextFromSelectors(page, product_attr['selectors'], config)
         return sku_data

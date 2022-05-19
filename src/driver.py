@@ -8,6 +8,7 @@ from PIL import Image
 import logging as LOGGING
 import json
 from lxml import html
+from bs4 import BeautifulSoup
 
 LOGGING.basicConfig(
 filename='run.log',
@@ -187,50 +188,6 @@ class Driver:
                 pass
         return
 
-    def fetchSeleniumElements(self, element, selectors):
-        elements = []
-        for selector in selectors:
-            try:
-                if selector['type'] == 'classname':
-                    elements = element.find_all(class_= selector['value'])
-                elif selector['type'] == 'classname_attribute_condition':
-                    elements = element.find_all(class_= selector['value'])
-                    final_elements = []
-                    for el in elements:
-                        try:
-                            if el.get(selector['attribute_key']):
-                                if el.get(selector['attribute_key']) == selector['attribute_value']:
-                                    final_elements.append(el)
-                        except:
-                            continue
-                elif selector['type'] == 'tagname':
-                    elements = element.find_all(selector['value'])    
-                elif selector['type'] == 'tagname_attribute':
-                    elements = element.find_all(selector['value'])
-                    final_elements = []
-                    for el in elements:
-                        if el.get(selector['attribute_key']) == selector['attribute_value']:
-                            final_elements.append(el)
-                    elements = final_elements
-                elif selector['type'] == 'css_selector':
-                    elements = element.select(selector['value'])
-                elif selector['type'] == 'classname_xpath':
-                        el = element.find( class_= selector['classname'])
-                        value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].text_content().strip()
-
-                # Keep this at bottom, deleted unwanted tags before coming to actual tag
-                if selector['type'] == 'delete_classname':
-                    classnames = selector['delete_value'].split(', ')
-                    for classname in classnames:
-                        while element.find(class_= classname):
-                            element.find(class_= classname).decompose()
-                    elements = element.find_all(class_= selector['value'])
-            except:
-                pass
-            if len(elements) > 0:
-                return elements
-        return elements
-
     def fetchSoupElements(self, element, selectors):
         elements = []
         for selector in selectors:
@@ -258,9 +215,13 @@ class Driver:
                     elements = final_elements
                 elif selector['type'] == 'css_selector':
                     elements = element.select(selector['value'])
+                elif selector['type'] == 'xpath':
+                    for el in html.fromstring(element.prettify()).xpath(selector['value']):
+                        elements.append(BeautifulSoup(html.tostring(el), 'html.parser'))
                 elif selector['type'] == 'classname_xpath':
-                        el = element.find( class_= selector['classname'])
-                        value = html.fromstring(el.prettify()).xpath(selector['xpath'])[0].text_content().strip()
+                    classelement = element.find( class_= selector['classname'])
+                    for el in html.fromstring(classelement.prettify()).xpath(selector['xpath']):
+                        elements.append(BeautifulSoup(html.tostring(el), 'html.parser'))
 
                 # Keep this at bottom, deleted unwanted tags before coming to actual tag
                 if selector['type'] == 'delete_classname':
