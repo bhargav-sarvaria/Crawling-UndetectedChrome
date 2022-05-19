@@ -188,6 +188,20 @@ class Driver:
                 pass
         return
 
+    def clearTextFromElements(self, d, selector):
+        elements = []
+        try:
+            if selector['type'] == 'classname':
+                elements = d.find_elements(By.CLASS_NAME, selector['value'])
+        except:
+            elements = []
+        for el in elements:
+            try:
+                d.execute_script("var ele=arguments[0]; ele.innerHTML = '';", el)
+            except:
+                pass
+        return
+
     def fetchSoupElements(self, element, selectors):
         elements = []
         for selector in selectors:

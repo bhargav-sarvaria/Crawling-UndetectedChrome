@@ -2,9 +2,9 @@
   "wait_for_class": "c-filter__atb",
   "deletes": [
     { "type": "classname", "value": "c-cookie-banner" },
-    { "type": "classname", "value": "c-select.c-filter__select.--quantity" },
-    { "type": "classname", "value": "c-filter__low-stock" }
+    { "type": "classname", "value": "c-select.c-filter__select.--quantity" }
   ],
+  "clears": [{ "type": "classname", "value": "c-filter__low-stock" }],
   "variants": [
     {
       "selector": { "type": "classname", "value": "c-select" },

@@ -168,10 +168,13 @@ class Crawler_PDP:
                     variant_selectors = []
                     variants = parser['variants']
                     delete_elements = parser['deletes']
+                    clear_elements = parser['clears']
                     product_attrs = parser['details']
 
                     for element in delete_elements:
                         self.driver.deleteDriverElements(d, element)
+                    for element in clear_elements:
+                        self.driver.clearTextFromElements(d, element)
                         
                     for variant in variants:
                         filters = self.driver.getDriverElements(d, variant['selector'])
@@ -185,29 +188,37 @@ class Crawler_PDP:
                     product_data = []
                     if len(final_list) > 0:
                         for combination in final_list:
-                            combination_str = []
                             for item in combination:
                                 try:
-                                    combination_str.append(item.get_attribute('textContent').strip())
                                     d.execute_script ("arguments[0].click();", item)
                                 except StaleElementReferenceException:
                                     continue
                             time.sleep(2)
-                            # for element in delete_elements:
-                                # self.driver.deleteDriverElements(d, element)
+                            
+                            for element in delete_elements:
+                                self.driver.deleteDriverElements(d, element)
+                            for element in clear_elements:
+                                self.driver.clearTextFromElements(d, element)
+                            
+                            combination_str = []
+                            for item in combination:
+                                combination_str.append(item.get_attribute('textContent').strip())
                             combination_str =  '_'.join(combination_str)
+                            
+                            page = BeautifulSoup(d.page_source, 'html.parser')
+                            sku = self.getSkuData(page, product_attrs, page_config)
+
                             img_path = './' + str(time.time())+ '.jpg'
                             self.driver.save_screenshot(d, img_path)
                             ss_filename = page_config['file_name'] + '_' + combination_str.replace('/', '|') + '_' + page_config['date'] + '.jpg'
                             gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
                             self.bucket_ss.blob(gcloud_ss_filename).upload_from_filename(img_path)
-                            page_config['sku'] = combination_str
-                            page_config['full_page_snapshot'] = gcloud_ss_filename
-                            page = BeautifulSoup(d.page_source, 'html.parser')
-                            sku = self.getSkuData(page, product_attrs, page_config)
-                            product_data.append(sku)
                             if os.path.exists(img_path):
                                 os.remove(img_path)
+
+                            sku['sku'] = combination_str
+                            sku['full_page_snapshot'] = gcloud_ss_filename
+                            product_data.append(sku)
                     else:
                         img_path = './' + str(time.time())+ '.jpg'
                         self.driver.save_screenshot(d, img_path)
