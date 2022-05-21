@@ -295,6 +295,8 @@ class Driver:
                                         break
                         except:
                             continue
+                elif selector['type'] == "xpath_count":
+                    value = str(len(html.fromstring(element.prettify()).xpath(selector['value'])))
                 elif selector['type'] == 'xpath_attribute':
                     value = html.fromstring(element.prettify()).xpath(selector['value'])[0].get(selector['selector_attribute'])
                 elif selector['type'] == 'attribute_objectvalue':

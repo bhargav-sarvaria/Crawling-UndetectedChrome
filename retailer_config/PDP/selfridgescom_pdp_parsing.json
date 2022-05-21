@@ -106,6 +106,26 @@
       ]
     },
     {
+      "field": "image_count",
+      "field_name": "Image Count",
+      "selectors": [
+        {
+          "type": "xpath_count",
+          "value": "//img[contains(@class, 'c-image-gallery__img')]"
+        }
+      ]
+    },
+    {
+      "field": "video_count",
+      "field_name": "Video Count",
+      "selectors": [
+        {
+          "type": "xpath_count",
+          "value": "//div[contains(@class, 'c-image-gallery__img --video')]"
+        }
+      ]
+    },
+    {
       "field": "full_page_snapshot",
       "field_name": "Full Page Snapshot",
       "selectors": [{ "type": "config_value", "value": "full_page_snapshot" }]
