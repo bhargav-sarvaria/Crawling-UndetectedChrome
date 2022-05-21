@@ -218,20 +218,26 @@ class Crawler_PDP:
 
                             sku['sku'] = combination_str
                             sku['full_page_snapshot'] = gcloud_ss_filename
-                            product_data.append(sku)
+                            if sku['crawl_product_name'] == '':
+                                self.pageError(page_config, 'Product Not Present exception')
+                            else:
+                                product_data.append(sku)
                     else:
                         img_path = './' + str(time.time())+ '.jpg'
                         self.driver.save_screenshot(d, img_path)
                         ss_filename = page_config['file_name'] + '_' + page_config['date'] + '.jpg'
                         gcloud_ss_filename = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + ss_filename
                         self.bucket_ss.blob(gcloud_ss_filename).upload_from_filename(img_path)
+                        if os.path.exists(img_path):
+                            os.remove(img_path)
                         page_config['sku'] = 'None'
                         page_config['full_page_snapshot'] = gcloud_ss_filename
                         page = BeautifulSoup(d.page_source, 'html.parser')
                         sku = self.getSkuData(page, product_attrs, page_config)
-                        product_data.append(sku)
-                        if os.path.exists(img_path):
-                            os.remove(img_path)
+                        if sku['crawl_product_name'] == '':
+                                self.pageError(page_config, 'Product Not Present exception')
+                        else:
+                            product_data.append(sku)
                     
                     self.savePDPData(product_data, page_config)
 
@@ -297,7 +303,7 @@ class Crawler_PDP:
                 LOGGING.warn(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
         except Exception as e:
             LOGGING.error(e)
-            self.pageError(page_config, 'parsePLPage exception')
+            self.pageError(page_config, 'parsePDPPage exception')
 
     def getParquetUploadFolder(self,config,filename):
         kpi = ''
