@@ -40,7 +40,7 @@ datefmt='%H:%M:%S',
 level=LOGGING.WARN
 )
 
-COLUMN_ORDER = ["country","retailer","brand","product_name","crawl_brand","crawl_product_name","sku", "oos", "product_page_url","original_price", "final_price", "product_image", "reviews", "ratings", "full_page_snapshot","date"]
+COLUMN_ORDER = ["country","retailer","normalized_brand","product_name","crawl_brand","crawl_product_name","sku", "oos", "product_page_url","original_price", "final_price", "product_image", "reviews", "ratings", "full_page_snapshot","date"]
 
 
 class Crawler_PDP:

@@ -42,8 +42,8 @@
       "selectors": [{ "type": "config_value", "value": "retailer" }]
     },
     {
-      "field": "brand",
-      "selectors": [{ "type": "config_value", "value": "brand" }]
+      "field": "normalized_brand",
+      "selectors": [{ "type": "config_value", "value": "normalized_brand" }]
     },
     {
       "field": "product_name",
