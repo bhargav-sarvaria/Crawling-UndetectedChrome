@@ -90,6 +90,7 @@ class Crawler_PDP:
                 time.sleep(0.1)
                 thread_name = str(round(time.time() * 100))
                 self.RUNNING_THREADS.append(thread_name)
+                LOGGING.warn('Added thread: ' + thread_name + ' ' + str(len(self.RUNNING_THREADS)))
                 t = threading.Thread(target = self.processPDPConfig, name=thread_name, args=(confs,thread_name,))
                 t.start()
             else:
@@ -145,6 +146,7 @@ class Crawler_PDP:
             d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
             active_driver = self.get_activeDriver(d)
             self.ACTIVE_DRIVERS.append(active_driver)
+            LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
             for page_config in page_configs:
                 try:
                     try:
@@ -159,6 +161,7 @@ class Crawler_PDP:
                         d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
                         active_driver = self.get_activeDriver(d)
                         self.ACTIVE_DRIVERS.append(active_driver)
+                        LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
                         d.get(page_config['product_page_url'])
                     
                     # Wait for lazy loading
@@ -240,8 +243,11 @@ class Crawler_PDP:
                                 self.pageError(page_config, 'Product Not Present exception')
                         else:
                             product_data.append(sku)
-                    
-                    self.savePDPData(product_data, page_config)
+
+                    if len(product_data) > 0:
+                        self.savePDPData(product_data, page_config)
+                    else:
+                        self.pageError(page_config, 'product_data length 0')
 
                 except Exception as e:
                     self.pageError(page_config, 'pageConfig exception')
@@ -257,6 +263,7 @@ class Crawler_PDP:
             pass
         
         self.RUNNING_THREADS.remove(thread_name)
+        LOGGING.warn('Removed thread: ' + thread_name + ' ' + str(len(self.RUNNING_THREADS)))
         if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
 
@@ -298,7 +305,7 @@ class Crawler_PDP:
             if os.path.exists(filname_parq):
                 os.remove(filname_parq)
                 print(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
-                LOGGING.warn(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
+                # LOGGING.warn(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
         except Exception as e:
             self.pageError(page_config, 'savePDPData exception')
             LOGGING.error('savePDPData exception')
@@ -410,6 +417,7 @@ class Crawler_PDP:
                     LOGGING.error(e)
                     pass
                 self.ACTIVE_DRIVERS.remove(active_driver)
+                LOGGING.warn('Removed driver: ' + str(len(self.ACTIVE_DRIVERS)))
         except Exception as e:
             LOGGING.error('Could not remove active driver')
             LOGGING.error(e)
