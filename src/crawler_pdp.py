@@ -81,7 +81,7 @@ class Crawler_PDP:
     def runConfigConsumer(self):
         self.consumerRunning = True
         while self.queueHasItems():
-            if  len(self.RUNNING_THREADS) < self.THREAD_COUNT_ALLOWED:
+            if len(self.RUNNING_THREADS) < self.THREAD_COUNT_ALLOWED:
                 confs = []
                 for key, qu in self.queueMap.items():
                     if qu.empty():
@@ -152,6 +152,7 @@ class Crawler_PDP:
                     except  TimeoutException:
                         pass
                     except Exception as e:
+                        LOGGING.error('Exception in get page')
                         LOGGING.error(e)
                         # self.driver.quitDriver(d)
                         self.activeDriverRemove(active_driver)
@@ -192,6 +193,7 @@ class Crawler_PDP:
                                 try:
                                     d.execute_script ("arguments[0].click();", item)
                                 except StaleElementReferenceException:
+                                    LOGGING.error('Exception in clicking element')
                                     continue
                             time.sleep(2)
                             img_path = './' + str(time.time())+ '.jpg'
@@ -242,13 +244,16 @@ class Crawler_PDP:
                     self.savePDPData(product_data, page_config)
 
                 except Exception as e:
+                    self.pageError(page_config, 'pageConfig exception')
+                    LOGGING.error('pageConfig Exception')
                     LOGGING.error(e)
-                    self.pageError(page_config, 'processPDPConfig exception')
         
             # self.driver.quitDriver(d)
             self.activeDriverRemove(active_driver)
     
-        except:
+        except Exception as e:
+            LOGGING.error('Exception in processPDPConfig')
+            LOGGING.error(e)
             pass
         
         self.RUNNING_THREADS.remove(thread_name)
@@ -267,13 +272,6 @@ class Crawler_PDP:
                     if present == selector['present']:
                         status = selector['status']
                         break
-
-                # elements = self.driver.fetchSoupElements(page, product_attr['selectors'])
-                # present = len(elements) > 0
-                # if present == product_attr['selectors'][0]['present']:
-                    # sku_data[field] = '1'
-                # else:
-                    # sku_data[field] = '0'
                 sku_data[field] = status
             else:
                 sku_data[field] = self.driver.fetchTextFromSelectors(page, product_attr['selectors'], config)
@@ -302,8 +300,9 @@ class Crawler_PDP:
                 print(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
                 LOGGING.warn(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
         except Exception as e:
+            self.pageError(page_config, 'savePDPData exception')
+            LOGGING.error('savePDPData exception')
             LOGGING.error(e)
-            self.pageError(page_config, 'parsePDPPage exception')
 
     def getParquetUploadFolder(self,config,filename):
         kpi = ''
@@ -383,8 +382,10 @@ class Crawler_PDP:
                                 LOGGING.error('Driver Cleaner removed a chrome instance')                        
                         os.system('kill -9 ' + pid)
                 except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+                    LOGGING.error('No such process')
                     pass
                 except Exception as e:
+                    LOGGING.error('Driver Cleaner exception')
                     LOGGING.error(e)
 
             if len(self.ACTIVE_DRIVERS):
@@ -399,14 +400,19 @@ class Crawler_PDP:
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
     def activeDriverRemove(self, active_driver):
-        if active_driver in self.ACTIVE_DRIVERS:
-            try:
-                self.driver.quitDriver(active_driver["obj"])
-                os.system('kill -9 ' + active_driver["pids"])
-            except:
-                pass
-            self.ACTIVE_DRIVERS.remove(active_driver)
-    
+        try:
+            if active_driver in self.ACTIVE_DRIVERS:
+                try:
+                    self.driver.quitDriver(active_driver["obj"])
+                    os.system('kill -9 ' + active_driver["pids"])
+                except Exception as e:
+                    LOGGING.error('activeDriverRemove exception')
+                    LOGGING.error(e)
+                    pass
+                self.ACTIVE_DRIVERS.remove(active_driver)
+        except Exception as e:
+            LOGGING.error('Could not remove active driver')
+            LOGGING.error(e)
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []
         for proc in psutil.process_iter(['pid', 'name', 'username', 'cmdline']):
