@@ -121,7 +121,7 @@ class Driver:
                 driver.set_window_size(390, 844)
             return driver
         except Exception as e:
-            print(e)
+            LOGGING.error(e)
         return None   
     
     def save_screenshot(self, driver, path) -> None:

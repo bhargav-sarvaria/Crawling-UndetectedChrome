@@ -192,8 +192,8 @@ class Crawler_PDP:
                     product_data = []
                     if len(final_list) > 0:
                         if len(final_list) > 15:
-                            print(len(final_list))
-                            print(page_config['product_page_url'])
+                            LOGGING.warn(len(final_list))
+                            LOGGING.warn(page_config['product_page_url'])
                         for combination in final_list:
                             for item in combination:
                                 try:
