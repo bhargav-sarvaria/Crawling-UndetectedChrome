@@ -152,18 +152,25 @@ class Driver:
         except:
             return
 
-    def quitDriver(self, d):
+    def quitDriver(self, d, from_timeout=False):
         try:
+            if from_timeout:
+                LOGGING.error('d.close')
             d.close()
         except Exception as e:
             LOGGING.error(e)
             LOGGING.error('Could not close driver')
         
         try:
+            if from_timeout:
+                LOGGING.error('d.quit')
             d.quit()
         except Exception as e:
             LOGGING.error(e)
             LOGGING.error('Could not quit driver')
+        if from_timeout:
+            LOGGING.error('return now')
+        return
 
     def getDriverElements(self, d, selector):
         elements = []
