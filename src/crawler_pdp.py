@@ -29,7 +29,7 @@ from typing import List
 
 RENDER_WAIT_LIMIT = 3
 MEMORY_THRESHOLD = 15
-DRIVER_CLEAN_TIME = 900
+DRIVER_CLEAN_TIME = 600
 DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME
 
 LOGGING.basicConfig(
@@ -146,7 +146,7 @@ class Crawler_PDP:
             d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
             active_driver = self.get_activeDriver(d)
             self.ACTIVE_DRIVERS.append(active_driver)
-            LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
+            # LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
             for page_config in page_configs:
                 try:
                     try:
@@ -161,7 +161,7 @@ class Crawler_PDP:
                         d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
                         active_driver = self.get_activeDriver(d)
                         self.ACTIVE_DRIVERS.append(active_driver)
-                        LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
+                        # LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
                         d.get(page_config['product_page_url'])
                     
                     # Wait for lazy loading
@@ -263,7 +263,7 @@ class Crawler_PDP:
             pass
         
         self.RUNNING_THREADS.remove(thread_name)
-        LOGGING.warn('Removed thread: ' + thread_name + ' ' + str(len(self.RUNNING_THREADS)))
+        # LOGGING.warn('Removed thread: ' + thread_name + ' ' + str(len(self.RUNNING_THREADS)))
         if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
 
@@ -402,22 +402,32 @@ class Crawler_PDP:
                         LOGGING.error('driverCleaner create time pass')
                         # self.driver.quitDriver(active_driver["obj"])
                         # os.system('kill -9 ' + active_driver["pids"])
-                        self.activeDriverRemove(active_driver)
+                        LOGGING.error('Driver Cleaner removing a chrome instance')
+                        self.activeDriverRemove(active_driver, from_timeout=True)
                         LOGGING.error('Driver Cleaner removed a chrome instance')
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
-    def activeDriverRemove(self, active_driver):
+    def activeDriverRemove(self, active_driver, from_timeout=False):
         try:
             if active_driver in self.ACTIVE_DRIVERS:
                 try:
+                    if from_timeout:
+                        LOGGING.error('Quiting Driver')
                     self.driver.quitDriver(active_driver["obj"])
+                    if from_timeout:
+                        LOGGING.error('Driver Quit')
                     os.system('kill -9 ' + active_driver["pids"])
+                    if from_timeout:
+                        LOGGING.error('Processes Killed')
                 except Exception as e:
                     LOGGING.error('activeDriverRemove exception')
                     LOGGING.error(e)
                     pass
+                if from_timeout:
+                        LOGGING.error('Removing Active Driver')
                 self.ACTIVE_DRIVERS.remove(active_driver)
-                LOGGING.warn('Removed driver: ' + str(len(self.ACTIVE_DRIVERS)))
+                if from_timeout:
+                    LOGGING.warn('Removed driver: ' + str(len(self.ACTIVE_DRIVERS)))
         except Exception as e:
             LOGGING.error('Could not remove active driver')
             LOGGING.error(e)
@@ -457,7 +467,7 @@ class Crawler_PDP:
         page_config['message'] = msg
         mongo.addErrorDocument(self.crawl_folder, page_config, kpi = 'PDP')
         print(page_config['product_page_url'] + ' ' + '0')
-        LOGGING.warn(page_config['product_page_url'] + ' ' + 'error')
+        # LOGGING.warn(page_config['product_page_url'] + ' ' + 'error')
         if os.path.exists(delete):
             os.remove(delete)
 
