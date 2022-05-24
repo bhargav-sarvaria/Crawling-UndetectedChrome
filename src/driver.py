@@ -156,7 +156,10 @@ class Driver:
         try:
             if from_timeout:
                 LOGGING.error('d.close')
-            d.close()
+            for handle in d.window_handles:
+                d.switch_to.window(handle)
+                d.close()
+            # d.close()
         except Exception as e:
             LOGGING.error(e)
             LOGGING.error('Could not close driver')
