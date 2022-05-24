@@ -29,7 +29,7 @@ from typing import List
 
 RENDER_WAIT_LIMIT = 3
 MEMORY_THRESHOLD = 15
-DRIVER_CLEAN_TIME = 150
+DRIVER_CLEAN_TIME = 900
 DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME
 
 LOGGING.basicConfig(
@@ -90,7 +90,6 @@ class Crawler_PDP:
                 time.sleep(0.1)
                 thread_name = str(round(time.time() * 100))
                 self.RUNNING_THREADS.append(thread_name)
-                LOGGING.warn('Added thread: ' + thread_name + ' ' + str(len(self.RUNNING_THREADS)))
                 t = threading.Thread(target = self.processPDPConfig, name=thread_name, args=(confs,thread_name,))
                 t.start()
             else:
@@ -146,7 +145,6 @@ class Crawler_PDP:
             d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
             active_driver = self.get_activeDriver(d)
             self.ACTIVE_DRIVERS.append(active_driver)
-            # LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
             for page_config in page_configs:
                 try:
                     try:
@@ -154,14 +152,12 @@ class Crawler_PDP:
                     except  TimeoutException:
                         pass
                     except Exception as e:
-                        LOGGING.error('Exception in get page')
                         LOGGING.error(e)
                         # self.driver.quitDriver(d)
                         self.activeDriverRemove(active_driver)
                         d = self.driver.get_driver(use_proxy=use_proxy, timeout=timeout)
                         active_driver = self.get_activeDriver(d)
                         self.ACTIVE_DRIVERS.append(active_driver)
-                        # LOGGING.warn('New driver: ' + str(len(self.ACTIVE_DRIVERS)))
                         d.get(page_config['product_page_url'])
                     
                     # Wait for lazy loading
@@ -191,7 +187,7 @@ class Crawler_PDP:
 
                     product_data = []
                     if len(final_list) > 0:
-                        if len(final_list) > 15:
+                        if len(final_list) > 25:
                             LOGGING.warn(len(final_list))
                             LOGGING.warn(page_config['product_page_url'])
                         for combination in final_list:
@@ -254,19 +250,16 @@ class Crawler_PDP:
 
                 except Exception as e:
                     self.pageError(page_config, 'pageConfig exception')
-                    LOGGING.error('pageConfig Exception')
                     LOGGING.error(e)
         
             # self.driver.quitDriver(d)
             self.activeDriverRemove(active_driver)
     
         except Exception as e:
-            LOGGING.error('Exception in processPDPConfig')
             LOGGING.error(e)
             pass
         
         self.RUNNING_THREADS.remove(thread_name)
-        # LOGGING.warn('Removed thread: ' + thread_name + ' ' + str(len(self.RUNNING_THREADS)))
         if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
 
@@ -308,10 +301,9 @@ class Crawler_PDP:
             if os.path.exists(filname_parq):
                 os.remove(filname_parq)
                 print(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
-                # LOGGING.warn(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
+                LOGGING.warn(page_config['product_name'] + ' ' + page_config['index'] + '/' + page_config['url_count'])
         except Exception as e:
             self.pageError(page_config, 'savePDPData exception')
-            LOGGING.error('savePDPData exception')
             LOGGING.error(e)
 
     def getParquetUploadFolder(self,config,filename):
@@ -395,7 +387,6 @@ class Crawler_PDP:
                     LOGGING.error('No such process')
                     pass
                 except Exception as e:
-                    LOGGING.error('Driver Cleaner exception')
                     LOGGING.error(e)
 
             if len(self.ACTIVE_DRIVERS):
@@ -403,33 +394,21 @@ class Crawler_PDP:
                     runtime = time.time() - ad["create_time"]
                     if runtime > DRIVER_CLEAN_TIME:
                         LOGGING.error('driverCleaner create time pass')
-                        self.activeDriverRemove(ad, from_timeout=True)
+                        self.activeDriverRemove(ad)
                         LOGGING.error('Driver Cleaner removed a chrome instance')
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
-    def activeDriverRemove(self, active_driver, from_timeout=False):
+    def activeDriverRemove(self, active_driver):
         try:
             if active_driver in self.ACTIVE_DRIVERS:
                 try:
-                    if from_timeout:
-                        LOGGING.error('Quiting Driver')
-                    self.driver.quitDriver(active_driver["obj"], from_timeout=from_timeout)
-                    if from_timeout:
-                        LOGGING.error('Driver Quit')
+                    self.driver.quitDriver(active_driver["obj"])
                     os.system('kill -9 ' + active_driver["pids"])
-                    if from_timeout:
-                        LOGGING.error('Processes Killed')
                 except Exception as e:
-                    LOGGING.error('activeDriverRemove exception')
                     LOGGING.error(e)
                     pass
-                if from_timeout:
-                        LOGGING.error('Removing Active Driver')
                 self.ACTIVE_DRIVERS.remove(active_driver)
-                if from_timeout:
-                    LOGGING.warn('Removed driver: ' + str(len(self.ACTIVE_DRIVERS)))
         except Exception as e:
-            LOGGING.error('Could not remove active driver')
             LOGGING.error(e)
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []
@@ -467,7 +446,7 @@ class Crawler_PDP:
         page_config['message'] = msg
         mongo.addErrorDocument(self.crawl_folder, page_config, kpi = 'PDP')
         print(page_config['product_page_url'] + ' ' + '0')
-        # LOGGING.warn(page_config['product_page_url'] + ' ' + 'error')
+        LOGGING.warn(page_config['product_page_url'] + ' ' + 'error')
         if os.path.exists(delete):
             os.remove(delete)
 
