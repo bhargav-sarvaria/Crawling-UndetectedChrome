@@ -4,6 +4,36 @@
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/PDP/selfridgescom_pdp_parsing.json",
     "gcloud_path": "crawl_data_pdp/United Kingdom/Selfridges_UK/",
+    "product_page_url": "https://www.selfridges.com/GB/en/cat/mac-pressed-eyeshadow-15g_329-81004873-EYESHADOW/#colour=REDBRICK",
+    "file_name": "MAC_Pressed|sp|eyeshadow|sp|1.5g",
+    "normalized_brand": "MAC",
+    "product_name": "Pressed eyeshadow 1.5g"
+  },
+  {
+    "country": "United Kingdom",
+    "retailer": "Selfridges_UK",
+    "parsing_config": "./retailer_config/PDP/selfridgescom_pdp_parsing.json",
+    "gcloud_path": "crawl_data_pdp/United Kingdom/Selfridges_UK/",
+    "product_page_url": "https://www.selfridges.com/GB/en/cat/mac-pro-palette-eyeshadow-pan-15g_329-81004873-PPEYESHADOW/#colour=RED+BRICK",
+    "file_name": "MAC_Pro|sp|Palette|sp|Eyeshadow|sp|Pan|sp|1.5g",
+    "normalized_brand": "MAC",
+    "product_name": "Pro Palette Eyeshadow Pan 1.5g"
+  },
+  {
+    "country": "United Kingdom",
+    "retailer": "Selfridges_UK",
+    "parsing_config": "./retailer_config/PDP/selfridgescom_pdp_parsing.json",
+    "gcloud_path": "crawl_data_pdp/United Kingdom/Selfridges_UK/",
+    "product_page_url": "https://www.selfridges.com/GB/en/cat/mac-pro-palette-eyeshadow-pan-15g_329-81004873-PPEYESHADOW/#colour=REDBRICK",
+    "file_name": "MAC_Pro|sp|Palette|sp|Eyeshadow|sp|Pan|sp|1.5g",
+    "normalized_brand": "MAC",
+    "product_name": "Pro Palette Eyeshadow Pan 1.5g"
+  },
+  {
+    "country": "United Kingdom",
+    "retailer": "Selfridges_UK",
+    "parsing_config": "./retailer_config/PDP/selfridgescom_pdp_parsing.json",
+    "gcloud_path": "crawl_data_pdp/United Kingdom/Selfridges_UK/",
     "product_page_url": "https://www.selfridges.com/GB/en/cat/lime-crime-bushy-brow-pen-07ml_1116-3006140-L071010000/#colour=Dirty+Blonde",
     "file_name": "Lime|sp|Crime_Bushy|sp|Brow|sp|Pen|sp|0.7ml",
     "normalized_brand": "Lime Crime",
