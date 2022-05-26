@@ -351,7 +351,6 @@ class Crawler:
     def activeDriverRemove(self, active_driver):
         if active_driver in self.ACTIVE_DRIVERS:
             try:
-                LOGGING.error('active driver remove')
                 self.driver.quitDriver(active_driver["obj"])
                 os.system('kill -9 ' + active_driver["pids"])
             except:
