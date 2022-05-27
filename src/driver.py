@@ -153,13 +153,13 @@ class Driver:
             return
 
     def quitDriver(self, d):
-        try:
-            for handle in d.window_handles:
-                d.switch_to.window(handle)
-                d.close()
-        except Exception as e:
-            LOGGING.error(e)
-            LOGGING.error('Could not close driver')
+        # try:
+        #     for handle in d.window_handles:
+        #         d.switch_to.window(handle)
+        #         d.close()
+        # except Exception as e:
+        #     LOGGING.error(e)
+        #     LOGGING.error('Could not close driver')
         
         try:
             d.quit()
