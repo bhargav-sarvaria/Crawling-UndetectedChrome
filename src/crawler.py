@@ -89,7 +89,8 @@ class Crawler:
                     confs.append(qu.get())
                 time.sleep(0.1)
                 thread_name = str(round(time.time() * 100))
-                self.RUNNING_THREADS.append(thread_name)
+                thread_info = {'thread_name':  thread_name, 'create_time': time.time()}
+                self.RUNNING_THREADS.append(thread_info)
                 t = threading.Thread(target = self.processPLConfig, name=thread_name, args=(confs,thread_name,))
                 t.start()
             else:
@@ -184,7 +185,8 @@ class Crawler:
             # self.driver.quitDriver(d)
             self.activeDriverRemove(active_driver)
         
-        self.RUNNING_THREADS.remove(thread_name)
+        self.removeRunningThread(thread_name)
+        # self.RUNNING_THREADS.remove(thread_name)
         if len(self.RUNNING_THREADS) == 0 and not self.queueHasItems():
             self.consumerRunning = False
     
@@ -346,6 +348,15 @@ class Crawler:
                         # os.system('kill -9 ' + active_driver["pids"])
                         self.activeDriverRemove(active_driver)
                         LOGGING.error('Driver Cleaner removed a chrome instance')
+
+            if len(self.RUNNING_THREADS):
+                for rt in self.RUNNING_THREADS:
+                    runtime = time.time() - rt["create_time"]
+                    if runtime > DRIVER_CLEAN_TIME:
+                        LOGGING.error('thread create time pass')
+                        self.removeRunningThread(rt['thread_name'])
+                        LOGGING.error('Driver Cleaner removed a running thread')
+
             time.sleep(DRIVER_CLEAN_TIME_WAIT)
 
     def activeDriverRemove(self, active_driver):
@@ -356,7 +367,12 @@ class Crawler:
             except:
                 pass
             self.ACTIVE_DRIVERS.remove(active_driver)
-    
+
+    def removeRunningThread(self, thread_name):
+        for rt in self.RUNNING_THREADS:
+            if rt['thread_name'] == thread_name:
+                self.RUNNING_THREADS.remove(rt)
+
     def pgrep(self, term, regex=False, full=True) -> List[psutil.Process]:
         procs = []
         for proc in psutil.process_iter(['pid', 'name', 'username', 'cmdline']):
