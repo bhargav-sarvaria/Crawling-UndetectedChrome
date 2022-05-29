@@ -166,8 +166,8 @@ class Crawler_PDP:
                     # self.translateToEnglish(d)
 
                     parser = self.parser_map[page_config['parsing_config']]
-                    variant_selectors = []
-                    variants = parser['variants']
+                    ALL_SKUS = []
+                    variant_types = parser['variant_types']
                     delete_elements = parser['deletes']
                     clear_elements = parser['clears']
                     product_attrs = parser['details']
@@ -177,13 +177,22 @@ class Crawler_PDP:
                     for element in clear_elements:
                         self.driver.clearTextFromElements(d, element)
                         
-                    for variant in variants:
-                        filters = self.driver.getDriverElements(d, variant['selector'])
-                        for filt in filters:
-                            variant_selectors.append(self.driver.getDriverElements(filt, variant['variant_values']))
+                    for variant_type in variant_types:
+                        variants = self.driver.getDriverElements(d, variant_type['selector'])
+                        for variant in variants:
+                            SKUS = []
+                            variant_elements = self.driver.getDriverElements(variant, variant_type['variant_elements'])
+                            for variant_element in variant_elements:
+                                source = BeautifulSoup(variant_element.get_attribute('outerHTML'), 'html.parser')
+                                variant_value = self.driver.fetchTextFromSelectors(source, variant_type['variant_value'])
+                                SKUS.append({"element": variant_element, "value": variant_value}) 
+                            
+                            if len(SKUS) > 0:
+                                ALL_SKUS.append(SKUS)
+                    
                     final_list = []
-                    if len(variant_selectors) > 0:
-                        for element in itertools.product(*variant_selectors):
+                    if len(ALL_SKUS) > 0:
+                        for element in itertools.product(*ALL_SKUS):
                             final_list.append(list(element))
 
                     product_data = []
@@ -194,11 +203,12 @@ class Crawler_PDP:
                         for combination in final_list:
                             for item in combination:
                                 try:
-                                    d.execute_script ("arguments[0].click();", item)
+                                    d.execute_script ("arguments[0].click();", item["element"])
                                 except StaleElementReferenceException:
                                     LOGGING.error('Exception in clicking element')
                                     continue
                             time.sleep(2)
+
                             img_path = './' + str(time.time())+ '.jpg'
                             self.driver.save_screenshot(d, img_path)
                             
@@ -209,7 +219,7 @@ class Crawler_PDP:
                             
                             combination_str = []
                             for item in combination:
-                                combination_str.append(item.get_attribute('textContent').strip())
+                                combination_str.append(item["value"])
                             combination_str =  '_'.join(combination_str)
                             
                             page = BeautifulSoup(d.page_source, 'html.parser')

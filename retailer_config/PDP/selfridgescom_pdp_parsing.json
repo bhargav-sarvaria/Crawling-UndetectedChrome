@@ -5,14 +5,16 @@
     { "type": "classname", "value": "c-select.c-filter__select.--quantity" }
   ],
   "clears": [{ "type": "classname", "value": "c-filter__low-stock" }],
-  "variants": [
+  "variant_types": [
     {
       "selector": { "type": "classname", "value": "c-select" },
-      "variant": { "type": "classname", "value": "c-select__label" },
-      "variant_values": {
+      "variant_elements": {
         "type": "classname",
         "value": "c-select__dropdown-item"
-      }
+      },
+      "variant_value": [
+        { "type": "classname", "value": "c-select__dropdown-item" }
+      ]
     }
   ],
   "details": [
@@ -28,6 +30,12 @@
         {
           "type": "classname",
           "value": "c-filter__atb o-button --cta --disabled",
+          "present": true,
+          "status": 1
+        },
+        {
+          "type": "classname",
+          "value": "foundit-oos-box__message",
           "present": true,
           "status": 1
         }
