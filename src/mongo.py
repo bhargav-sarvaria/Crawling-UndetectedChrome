@@ -43,21 +43,21 @@ class Mongo:
                 continue
             result = list(self.db[collection].find(filt))
             failed_urls.extend(result)
-            # self.db[collection].delete_many(filt)
+            self.db[collection].delete_many(filt)
         return failed_urls
 
     def getDocumentsFromCollection(self, collection, filt = {}):
         result = list(self.db[collection].find(filt))
-        # self.db[collection].delete_many(filt)
+        self.db[collection].delete_many(filt)
         return result
    
-    # def deleteAllDocuments(self, collection, filt = {}):
-        # result = self.db[collection].delete_many(filt)
+    def deleteAllDocuments(self, collection, filt = {}):
+        result = self.db[collection].delete_many(filt)
 
     def popDocument(self, collection):
         collection = self.db[collection]
         doc = collection.find_one()
-        # result =  collection.delete_many({'_id': doc['_id']})
+        result =  collection.delete_many({'_id': doc['_id']})
         return doc
 
     def printUrls(self, collection, filt = {}):
