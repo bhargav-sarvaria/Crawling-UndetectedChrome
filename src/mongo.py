@@ -71,7 +71,7 @@ class Mongo:
 # mongo.printUrls('United Kingdom')
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
-# mongo.deleteAllDocuments('All')
+# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-05-31' }})
 # mongo.deleteAllDocuments('Australia')
 # mongo.deleteAllDocuments('India')
 # mongo.deleteAllDocuments('United States')
