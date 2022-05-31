@@ -206,7 +206,7 @@ class Crawler:
             filename = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
             filename_parq = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.parquet'
 
-            gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filename
+            # gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filename
             gcloud_filename_parq = self.getParquetUploadFolder(page_config, filename_parq)
 
             gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filename.replace('.csv', '.jpg')
