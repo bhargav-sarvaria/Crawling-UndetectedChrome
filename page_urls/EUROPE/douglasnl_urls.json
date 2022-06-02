@@ -2480,17 +2480,6 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
     "department": "Health",
-    "category": "Vitamins & Minerals",
-    "page": "Vitamins & Minerals",
-    "page_url": "https://www.douglas.nl/nl/c/gezondheid/vitaminen-mineralen/0703",
-    "file_name": "Netherlands_DOUGLAS_NL_HEALTH_VITAMINS|sp||as||sp|MINERALS_VITAMINS|sp||as||sp|MINERALS"
-  },
-  {
-    "country": "NL",
-    "retailer": "Douglas_NL",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Netherlands/Douglas_NL/",
-    "department": "Health",
     "category": "Beauty from Within",
     "page": "Beauty from Within",
     "page_url": "https://www.douglas.nl/nl/c/gezondheid/voedingssupplement/0704",

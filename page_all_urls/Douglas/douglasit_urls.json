@@ -974,17 +974,6 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
     "category": "Asian Beauty",
-    "page": "J-Beauty",
-    "page_url": "https://www.douglas.it/Trattamento/Asian-Beauty/J-Beauty/index_022402.html",
-    "file_name": "Italy_DOUGLAS_IT_TREATMENT_ASIAN|sp|BEAUTY_J|h|Beauty"
-  },
-  {
-    "country": "IT",
-    "retailer": "Douglas_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Treatments",
-    "category": "Asian Beauty",
     "page": "\" All the categories",
     "page_url": "https://www.douglas.it/Trattamento/Asian-Beauty/index_0224.html",
     "file_name": "Italy_DOUGLAS_IT_TREATMENT_ASIAN|sp|BEAUTY_\"|sp|All|sp|the|sp|categories"

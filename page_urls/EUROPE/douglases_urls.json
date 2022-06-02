@@ -2789,17 +2789,6 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Pharmacy",
     "category": "First Aid Kit",
-    "page": "plaster",
-    "page_url": "https://douglas.es/c/parafarmacia/botiquin/esparadrapo",
-    "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_plaster"
-  },
-  {
-    "country": "ES",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Pharmacy",
-    "category": "First Aid Kit",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/parafarmacia/botiquin",
     "file_name": "Spain_DOUGLAS_ES_PARAPHARMACY_FIRST|sp|AID|sp|KIT_See|sp|all|sp|categories"

@@ -909,7 +909,7 @@
     "department": "Jewellery",
     "category": "Luxury Jewellery",
     "page": "All Luxury Jewellery",
-    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-luxury-jewellery?icid=megamenu_shop_jewellery-watches_luxury-jewellery_all-luxury-jewellery",
+    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-fine-jewellery?icid=megamenu_shop_jewellery-watches_fine-jewellery_all-fine-jewellery",
     "file_name": "United|sp|Kingdom_Harrods_Jewellery|sp||as||sp|Watches_LUXURY|sp|JEWELLERY_All|sp|Luxury|sp|Jewellery"
   },
   {
@@ -920,7 +920,7 @@
     "department": "Jewellery",
     "category": "Luxury Jewellery",
     "page": "Bracelets",
-    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-luxury-jewellery-bracelets?icid=megamenu_shop_jewellery-watches_luxury-jewellery_bracelets",
+    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-fine-jewellery-fine-bracelets?icid=megamenu_shop_jewellery-watches_fine-jewellery_bracelets",
     "file_name": "United|sp|Kingdom_Harrods_Jewellery|sp||as||sp|Watches_LUXURY|sp|JEWELLERY_Bracelets"
   },
   {
@@ -930,9 +930,31 @@
     "gcloud_path": "crawl_data/United Kingdom/Harrods/",
     "department": "Jewellery",
     "category": "Luxury Jewellery",
+    "page": "Earrings",
+    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-fine-jewellery-fine-earrings?icid=megamenu_shop_jewellery-watches_fine-jewellery_earrings",
+    "file_name": "United|sp|Kingdom_Harrods_Jewellery|sp||as||sp|Watches_LUXURY|sp|JEWELLERY_Earrings"
+  },
+  {
+    "country": "GB",
+    "retailer": "Harrods",
+    "parsing_config": "./retailer_config/harrodscom_parsing.json",
+    "gcloud_path": "crawl_data/United Kingdom/Harrods/",
+    "department": "Jewellery",
+    "category": "Luxury Jewellery",
     "page": "Rings",
-    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-luxury-jewellery-rings?icid=megamenu_shop_jewellery-watches_luxury-jewellery_rings",
+    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-fine-jewellery-fine-rings?icid=megamenu_shop_jewellery-watches_fine-jewellery_rings",
     "file_name": "United|sp|Kingdom_Harrods_Jewellery|sp||as||sp|Watches_LUXURY|sp|JEWELLERY_Rings"
+  },
+  {
+    "country": "GB",
+    "retailer": "Harrods",
+    "parsing_config": "./retailer_config/harrodscom_parsing.json",
+    "gcloud_path": "crawl_data/United Kingdom/Harrods/",
+    "department": "Jewellery",
+    "category": "Luxury Jewellery",
+    "page": "Necklaces",
+    "page_url": "https://www.harrods.com/en-gb/shopping/jewellery-watches-fine-jewellery-fine-necklaces?icid=megamenu_shop_jewellery-watches_fine-jewellery_necklaces",
+    "file_name": "United|sp|Kingdom_Harrods_Jewellery|sp||as||sp|Watches_LUXURY|sp|JEWELLERY_Necklaces"
   },
   {
     "country": "GB",

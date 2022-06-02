@@ -6,17 +6,6 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Womens Trends",
-    "page": "Find Your Pastel",
-    "page_url": "https://www.macys.com/s/own-your-style/find-your-pastel/?cm_sp=us_hdr-_-own-your-style-_-find-your-pastel_COL1",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_Find|sp|Your|sp|Pastel"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Womens Trends",
     "page": "The Fashion Slide",
     "page_url": "https://www.macys.com/shop/shoes/sandals/Sandal_type/Slide?id=17570&cm_sp=us_hdr-_-own-your-style-_-the-fashion-slide_COL1",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Fashion|sp|Slide"
@@ -50,31 +39,9 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
     "category": "Womens Trends",
-    "page": "The Oversized Shirt",
-    "page_url": "https://www.macys.com/s/own-your-style/the-oversized-shirt/?cm_sp=us_hdr-_-own-your-style-_-the-oversized-shirt_COL1",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Oversized|sp|Shirt"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Womens Trends",
     "page": "The Pearl Accessory",
     "page_url": "https://www.macys.com/shop/jewelry-watches/pearls?id=2905&cm_sp=us_hdr-_-own-your-style-_-the-pearl-accessory_COL1",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Pearl|sp|Accessory"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Womens Trends",
-    "page": "The Relaxed Jean",
-    "page_url": "https://www.macys.com/s/own-your-style/womens-relaxed-jean/?cm_sp=us_hdr-_-own-your-style-_-the-relaxed-jean_COL1",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Women|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Relaxed|sp|Jean"
   },
   {
     "country": "US",
@@ -137,50 +104,6 @@
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Own Your Style",
-    "category": "Mens Trends",
-    "page": "The Chore Jacket",
-    "page_url": "https://www.macys.com/shop/mens-clothing/mens-jackets-coats/Coat_style/Utility%20%26%20Chore%20Jacket?id=3763&cm_sp=us_hdr-_-own-your-style-_-the-chore-jacket_COL2",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Chore|sp|Jacket"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Mens Trends",
-    "page": "The New Neutral",
-    "page_url": "https://www.macys.com/s/own-your-style/the-new-neutral/?cm_sp=us_hdr-_-own-your-style-_-the-new-neutral_COL2",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|New|sp|Neutral"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Mens Trends",
-    "page": "The New Prep",
-    "page_url": "https://www.macys.com/s/own-your-style/the-new-prep-men/?cm_sp=us_hdr-_-own-your-style-_-the-new-prep_COL2",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|New|sp|Prep"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Mens Trends",
-    "page": "The Patterned Sneaker",
-    "page_url": "https://www.macys.com/shop/mens-clothing/shop-all-mens-footwear/Fabric_pattern,Shoe_type/Print,Sneakers?id=55822&cm_sp=us_hdr-_-own-your-style-_-the-patterned-sneaker_COL2",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Men|sq|s|sp|Trends|sp||as||sp|Must|sp|Haves_The|sp|Patterned|sp|Sneaker"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
     "category": "Featured Shops",
     "page": "All Things Prom",
     "page_url": "https://www.macys.com/shop/junior-clothing/prom-dresses?id=42738&cm_sp=us_hdr-_-own-your-style-_-all-things-prom_COL2",
@@ -196,17 +119,6 @@
     "page": "Dress Destination",
     "page_url": "https://www.macys.com/s/dress-destination/?cm_sp=us_hdr-_-own-your-style-_-dress-destination_COL2",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Dress|sp|Destination"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Featured Shops",
-    "page": "Hello There, Sunshine",
-    "page_url": "https://www.macys.com/s/contemporary/browsepool/?c=home&pagetitle=hello%20there,%20sunshine%20&url=%2Fshop%2Fcontemporary-nocrawl%2Fhello-sunshine%3Fid%3D323256&cm_sp=us_hdr-_-own-your-style-_-hello-there%2C-sunshine_COL2",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Featured|sp|Shops_Hello|sp|There,|sp|Sunshine"
   },
   {
     "country": "US",
@@ -273,39 +185,6 @@
     "page": "Women'S History Month",
     "page_url": "https://www.macys.com/s/purpose/?cm_sp=us_hdr-_-own-your-style-_-women%27s-history-month_COL3",
     "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Women|sq|S|sp|History|sp|Month"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Contemporary",
-    "page": "Women'S",
-    "page_url": "https://www.macys.com/s/contemporary/browse/?gender=women&id=315756&cm_sp=us_hdr-_-own-your-style-_-women%27s-_COL3",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Women|sq|S"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Contemporary",
-    "page": "Men",
-    "page_url": "https://www.macys.com/s/contemporary/browse/?gender=men&id=315757&cm_sp=us_hdr-_-own-your-style-_-men%27s-_COL3",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Men|sq|S"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Contemporary",
-    "page": "Home",
-    "page_url": "https://www.macys.com/s/contemporary/browse/?c=home&id=315758&cm_sp=us_hdr-_-own-your-style-_-home_COL3",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Contemporary_Home"
   },
   {
     "country": "US",
