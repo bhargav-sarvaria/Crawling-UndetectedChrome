@@ -29,9 +29,9 @@ class Mongo:
             crawl_urls = self.getAllDocumentsForRetry(device, kpi)
         else:
             if device.lower() == 'all':
-                filt = {"crawl_folder": crawl_folder, "device": device, "kpi": kpi}
+                filt = {"crawl_folder": crawl_folder,  "kpi": kpi}
             else:
-                filt = {"crawl_folder": crawl_folder, "kpi": kpi}
+                filt = {"crawl_folder": crawl_folder, "kpi": kpi, "device": device }
             crawl_urls = self.getDocumentsFromCollection(COLLECTION, filt)
         return crawl_urls
     
@@ -62,16 +62,18 @@ class Mongo:
 
     def printUrls(self, collection, filt = {}):
         result = list(self.db[collection].find(filt, {'_id': 0, 'page_url': 1}))
+        # result = self.db[collection].distinct("page_url", {"crawl_folder": "United States"})
         for res in result:
             print(res)
         return result
     
 
 # mongo = Mongo()
-# mongo.printUrls('United Kingdom')
+# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-02' }})
+# mongo.printUrls('ERROR')
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
-# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-05-31' }})
+# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-02' }})
 # mongo.deleteAllDocuments('Australia')
 # mongo.deleteAllDocuments('India')
 # mongo.deleteAllDocuments('United States')
@@ -79,6 +81,6 @@ class Mongo:
 # mongo.deleteAllDocuments('EU')
 # mongo.deleteAllDocuments('Douglas')
 # print(mongo.popDocument('India'))
-# mongo.printDocuments('India')
+# mongo.printUrls('ERROR')
 # print(mongo.getDocuments('India'))
 # mongo.deleteAllDocuments('India')

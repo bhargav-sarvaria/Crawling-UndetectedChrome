@@ -3712,17 +3712,6 @@
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Home & Lifestyle",
-    "category": "Home",
-    "page": "Home",
-    "page_url": "https://www.bloomingdales.com/shop/home?id=3865&cm_sp=NAVIGATION-_-TOP_NAV-_-HOME-n-n",
-    "file_name": "United|sp|States_Bloomingdales_HOME_HOME_HOME"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Home & Lifestyle",
     "category": "Bath",
     "page": "Bath",
     "page_url": "https://www.bloomingdales.com/shop/home/bath?id=1000241&cm_sp=NAVIGATION-_-TOP_NAV-_-1000241-HOME-Bath",
@@ -4890,17 +4879,6 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Designers",
     "category": "Featured Designers",
-    "page": "Hudson Park Collection",
-    "page_url": "https://www.bloomingdales.com/shop/hudson-park-bedding-collection?id=1004072&cm_sp=NAVIGATION-_-TOP_NAV-_-1004072-Featured-Designers-Hudson-Park-Collection",
-    "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Hudson|sp|Park|sp|Collection"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Designers",
-    "category": "Featured Designers",
     "page": "Maje",
     "page_url": "https://www.bloomingdales.com/buy/maje?cm_sp=NAVIGATION-_-TOP_NAV-_-1144466-Featured-Designers-Maje",
     "file_name": "United|sp|States_Bloomingdales_DESIGNERS_Featured|sp|Designers_Maje"
@@ -5410,17 +5388,6 @@
     "page": "The Vacation Shop",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/beach-wear-summer-beach-essentials?id=1049959&cm_sp=NAVIGATION-_-TOP_NAV-_-1049959-Featured-Shops-The-Vacation-Shop",
     "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Featured|sp|Shops_The|sp|Vacation|sp|Shop"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Editorial",
-    "category": "Featured Shops",
-    "page": "The Wedding Shop",
-    "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/the-wedding-shop?id=1003152&cm_sp=NAVIGATION-_-TOP_NAV-_-1003152-Featured-Shops-The-Wedding-Shop",
-    "file_name": "United|sp|States_Bloomingdales_EDITORIAL_Featured|sp|Shops_The|sp|Wedding|sp|Shop"
   },
   {
     "country": "US",
