@@ -941,17 +941,6 @@
     "gcloud_path": "crawl_data/Spain/Douglas_ES/",
     "department": "Body",
     "category": "Treatments for Body",
-    "page": "Serums",
-    "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos/serum",
-    "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_Serums"
-  },
-  {
-    "country": "ES",
-    "retailer": "Douglas_ES",
-    "parsing_config": "./retailer_config/Douglas/douglases_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Douglas_ES/",
-    "department": "Body",
-    "category": "Treatments for Body",
     "page": "See all categories",
     "page_url": "https://douglas.es/c/tratamiento_corporal/tratamientos",
     "file_name": "Spain_DOUGLAS_ES_BODY_BODY|sp|TREATMENTS_See|sp|all|sp|categories"

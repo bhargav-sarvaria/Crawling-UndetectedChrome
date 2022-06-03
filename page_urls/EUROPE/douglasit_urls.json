@@ -907,17 +907,6 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Treatments",
-    "category": "Asian Beauty",
-    "page": "J-Beauty",
-    "page_url": "https://www.douglas.it/Trattamento/Asian-Beauty/J-Beauty/index_022402.html",
-    "file_name": "Italy_DOUGLAS_IT_TREATMENT_ASIAN|sp|BEAUTY_J|h|Beauty"
-  },
-  {
-    "country": "IT",
-    "retailer": "Douglas_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Treatments",
     "category": "Supplements & Detox",
     "page": "Supplements & Detox",
     "page_url": "https://www.douglas.it/Trattamento/Integratori-%26-Detox/index_0216.html",

@@ -1491,17 +1491,6 @@
     "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
     "department": "Men",
     "category": "Mens Grooming",
-    "page": "Men's Grooming",
-    "page_url": "https://www.debenhams.com/category/beauty?gender=Male",
-    "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Men|sq|s|sp|Grooming"
-  },
-  {
-    "country": "GB",
-    "retailer": "Debenhams",
-    "parsing_config": "./retailer_config/debenhamscom_parsing.json",
-    "gcloud_path": "crawl_data/United Kingdom/Debenhams/",
-    "department": "Men",
-    "category": "Mens Grooming",
     "page": "Aftershave",
     "page_url": "https://www.debenhams.com/category/beauty-mens-fragrance-aftershave",
     "file_name": "United|sp|Kingdom_Debenhams_Men_Men|sq|s|sp|Grooming_Aftershave"

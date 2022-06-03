@@ -1116,17 +1116,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Face",
-    "category": "Premium Skincare",
-    "page": "Premium Skincare",
-    "page_url": "https://www.sephora.it/premium-skincare.html",
-    "file_name": "Italy_Sephora_IT_FACE|sp|TREATMENTS_PREMIUM|sp|SKINCARE_PREMIUM|sp|SKINCARE"
-  },
-  {
-    "country": "IT",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "Face",
     "category": "Sephora Facial Treatments Collection",
     "page": "Sephora Facial Treatments Collection",
     "page_url": "https://www.sephora.it/marche/dalla-a-alla-z/sephora-collection-sepho/?scgid=C303",
@@ -2880,17 +2869,6 @@
     "page": "New in Hair",
     "page_url": "https://www.sephora.it/novit%C3%A0/vedi-tutte-le-novit%C3%A0/novit%C3%A0-capelli-tutte-le-novita-capelli/",
     "file_name": "Italy_Sephora_IT_ANNOUNCEMENTS_News|sp|Hair_News|sp|Hair"
-  },
-  {
-    "country": "IT",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "Beauty",
-    "category": "Beauty Offers",
-    "page": "Beauty Offers",
-    "page_url": "https://www.sephora.it/offerte-di-bellezza/",
-    "file_name": "Italy_Sephora_IT_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS_BEAUTY|sp|OFFERS"
   },
   {
     "country": "IT",

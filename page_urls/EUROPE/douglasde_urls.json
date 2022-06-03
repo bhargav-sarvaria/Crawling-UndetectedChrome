@@ -3163,17 +3163,6 @@
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Home & Lifestyle",
     "category": "Fashion",
-    "page": "Jeans",
-    "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/jeans/151308",
-    "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_Jeans"
-  },
-  {
-    "country": "DE",
-    "retailer": "Douglas_DE",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Douglas_DE/",
-    "department": "Home & Lifestyle",
-    "category": "Fashion",
     "page": "clothes",
     "page_url": "https://www.douglas.de/de/c/home-lifestyle/mode/kleider/151303",
     "file_name": "Germany_DOUGLAS_DE_HOME|sp||as||sp|LIFESTYLE_Mode_clothes"

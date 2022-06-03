@@ -347,17 +347,6 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Make Up",
     "category": "Mouth",
-    "page": "Lip makeup palettes",
-    "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/usta/palety-do-makijazu-ust-c297703/",
-    "file_name": "Poland_Sephora_PL_MAKEUP_MOUTH_Lip|sp|makeup|sp|palettes"
-  },
-  {
-    "country": "PL",
-    "retailer": "Sephora_PL",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Poland/Sephora_PL/",
-    "department": "Make Up",
-    "category": "Mouth",
     "page": "Lipsticks",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/makijaz/usta/pomadki-c371/",
     "file_name": "Poland_Sephora_PL_MAKEUP_MOUTH_Lipsticks"
@@ -2382,17 +2371,6 @@
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Body",
     "category": "Body",
-    "page": "Body",
-    "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/cialo-c7641/",
-    "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY_BODY"
-  },
-  {
-    "country": "PL",
-    "retailer": "Sephora_PL",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Poland/Sephora_PL/",
-    "department": "Body",
-    "category": "Body",
     "page": "Shower gels and soaps",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/cialo-i-kapiel/cialo/zele-pod-prysznic-i-mydla-c495/",
     "file_name": "Poland_Sephora_PL_BODY|sp|AND|sp|BATH_BODY_Shower|sp|gels|sp|and|sp|soaps"
@@ -2913,17 +2891,6 @@
     "page": "Kits",
     "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/zestawy-c261201/",
     "file_name": "Poland_Sephora_PL_HAIR_KITS_KITS"
-  },
-  {
-    "country": "PL",
-    "retailer": "Sephora_PL",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Poland/Sephora_PL/",
-    "department": "Hair",
-    "category": "Hair",
-    "page": "Hair",
-    "page_url": "https://www.sephora.pl/wszystkie-produkty/wlosy/wlosy-c496/",
-    "file_name": "Poland_Sephora_PL_HAIR_HAIR_HAIR"
   },
   {
     "country": "PL",
