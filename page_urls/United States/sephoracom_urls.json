@@ -1456,17 +1456,6 @@
     "retailer": "Sephora",
     "department": "Hair",
     "category": "Help Me Choose",
-    "page": "Healthy Hair Care Guide",
-    "page_url": "https://www.sephora.com/beauty/best-hair-products-for-every-hair-type",
-    "file_name": "United|sp|States_Sephora_Hair_Help|sp|Me|sp|Choose_Healthy|sp|Hair|sp|Care|sp|Guide",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "US",
-    "retailer": "Sephora",
-    "department": "Hair",
-    "category": "Help Me Choose",
     "page": "Allure Best of Beauty: Hair",
     "page_url": "https://www.sephora.com/beauty/allure-best-of-beauty-hair",
     "file_name": "United|sp|States_Sephora_Hair_Help|sp|Me|sp|Choose_Allure|sp|Best|sp|of|sp|Beauty|cln||sp|Hair",
@@ -1712,17 +1701,6 @@
     "page": "Value Size",
     "page_url": "https://www.sephora.com/beauty/value-size-fragrances",
     "file_name": "United|sp|States_Sephora_Fragrance_Value|sp|Size_Value|sp|Size",
-    "parsing_config": "./retailer_config/sephoracom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Sephora/"
-  },
-  {
-    "country": "US",
-    "retailer": "Sephora",
-    "department": "Fragrance",
-    "category": "Help Me Choose",
-    "page": "Clean Fragrance Guide",
-    "page_url": "https://www.sephora.com/beauty/clean-beauty-products?activeTab=clean0719_cleanfragrance_tab_UFE",
-    "file_name": "United|sp|States_Sephora_Fragrance_Help|sp|Me|sp|Choose_Clean|sp|Fragrance|sp|Guide",
     "parsing_config": "./retailer_config/sephoracom_parsing.json",
     "gcloud_path": "crawl_data/United States/Sephora/"
   },

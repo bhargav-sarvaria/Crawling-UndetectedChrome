@@ -61,16 +61,15 @@ class Mongo:
         return doc
 
     def printUrls(self, collection, filt = {}):
-        result = list(self.db[collection].find(filt, {'_id': 0, 'page_url': 1}))
-        # result = self.db[collection].distinct("page_url", {"crawl_folder": "United States"})
+        result = self.db[collection].distinct("page_url", filt)
         for res in result:
             print(res)
         return result
     
 
 # mongo = Mongo()
-# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-02' }})
-# mongo.printUrls('ERROR')
+# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-03' }})
+# mongo.printUrls('ERROR', {"country": "US", "date": "2022-06-03", "device": "Desktop"})
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
 # mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-02' }})

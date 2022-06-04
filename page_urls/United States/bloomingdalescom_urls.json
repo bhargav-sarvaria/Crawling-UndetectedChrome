@@ -105,9 +105,108 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Women",
     "category": "Clothing",
-    "page": "Pants & Leggings",
-    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/pants-leggings?id=17566&cm_sp=NAVIGATION-_-TOP_NAV-_-17566-Clothing-Pants-%26-Leggings",
-    "file_name": "United|sp|States_Bloomingdales_WOMEN_Clothing_Pants|sp||as||sp|Leggings"
+    "page": "Pants & Leggings - Cropped",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/cropped-pants?id=1004860&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1004860-Pants-%26-Leggings-Cropped",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Cropped"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Joggers & Track Pants",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/slouchy-track-jogger-pants?id=1004863&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1004863-Pants-%26-Leggings-Joggers-%26-Track-Pants",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Joggers|sp||as||sp|Track|sp|Pants"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Leather & Faux-Leather",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/leather-faux-leather?id=1135659&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1135659-Pants-%26-Leggings-Leather-%26-Faux-Leather",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Leather|sp||as||sp|Faux|h|Leather"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Leggings",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/leggings?id=1004857&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1004857-Pants-%26-Leggings-Leggings",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Leggings"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Skinny",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/skinny-pants?id=1004862&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1004862-Pants-%26-Leggings-Skinny",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Skinny"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Straight",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/straight?id=1135661&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1135661-Pants-%26-Leggings-Straight",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Straight"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Sweatpants",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/sweatpants?id=1135660&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1135660-Pants-%26-Leggings-Sweatpants",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Sweatpants"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Trousers",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/bootcut-straight-pants?id=1004859&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1004859-Pants-%26-Leggings-Trousers",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Trousers"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Wide Leg",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/flare-wide-leg-pants?id=1004861&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1004861-Pants-%26-Leggings-Wide-Leg",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Wide|sp|Leg"
+  },
+  {
+    "country": "US",
+    "retailer": "Bloomingdales",
+    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
+    "gcloud_path": "crawl_data/United States/Bloomingdales/",
+    "department": "Women",
+    "category": "Clothing",
+    "page": "Pants & Leggings - Plus Size",
+    "page_url": "https://www.bloomingdales.com/shop/womens-apparel/pants-leggings?id=1005351&cm_sp=NAVIGATION_INTL-_-TOP_NAV-_-1005351-Pants-%26-Leggings-Plus-Size-Pants-%26-Leggings",
+    "file_name": "US_Bloomingdales_Women_Clothing_Pants|sp||as||sp|Leggings|sp||h||sp|Plus|sp|Size"
   },
   {
     "country": "US",
@@ -2083,17 +2182,6 @@
     "retailer": "Bloomingdales",
     "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Jewellery",
-    "category": "Men",
-    "page": "Shop All",
-    "page_url": "https://www.bloomingdales.com/shop/mens/accessories?id=1000070&cm_sp=NAVIGATION-_-TOP_NAV-_-1000070-Men%27s-Shop-All",
-    "file_name": "United|sp|States_Bloomingdales_JEWELRY|sp||as||sp|ACCESSORIES_Men|sq|s_Shop|sp|All"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Beauty",
     "category": "Beauty",
     "page": "Beauty",
@@ -2759,17 +2847,6 @@
     "page": "Jewelry & Cufflinks",
     "page_url": "https://www.bloomingdales.com/shop/mens/jewelry-cufflinks?id=1000061&cm_sp=NAVIGATION-_-TOP_NAV-_-1000061-Accessories-Jewelry-%26-Cufflinks",
     "file_name": "United|sp|States_Bloomingdales_MEN_Accessories_Jewelry|sp||as||sp|Cufflinks"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Men",
-    "category": "Accessories",
-    "page": "Luggage & Travel",
-    "page_url": "https://www.bloomingdales.com/shop/mens/luggage-travel-accessories?id=1005605&cm_sp=NAVIGATION-_-TOP_NAV-_-1005605-Accessories-Luggage-%26-Travel",
-    "file_name": "United|sp|States_Bloomingdales_MEN_Accessories_Luggage|sp||as||sp|Travel"
   },
   {
     "country": "US",

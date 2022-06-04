@@ -633,17 +633,6 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
     "category": "By Collection",
-    "page": "Contemporary Trends",
-    "page_url": "https://www.macys.com/shop/womens-clothing/modern-contemporary-clothing?id=55213&cm_sp=us_hdr-_-women-_-55213_contemporary-trends_COL4",
-    "file_name": "United|sp|States_Macys_Women_Shop|sp|Collections_Contemporary|sp|Trends"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Women",
-    "category": "By Collection",
     "page": "Dress Trends",
     "page_url": "https://www.macys.com/s/dress-destination/?cm_sp=us_hdr-_-women-_-dress-trends_COL4",
     "file_name": "United|sp|States_Macys_Women_Shop|sp|Collections_Dress|sp|Trends"
@@ -1021,17 +1010,6 @@
     "page": "Business Casual",
     "page_url": "https://www.macys.com/shop/mens-clothing/business-casual?id=75897&cm_sp=us_hdr-_-men-_-75897_business-casual_COL4",
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Business|sp|Casual"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Men",
-    "category": "By Collection",
-    "page": "Contemporary Trends",
-    "page_url": "https://www.macys.com/s/contemporary/browse/?gender=men&id=315757&cm_sp=us_hdr-_-men-_-contemporary-trends_COL4",
-    "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Contemporary|sp|Trends"
   },
   {
     "country": "US",
@@ -2404,17 +2382,6 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Furniture",
     "category": "By Collection",
-    "page": "Contemporary Home Trends",
-    "page_url": "https://www.macys.com/s/contemporary/browse/?c=home&cm_sp=us_hdr-_-furniture-_-contemporary-home-trends_COL4",
-    "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Contemporary|sp|Home|sp|Trends"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Furniture",
-    "category": "By Collection",
     "page": "Entertainment And Game Room",
     "page_url": "https://www.macys.com/shop/furniture/all-entertainment-game-room?id=212959&cm_sp=us_hdr-_-furniture-_-212959_entertainment-and-game-room_COL4",
     "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Entertainment|sp|And|sp|Game|sp|Room"
@@ -3570,17 +3537,6 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Shoes",
     "category": "By Collection",
-    "page": "Contemporary Trends",
-    "page_url": "https://www.macys.com/s/contemporary/browsepool/?gender=women&pagetitle=Shoes&url=%2Fshop%2Fcontemporary-nocrawl%2Fwomens-contemporary-nocrawl%2FDepartment_type%2FShoes%3Fid%3D315756&cm_sp=us_hdr-_-shoes-_-contemporary-trends_COL4",
-    "file_name": "United|sp|States_Macys_Shoes_Shop|sp|Collections_Contemporary|sp|Trends"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Shoes",
-    "category": "By Collection",
     "page": "The Edit",
     "page_url": "https://www.macys.com/s/the-edit/women/?cm_sp=us_hdr-_-shoes-_-the-edit_COL4",
     "file_name": "United|sp|States_Macys_Shoes_Shop|sp|Collections_The|sp|Edit"
@@ -4222,17 +4178,6 @@
     "page": "Best Sellers",
     "page_url": "https://www.macys.com/shop/handbags-accessories/best-sellers?id=96342&cm_sp=us_hdr-_-handbags-_-96342_best-sellers_COL4",
     "file_name": "United|sp|States_Macys_Handbags_Shop|sp|Collections_Best|sp|Sellers"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Handbags",
-    "category": "By Collection",
-    "page": "Contemporary Trends",
-    "page_url": "https://www.macys.com/shop/handbags-accessories/contemporary-trends?id=255859&cm_sp=us_hdr-_-handbags-_-255859_contemporary-trends_COL4",
-    "file_name": "United|sp|States_Macys_Handbags_Shop|sp|Collections_Contemporary|sp|Trends"
   },
   {
     "country": "US",
