@@ -67,9 +67,9 @@ class Mongo:
         return result
     
 
-# mongo = Mongo()
-# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-03' }})
-# mongo.printUrls('ERROR', {"country": "US", "date": "2022-06-03", "device": "Desktop"})
+mongo = Mongo()
+# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-05' }})
+mongo.printUrls('ERROR', {"date": "2022-06-05", "device": "Desktop"})
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
 # mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-02' }})

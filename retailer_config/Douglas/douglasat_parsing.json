@@ -1,6 +1,9 @@
 {
   "fetch_products": {
-    "selectors": [{ "type": "classname", "value": "product-tile" }]
+    "selectors": [
+      { "type": "classname", "value": "product-tile" },
+      { "type": "classname", "value": "dynamic-product slick-slide" }
+    ]
   },
   "wait_for_class": "product-tile",
   "fetch_product": [
@@ -14,7 +17,8 @@
           "selector_attribute": "href",
           "splitter": "/",
           "split": -1
-        }
+        },
+        { "type": "attribute", "value": "data-dynamic-id" }
       ]
     },
     {
@@ -55,7 +59,10 @@
     {
       "field": "brand",
       "field_name": "Brand",
-      "selectors": [{ "type": "classname", "value": "product-tile__top-brand" }]
+      "selectors": [
+        { "type": "classname", "value": "product-tile__top-brand" },
+        { "type": "classname", "value": "js-brandName" }
+      ]
     },
     {
       "field": "product_name",
@@ -64,7 +71,8 @@
         {
           "type": "classnames",
           "values": ["product-tile__brand-line", "product-tile__name"]
-        }
+        },
+        { "type": "classname", "values": "js-productName" }
       ]
     },
     {
@@ -74,7 +82,8 @@
         {
           "type": "classname",
           "value": "product-price__extended-content-units"
-        }
+        },
+        { "type": "classname", "value": "js-productSize" }
       ]
     },
     {
@@ -90,13 +99,21 @@
           "type": "classname_attribute",
           "value": "product-tile__main-link",
           "selector_attribute": "href"
+        },
+        {
+          "type": "classname_attribute",
+          "value": "js-productUrl",
+          "selector_attribute": "href"
         }
       ]
     },
     {
       "field": "listing_label",
       "field_name": "Label",
-      "selectors": [{ "type": "classname", "value": "eyecatcher" }]
+      "selectors": [
+        { "type": "classname", "value": "eyecatcher" },
+        { "type": "classname", "value": "eye-catcher-container" }
+      ]
     },
     {
       "field": "reviews",
@@ -105,6 +122,12 @@
         {
           "type": "classname_split",
           "classname": "product-tile__ratings-info",
+          "splitter": " (",
+          "split": 1
+        },
+        {
+          "type": "classname_split",
+          "classname": "js-ratingsAmount",
           "splitter": " (",
           "split": 1
         }
@@ -117,6 +140,12 @@
         {
           "type": "classname_split",
           "classname": "product-tile__ratings-info",
+          "splitter": " (",
+          "split": 0
+        },
+        {
+          "type": "classname_split",
+          "classname": "js-ratingsAmount",
           "splitter": " (",
           "split": 0
         }
