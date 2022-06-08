@@ -29,8 +29,7 @@ from typing import List
 
 RENDER_WAIT_LIMIT = 3
 MEMORY_THRESHOLD = 15
-DRIVER_CLEAN_TIME = 900
-DRIVER_CLEAN_TIME_WAIT = DRIVER_CLEAN_TIME
+
 
 LOGGING.basicConfig(
 filename='run.log',
@@ -54,7 +53,9 @@ class Crawler_PDP:
         self.storage_client = storage.Client.from_service_account_json('config/dsp_retail_scan_cred.json')
         self.bucket = self.storage_client.get_bucket('dspretailscan')
         self.bucket_ss = self.storage_client.get_bucket('dsppublic')
-        self.parser_map = {}
+        self.parser_map = {}    
+        self.DRIVER_CLEAN_TIME = 10
+        self.DRIVER_CLEAN_TIME_WAIT = self.DRIVER_CLEAN_TIME
 
     def addConfig(self, page_config):
         if 'date' not in page_config:
@@ -98,6 +99,7 @@ class Crawler_PDP:
 
     def crawlUrlsFromConfigPath(self, crawl_folder):
         if 'Retry' in crawl_folder:
+            self.DRIVER_CLEAN_TIME = self.DRIVER_CLEAN_TIME * 1.5
             RENDER_WAIT_LIMIT = 10
             self.crawl_folder = crawl_folder.split('_')[1]
             crawl_urls = mongo.getDocumentsForRetry(crawl_folder, kpi = 'PDP')
@@ -404,7 +406,7 @@ class Crawler_PDP:
             if len(self.ACTIVE_DRIVERS):
                 for ad in self.ACTIVE_DRIVERS:
                     runtime = time.time() - ad["create_time"]
-                    if runtime > DRIVER_CLEAN_TIME:
+                    if runtime > self.DRIVER_CLEAN_TIME:
                         LOGGING.error('driverCleaner create time pass')
                         self.activeDriverRemove(ad)
                         LOGGING.error('Driver Cleaner removed a chrome instance')
@@ -412,11 +414,11 @@ class Crawler_PDP:
             if len(self.RUNNING_THREADS):
                 for rt in self.RUNNING_THREADS:
                     runtime = time.time() - rt["create_time"]
-                    if runtime > DRIVER_CLEAN_TIME:
+                    if runtime > self.DRIVER_CLEAN_TIME:
                         LOGGING.error('thread create time pass')
                         self.removeRunningThread(rt['thread_name'])
                         LOGGING.error('Driver Cleaner removed a running thread')
-            time.sleep(DRIVER_CLEAN_TIME_WAIT)
+            time.sleep(self.DRIVER_CLEAN_TIME_WAIT)
 
     def activeDriverRemove(self, active_driver):
         try:
