@@ -23,28 +23,15 @@ class Mongo:
         self.db[upload_collection].insert_one(document)
 
     def getDocumentsForRetry(self, query, kpi = ''):
-        crawl_folder = query.split('_')[1]
-        device = query.split('_')[2]
-        if crawl_folder.lower() == 'all':
-            crawl_urls = self.getAllDocumentsForRetry(device, kpi)
-        else:
-            if device.lower() == 'all':
-                filt = {"crawl_folder": crawl_folder,  "kpi": kpi}
-            else:
-                filt = {"crawl_folder": crawl_folder, "kpi": kpi, "device": device }
-            crawl_urls = self.getDocumentsFromCollection(COLLECTION, filt)
+        splits = query.split('_')
+        crawl_folder = splits[1]
+        filt = {}
+        if len(splits) > 2 and splits[2] != 'all':
+            filt['device'] = splits[2]
+        filt['crawl_folder'] = crawl_folder
+        filt['kpi'] = kpi
+        crawl_urls = self.getDocumentsFromCollection(COLLECTION, filt)
         return crawl_urls
-    
-    def getAllDocumentsForRetry(self, device, kpi = ''):
-        filt = {"device": device, "kpi": kpi}
-        failed_urls = []
-        for collection in self.db.list_collection_names():
-            if 'all' in collection.lower():
-                continue
-            result = list(self.db[collection].find(filt))
-            failed_urls.extend(result)
-            self.db[collection].delete_many(filt)
-        return failed_urls
 
     def getDocumentsFromCollection(self, collection, filt = {}):
         result = list(self.db[collection].find(filt))
@@ -68,8 +55,8 @@ class Mongo:
     
 
 # mongo = Mongo()
-# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-05' }})
-# mongo.printUrls('ERROR', {"date": "2022-06-05", "device": "Desktop"})
+# mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-09' }})
+# mongo.printUrls('ERROR', {"date": "2022-06-08", "device": "Desktop"})
 # mongo.addDocument('India', {'test': 1})
 # mongo.addDocument('India', {'test': 2})
 # mongo.deleteAllDocuments('ERROR', {'date': {'$ne': '2022-06-02' }})
