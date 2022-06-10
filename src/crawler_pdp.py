@@ -54,7 +54,7 @@ class Crawler_PDP:
         self.bucket = self.storage_client.get_bucket('dspretailscan')
         self.bucket_ss = self.storage_client.get_bucket('dsppublic')
         self.parser_map = {}    
-        self.DRIVER_CLEAN_TIME = 10
+        self.DRIVER_CLEAN_TIME = 750
         self.DRIVER_CLEAN_TIME_WAIT = self.DRIVER_CLEAN_TIME
 
     def addConfig(self, page_config):
