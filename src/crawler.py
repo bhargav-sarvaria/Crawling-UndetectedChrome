@@ -192,24 +192,27 @@ class Crawler:
     
     def parsePLPage(self, source, page_config, device, img_path):
         try:
+            filename = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
+            gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filename.replace('.csv', '.jpg')
+            self.bucket_ss.blob(gcloud_filename_ss).upload_from_filename(img_path)
+
+            if os.path.exists(img_path):
+                os.remove(img_path)
+
             parser = self.parser_map[page_config['parsing_config']]
             products = self.driver.fetchSoupElements(source, parser['fetch_products']['selectors'])
             if len(products) == 0:
-                self.pageError(page_config, 'No products', delete=img_path)
+                self.pageError(page_config, 'No products')
                 return
             products_data = self.getProductsData(products, parser['fetch_product'], page_config)
             if len(products_data) == 0:
-                self.pageError(page_config, 'No product details', delete=img_path)
+                self.pageError(page_config, 'No product details')
                 return
 
-            
-            filename = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.csv'
             filename_parq = page_config['file_name'] + '_' + device + '_' + page_config['date'] + '.parquet'
 
             # gcloud_filename = page_config['gcloud_path'] + page_config['date'] + '/' + filename
             gcloud_filename_parq = self.getParquetUploadFolder(page_config, filename_parq)
-
-            gcloud_filename_ss = page_config['gcloud_path'].replace('crawl_data', 'crawl_ss') + page_config['date'] + '/' + filename.replace('.csv', '.jpg')
 
             df = pd.DataFrame(products_data)
             df = df.assign(full_page_snapshot = gcloud_filename_ss)
@@ -217,14 +220,11 @@ class Crawler:
             df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r", r"\\$"], value=["","",""], regex=True, inplace=True)
             # np.savetxt(filename, df.to_numpy(),fmt='%s', delimiter=':::')
             # self.bucket.blob(gcloud_filename).upload_from_filename(filename)
-            self.bucket_ss.blob(gcloud_filename_ss).upload_from_filename(img_path)
 
             df.drop(['country', 'retailer', 'date'], axis = 1, inplace = True)
             df.to_parquet(filename_parq, engine='fastparquet')
             self.bucket.blob(gcloud_filename_parq).upload_from_filename(filename_parq)
             
-            if os.path.exists(img_path):
-                os.remove(img_path)
             if os.path.exists(filename_parq):
                 os.remove(filename_parq)
             # if os.path.exists(filename):
