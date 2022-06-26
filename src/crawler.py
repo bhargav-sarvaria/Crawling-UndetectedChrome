@@ -51,8 +51,8 @@ class Crawler:
         self.RUNNING_THREADS = []
         self.ACTIVE_DRIVERS = []
         self.storage_client = storage.Client.from_service_account_json('config/dsp_retail_scan_cred.json')
-        self.bucket = self.storage_client.get_bucket('dspretailscan')
-        self.bucket_ss = self.storage_client.get_bucket('dsppublic')
+        self.bucket = self.storage_client.get_bucket('digitalshelfplatform')
+        self.bucket_ss = self.storage_client.get_bucket('digitalshelfplatformpublic')
 
         self.parser_map = {}
 

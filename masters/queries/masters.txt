@@ -1,20 +1,20 @@
 // brand_dictionary
-CREATE OR REPLACE EXTERNAL TABLE `winged-tenure-344909.DSP.BRAND_DICTIONARY`
+CREATE OR REPLACE EXTERNAL TABLE `helpful-cosine-354516.DSP.BRAND_DICTIONARY`
 OPTIONS (
   format = 'Parquet',
-  uris = ['gs://dspretailscan/masters/brand_dictionary/*.parquet']
+  uris = ['gs://digitalshelfplatform/masters/brand_dictionary/*.parquet']
 );
 
 //category_dictionary
-CREATE OR REPLACE EXTERNAL TABLE `winged-tenure-344909.DSP.CATEGORY_DICTIONARY`
+CREATE OR REPLACE EXTERNAL TABLE `helpful-cosine-354516.DSP.CATEGORY_DICTIONARY`
 OPTIONS (
   format = 'Parquet',
-  uris = ['gs://dspretailscan/masters/category_dictionary/*.parquet']
+  uris = ['gs://digitalshelfplatform/masters/category_dictionary/*.parquet']
 );
 
 //country_code_master
-CREATE OR REPLACE EXTERNAL TABLE `winged-tenure-344909.DSP.COUNTRY_CODE_MASTER`
+CREATE OR REPLACE EXTERNAL TABLE `helpful-cosine-354516.DSP.COUNTRY_CODE_MASTER`
 OPTIONS (
   format = 'Parquet',
-  uris = ['gs://dspretailscan/masters/country_code_master/*.parquet']
+  uris = ['gs://digitalshelfplatform/masters/country_code_master/*.parquet']
 );
