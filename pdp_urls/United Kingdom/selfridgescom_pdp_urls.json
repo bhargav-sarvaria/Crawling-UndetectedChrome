@@ -6414,16 +6414,6 @@
     "retailer": "Selfridges_UK",
     "parsing_config": "./retailer_config/PDP/selfridgescom_pdp_parsing.json",
     "gcloud_path": "crawl_data_pdp/United Kingdom/Selfridges_UK/",
-    "product_page_url": "https://www.selfridges.com/GB/en/cat/moncler-turtleneck-wool-blend-jumper_R03791711/#colour=RED",
-    "file_name": "Moncler_Turtleneck|sp|wool|h|blend|sp|jumper",
-    "normalized_brand": "Moncler",
-    "product_name": "Turtleneck wool-blend jumper"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/PDP/selfridgescom_pdp_parsing.json",
-    "gcloud_path": "crawl_data_pdp/United Kingdom/Selfridges_UK/",
     "product_page_url": "https://www.selfridges.com/GB/en/cat/montblanc-horseshoe-reversible-leather-belt_R03755402/",
     "file_name": "Mont|sp|Blanc_Horseshoe|sp|reversible|sp|leather|sp|belt",
     "normalized_brand": "Mont Blanc",
@@ -10028,16 +10018,6 @@
     "file_name": "The|sp|North|sp|Face_Tekware|sp|mid|h|rise|sp|tapered|h|leg|sp|stretch|h|woven|sp|trousers",
     "normalized_brand": "The North Face",
     "product_name": "Tekware mid-rise tapered-leg stretch-woven trousers"
-  },
-  {
-    "country": "United Kingdom",
-    "retailer": "Selfridges_UK",
-    "parsing_config": "./retailer_config/PDP/selfridgescom_pdp_parsing.json",
-    "gcloud_path": "crawl_data_pdp/United Kingdom/Selfridges_UK/",
-    "product_page_url": "https://www.selfridges.com/GB/en/cat/the-north-face-logo-print-cotton-jersey-hoody_R03890608/#colour=TNF%20BLACK",
-    "file_name": "The|sp|North|sp|Face_Logo|h|print|sp|cotton|h|jersey|sp|hoody",
-    "normalized_brand": "The North Face",
-    "product_name": "Logo-print cotton-jersey hoody"
   },
   {
     "country": "United Kingdom",
