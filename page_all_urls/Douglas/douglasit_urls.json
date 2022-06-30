@@ -1656,17 +1656,6 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
     "category": "Douglas Focus",
-    "page": "Aqua Focus",
-    "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/Aqua-Focus/index_b983486.html",
-    "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_Aqua|sp|Focus"
-  },
-  {
-    "country": "IT",
-    "retailer": "Douglas_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasit_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Douglas Collection",
-    "category": "Douglas Focus",
     "page": "Age Focus",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/Age-Focus/index_b983493.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_Age|sp|Focus"

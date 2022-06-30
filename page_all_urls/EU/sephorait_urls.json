@@ -2679,17 +2679,6 @@
     "gcloud_path": "crawl_data/Italy/Sephora_IT/",
     "department": "Hair",
     "category": "Beauty Ideas",
-    "page": "Hair Routine",
-    "page_url": "https://www.sephora.it/hair-routine.html",
-    "file_name": "Italy_Sephora_IT_HAIR_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Hair|sp|Routine"
-  },
-  {
-    "country": "IT",
-    "retailer": "Sephora_IT",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Sephora_IT/",
-    "department": "Hair",
-    "category": "Beauty Ideas",
     "page": "Hero HairCare",
     "page_url": "https://www.sephora.it/hero-hair/",
     "file_name": "Italy_Sephora_IT_HAIR_BEAUTY|sp|IDEAS|sp|AND|sp|INSPIRATIONS_Hero|sp|HairCare"

@@ -1886,17 +1886,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Poland/Sephora_PL/",
     "department": "Face",
-    "category": "Korean Care",
-    "page": "Korean Care",
-    "page_url": "https://www.sephora.pl/pielegnacja-twarzy/koreanska-pielegnacja-korean-beauty-1/",
-    "file_name": "Poland_Sephora_PL_FACE|sp|CARE_KOREAN|sp|CARE_KOREAN|sp|CARE"
-  },
-  {
-    "country": "PL",
-    "retailer": "Sephora_PL",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Poland/Sephora_PL/",
-    "department": "Face",
     "category": "Compostable Make Up Removal",
     "page": "Compostable Make Up Removal",
     "page_url": "https://www.sephora.pl/sephora-collection-kompostowalne-chusteczki.html",

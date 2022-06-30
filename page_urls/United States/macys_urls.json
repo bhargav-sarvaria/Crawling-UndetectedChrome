@@ -2360,17 +2360,6 @@
     "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Furniture",
     "category": "By Collection",
-    "page": "Back To College",
-    "page_url": "https://www.macys.com/p/college-lifestyle/?cm_sp=us_hdr-_-furniture-_-back-to-college_COL4",
-    "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Back|sp|To|sp|College"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Furniture",
-    "category": "By Collection",
     "page": "Bernhardt Furniture",
     "page_url": "https://www.macys.com/shop/for-the-home/shop-all-for-the-home/Brand,Home_categories/Bernhardt,Furniture?id=173142&cm_sp=us_hdr-_-furniture-_-bernhardt-furniture_COL4",
     "file_name": "United|sp|States_Macys_Furniture_Shop|sp|Collections_Bernhardt|sp|Furniture"
