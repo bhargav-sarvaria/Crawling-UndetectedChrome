@@ -952,17 +952,6 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Shoes",
     "category": "Featured Designers",
-    "page": "Jimmy Choo",
-    "page_url": "https://www.bloomingdales.com/shop/jimmy-choo/Fob/Shoes?id=1061959&cm_sp=NAVIGATION-_-TOP_NAV-_-1061959-Featured-Designers-Jimmy-Choo",
-    "file_name": "United|sp|States_Bloomingdales_SHOES_Featured|sp|Designers_Jimmy|sp|Choo"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Shoes",
-    "category": "Featured Designers",
     "page": "Saint Laurent",
     "page_url": "https://www.bloomingdales.com/shop/saint-laurent/saint-laurent-shoes?id=1100160&cm_sp=NAVIGATION-_-TOP_NAV-_-1100160-Featured-Designers-Saint-Laurent",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Featured|sp|Designers_Saint|sp|Laurent"
@@ -1054,17 +1043,6 @@
     "page": "The New Glamour",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/the-new-glamour/Sort_by_fob/Shoes?id=1131260&cm_sp=NAVIGATION-_-TOP_NAV-_-1131260-Featured-Trends-The-New-Glamour",
     "file_name": "United|sp|States_Bloomingdales_SHOES_Featured|sp|Trends_The|sp|New|sp|Glamour"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Shoes",
-    "category": "Gift Card Event Designers",
-    "page": "Jimmy Choo",
-    "page_url": "https://www.bloomingdales.com/shop/jimmy-choo/Fob/Shoes?id=1061959&cm_sp=NAVIGATION-_-TOP_NAV-_-1061959-Gift-Card-Event-Designers-Jimmy-Choo",
-    "file_name": "United|sp|States_Bloomingdales_SHOES_Gift|sp|Card|sp|Event|sp|Designers_Jimmy|sp|Choo"
   },
   {
     "country": "US",
@@ -3738,17 +3716,6 @@
     "page": "Family Matching",
     "page_url": "https://www.bloomingdales.com/shop/kids/family-matching?id=1133860&cm_sp=NAVIGATION-_-TOP_NAV-_-1133860-New-%26-Noteworthy-Family-Matching",
     "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Family|sp|Matching"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Kids",
-    "category": "New",
-    "page": "Dress Shop",
-    "page_url": "https://www.bloomingdales.com/shop/kids/girls-party-dresses?id=1004517&cm_sp=NAVIGATION-_-TOP_NAV-_-1004517-New-%26-Noteworthy-Dress-Shop",
-    "file_name": "United|sp|States_Bloomingdales_KIDS_New|sp||as||sp|Noteworthy_Dress|sp|Shop"
   },
   {
     "country": "US",
