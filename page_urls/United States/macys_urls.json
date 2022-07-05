@@ -180,17 +180,6 @@
     "retailer": "Macys",
     "parsing_config": "./retailer_config/macyscom_parsing.json",
     "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Own Your Style",
-    "category": "Mission Every One",
-    "page": "Women'S History Month",
-    "page_url": "https://www.macys.com/s/purpose/?cm_sp=us_hdr-_-own-your-style-_-women%27s-history-month_COL3",
-    "file_name": "United|sp|States_Macys_Own|sp|Your|sp|Style_Mission|sp|Every|sp|One_Women|sq|S|sp|History|sp|Month"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
     "department": "Women",
     "category": "Womens Clothing",
     "page": "All Women'S Clothing",
@@ -1021,17 +1010,6 @@
     "page": "Finish Line Men'S Shoes",
     "page_url": "https://www.macys.com/shop/mens-clothing/mens-finish-line-athletic-shoes?id=63266&cm_sp=us_hdr-_-men-_-63266_finish-line-men%27s-shoes_COL4",
     "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Finish|sp|Line|sp|Men|sq|S|sp|Shoes"
-  },
-  {
-    "country": "US",
-    "retailer": "Macys",
-    "parsing_config": "./retailer_config/macyscom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Macys/",
-    "department": "Men",
-    "category": "By Collection",
-    "page": "Inclusive Brands",
-    "page_url": "https://www.macys.com/s/honors/?cm_sp=us_hdr-_-men-_-inclusive-brands_COL4",
-    "file_name": "United|sp|States_Macys_Men_Shop|sp|Collections_Inclusive|sp|Brands"
   },
   {
     "country": "US",
