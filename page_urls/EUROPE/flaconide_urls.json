@@ -2668,17 +2668,6 @@
     "gcloud_path": "crawl_data/Germany/Flaconi/",
     "department": "New",
     "category": "Perfumes",
-    "page": "Mandarin Duck",
-    "page_url": "https://www.flaconi.de/mandarina-duck/",
-    "file_name": "Germany_Flaconi_NEW_PERFUME_Mandarin|sp|Duck"
-  },
-  {
-    "country": "DE",
-    "retailer": "Flaconi",
-    "parsing_config": "./retailer_config/flaconide_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Flaconi/",
-    "department": "New",
-    "category": "Perfumes",
     "page": "PHILIPP PLEIN",
     "page_url": "https://www.flaconi.de/philipp-plein/",
     "file_name": "Germany_Flaconi_NEW_PERFUME_PHILIPP|sp|PLEIN"
