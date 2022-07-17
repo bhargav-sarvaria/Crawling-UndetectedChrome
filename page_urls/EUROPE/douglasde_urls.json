@@ -247,17 +247,6 @@
     "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
     "gcloud_path": "crawl_data/Germany/Douglas_DE/",
     "department": "Perfumes",
-    "category": "Niche Fragrance",
-    "page": " All niche fragrances",
-    "page_url": "https://www.douglas.de/de/c/parfum/nischenduefte/0105",
-    "file_name": "Germany_DOUGLAS_DE_PERFUME_niche|sp|fragrances_|sp|All|sp|niche|sp|fragrances"
-  },
-  {
-    "country": "DE",
-    "retailer": "Douglas_DE",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Douglas_DE/",
-    "department": "Perfumes",
     "category": "Douglas Beauty Tester",
     "page": "Douglas Beauty Tester",
     "page_url": "https://www.douglas.de/de/c/douglas-beauty-tester/parfum/5501",
@@ -1538,17 +1527,6 @@
     "page": "Tutorial: Cleansing Routine",
     "page_url": "https://www.douglas.de/de/c/gesicht/beauty-storys/tutorial-cleansing-routine/122139",
     "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_Tutorial|cln||sp|Cleansing|sp|Routine"
-  },
-  {
-    "country": "DE",
-    "retailer": "Douglas_DE",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Germany/Douglas_DE/",
-    "department": "Face",
-    "category": "Beauty Stories",
-    "page": "All about: Seren",
-    "page_url": "https://www.douglas.de/de/c/gesicht/beauty-storys/all-about-seren/122152",
-    "file_name": "Germany_DOUGLAS_DE_FACE_Beauty|h|Storys_All|sp|about|cln||sp|Seren"
   },
   {
     "country": "DE",

@@ -1150,17 +1150,6 @@
     "gcloud_path": "crawl_data/United States/Bloomingdales/",
     "department": "Handbags",
     "category": "New",
-    "page": "NEW: Balenciaga Spring 22",
-    "page_url": "https://www.bloomingdales.com/buy/balenciaga/Fob,Sortby/Handbags,NEW_ITEMS?cm_sp=NAVIGATION-_-TOP_NAV-_-1150160-New-%26-Noteworthy-NEW:-Balenciaga-Spring-22",
-    "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_NEW|cln||sp|Balenciaga|sp|Spring|sp|22"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Handbags",
-    "category": "New",
     "page": "NEW: Chloe Spring 22",
     "page_url": "https://www.bloomingdales.com/shop/chloe/Fob,Sortby/Handbags,NEW_ITEMS?id=1061960&cm_sp=NAVIGATION-_-TOP_NAV-_-1061960-New-%26-Noteworthy-NEW:-Chlo%C3%A9-Spring-22",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_New|sp||as||sp|Noteworthy_NEW|cln||sp|Chloe|sp|Spring|sp|22"
@@ -1274,17 +1263,6 @@
     "page": "Shop All",
     "page_url": "https://www.bloomingdales.com/shop/fashion-lookbooks-videos-style-guide/handbags?id=1081860&cm_sp=NAVIGATION-_-TOP_NAV-_-1081860-Advanced-Contemporary-Shop-All",
     "file_name": "United|sp|States_Bloomingdales_HANDBAGS_Advanced|sp|Contemporary_Shop|sp|All"
-  },
-  {
-    "country": "US",
-    "retailer": "Bloomingdales",
-    "parsing_config": "./retailer_config/bloomingdalescom_parsing.json",
-    "gcloud_path": "crawl_data/United States/Bloomingdales/",
-    "department": "Handbags",
-    "category": "Featured Designers",
-    "page": "Balenciaga",
-    "page_url": "https://www.bloomingdales.com/buy/balenciaga/Fob/Handbags?cm_sp=NAVIGATION-_-TOP_NAV-_-1114459-Featured-Designers-Balenciaga",
-    "file_name": "United|sp|States_Bloomingdales_HANDBAGS_Featured|sp|Designers_Balenciaga"
   },
   {
     "country": "US",
