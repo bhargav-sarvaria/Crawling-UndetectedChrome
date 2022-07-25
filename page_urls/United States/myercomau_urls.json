@@ -181,17 +181,6 @@
     "parsing_config": "./retailer_config/myercomau_parsing.json",
     "gcloud_path": "crawl_data/Australia/Myer/",
     "department": "New",
-    "category": "Men",
-    "page": "New Sleepwear",
-    "page_url": "https://www.myer.com.au/c/new-in/men-709563--1/sleepwear-new-in",
-    "file_name": "Australia_Myer_New_Men_New|sp|Sleepwear"
-  },
-  {
-    "country": "AU",
-    "retailer": "Myer",
-    "parsing_config": "./retailer_config/myercomau_parsing.json",
-    "gcloud_path": "crawl_data/Australia/Myer/",
-    "department": "New",
     "category": "Beauty",
     "page": "Beauty",
     "page_url": "https://www.myer.com.au/c/new-in/beauty-709570--1",

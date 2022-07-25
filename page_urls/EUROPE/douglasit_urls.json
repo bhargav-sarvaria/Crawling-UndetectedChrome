@@ -1491,17 +1491,6 @@
     "gcloud_path": "crawl_data/Italy/Douglas_IT/",
     "department": "Douglas Collection",
     "category": "Douglas Hair",
-    "page": "Balm and Masks",
-    "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Hair/Balsamo-e-Maschere/index_b983421.html",
-    "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HAIR_Balm|sp|and|sp|Masks"
-  },
-  {
-    "country": "IT",
-    "retailer": "Douglas_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Douglas Collection",
-    "category": "Douglas Hair",
     "page": "Travel Size",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Hair/Travel-Size/index_b983487.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|HAIR_Travel|sp|Size"
@@ -1571,17 +1560,6 @@
     "page": "Age Focus",
     "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/Age-Focus/index_b983493.html",
     "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_Age|sp|Focus"
-  },
-  {
-    "country": "IT",
-    "retailer": "Douglas_IT",
-    "parsing_config": "./retailer_config/Douglas/douglasat_parsing.json",
-    "gcloud_path": "crawl_data/Italy/Douglas_IT/",
-    "department": "Douglas Collection",
-    "category": "Douglas Focus",
-    "page": "Feed Focus",
-    "page_url": "https://www.douglas.it/Douglas-Collection/Douglas-Focus/Nutri-Focus/index_b983496.html",
-    "file_name": "Italy_DOUGLAS_IT_DOUGLAS|sp|COLLECTION_DOUGLAS|sp|FOCUS_Feed|sp|Focus"
   },
   {
     "country": "IT",

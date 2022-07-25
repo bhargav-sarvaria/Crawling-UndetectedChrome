@@ -1182,17 +1182,6 @@
     "parsing_config": "./retailer_config/sephorafr_parsing.json",
     "gcloud_path": "crawl_data/Spain/Sephora_ES/",
     "department": "Treatments",
-    "category": "Solar",
-    "page": "Solar with discount",
-    "page_url": "https://www.sephora.es/categoria-solares-promocion/",
-    "file_name": "Spain_Sephora_ES_TREATMENT_SOLAR_Solar|sp|with|sp|discount"
-  },
-  {
-    "country": "ES",
-    "retailer": "Sephora_ES",
-    "parsing_config": "./retailer_config/sephorafr_parsing.json",
-    "gcloud_path": "crawl_data/Spain/Sephora_ES/",
-    "department": "Treatments",
     "category": "Pharmacy Facial Care",
     "page": "Pharmacy Facial Care",
     "page_url": "https://www.sephora.es/todos-los-productos/tratamiento/cuidado-facial-parafarmacia-c347401/",
