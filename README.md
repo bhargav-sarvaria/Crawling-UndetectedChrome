@@ -1,6 +1,7 @@
 ![](https://www.python.org/static/community_logos/python-logo.png)
 # Undetected Chrome Scraper!
 Scalable web scraper bypassing bot-blockers without using paid proxy IPs.
+(Chrome runs headless, the demo shows chrome instance for demonstration purpose)
 
 ## Features
 - Scale up the number of parallel chrome instances to scrape data based on CPU and Memory Available
