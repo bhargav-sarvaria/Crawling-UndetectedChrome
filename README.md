@@ -5,7 +5,7 @@ Scalable web scraper bypassing bot-blockers without using paid proxy IPs.
 
 ## Features
 - Crawl data from both Desktop and Mobile as a channel
-- Scale up the speed by increasing number of chrome instances to run in parallel
+- Scale up the speed by increasing the number of chrome instances to run in parallel
 - Deployable on virtual machines - EC2, Digital Ocean Droplet, Google Compute Engine etc
 - Saves screenshots of webpages
 - Support to translate the webpage to a particular language
